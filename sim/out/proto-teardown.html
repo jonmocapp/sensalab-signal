@@ -1,0 +1,89 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>TEARDOWN — SensaLab</title>
+<style>
+ :root{--bg:#07070C;--card:#0F0F17;--line:rgba(255,255,255,.10);--ink:#F4F3FA;--mut:#9C99B4;
+   --pur:#7B4DFF;--blu:#3D76E8;--red:#FF5D6C;--grn:#4FD6A0;
+   --grad:linear-gradient(90deg,#32BFFC,#3D76E8,#6060BE,#B55CB7);
+   --sans:'Helvetica Neue','Aeonik',Arial,system-ui,sans-serif;}
+ *{box-sizing:border-box;margin:0;padding:0} body{background:var(--bg);color:var(--ink);font-family:var(--sans);-webkit-font-smoothing:antialiased}
+ .wrap{max-width:680px;margin:0 auto;padding:0 20px 60px} .bar{height:4px;background:var(--grad)}
+ .mast{display:flex;align-items:center;justify-content:space-between;padding:26px 0 22px}
+ .wm{font-weight:800;font-size:22px;letter-spacing:-.02em} .wm b{color:var(--pur)}
+ .pill{display:inline-block;border:1px solid rgba(255,255,255,.38);border-radius:999px;padding:6px 13px;font-weight:700;font-size:10.5px;letter-spacing:.14em;color:#D9D7E8}
+ .issue{font-weight:700;font-size:11px;letter-spacing:.16em;color:var(--mut);text-transform:uppercase}
+ .kick{font-weight:800;font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--red)}
+ .frame{position:relative;border-radius:18px;overflow:hidden;aspect-ratio:16/10;border:1px solid var(--line);margin-top:14px}
+ .frame img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+ .frame .shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(7,7,12,.05) 30%,rgba(7,7,12,.9) 100%)}
+ .frame .tag{position:absolute;top:14px;left:16px;font-weight:800;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:#fff;background:rgba(255,93,108,.85);border-radius:999px;padding:5px 12px}
+ .frame .say{position:absolute;left:22px;right:22px;bottom:20px;font-weight:800;font-size:28px;line-height:1.08;letter-spacing:-.02em;text-shadow:0 2px 30px rgba(0,0,0,.5)}
+ .frame .say .g{color:#C9C6DE}
+ .verdict{margin:20px 2px 0;font-weight:800;font-size:19px;line-height:1.35;letter-spacing:-.01em;color:var(--ink)}
+ .verdict .r{color:var(--red)}
+ .break{margin-top:26px;padding-left:16px;border-left:2px solid rgba(255,255,255,.14)}
+ .break.f{border-color:var(--red)} .break.x{border-color:var(--grn)}
+ .break .l{font-weight:800;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--mut);margin-bottom:7px}
+ .break.f .l{color:var(--red)} .break.x .l{color:var(--grn)}
+ .break p{color:#C7C4D8;font-size:15.5px;line-height:1.62;font-weight:500}
+ .why{margin-top:28px;display:flex;gap:12px;align-items:center;background:rgba(255,255,255,.06);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:16px 18px}
+ .why .lbl{font-weight:800;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--pur);white-space:nowrap;border-right:1px solid rgba(255,255,255,.14);padding-right:12px}
+ .why .txt{font-weight:800;font-size:17px;line-height:1.3;letter-spacing:-.01em}
+ .split{margin-top:30px}
+ .play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:72px;height:72px;border-radius:50%;background:rgba(10,9,20,.5);border:2px solid rgba(255,255,255,.9)}
+ .play:after{content:"";position:absolute;top:50%;left:54%;transform:translate(-50%,-50%);border-left:20px solid #fff;border-top:13px solid transparent;border-bottom:13px solid transparent}
+ .invite{margin-top:44px;border:1px solid var(--line);border-radius:20px;padding:30px 26px;background:radial-gradient(120% 140% at 20% 0%,rgba(123,77,255,.16),transparent 60%),var(--card)}
+ .invite h3{font-weight:800;font-size:25px;line-height:1.12;letter-spacing:-.02em} .invite p{color:var(--mut);font-size:15px;line-height:1.6;margin:12px 0 20px;font-weight:500}
+ .btn{display:inline-block;background:var(--grad);color:#fff;text-decoration:none;font-weight:800;font-size:14px;border-radius:999px;padding:13px 30px}
+ .foot{margin-top:48px;border-top:1px solid var(--line);padding-top:22px;color:var(--mut);font-size:12px;line-height:1.7} .foot .sig{color:#D9D7E8;font-weight:700} a.q{color:#9Fb8FF;text-decoration:none}
+ @media(max-width:520px){.frame .say{font-size:22px}}
+</style></head><body>
+<div class="bar"></div>
+<div class="wrap">
+  <div class="mast"><div class="wm">Sensa<b>Lab</b></div>
+    <div style="display:flex;gap:12px;align-items:center;"><span class="issue">Teardown · #06</span><span class="pill">SENSALAB.IO</span></div></div>
+
+  <div class="kick">The Teardown</div>
+  <div class="frame">
+    <img src="media/B-craft.jpg" alt="">
+    <div class="shade"></div>
+    <div class="tag">Case · Shrek 5 teaser</div>
+    <div class="say">They sanded the grime off Shrek.<br>The audience <span class="g">called it fake.</span></div>
+  </div>
+  <p class="verdict">The June teaser drew backlash sharp enough that comments got switched off. <span class="r">It wasn't nostalgia. It was texture.</span></p>
+
+  <div class="break f"><div class="l">The flaw</div>
+    <p>Sand the grime, pores and weight off a character and the eye clocks it instantly — it reads synthetic. The internet has a name for that now: "AI slop." The redesign chased clean and lost the hand-made friction that made the original feel alive.</p></div>
+
+  <div class="break"><div class="l">The principle</div>
+    <p>Polish and finish are not the same thing. Finish is the deliberate roughness that tells your senses something is real — the scuff, the fingerprint, the imperfect edge. Remove it and you remove belief.</p></div>
+
+  <div class="why"><span class="lbl">Why it matters</span><span class="txt">Polish isn't finish.</span></div>
+
+  <div class="break x split"><div class="l">Meanwhile, done right</div>
+    <p>Same month, a dome in Inglewood restaged Harry Potter in shared reality — and kept every texture: dust in the light, weight in the stone. The surface did the convincing. That's the difference between rendering an image and rendering a place.</p></div>
+  <div class="frame">
+    <img src="media/B-field-notes.webp" alt="">
+    <div class="shade"></div>
+    <div class="tag" style="background:rgba(79,214,160,.85);">Done right · Cosm LA</div>
+  </div>
+
+  <div class="split" style="margin-top:34px">
+    <a href="https://www.youtube.com/results?search_query=Shrek+5+official+teaser+trailer" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;">
+    <div class="frame" style="aspect-ratio:16/9;margin-top:0">
+      <img src="media/B-video.jpg" alt="">
+      <div class="shade"></div>
+      <span class="play"></span>
+      <div class="say" style="font-size:22px">See the teaser <span class="g">everyone argued about.</span></div>
+    </div></a>
+  </div>
+
+  <div class="invite">
+    <h3>Building something where the surface has to convince?</h3>
+    <p>Real-time 3D, projection, or AR under your own brand — the layer that keeps the texture in. That's what we build.</p>
+    <a class="btn" href="#">Touch it →</a>
+  </div>
+
+  <div class="foot"><span class="sig">SensaLab · The real luxury is presence</span><br>
+    Rendering Imagination · <a class="q" href="https://sensalab.io">sensalab.io</a> · CDMX<br>
+    You're getting the Teardown because you build experiences. Unsubscribe.</div>
+</div></body></html>

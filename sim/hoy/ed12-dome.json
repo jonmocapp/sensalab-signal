@@ -1,0 +1,39 @@
+{
+  "issue_no": "12",
+  "edition_title": "The dome became the best seat",
+  "subject": "The dome is now the most valuable seat in entertainment",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signal",
+    "statement": "The dome became the most valuable seat in entertainment",
+    "sub": "The screen grew a ceiling, and the money followed. Sphere and Cosm turned the wraparound dome into the format everyone is racing to build."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "Sphere became the top grossing venue on earth",
+      "body": "Billboard and Pollstar ranked the Las Vegas Sphere the top grossing venue in the world for 2025. The Wizard of Oz at Sphere has sold more than 2 million tickets and 260 million dollars since its 2025 debut. One room, wall to wall image, and a line out the door.",
+      "why": "When a single immersive room outsells arenas, immersive stops being a novelty and becomes a business model.",
+      "cta": "See the numbers ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "The dome is going global and getting company",
+      "body": "Sphere is advancing a 1.7 billion dollar venue on Yas Island in Abu Dhabi and a smaller one at National Harbor in Maryland. Meanwhile Sony is investing 100 million dollars in Cosm, which opens a fourth dome in Detroit this September and a fifth in Cleveland after that.",
+      "why": "A format only spreads this fast when the audience keeps paying. The dome is being copied because it works.",
+      "cta": "Follow the build ›"
+    },
+    {
+      "role": "craft",
+      "statement": "The canvas is the product now",
+      "body": "What people buy a ticket for is not a band or a film. It is the surface itself, the feeling of standing inside the image. The venue is the content.",
+      "why": "If the room is the draw, the brands that own a moment inside it own attention money cannot buy elsewhere.",
+      "cta": "Own the room ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Think in surfaces, not screens",
+    "body": "You do not need a billion dollar dome to wrap a room. We design wraparound, real time environments at activation scale, white label, under your name.",
+    "button": "Touch it"
+  }
+}

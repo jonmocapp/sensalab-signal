@@ -1,0 +1,39 @@
+{
+  "issue_no": "15",
+  "edition_title": "The game engine crossed the aisle",
+  "subject": "The tools that ship games now ship brand experiences",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signal",
+    "statement": "The game engine crossed the aisle into brand work",
+    "sub": "The same real time tools that build blockbuster games are quietly building activations, films and live shows. And the gaming world just sold out its biggest room."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "Gamescom sold out for the first time",
+      "body": "Gamescom 2026 reached full exhibition capacity for the first time ever, with organizers already planning to expand the format. It runs late August in Cologne and is expected to surpass every previous edition. Even payment brands are showing up, sponsoring the cosplay village.",
+      "why": "When the biggest gaming stage sells out and brands buy in, the audience and the tools are both worth your attention.",
+      "cta": "See the scale ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "The engine that pays creators a billion",
+      "body": "Epic teased Unreal Engine 6 and confirmed it has paid creators over 1 billion dollars through Unreal Editor for Fortnite, with iteration times down about 40 percent. The engine behind the games is the same one behind virtual production and live visuals.",
+      "why": "Faster iteration and a paid creator base mean the talent and tools for real time brand work already exist at scale.",
+      "cta": "Read the stack ›"
+    },
+    {
+      "role": "craft",
+      "statement": "Real time is one skill, many outputs",
+      "body": "A team fluent in a real time engine can ship a game level, an LED volume backdrop, an AR layer and a projection show from the same toolset. The wall between games and experiences is mostly gone.",
+      "why": "Hire for real time fluency and you buy a team that can build the game, the film and the activation at once.",
+      "cta": "Think real time ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Borrow the game engine for the brand",
+    "body": "The tools that build worlds for players build them for audiences too. We produce real time brand experiences on the same stack, white label, under your name.",
+    "button": "Touch it"
+  }
+}

@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>SensaLab — work with us</title>
+<style>
+  /* Paleta de texto permitida: #0B0F0F #F4F3F3 #787878 #1C1956 #E4E4EF
+     Gradiente de marca SOLO como barra superior (mismo uso que el email-slim).
+     Producción: KMR Apparat self-hosted; esta muestra usa stack de sistema. */
+  :root{
+    --bg:#F4F3F3; --panel:#E4E4EF; --card:#FFFFFF;
+    --ink:#1C1956; --body:#0B0F0F; --mut:#787878;
+    --line:rgba(28,25,86,.14);
+    --sans:'Helvetica Neue',Helvetica,Arial,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--body);font:500 16px/1.6 var(--sans);-webkit-font-smoothing:antialiased}
+  .brandbar{height:4px;background:linear-gradient(90deg,#32BFFC,#3D76E8,#6060BE,#B55CB7)}
+  .wrap{max-width:880px;margin:0 auto;padding:0 24px}
+  a{color:var(--ink)}
+
+  header{padding:26px 0 8px}
+  header .row{display:flex;align-items:center;justify-content:space-between}
+  header img{height:28px;width:auto;display:block}
+  .toplink{font:700 13px/1 var(--sans);color:var(--ink);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:10px 18px}
+
+  .kicker{font:800 13px/1.2 var(--sans);letter-spacing:.02em;color:var(--ink);margin:0 0 10px}
+  h1{font:800 44px/1.08 var(--sans);letter-spacing:-.02em;color:var(--ink);max-width:640px}
+  h2{font:800 26px/1.16 var(--sans);letter-spacing:-.01em;color:var(--ink);margin:0 0 18px}
+  .sub{font:500 18px/1.6 var(--sans);color:var(--mut);max-width:620px;margin:16px 0 26px}
+
+  section{padding:54px 0 0}
+  .hero{padding:56px 0 10px}
+  .btn{display:inline-block;background:var(--ink);color:#F4F3F3;text-decoration:none;border:0;cursor:pointer;
+       border-radius:999px;padding:14px 30px;font:800 14px/1 var(--sans)}
+  .btn.secondary{background:transparent;color:var(--ink);border:1px solid var(--line)}
+  .textlink{font:700 14px/1 var(--sans);color:var(--ink);text-decoration:none;margin-left:18px}
+  .textlink:after{content:" →"}
+
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px}
+  .card h3{font:800 17px/1.25 var(--sans);color:var(--ink);margin:0 0 8px}
+  .card p{font:500 14px/1.6 var(--sans);color:var(--body)}
+  .card p.so{color:var(--mut);margin-top:8px}
+
+  .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;counter-reset:step}
+  .step{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:22px}
+  .step .n{font:800 13px/1 var(--sans);color:var(--ink);letter-spacing:.02em;margin-bottom:10px}
+  .step h3{font:800 16px/1.3 var(--sans);color:var(--ink);margin:0 0 8px}
+  .step p{font:500 14px/1.6 var(--sans);color:var(--body)}
+
+  .plain p{max-width:640px;color:var(--body)}
+  .holdus{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px}
+  .holdus ul{list-style:none}
+  .holdus li{padding:10px 0;border-bottom:1px solid var(--line);font:500 15px/1.6 var(--sans)}
+  .holdus li:last-child{border-bottom:0}
+  .holdus li b{color:var(--ink);font-weight:800}
+
+  .faq dt{font:800 16px/1.4 var(--sans);color:var(--ink);margin-top:18px}
+  .faq dd{font:500 15px/1.6 var(--sans);color:var(--body);max-width:640px;margin-top:4px}
+
+  .touch{background:#F7F5FD;border:1px solid var(--line);border-radius:20px;padding:34px;margin-top:54px}
+  .touch .sub{margin-bottom:20px}
+  form .field{margin-bottom:14px}
+  label{display:block;font:800 12.5px/1.2 var(--sans);color:var(--ink);letter-spacing:.01em;margin-bottom:6px}
+  input,textarea{width:100%;background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:13px 14px;font:500 15px/1.5 var(--sans);color:var(--body);min-height:44px}
+  input::placeholder,textarea::placeholder{color:var(--mut)}
+  textarea{resize:vertical;min-height:88px}
+  .micro{font:500 12.5px/1.6 var(--sans);color:var(--mut);margin-top:10px}
+  .alt{font:500 14px/1.6 var(--sans);color:var(--mut);margin-top:18px}
+  .alt a{font-weight:700}
+
+  .news{border-top:1px solid var(--line);margin-top:54px;padding-top:40px}
+  .news form{display:flex;gap:10px;max-width:480px}
+  .news input{flex:1}
+
+  .foot{margin-top:56px;border-top:1px solid var(--line);padding:26px 0 40px}
+  .foot .principle{color:var(--mut);font-size:13px;line-height:1.65;font-weight:500;max-width:580px}
+  .foot .principle b{color:var(--ink);font-weight:800}
+  .foot .frow{margin:16px 0 6px;font-weight:700;font-size:12.5px;letter-spacing:.01em}
+  .foot .frow a{text-decoration:none}
+  .foot .fmeta{color:var(--mut);font-size:11.5px;line-height:1.7}
+  .foot .sign{margin-top:22px;font:800 14px/1 var(--sans);color:var(--ink)}
+
+  .thanks{display:none;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px;margin-top:14px}
+  .thanks h3{font:800 18px/1.3 var(--sans);color:var(--ink);margin-bottom:6px}
+  .thanks p{font:500 14px/1.6 var(--sans);color:var(--body)}
+
+  @media (max-width:720px){
+    h1{font-size:32px}
+    .cards,.steps{grid-template-columns:1fr}
+    .touch{padding:24px}
+    .news form{flex-direction:column}
+  }
+</style>
+</head>
+<body>
+<div class="brandbar"></div>
+
+<header class="wrap">
+  <div class="row">
+    <img src="media/sensalab-logo.png" alt="SensaLab">
+    <a class="toplink" href="#touch">Touch it</a>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="hero">
+    <p class="kicker">For experiential producers</p>
+    <h1>Say yes to the unbuildable brief</h1>
+    <p class="sub">SensaLab is a white-label technical layer for experiential agencies —
+      real-time 3D, projection and AR, built under your brand. You keep the client, the
+      credit and the stage. We keep it running.</p>
+    <a class="btn" href="#touch">Touch it</a>
+    <a class="textlink" href="https://sensalab.io" target="_blank" rel="noopener">Read the newsletter</a>
+  </section>
+
+  <section>
+    <h2>What we build</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>Real-time 3D</h3>
+        <p>Venue-scale scenes that respond to live data — scores, votes, crowds, weather.</p>
+        <p class="so">So the room changes when the moment does.</p>
+      </div>
+      <div class="card">
+        <h3>Projection</h3>
+        <p>Mapping designed for the surface it lives on, not repurposed from a screen.</p>
+        <p class="so">So the architecture becomes the medium.</p>
+      </div>
+      <div class="card">
+        <h3>AR and interactive</h3>
+        <p>Rooms, walls and objects that react to the person in front of them.</p>
+        <p class="so">So the audience gets a role, not a view.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>How it works</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="n">1</div>
+        <h3>Send the brief</h3>
+        <p>Two lines is plenty. The scary version, not the safe one.</p>
+      </div>
+      <div class="step">
+        <div class="n">2</div>
+        <h3>Feasibility read in 48 hours</h3>
+        <p>Buildable or not, the real risks, and the one decision that makes it cheaper.
+           Before you promise anything to a client.</p>
+      </div>
+      <div class="step">
+        <div class="n">3</div>
+        <h3>We build under your brand</h3>
+        <p>Your deck, your files, your name on-site. We stay invisible — that's the job.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="plain">
+    <h2>Built to disappear</h2>
+    <p>The layer is white-label because the work is yours. We don't compete for your client —
+       agencies and producers are who we work for. The tech carries your brand into the pitch,
+       through production, and onto the floor.</p>
+  </section>
+
+  <section>
+    <h2>What you can hold us to</h2>
+    <div class="holdus">
+      <ul>
+        <li><b>Your brand on everything</b> — decks, files, credits, on-site shirts if it comes to that.</li>
+        <li><b>NDA before details</b>, if you prefer. Standard, not special.</li>
+        <li><b>A straight answer in the feasibility read</b> — if it isn't buildable, we say so
+            before you pitch it, not after.</li>
+        <li><b>Our thinking is public.</b> Every week Inmersivo tears down what worked in
+            experiential and why — judge the lens before you ever send a brief.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="faq">
+    <h2>Fair questions</h2>
+    <dl>
+      <dt>Who gets the credit?</dt>
+      <dd>You do. That's what white-label means here — publicly, the work is your agency's.</dd>
+      <dt>Do you work directly with brands?</dt>
+      <dd>Our home is behind agencies and producers. When a brand comes to us directly, the
+          answer usually starts with "who's producing it?"</dd>
+      <dt>We're not sure it's even possible. Should we still write?</dt>
+      <dd>That's the exact right moment. The feasibility read exists so you know what's real
+          before the client hears a promise.</dd>
+      <dt>What does it cost?</dt>
+      <dd>Every build is scoped to the brief — there's no rate card that survives contact with
+          a dome. The feasibility read costs you two lines of email.</dd>
+    </dl>
+  </section>
+
+  <section class="touch" id="touch">
+    <p class="kicker">An open invitation</p>
+    <h2>Have something impossible in mind?</h2>
+    <p class="sub">A dome, a live-data show, a room that reacts — if the brief sounds
+       unbuildable, that's our favorite kind. Tell us in two lines.</p>
+
+    <form id="briefForm">
+      <div class="field">
+        <label for="email">Work email</label>
+        <input id="email" name="email" type="email" required placeholder="you@agency.com" autocomplete="email">
+      </div>
+      <div class="field">
+        <label for="brief">The brief, in two lines</label>
+        <textarea id="brief" name="brief" required
+          placeholder="e.g. a 30-foot wall that reacts to every fan walking past — live, in June"></textarea>
+      </div>
+      <button class="btn" type="submit">Send it</button>
+      <p class="micro">A human reads every note. No newsletter signup hidden in here.</p>
+    </form>
+
+    <div class="thanks" id="thanks">
+      <h3>Got it.</h3>
+      <p>A human reads every brief — you'll hear from us within 48 hours. Meanwhile, the
+         latest edition of Inmersivo is <a href="https://sensalab.io" target="_blank" rel="noopener">here</a>.</p>
+    </div>
+
+    <p class="alt">Prefer email? Write to
+      <a href="mailto:hello@sensalab.io?subject=An%20impossible%20brief">hello@sensalab.io</a>
+      &nbsp;·&nbsp; <a href="#" id="copyMail" style="font-weight:700;">copy address</a></p>
+  </section>
+
+  <section class="news" id="newsletter">
+    <h2>Not pitching anything yet?</h2>
+    <p class="sub">Inmersivo is our weekly read on experiential — what worked, why it worked,
+       and what it would take to build. One email a week, written for producers.</p>
+    <form id="subForm" data-todo="brevo">
+      <input type="email" required placeholder="Work email" aria-label="Work email" autocomplete="email">
+      <button class="btn" type="submit">Subscribe</button>
+    </form>
+    <p class="micro">One email a week. No spam, no sequences. Unsubscribe anytime.</p>
+  </section>
+
+  <div class="foot">
+    <p class="principle"><b>SensaLab®</b> &nbsp;—&nbsp; Rendering Experiences is the principle
+      that guides everything we do. We transform ideas into emotional, immersive and measurable
+      realities by blending creativity, technology, and human experience.</p>
+    <p class="frow">
+      <a href="https://instagram.com/sensalab">Instagram</a> &nbsp;·&nbsp;
+      <a href="https://www.linkedin.com/company/sensalab">LinkedIn</a> &nbsp;·&nbsp;
+      <a href="https://youtube.com/@sensalab">Youtube</a>
+    </p>
+    <p class="fmeta">© 2026 SensaLab, Inc. All rights reserved &nbsp;·&nbsp; Los Angeles, CA — USA
+      &nbsp;·&nbsp; <a href="mailto:hello@sensalab.io">hello@sensalab.io</a> &nbsp;·&nbsp;
+      <a href="https://sensalab.io">sensalab.io</a></p>
+    <p class="sign">The real luxury is presence</p>
+  </div>
+
+</main>
+
+<script>
+  // Sin backend: el form construye un mailto con los dos campos (honesto y funcional).
+  // Cuando haya hosting, reemplazar por POST a un endpoint que reenvíe a hello@sensalab.io.
+  document.getElementById('briefForm').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var email = document.getElementById('email').value.trim();
+    var brief = document.getElementById('brief').value.trim();
+    var body = 'The brief:\n' + brief + '\n\nReply to: ' + email;
+    window.location.href = 'mailto:hello@sensalab.io?subject=' +
+      encodeURIComponent('An impossible brief') + '&body=' + encodeURIComponent(body);
+    this.style.display = 'none';
+    document.getElementById('thanks').style.display = 'block';
+  });
+
+  document.getElementById('copyMail').addEventListener('click', function (e) {
+    e.preventDefault();
+    var self = this;
+    navigator.clipboard.writeText('hello@sensalab.io').then(function () {
+      self.textContent = 'copied';
+      setTimeout(function () { self.textContent = 'copy address'; }, 1600);
+    });
+  });
+
+  // Placeholder de suscripción — conectar a Brevo (double opt-in) cuando estén las keys.
+  document.getElementById('subForm').addEventListener('submit', function (e) {
+    e.preventDefault();
+    this.innerHTML = '<p style="font:700 15px/1.5 var(--sans);color:var(--ink);">' +
+      'Check your inbox to confirm — the next edition arrives this week.</p>';
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "television-city-orbital-studios-partner-hollywood",
+    "headline": "A studio-lot LED volume is quietly becoming permanent Los Angeles infrastructure",
+    "dek": "The news is not that another virtual production stage opened. It is that real-time capture and R&D are moving into permanent studio infrastructure.",
+    "focus_keyword": "led volume virtual production",
+    "read_minutes": 3,
+    "meta_description": "Television City adds an Orbital Studios LED volume and R&D lab. The real signal: real-time capture is becoming permanent studio infrastructure.",
+    "why": "When real-time capture and R&D become permanent fixtures on a major lot, virtual production stops being an exotic add-on and starts being default infrastructure producers can plan around.",
+    "takeaway": "Scope nearby LED volumes as reusable sets, and ask whether the stage's R&D lab can reconstruct real locations as Gaussian splats you own. One environment can then serve film, social, and live moments.",
+    "body": [
+      {"type": "para", "text": "Television City, the historic studio lot at 7800 Beverly Blvd. in Los Angeles's Fairfax District, is adding a new LED volume virtual production facility, according to TV Tech. Hackman Capital bought the lot in 2018 for $750 million. The stage comes from Orbital Studios, founded in 2020 by A.J. Wedding, which is bringing camera tracking, real-time rendering, and an in-house Virtual Art Department to a full-service stage paired with an R&D lab. Orbital's roadmap spans AI-assisted content creation and location reconstruction through 3D Gaussian Splatting, and its recent credits include the docuseries 'World War II With Tom Hanks.'"},
+      {"type": "subhead", "text": "The real signal is where the volume lives"},
+      {"type": "para", "text": "The surface story is that another virtual production stage opened in Los Angeles. The real signal is where it opened and what came with it. A real-time capture stage and a working R&D lab are now permanent tenants on one of the city's landmark lots, not a rented tent that goes up for a single shoot and comes down the next week. When real-time rendering becomes fixed infrastructure on a $750 million property, it stops being an exotic line item negotiated per project and starts being part of the building's standing offer."},
+      {"type": "para", "text": "That shift changes the default. Camera tracking, a Virtual Art Department, and location reconstruction through Gaussian splats are being packaged as a standing service rather than a bespoke pipeline reassembled from scratch each time. For anyone commissioning content, the question quietly moves from 'can we afford a volume this time' to 'which volume, and what does its R&D lab let us prototype.' Add AI-assisted content creation to that roadmap and the stage starts to look less like a rental and more like a partner."},
+      {"type": "subhead", "text": "What a producer can do now"},
+      {"type": "para", "text": "Treat a nearby LED volume as a reusable set, not a one-off build. Before greenlighting a location shoot, price the same environment as a real-time backdrop that can be relit, re-angled, and reused across a campaign's film, social cutdowns, and live moments. Ask whether the stage's R&D lab can reconstruct a real place as a Gaussian splat you own and revisit later. A stage with a lab attached is an invitation to test ideas, and [Hollywood-grade virtual production](/hollywood-studio-virtual-production) is increasingly where brand and entertainment work share the same floor."},
+      {"type": "subhead", "text": "Why it belongs in an experiential toolkit"},
+      {"type": "para", "text": "For experiential teams, a permanent volume is more than a film set. The same real-time environment that fills an LED wall can drive a projection surface, a headset walk-through, or a live show, because the underlying scene is a rendered world rather than flat footage. Keeping virtual production in the toolkit means an activation's hero environment can be authored once and re-deployed across screens, stages, and installations without being rebuilt for each format, which is usually where budgets leak. That reuse is the quiet economic case for keeping a volume within reach."},
+      {"type": "para", "text": "SensaLab is the white-label real-time 3D and immersive layer that agencies and brands use to design and run experiences under their own name, from an LED volume shoot to the installation it later becomes. The lot is getting the infrastructure. What matters is what you decide to build on it."}
+    ]
+  },
+  {
+    "slug": "clear-angle-studios-modular-volumetric-capture",
+    "headline": "A modular capture rig turns live performance into relightable, reusable volumetric assets",
+    "dek": "The news is not a bigger camera array. It is that captured performance is becoming a portable, relightable asset instead of a locked-in take.",
+    "focus_keyword": "volumetric capture rig",
+    "read_minutes": 3,
+    "meta_description": "Clear Angle's modular rig captures relightable Gaussian splat performances. The signal: captured talent becomes a reusable asset, not a locked take.",
+    "why": "A relightable volumetric capture lets producers shoot talent once and reuse that performance across film, AR, and in-store, changing how a single capture day is scoped.",
+    "takeaway": "When commissioning talent-led content, ask for a relightable volumetric capture, not just clips, and scope one capture day to feed a film, an AR moment, and an in-store loop.",
+    "body": [
+      {"type": "para", "text": "Clear Angle Studios has launched a modular volumetric capture rig aimed at dynamic Gaussian splat performances, as reported by Post Magazine. The rig uses 40 high-speed machine-vision cameras with 6K sensors shooting 12-bit at 60 frames per second, paired with 450 individually programmable light nodes and up to 120 lighting configurations. Its scalable capture volume reaches 2.5 cubic meters with 360-degree coverage, and it is based at Pinewood Studios in Buckinghamshire, England. The dynamic Gaussian splat capture preserves original performance behavior and natural lighting while cutting manual post steps, and Union VFX partnered on re-lighting solutions for the splat assets."},
+      {"type": "subhead", "text": "The real signal is the relight, not the camera count"},
+      {"type": "para", "text": "It is easy to fixate on 40 cameras and 6K sensors. The more important number is 450 programmable light nodes and 120 lighting configurations, because that is what makes the capture reusable. A volumetric performance that records natural lighting but can still be relit afterward is no longer a fixed take. It becomes an asset you can drop into a new scene and match to that scene's light, which is the difference between footage you shot and a prop you own."},
+      {"type": "para", "text": "That reframes where the cost sits. The heavy lifting moves from re-shooting or hand-fixing performances in post toward capturing once and re-lighting many times. Union VFX's involvement on re-lighting is the tell: the pipeline is being built so the expensive, human part shrinks and the reusable part grows. A modular rig makes the same point at the hardware level, scaling the setup to the job rather than committing to one fixed array."},
+      {"type": "subhead", "text": "What a producer can do now"},
+      {"type": "para", "text": "If you commission talent-led content, start asking what the deliverable actually is. A traditional shoot gives you clips. A volumetric capture gives you a performance you can re-frame, re-light, and re-place across a campaign without booking the talent again. Scope it that way up front: one capture day feeding a film, an AR moment, and an in-store loop. Real-time relighting through [GPU-accelerated real-time rendering](/nvidia-real-time-rendering) is what lets a single capture serve environments that do not exist yet."},
+      {"type": "subhead", "text": "Why it belongs in an experiential toolkit"},
+      {"type": "para", "text": "For experiential work, a relightable volumetric performer is close to ideal. The same captured human can appear in a projection piece, a headset experience, and an LED-wall stage, each lit to match its room, because a Gaussian splat is spatial data rather than a flat plate. A modular rig means capture scales to the job, from a single figure to a small ensemble, without locking you into one setup. That flexibility is exactly what activations need when the same asset has to travel across venues and formats."},
+      {"type": "para", "text": "SensaLab works as the white-label real-time 3D and immersive layer that agencies and brands use to turn captures like these into experiences under their own name. The rig records the performance. The value is how many places that performance can live afterward."}
+    ]
+  },
+  {
+    "slug": "inside-arcturus-dynamic-gaussian-splat-capture",
+    "headline": "Scouting the camera move after the shoot wraps is quietly becoming normal",
+    "dek": "The news is not a viral video's splat effect. It is that the camera decision is migrating from the shoot day to the edit.",
+    "focus_keyword": "dynamic gaussian splat capture",
+    "read_minutes": 3,
+    "meta_description": "Arcturus rebuilt a MrBeast scene as a dynamic Gaussian splat. The signal: the camera move now happens in the edit, not on the shoot day.",
+    "why": "Capturing an event as navigable volumetric data lets producers choose the hero camera move after the shoot, which de-risks one-time moments you cannot re-stage.",
+    "takeaway": "For fast or one-time moments you cannot re-stage, capture volumetrically so the hero camera move can be found in the edit. Plan coverage to reconstruct a space, not to nail a single angle.",
+    "body": [
+      {"type": "para", "text": "Radiance Fields detailed how volumetric studio Arcturus reconstructed the 'Floor is Lava' sequence from a MrBeast video as a dynamic Gaussian splat, letting editors scout virtual camera moves after filming had wrapped. The capture used only 30 to 35 cameras per shot inside a plexiglass cube, relying on depth supervision and multiview-consistent pruning to handle the constant occlusion caused by fast-moving contestants. Eight takes were processed and three made the final cut. The video marked MrBeast crossing 500 million YouTube subscribers on June 12, 2026."},
+      {"type": "subhead", "text": "The real signal is when the camera decision happens"},
+      {"type": "para", "text": "The eye-catching part is the splat effect in a record-breaking video. The real signal is a change in sequence. For a century, the camera angle was a decision made on the shoot day and locked forever. Here, the scene was captured as navigable volumetric data, and the camera move was chosen later, in the edit, from footage that already existed. The choice moved downstream, from the set to the timeline, and that reordering matters more than the look."},
+      {"type": "para", "text": "It matters because it decouples coverage from composition. With 30 to 35 cameras handling heavy occlusion, the goal was not one perfect angle but a reconstructable volume you can fly through afterward. Processing eight takes to keep three shows the logic: capture generously, decide later. When you can scout virtual cameras after wrap, a shoot stops producing shots and starts producing a space."},
+      {"type": "subhead", "text": "What a producer can do now"},
+      {"type": "para", "text": "Rethink what coverage means on a fast, chaotic, or one-time event you cannot re-stage. Instead of guessing the hero angle live, consider capturing the moment volumetrically so the best camera move can be found later, when there is time to try several versions and keep the strongest. This is especially useful for stunts, reveals, and live activations that happen exactly once. A navigable capture behaves like a real-time set you can revisit inside [game-engine interactive worlds](/game-engines-interactive-worlds)."},
+      {"type": "subhead", "text": "Why it belongs in an experiential toolkit"},
+      {"type": "para", "text": "A dynamic splat of a real moment is not just an editing convenience. It is a spatial recording that an audience could later move through themselves, in a headset, on a screen, or projected into a room. The same reconstruction that lets an editor scout a camera can let a visitor walk the scene at their own pace. Capturing events as volumes rather than only as video keeps that door open, turning a single shoot into an asset an experience can be built around."},
+      {"type": "para", "text": "SensaLab is the white-label real-time 3D and immersive layer agencies and brands use to design and run experiences under their own name, including turning a one-time capture into something people can step inside. The video crossed a milestone. The method is the part worth keeping."}
+    ]
+  },
+  {
+    "slug": "metallica-24-show-life-burns-faster",
+    "headline": "A 24-show Sphere residency treats the venue itself as the headline act",
+    "dek": "The news is not that Metallica booked Las Vegas. It is that the room's resolution and 4D are now part of the creative brief, not a backdrop.",
+    "focus_keyword": "sphere las vegas residency",
+    "read_minutes": 3,
+    "meta_description": "Metallica's 24-show 'Life Burns Faster' Sphere residency treats the venue as instrument. The signal: content becomes a flexible system, not a loop.",
+    "why": "Building for a wraparound, no-repeat run forces content to be authored as a flexible real-time system, the same discipline that keeps long-running experiential shows fresh.",
+    "takeaway": "Design content as a responsive real-time system that can vary by night or audience, treating the screen, walls, and seating as one canvas rather than a fixed loop.",
+    "body": [
+      {"type": "para", "text": "Metallica have announced a 24-show Las Vegas residency at Sphere titled 'Life Burns Faster,' according to Consequence. The 24 performances run from October 2026 through March 2027, all starting at 8:30 PM. The residency uses a 'No Repeat Weekend' format, in which the Thursday and Saturday setlists share no songs. The production is built for Sphere's wraparound, highest-resolution LED display and its multi-sensory 4D technology. The original ticket allocation sold out, pushing further shows to resale on Ticketmaster and StubHub."},
+      {"type": "subhead", "text": "The real signal is the venue as instrument, not backdrop"},
+      {"type": "para", "text": "A stadium band booking a Vegas residency is not news by itself. The signal is what the room demands. A 'No Repeat Weekend' across 24 dates means the visual production cannot be a single fixed film looped behind the band. Building for a wraparound LED shell and 4D means the venue is part of the composition, not a screen placed behind the performers. The creative brief now includes the architecture of the room itself."},
+      {"type": "para", "text": "That shifts where the cost and craft go. When the display surrounds the audience and no two weekend nights repeat, content becomes a system that flexes with the setlist rather than one hero reel rendered once. The room is closer to an instrument the show is scored for. It is telling that the original allocation sold out to resale, because that demand is for the venue experience as much as for the band."},
+      {"type": "subhead", "text": "What a producer can do now"},
+      {"type": "para", "text": "You do not need a wraparound venue to take the lesson. Design for the space you are actually in. Treat the screen, the walls, and the seating as one canvas, and build content that can vary across nights or audiences instead of a fixed loop. If your work might ever touch a format like [Sphere's immersive venue](/sphere-live-venue), author it as a flexible real-time system from the start, so the show can change without a full rebuild each time the program shifts."},
+      {"type": "subhead", "text": "Why it belongs in an experiential toolkit"},
+      {"type": "para", "text": "Venue-scale immersive shows are where concert visuals, projection, and real-time rendering converge. The same discipline that fills a wraparound display, content authored as a responsive system rather than a baked video, is exactly what an experiential activation needs when it has to run for weeks, adapt to different crowds, or react in the moment. Treating the environment as part of the instrument travels well beyond music, into brand spaces, installations, and touring work."},
+      {"type": "para", "text": "SensaLab operates as the white-label real-time 3D and immersive layer that agencies and brands use to design and run experiences under their own name, at the scale of a room or a residency. The band sold the tickets. The venue is the co-star."}
+    ]
+  }
+]

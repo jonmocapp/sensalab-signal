@@ -1,0 +1,366 @@
+[
+ {
+  "slug": "svedka-s-shake-your-bots-off",
+  "cat": "AI",
+  "headline_real": "Svedka's 'Shake Your Bots Off' becomes the first primarily AI-generated national Super Bowl ad",
+  "source_name": "TechCrunch",
+  "facts": [
+   "Svedka's 30-second 'Shake Your Bots Off' aired in Super Bowl LX on Feb 8, 2026 as the first primarily AI-generated national Super Bowl spot",
+   "Produced with San Francisco AI studio Silverside — the same firm behind Coca-Cola's contentious 2025 AI holiday video — taking roughly four months to reconstruct the 'Fembot' character and train AI on facial expressions and body movement",
+   "Part of a Super Bowl LX AI-ad wave that also included Anthropic, Google (Nano Banana Pro), Meta/Oakley, Amazon Alexa+ and Wix"
+  ]
+ },
+ {
+  "slug": "coachella-google-deepmind-built-tested-three",
+  "cat": "AI",
+  "headline_real": "Coachella and Google DeepMind built and tested three AI prototypes at the 2026 festival",
+  "source_name": "Decrypt",
+  "facts": [
+   "Coachella's innovation team built three prototypes on Google DeepMind's Project Genie world-model platform, tested live during the April 2026 festival",
+   "One prototype rebuilds a live performance as an explorable 3D Unreal Engine environment with real-time alternate visuals; a second lets artists preview stage designs from uploaded images or text prompts on 3D models of Coachella stages; a third is a mobile game",
+   "Reported April 26, 2026; the tools remain internal proofs-of-concept, not publicly launched"
+  ]
+ },
+ {
+  "slug": "ibm-s-ai-sports-club-turns",
+  "cat": "AI",
+  "headline_real": "IBM's 'AI Sports Club' turns generative AI into live race commentary at SXSW 2026",
+  "source_name": "BizBash",
+  "facts": [
+   "IBM ran its 'AI Sports Club' as SXSW 2026's Tech & AI Track sponsor in Austin, March 12-18, 2026",
+   "The Hyperdrive Slot Car Challenge pitted four players head-to-head with AI-generated, real-time race commentary and analysis; an F1 simulator ran on IBM watsonx, the same stack behind the Scuderia Ferrari app's 400M+ global fan base",
+   "Guests generated personalized 'AI Sports Club Pass' badges under an 'Enter a fan, leave a driver' theme"
+  ]
+ },
+ {
+  "slug": "2026-f1-miami-grand-prix-17",
+  "cat": "Experiential",
+  "headline_real": "2026 F1 Miami Grand Prix: 17 Full-Throttle Brand Experiences",
+  "source_name": "Event Marketer",
+  "facts": [
+   "The fifth-year Miami Grand Prix (race May 3, 2026) drew an estimated 275,000 attendees",
+   "American Express built a two-story Amex Racing Club in the F1 Fan Zone plus a Platinum-only Trackside Lounge near the start/finish line",
+   "Liquid I.V. x McLaren sampled 97,000 hydration sticks over the weekend from a branded Hydratruck at Regatta Harbour (McLaren fan zone open April 29-May 3)",
+   "Monster Energy reached more than 25,000 fans, anchored by a 20-foot Lando Norris Zero Sugar can installation"
+  ]
+ },
+ {
+  "slug": "top-brand-activations-coachella-2026",
+  "cat": "Experiential",
+  "headline_real": "Top Brand Activations From Coachella 2026",
+  "source_name": "BizBash",
+  "facts": [
+   "Pinterest debuted a first-of-its-kind phone-free experience on the festival grounds, with e.l.f.-powered beauty touch-ups",
+   "Heineken returned with Heineken House for its 23rd year as official beer sponsor; Aperol ran its Aperol Day Club for a 4th year as official spritz partner",
+   "Magnum served as Coachella's first-ever frozen dessert sponsor with a spray-bar activation in the 12 Peaks VIP area",
+   "Barbie's 'You Can Be Any Barbie!' near the main entrance featured a charm bar, portrait studio and a hologram entrance"
+  ]
+ },
+ {
+  "slug": "sxsw-2026-18-experiential-ideas-themes",
+  "cat": "Experiential",
+  "headline_real": "SXSW 2026: 18 Experiential Ideas and Themes Worth Stealing",
+  "source_name": "Event Marketer",
+  "facts": [
+   "Rivian built an Electric Roadhouse plus a 245-foot off-road test track along a 270-foot Congress Avenue stretch, offering expert-led rides in the new R2 SUV (March 13-15)",
+   "McDonald's 'First Job Confessional' kiosks (March 15-17) paid participants $15 gift cards to record first-job stories",
+   "Nikon's ATX pop-up (March 12-18) debuted the ZR cinema camera with photo walks, portrait sessions and workshops",
+   "Blumhouse's first-ever horror community meetup at Swift's Attic (March 14) sold out at ~150 guests with a 23-category trivia competition"
+  ]
+ },
+ {
+  "slug": "best-beauty-pop-ups-2026-ski",
+  "cat": "Experiential",
+  "headline_real": "The Best Beauty Pop-Ups of 2026: From Ski Slopes to Grand Central",
+  "source_name": "BeautyMatter",
+  "facts": [
+   "K18 staged a Hair Flip Challenge at NYC's Grand Central Terminal, driving 1.9M impressions, sampling 5,000 masks and donating $100K",
+   "rhode built a 'Snow Club' winter ecosystem with a retail Snow Station in Big Sky, Montana",
+   "MCoBeauty ran an immersive escape-room activation across 30 Escapology locations, expecting 37,000 participants",
+   "Kayali opened a 2-day café experience inside an Airstream trailer in SoHo, NYC"
+  ]
+ },
+ {
+  "slug": "garden-studios-advanced-virtual-production-stage",
+  "cat": "CGI & VFX",
+  "headline_real": "Garden Studios unveils its most advanced virtual production stage with a fully motorised, tilting LED ceiling",
+  "source_name": "TVBEurope",
+  "facts": [
+   "Fully motorised LED ceiling uses 2.6mm pixel-pitch Absen panels and tilts up to 90 degrees to act as a front wall, forming a full 360-degree volume",
+   "Ceiling travels up to 18 metres front-to-back and doubles the ceiling area of the studio's previous stage",
+   "Runs Unreal Engine-based real-time workflows and covers roughly 90% of camera angles with a single 180-degree rotation, cutting downtime between setups"
+  ]
+ },
+ {
+  "slug": "television-city-orbital-studios-partner-hollywood",
+  "cat": "CGI & VFX",
+  "headline_real": "Television City and Orbital Studios partner on a new Hollywood virtual production studio and R&D lab",
+  "source_name": "TV Tech",
+  "facts": [
+   "New LED volume virtual production facility opens at 7800 Beverly Blvd. in LA's Fairfax District on the historic Television City lot (bought by Hackman Capital in 2018 for $750 million)",
+   "Orbital Studios (founded 2020 by A.J. Wedding) brings camera tracking, real-time rendering and an in-house Virtual Art Department to a full-service stage plus R&D lab",
+   "Orbital's roadmap spans AI-assisted content creation and location reconstruction via 3D Gaussian Splatting; recent credits include the docuseries 'World War II With Tom Hanks'"
+  ]
+ },
+ {
+  "slug": "clear-angle-studios-modular-volumetric-capture",
+  "cat": "CGI & VFX",
+  "headline_real": "Clear Angle Studios launches a modular Volumetric Capture Rig for dynamic Gaussian splat performances",
+  "source_name": "Post Magazine",
+  "facts": [
+   "Rig uses 40 high-speed machine-vision cameras with 6K sensors shooting 12-bit at 60fps, plus 450 individually programmable light nodes and up to 120 lighting configurations",
+   "Scalable capture volume reaches 2.5 cubic meters with 360-degree coverage, and is based at Pinewood Studios in Buckinghamshire, England",
+   "Dynamic Gaussian splat capture preserves original performance behavior and natural lighting, cutting manual post steps; Union VFX partnered on re-lighting solutions for the splat assets"
+  ]
+ },
+ {
+  "slug": "inside-arcturus-dynamic-gaussian-splat-capture",
+  "cat": "CGI & VFX",
+  "headline_real": "Inside Arcturus' dynamic Gaussian splat capture behind MrBeast's 500M-subscriber video",
+  "source_name": "Radiance Fields",
+  "facts": [
+   "Volumetric studio Arcturus reconstructed the 'Floor is Lava' sequence as a dynamic Gaussian splat, letting editors scout virtual camera moves after filming wrapped",
+   "Capture used only 30 to 35 cameras per shot inside a plexiglass cube, relying on depth supervision and multiview-consistent pruning to handle constant occlusion from fast-moving contestants",
+   "8 takes were processed and 3 made the final cut; the video marked MrBeast crossing 500 million YouTube subscribers on June 12, 2026"
+  ]
+ },
+ {
+  "slug": "metallica-24-show-life-burns-faster",
+  "cat": "Concert visuals",
+  "headline_real": "Metallica Announce 24-Show 'Life Burns Faster' Sphere Las Vegas Residency",
+  "source_name": "Consequence",
+  "facts": [
+   "24 performances run October 2026 through March 2027, all at 8:30 PM",
+   "Uses a 'No Repeat Weekend' format where Thursday and Saturday setlists share no songs",
+   "Built for Sphere's wraparound highest-resolution LED display and multi-sensory 4D technology",
+   "Original ticket allocation sold out, pushing shows to resale on Ticketmaster and StubHub"
+  ]
+ },
+ {
+  "slug": "illenium-turns-sphere-neo-space-opera",
+  "cat": "Concert visuals",
+  "headline_real": "ILLENIUM Turns Sphere Into a 'Neo-Space Opera' With Nine-Night ODYSSEY Residency",
+  "source_name": "Art Threat",
+  "facts": [
+   "Nine shows across March 5-7, 12-14 and April 2-4, 2026 — only the second electronic act at Sphere after Anyma",
+   "Berlin's Woodblock Animation Studios built the narrative with 65 animators working in Houdini",
+   "Content mapped to Sphere's 160,000-square-foot wraparound interior LED screen",
+   "Visuals follow a two-warrior light-vs-dark story tied to his album ODYSSEY (out Feb 6, 2026, Republic Records)"
+  ]
+ },
+ {
+  "slug": "tomorrowland-consciencia-ambitious-mainstage-ever",
+  "cat": "Concert visuals",
+  "headline_real": "Tomorrowland Unveils 'Consciencia,' Its Most Ambitious Mainstage Ever",
+  "source_name": "Creative Boom",
+  "facts": [
+   "Stage stands 43 metres tall and 140 metres wide, centered on a sculpted face named Amutaz",
+   "Built from 2,400 LED tiles, 1,200 lighting fixtures (300 custom), 56 lasers, 38 fountains, 2 waterfalls and 7 giant inflatable faces",
+   "Took over two years from first sketch to opening night, plus 54 days of on-site construction",
+   "Theme spans six 'provinces,' each mapped to a human emotion — wonder, joy, desire, love, anger, sadness"
+  ]
+ },
+ {
+  "slug": "soda-stereo-take-touring-digital-frontman",
+  "cat": "Concert visuals",
+  "headline_real": "Soda Stereo Take a Touring Digital Frontman on the Road With the ECOS Tour",
+  "source_name": "Forbes",
+  "facts": [
+   "A hyperrealistic digital avatar of late singer Gustavo Cerati (d. 2014) performs live alongside surviving members Zeta Bosio and Charly Alberti",
+   "Uses hyperrealistic renderings plus archival audio rather than AI-generated movement or synthetic vocals, unlike fixed installs such as ABBA Voyage",
+   "Fully modular and touring — 14 countries, nearly two dozen cities, 450,000-plus tickets sold, with a September U.S. leg (San Jose, LA, Las Vegas, Chicago, NY, Miami)",
+   "Creative-directed by Nicolas Bernaudo, with roughly two-hour shows"
+  ]
+ },
+ {
+  "slug": "cleveland-museum-art-artlens-reimagined-gallery",
+  "cat": "Interactive",
+  "headline_real": "Cleveland Museum of Art opens 'ArtLens Reimagined,' a gallery driven by locally-run AI trained only on its own collection",
+  "source_name": "Blooloop",
+  "facts": [
+   "Opened July 28, 2026 as a 10,000-square-foot space with 21 new interactive experiences",
+   "Uses locally-run AI models trained exclusively on the museum's own collection; 'Infinite Landscape' generates AI scenery on a 24-foot curved wall",
+   "Organized into five themed zones - Relate, Investigate, Create, Explore and Infinite Landscape, with Chief Digital Innovation officer Jane Alexander framing tech as 'the bridge that helps people engage more deeply'"
+  ]
+ },
+ {
+  "slug": "fifa-gamefam-fifa-world-cup-2026",
+  "cat": "Gaming",
+  "headline_real": "FIFA and Gamefam launch FIFA World Cup 2026 event in Super Soccer on Roblox",
+  "source_name": "GamesBeat",
+  "facts": [
+   "Official FIFA World Cup 2026 event launched Friday, June 5, 2026 and runs through July 31, 2026 across Roblox",
+   "All 48 World Cup national teams are playable in FIFA Super Soccer, including reigning champion Argentina",
+   "Six-game crossover spanning Gamefam's Roblox titles that record a combined 28 million gameplay sessions per week; FIFA calls it the platform's biggest sports event ever"
+  ]
+ },
+ {
+  "slug": "lil-tecca-headline-fortnite-festival-season",
+  "cat": "Gaming",
+  "headline_real": "Lil Tecca to headline Fortnite Festival season 15",
+  "source_name": "NME",
+  "facts": [
+   "Fortnite Festival Season 15 went live July 30, 2026 with Lil Tecca as the headline artist",
+   "Four Lil Tecca jam tracks added in-game: 'Ransom', 'Dark Thoughts', 'Love Me' and '500lbs'",
+   "The Neon Dreams Music Pass unlocks the music-reactive Tour Ready Lil Tecca Outfit, Mic Mace Pickaxe and Tecca's World Back Bling; he is the first rap headliner since Snoop Dogg in early 2024"
+  ]
+ },
+ {
+  "slug": "minecraft-experience-tops-one-million-visitors",
+  "cat": "Gaming",
+  "headline_real": "Minecraft Experience tops one million visitors as Moonlight Trail debuts",
+  "source_name": "BroadwayWorld",
+  "facts": [
+   "Minecraft Experience surpassed 1 million visitors worldwide since its 2024 debut, spanning North America, Europe, Latin America and Asia",
+   "Moonlight Trail, the franchise's first outdoor nighttime attraction with eight interactive biomes, opened May 15, 2026 at Ciudad Universitaria in Buenos Aires",
+   "Produced by Experience MOD with Mojang Studios and creative studio Supply + Demand; the indoor Villager Rescue has toured cities including Dallas, Chicago, Mexico City, Singapore and Vienna"
+  ]
+ },
+ {
+  "slug": "game-publishers-activated-san-diego-comic",
+  "cat": "Gaming",
+  "headline_real": "How game publishers activated at San Diego Comic-Con 2026: Supercell, Discord, Alienware and Google Play",
+  "source_name": "Event Marketer",
+  "facts": [
+   "Supercell built 'Clash for the Stache,' a 10-minute puzzle Challenge Room at Seaport Village (via GDX Studios) held open to non-attendees through Sept 7",
+   "Discord and Sony ran a 'Resident Evil' scavenger hunt through a Raccoon City indoor-outdoor build at Quartyard using Discord's Mission Quest feature (Sawhorse Productions)",
+   "Alienware ran a gaming lounge with a surprise 60-second trivia game show for a laptop and 39-inch 5K OLED monitor; Google Play's 'The Auction' let fans earn tokens to bid on ultra-rare gaming collectibles, hosted by Quenlin Blackwell"
+  ]
+ },
+ {
+  "slug": "vivid-sydney-2026-expands-day-night",
+  "cat": "Concert visuals",
+  "headline_real": "Vivid Sydney 2026 expands to day and night with record drone shows and its tallest-ever installation",
+  "source_name": "Destination NSW",
+  "facts": [
+   "Runs 22 May-13 June 2026 across 23 nights, with an unbroken 6.5km Light Walk of 40+ installations",
+   "Chris Levine's 'Molecule of Light' is the tallest work in festival history at 23m high x 17m wide, visible across Sydney Harbour; Reelize Studio's 'Obstacle' is among the longest ever at 45m",
+   "Record 22 drone shows across 11 nights at Cockle Bay; festival has drawn 25M+ visitors and $1.3B+ in visitor spend since inception"
+  ]
+ },
+ {
+  "slug": "robotic-art-ai-driven-installations-lead",
+  "cat": "Interactive",
+  "headline_real": "Robotic art and AI-driven installations lead Sonar+D 2026 in Barcelona",
+  "source_name": "designboom",
+  "facts": [
+   "Sonar+D 2026 runs 18-19 June in Barcelona's neoclassical Llotja de Mar, foregrounding embodied robotics, AI interfaces and site-specific LED visuals",
+   "Volvox Labs' 'Astral Twin' pairs robotic arms painting in dialogue with a giant LED wall; Qs Ventures' 'A Voice from the Future' is a moss-covered phone booth inhabited by an AI persona",
+   "Installations deploy AI tools including Google DeepMind's Lyria 3 for generative soundscapes"
+  ]
+ },
+ {
+  "slug": "80-000-visitors-swarm-tokyo-lights",
+  "cat": "Interactive",
+  "headline_real": "80,000 visitors swarm 'TOKYO LIGHTS' projection mapping and light art event",
+  "source_name": "Tokyo Metropolitan Government",
+  "facts": [
+   "TOKYO LIGHTS 2026 drew 80,000 visitors over 23-31 May, projecting onto the 127m-tall, 110m-wide facade of the Tokyo Metropolitan Government No.1 Building",
+   "The '1minute Projection Mapping Competition' received 412 entries from 65 countries and regions, narrowed to 18 finalists",
+   "Brazilian group Signal Bleed won the grand prize (2 million yen) for 'Touch Talk'; a paired Light Art Park featured 12 works including Luke Jerram's GAIA"
+  ]
+ },
+ {
+  "slug": "sphere-entertainment-intent-develop-smaller-scale",
+  "cat": "Concert visuals",
+  "headline_real": "Sphere Entertainment announces intent to develop a smaller-scale Sphere at National Harbor near Washington, D.C.",
+  "source_name": "Sphere Entertainment Co.",
+  "facts": [
+   "Announced 18 Jan 2026: a second U.S. Sphere near Washington, D.C., and the first to use a smaller-scale model, seating 6,000",
+   "Interior features a 16K x 16K LED display plane (billed as the world's highest-resolution screen), plus an Exosphere exterior, Sphere Immersive Sound, haptic seating and 4D effects",
+   "Backed by ~$200M in combined incentives, projected to support 2,500 construction and 4,750 operational jobs with $1B+ annual economic impact"
+  ]
+ },
+ {
+  "slug": "meta-essilorluxottica-meta-glasses-ai-eyewear",
+  "cat": "Spatial & AR",
+  "headline_real": "Meta and EssilorLuxottica launch new 'Meta Glasses' AI eyewear line starting at $299",
+  "source_name": "Meta Newsroom",
+  "facts": [
+   "Launched June 23, 2026 starting at $299 — about $80 cheaper than Ray-Ban Meta Gen 2",
+   "Three styles: Meta Adventurer, Meta Fury, and Meta Glasses by Kylie (Kylie Jenner collab, from ~$399)",
+   "Runs Meta AI on the new Muse Spark model, 12MP ultrawide camera, 8+ hours battery plus 40 hours from the charging case",
+   "New Rx Lens Swap lets buyers add prescription lenses after purchase without voiding warranty; sold across 17 markets via Meta.com, LensCrafters, Sunglass Hut, Best Buy and Amazon"
+  ]
+ },
+ {
+  "slug": "visionos-27-gives-apple-vision-pro",
+  "cat": "Spatial & AR",
+  "headline_real": "visionOS 27 gives Apple Vision Pro a spatial computing and Apple Intelligence upgrade",
+  "source_name": "AppleInsider",
+  "facts": [
+   "Announced at WWDC 2026; adds Spatial Panoramas that convert flat panoramas into stepable 3D environments",
+   "New Spatial Siri 3D widget enables hands-free AI interaction with no wake word",
+   "Adds Spatial Reframing AI photo editing, curved app windows, a Mac Virtual Display widget and Wi-Fi 3x faster",
+   "Apple Intelligence gains contextual understanding of objects seen through passthrough, plus 360-degree web experiences in Safari"
+  ]
+ },
+ {
+  "slug": "google-samsung-confirm-android-xr-glasses",
+  "cat": "Spatial & AR",
+  "headline_real": "Google and Samsung confirm Android XR glasses launching Fall 2026 with Warby Parker and Gentle Monster",
+  "source_name": "9to5Google",
+  "facts": [
+   "Google and Samsung officially teased first Android XR glasses styles for a Fall 2026 launch",
+   "Eyewear partners are Warby Parker and Gentle Monster for fashion-forward frames",
+   "Gemini-powered: real-time translation, navigation, restaurant ordering, summarized notifications and hands-free photo capture",
+   "Audio-first frames ship first; full-display versions expected to follow in 2027"
+  ]
+ },
+ {
+  "slug": "snap-brings-ai-lenses-luxury-fashion",
+  "cat": "Spatial & AR",
+  "headline_real": "Snap brings AI Lenses to luxury fashion as Gucci launches 'La Famiglia' Sponsored AI Lens",
+  "source_name": "MediaPost",
+  "facts": [
+   "Gucci's 'La Famiglia' is the first Sponsored AI Lens for a luxury fashion brand, powered by Snapchat's generative AI",
+   "Transforms users into collection-based character personas (L'Incazzata, Direttore, La VIP, Il Figo, Principino)",
+   "Snap says ~90% of 13-24-year-olds globally use the app and ~80% of users report AR experiences help purchase decisions",
+   "Follows Snap's 2025 holiday luxury push with Chopard, BOSS and Lancome; Gen Z projected to be 25%+ of global luxury spend within four years"
+  ]
+ },
+ {
+  "slug": "lightroom-aardman-larger-than-life-360",
+  "cat": "Interactive",
+  "headline_real": "Lightroom and Aardman announce 'Larger Than Life,' a 360-degree immersive show starring Wallace & Gromit, Shaun and Morph",
+  "source_name": "Aardman",
+  "facts": [
+   "Opens 14 October 2026 at Lightroom, London and runs through 4 January 2027",
+   "50-minute looping show projected across Lightroom's four 11-metre-tall walls plus the floor",
+   "Marks Aardman's 50th anniversary; tickets GBP 25 adults / GBP 15 children and students"
+  ]
+ },
+ {
+  "slug": "area15-signs-more-world-class-tenants",
+  "cat": "Experiential",
+  "headline_real": "AREA15 signs more world-class tenants, with 12+ new immersive experiences opening across 2026",
+  "source_name": "Blooloop",
+  "facts": [
+   "More than 12 new experiences slated to open at AREA15 Las Vegas during 2026",
+   "Includes the largest-ever Museum of Ice Cream (with a world-first ice cream buffet), iFLY indoor skydiving and The Bowl restaurant featuring robot chefs",
+   "Adds House Rules competitive-socialising venue and a Miniso flagship, following Universal Horror Unleashed and Felix & Paul's Interstellar Arc"
+  ]
+ },
+ {
+  "slug": "artechouse-houston-blooming-wonders-ai-driven",
+  "cat": "Interactive",
+  "headline_real": "ARTECHOUSE Houston opens 'Blooming Wonders,' an AI-driven interactive digital garden",
+  "source_name": "ARTECHOUSE",
+  "facts": [
+   "On view 6 March through 13 September 2026 at ARTECHOUSE Houston, the largest in its US network at 26,000 sq ft",
+   "Motion-responsive projections make flowers bloom underfoot, plus a cascading flower-petal Infinity Room",
+   "'Clay Pillar' installation generates real-time AI visuals triggered by visitors' spoken voice prompts"
+  ]
+ },
+ {
+  "slug": "media-cymru-premieres-immersive-works-artio",
+  "cat": "Interactive",
+  "headline_real": "Media Cymru premieres immersive works 'Artio' and 'Awen: Unbound' at Outernet London",
+  "source_name": "Business News Wales",
+  "facts": [
+   "Two Welsh-made immersive works premiere at Outernet London, with the launch event on 4 March 2026 and public showings from March 2026",
+   "'Artio' is an interactive Arthurian 'musical mythscape' using gesture recognition and generative visuals; 'Awen: Unbound' uses light, sound and real Welsh environmental data with plant-generated music",
+   "Outernet London draws 6M+ visitors annually as the city's most-visited cultural attraction"
+  ]
+ }
+]

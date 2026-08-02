@@ -1,0 +1,39 @@
+{
+  "issue_no": "10",
+  "edition_title": "LED volumes left Hollywood",
+  "subject": "The virtual production stack is a brand tool now",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signal",
+    "statement": "LED volumes left Hollywood and walked into the brief",
+    "sub": "The real time virtual production stack that shot The Mandalorian is quietly becoming a commercial tool. In 2026 it is agencies and brands asking for the volume, not just studios."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "Infinite locations, shot in a day",
+      "body": "The 2026 virtual production stack, Unreal 5.4 and up, precise camera tracking, disguise driving the wall, has matured enough that a brand can shoot ten locations in a day without leaving the stage. It stopped being a Hollywood talking point and became a line on a production budget.",
+      "why": "A campaign that used to need a travel budget and a weather window now needs a stage and a good real time artist.",
+      "cta": "See the stack ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "The AR tooling is consolidating near LA",
+      "body": "Snap unveiled its Specs AR glasses at Augmented World Expo in Long Beach in June, the same show where the XR tooling keeps gathering. That backyard, Southern California, is the same one as the brands and studios that commission the work.",
+      "why": "Proximity is leverage. The closer the tooling, the faster and cheaper the iteration on a live build.",
+      "cta": "Read the map ›"
+    },
+    {
+      "role": "craft",
+      "statement": "The display layer keeps getting lighter",
+      "body": "Even the July 27 XR roundups had Samsung unveiling new glasses. Every generation of lighter, cheaper eyewear widens the audience for on site AR, the layer that turns a static space into a responsive one.",
+      "why": "Hardware you do not have to explain is hardware people will actually wear at your activation.",
+      "cta": "Look ahead ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Book the volume for the brand, not just the film",
+    "body": "Real time virtual production is not only for features anymore. We build brand content and live activations on the same stack, white label, your name on the call sheet.",
+    "button": "Touch it"
+  }
+}

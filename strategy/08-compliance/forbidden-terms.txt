@@ -1,0 +1,123 @@
+# forbidden-terms.txt — guardarriel non-compete INMERSIVO
+# Fuente de verdad de la lista prohibida. Formato: una entrada por linea.
+# Lineas que empiezan con "#" son comentarios. Secciones marcadas [A]-[E].
+# Todos los terminos se comparan DESPUES del pipeline de normalizacion
+# (lower + NFKD + sin diacriticos + homoglifos + leet + sin separadores),
+# por eso van escritos ya normalizados (sin acentos, sin mayusculas).
+# Un hit en [A],[B],[C],[D] = HARD BLOCK. [E] es allowlist del detector difuso.
+
+[A] # P1 — el nombre y variantes directas (substring sobre texto normalizado)
+cinetica
+cinetika
+cynetica
+kinetica
+sinetica
+cinetic a          # colapso de separadores lo une; entrada redundante defensiva
+cineticastudio
+cineticastudios
+estudiocinetica
+teamcinetica
+@cinetica          # handles sociales
+cinetica.com
+cinetica.mx
+cinetica.io
+
+[B] # P2 — autobombo de historial, primera persona (ES) — de writer.py + ampliacion
+como hemos hecho
+nuestros clientes
+en nuestros proyectos
+nuestro trabajo con
+nuestros proyectos
+nuestro estudio anterior
+mi estudio anterior
+nuestra agencia anterior
+antes de sensalab
+antes de fundar
+en mi vida pasada
+proyectos que hicimos
+lo que hicimos para
+trabajamos con marcas como
+hemos trabajado con
+trabajamos para
+nuestros casos de exito
+nuestro portafolio
+nuestro portfolio
+anos de experiencia con clientes
+clientes anteriores
+clientes pasados
+proyectos anteriores
+proyectos pasados
+
+[C] # P2 — autobombo de historial, primera persona (EN) — el newsletter sale en ingles
+our clients
+our past clients
+our previous clients
+clients include
+our client roster
+our portfolio
+our past work
+our previous work
+our prior work
+our earlier work
+our track record with
+we built for
+weve built for
+we created for
+we delivered for
+we produced for
+we made for
+we designed for
+we did this for
+weve done this for
+weve done this before for
+we worked with
+weve worked with
+we worked on
+weve worked on
+back when we
+in our previous studio
+in my previous studio
+our previous studio
+our former studio
+my former studio
+before founding sensalab
+before sensalab
+in a past life we
+years working with brands like
+our case studies
+our case study
+as we did for
+like we did for
+projects weve shipped
+campaigns weve delivered
+
+[D] # P2 — patrones regex de alusion (se aplican sobre texto normalizado con espacios)
+# Estructura: primera persona + verbo de entrega + beneficiario/pasado.
+# (Los detectores literales [B]/[C] cazan lo comun; estos cazan variaciones.)
+re:(we|weve|our team|i|ive)\s+(recently\s+|previously\s+|once\s+)?(built|created|delivered|produced|designed|made|shipped|ran|executed|installed)\s+.{0,40}\s+for\s+[a-z]
+re:(our|my)\s+(previous|past|prior|former|earlier)\s+(work|clients?|projects?|studio|agency|company)
+re:(hicimos|montamos|producimos|entregamos|creamos|disenamos)\s+.{0,40}\s+para\s+[a-z]
+re:(nuestro|nuestra|mis?)\s+(anterior|pasad[oa]|previ[oa])\s+(trabajo|cliente|proyecto|estudio|agencia)
+re:before\s+(starting|founding|launching)\s+sensalab
+re:(trusted|chosen)\s+by\s+(brands|clients)\s+like
+re:(sony|apple|amazon|hbo|netflix|lululemon|skims|fender|microsoft|sephora)\s+(hired|chose|trusted|worked with)\s+us
+re:we\s+(have\s+)?(a\s+)?(history|track record|portfolio|experience)\s+(of|with)\s+(delivering|producing|building)
+
+[E] # Allowlist del detector difuso (Levenshtein<=1 vs "cinetica").
+# Vocabulario legitimo del dominio inmersivo/AV. Solo exime al detector D3;
+# NUNCA exime un match exacto de [A].
+# Formato: termino | justificacion | fecha
+cinematic   | adjetivo comun en copy de produccion  | 2026-07-27
+cinematica  | es: "camara cinematica", uso tecnico  | 2026-07-27
+cinematics  | secuencias cinematicas (gaming/rt3d)  | 2026-07-27
+cinema      | sustantivo generico                   | 2026-07-27
+kinetic     | "kinetic sculpture/typography", comun | 2026-07-27
+kinetics    | idem                                  | 2026-07-27
+cinematography | oficio, comun en teardowns         | 2026-07-27
+
+# NOTA OPERATIVA:
+# - Las marcas del ICP (sony, apple, netflix...) NO estan prohibidas como palabras:
+#   aparecen legitimamente en noticias con fuente. Lo prohibido es la ESTRUCTURA
+#   "primera persona + entregamos para <marca>" — eso lo cazan [C] y [D].
+# - Agregar terminos: via commit con justificacion en el mensaje.
+# - Quitar terminos de [A]: prohibido. [A] solo crece.

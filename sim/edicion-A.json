@@ -1,0 +1,63 @@
+{
+  "issue_no": "05",
+  "issue_tag": "JUL 2026",
+  "edition_title": "Steal This World Cup",
+  "hero": {
+    "kicker": "The moment",
+    "headline": "The World Cup's best experiences happened outside the stadiums",
+    "sub": "Spain took the trophy at MetLife on July 19. Producers should study everything around it: fan festivals at two-million scale, a drone scoreboard over Seattle, and ticketed dome watch parties.",
+    "statement": "The best of the World Cup happened outside the stadiums."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "kicker": "Field Notes",
+      "headline": "The activations that worked gave fans a job to do",
+      "body": "Michelob ULTRA ran a two-week Pitchside Club on Santa Monica Pier with a 2,500-drone show; adidas built free Home of Soccer hubs across five cities with 3v3 tournaments. The pattern across Event Marketer's roundup: watching was table stakes. The activations people queued for handed them a ball, a game, a role.",
+      "cta": "Steal the playbook ›",
+      "statement": "The activations people remembered didn't ask to be watched.",
+      "why": "Participation outlasts impressions."
+    },
+    {
+      "role": "in-the-lab",
+      "kicker": "In the Lab",
+      "headline": "The scoreboard in the sky was really a data pipeline",
+      "body": "Visit Seattle flew a 400-drone scoreboard beside the Space Needle after each hosted match: 12-minute shows rendering the score, flags and city imagery, billed as a first. The steal: any same-day feed — scores, votes, sales — can become sky-scale scenography.",
+      "cta": "See it fly ›",
+      "statement": "A scoreboard in the sky is just a data pipeline with an audience.",
+      "why": "Any same-day feed can become sky-scale scenography."
+    },
+    {
+      "role": "craft",
+      "kicker": "Craft",
+      "headline": "The watch party is now a venue-grade product",
+      "body": "Fox Sports and FIFA put roughly 40 matches, the final included, inside Cosm's 87-foot 12K domes in LA, Dallas and Atlanta — with stadium cameras framed for the dome, not TV. The craft lesson: capture designed for the canvas beats repurposed broadcast.",
+      "cta": "Inside the dome ›",
+      "statement": "The watch party grew up — it's a venue-grade product now.",
+      "why": "Capture built for the canvas beats repurposed broadcast."
+    }
+  ],
+  "video": {
+    "kicker": "Watch",
+    "headline": "One minute, three stolen ideas",
+    "body": "Sixty seconds through the tournament's off-pitch tech: a drone scoreboard over Seattle, shared-reality domes in three cities, and fan festivals two million strong. Watch with your next pitch open.",
+    "duration": "01:00",
+    "statement": "Sixty seconds, three stolen ideas."
+  },
+  "invitation": {
+    "kicker": "An open invitation",
+    "headline": "Have something impossible in mind?",
+    "body": "If the tournament left you with a brief that sounds unbuildable — a dome, a live-data show, a room that reacts — that is our favorite kind.",
+    "button": "Touch it"
+  },
+  "sources": [
+    "https://www.eventmarketer.com/article/fifa-world-cup-2026-brand-activations-roundup/",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/fifa-fan-festival-reaches-2-million-visitor-mar",
+    "https://visitseattle.org/press/press-releases/visit-seattle-drone-scoreboard-world-cup/",
+    "https://www.geekwire.com/2026/world-cup-scoreboard-in-the-sky-drones-will-fly-over-seattle-to-put-match-results-in-lights/",
+    "https://www.cosm.com/news/fox-sports-teams-up-with-cosm-fifa-to-deliver-fifa-world-cup-2026-in-shared-reality-at-cosm-venues-in-los-angeles-dallas-and-atlanta",
+    "https://www.avinteractive.com/territories-news/us-canada/cosm-to-show-40-world-cup-games-at-shared-reality-venues-26-05-2026/",
+    "https://www.sportsvideo.org/2026/07/01/at-cosm-fifa-world-cup-2026-is-a-coming-of-age-moment-as-shared-reality-becomes-bucket-list-entertainment/",
+    "https://www.cbsnews.com/news/2026-fifa-world-cup-final-spain-argentina-sunday/"
+  ]
+}

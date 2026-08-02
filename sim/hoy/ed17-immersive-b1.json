@@ -1,0 +1,39 @@
+{
+  "issue_no": "17",
+  "edition_title": "Three signals immersive is scaling",
+  "subject": "A venue, an art room and a pair of glasses walked into the week",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signals",
+    "statement": "Three signals that immersive is scaling this week",
+    "sub": "A venue outsold every arena, an art room pulled millions, and AR glasses got a price. Three separate moves, one direction."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "Sphere outsold every arena on earth",
+      "body": "Billboard and Pollstar ranked the Las Vegas Sphere the top grossing venue in the world for 2025. The Wizard of Oz at Sphere alone has sold more than 2 million tickets and 260 million dollars since its 2025 debut.",
+      "why": "When one immersive room outsells arenas, the surface itself becomes the product worth owning a moment inside.",
+      "cta": "See the numbers ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "teamLab drew millions to one museum",
+      "body": "teamLab Borderless, reopened in Tokyo's Azabudai Hills, welcomed about 1.69 million visitors in 2025, and teamLab pulled over 4.2 million across its two Tokyo museums in a year. Footfall most retail anchors would envy.",
+      "why": "A room people line up to walk inside is a leasing magnet. Immersive is becoming the anchor, not the amenity.",
+      "cta": "See the pull ›"
+    },
+    {
+      "role": "craft",
+      "statement": "AR glasses got a price and a ship date",
+      "body": "Snap unveiled its Specs AR glasses at Augmented World Expo: 2,195 dollars, preorders open, shipping this fall. A feature called EyeConnect lets two wearers share the same AR just by making eye contact.",
+      "why": "Shared AR by eye contact is a group mechanic. That is an activation waiting to happen, not a solo gadget.",
+      "cta": "See the play ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Own a moment inside the room",
+    "body": "The surface is the product now. We design wraparound, responsive environments at activation scale, white label, under your name.",
+    "button": "Touch it"
+  }
+}

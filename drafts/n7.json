@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "meta-essilorluxottica-meta-glasses-ai-eyewear",
+    "headline": "Camera glasses cross into mainstream eyewear pricing, and the install base widens",
+    "dek": "The news is not a cheaper pair of smart glasses. It is a wearable camera-and-AI layer moving from gadget to everyday object, sold where people already buy frames.",
+    "focus_keyword": "ai smart glasses",
+    "read_minutes": 3,
+    "meta_description": "Meta's $299 Meta Glasses put camera-plus-AI eyewear in optical retail. The real signal for producers is a widening everyday install base.",
+    "why": "The audience at your next activation will increasingly arrive already wearing a camera and an on-demand AI assistant on their face.",
+    "takeaway": "Start designing on-site moments that read well through first-person capture and respond to a spoken question, not only a tap or a QR code.",
+    "body": [
+      {"type":"para","text":"On June 23, 2026, Meta and EssilorLuxottica launched a new Meta Glasses line starting at $299, roughly $80 less than Ray-Ban Meta Gen 2, per Meta Newsroom. It arrives in three styles: Meta Adventurer, Meta Fury, and Meta Glasses by Kylie, a Kylie Jenner collaboration from about $399. Each pair runs Meta AI on the new Muse Spark model, carries a 12MP ultrawide camera, and lasts 8-plus hours on a charge with another 40 hours from the case. A new Rx Lens Swap lets buyers add prescription lenses after purchase without voiding the warranty, and the line sells across 17 markets through Meta.com, LensCrafters, Sunglass Hut, Best Buy and Amazon."},
+      {"type":"subhead","text":"The real signal is distribution, not the price"},
+      {"type":"para","text":"The headline number is the price, but the price is not the signal. Selling a $299 camera-and-AI face computer through LensCrafters and Sunglass Hut, the places people already go for frames, is what changes the math. At that price and in those aisles, the device stops being a gadget purchase and starts being ordinary eyewear. Rx Lens Swap quietly removes the last excuse for the many adults who wear prescription lenses. The real shift is the install base: the number of people walking into a venue with a camera and a hands-free assistant on their face is about to grow, not shrink."},
+      {"type":"subhead","text":"What a producer can do now"},
+      {"type":"para","text":"For a producer, that reframes on-site design. Assume a meaningful slice of any crowd is now recording first-person video and can ask an assistant about what they are looking at. Moments built only for a phone held at arm's length miss them. The stronger bet is to design for the wearer's point of view: sightlines that compose well in a 12MP ultrawide frame, spoken prompts an assistant can actually answer, and payoffs that survive being captured and re-shared without a booth staffer in the way."},
+      {"type":"para","text":"It belongs in an experiential toolkit precisely because it lives in retail. These frames sell in optical chains, so a program that already thinks in store terms can meet the same audience on the same shelf logic. Pairing a physical brand moment with a wearable-friendly capture layer is closer to a [retail activation kit](/kits/retail) than to a headset demo, and it scales to street level rather than to a queue of one device at a time."},
+      {"type":"subhead","text":"One caveat worth planning around"},
+      {"type":"para","text":"The same first-person capture that helps you also raises consent and privacy questions on site, and audio-first AI works best where ambient noise is controlled. Neither is a reason to wait; both are reasons to write the rules of engagement, signage and quiet zones into the brief rather than bolting them on afterward."},
+      {"type":"para","text":"None of this requires a brand to build a glasses program in-house. SensaLab is the white-label real-time 3D and immersive layer that agencies and brands use to design and run these experiences under their own name, so the wearable-ready activation ships as yours, not ours."}
+    ]
+  },
+  {
+    "slug": "visionos-27-gives-apple-vision-pro",
+    "headline": "Apple makes flat-to-spatial conversion an operating-system feature, not a production task",
+    "dek": "The news is not a longer visionOS feature list. It is the cost of turning flat media into walkable 3D moving into the platform itself.",
+    "focus_keyword": "spatial computing",
+    "read_minutes": 3,
+    "meta_description": "visionOS 27 turns flat panoramas into walkable 3D on-device. The signal for producers: spatial content is shifting from bespoke capture into the OS.",
+    "why": "The economics of producing spatial content change when converting flat media to 3D becomes a default OS capability rather than a specialist pipeline.",
+    "takeaway": "Audit the flat assets you already own, panoramas, photo libraries, 360 shots, as raw material for spatial experiences instead of budgeting every one as new 3D capture.",
+    "body": [
+      {"type":"para","text":"At WWDC 2026, Apple detailed visionOS 27 for Vision Pro, and the standout is Spatial Panoramas, which convert flat panoramas into stepable 3D environments a wearer can move through, per AppleInsider. A new Spatial Siri 3D widget enables hands-free AI with no wake word. The update adds Spatial Reframing AI photo editing, curved app windows, a Mac Virtual Display widget, and Wi-Fi roughly three times faster. Apple Intelligence gains contextual understanding of objects seen through passthrough, along with 360-degree web experiences in Safari."},
+      {"type":"subhead","text":"The real signal is where the work moves"},
+      {"type":"para","text":"Read past the feature list and one theme repeats: work that used to be a specialist production step is moving into the operating system. Converting a flat panorama into a space you can step into, reframing a photo spatially, or having passthrough recognize objects in the room are all tasks a studio would previously scope, budget and build. When the platform does them by default, the marginal cost of spatial content drops toward the cost of the flat asset you started with. The signal is not a better headset; it is a lower floor for producing spatial media."},
+      {"type":"subhead","text":"What a producer can do now"},
+      {"type":"para","text":"That reframes the asset question. Before commissioning new volumetric capture, look at what already exists, location panoramas, brand photo libraries, 360 shoots, and treat them as source material a wearer could walk through. The brief shifts from shooting everything in 3D to choosing which flat assets deserve a spatial edit, which is a far cheaper conversation to have with a client and a far faster path to a demo."},
+      {"type":"para","text":"It earns a place in an experiential toolkit because it lowers the barrier between a flat concept and a spatial payoff. Paired with a [real-time rendering](/nvidia-real-time-rendering) pipeline for the moments that genuinely need bespoke worlds, on-device conversion covers the long tail, the panoramas and stills that were never worth a full 3D build but still gain depth and presence when someone can step inside them."},
+      {"type":"subhead","text":"Where it fits today"},
+      {"type":"para","text":"The catch is reach. This lives on Vision Pro, an installed base that is still narrow and premium, so it suits high-value, low-volume settings, a flagship, a private client suite, a press moment, more than a mass-footfall activation today. The capability is worth prototyping against now precisely because the tooling, not the audience size, is what usually gates spatial work."},
+      {"type":"para","text":"A brand does not need to staff a spatial-media team to act on this. SensaLab operates as the white-label real-time 3D and immersive layer behind agencies and brands, designing and running these experiences so they launch under the client's name while the conversion pipeline stays ours to maintain."}
+    ]
+  },
+  {
+    "slug": "google-samsung-confirm-android-xr-glasses",
+    "headline": "Android XR arrives through fashion eyewear brands, signaling a second glasses ecosystem",
+    "dek": "The news is not another pair of smart glasses. It is a second major glasses platform standardizing on fashion eyewear as its route to market.",
+    "focus_keyword": "android xr glasses",
+    "read_minutes": 3,
+    "meta_description": "Google and Samsung confirm Android XR glasses for Fall 2026 via Warby Parker and Gentle Monster. The signal: a second glasses platform sold as fashion.",
+    "why": "Wearable AR is consolidating into two competing platforms, and the second one is entering through fashion retail rather than the tech aisle.",
+    "takeaway": "Plan wearable-aware activations to be platform-agnostic and assistant-aware, and expect the audience to meet these devices in fashion contexts, not gadget stores.",
+    "body": [
+      {"type":"para","text":"Google and Samsung have officially teased the first Android XR glasses styles for a Fall 2026 launch, according to 9to5Google. The eyewear partners are Warby Parker and Gentle Monster, chosen for fashion-forward frames. The glasses are Gemini-powered, offering real-time translation, navigation, restaurant ordering, summarized notifications and hands-free photo capture. Audio-first frames ship first, with full-display versions expected to follow in 2027."},
+      {"type":"subhead","text":"The real signal is a second platform, sold as fashion"},
+      {"type":"para","text":"The individual features are familiar; the structure around them is the signal. Android XR gives the category a second serious platform to sit alongside Meta's, which means wearable AR is consolidating into competing ecosystems the way phones did, and anything built for one will eventually need to consider the other. Just as telling is the route to market: Warby Parker and Gentle Monster, not an electronics counter. The default place to encounter these devices is being set as fashion eyewear, and audio-first shipping ahead of display says the near-term value is an ambient assistant, not a heads-up display."},
+      {"type":"subhead","text":"What a producer can do now"},
+      {"type":"para","text":"For a producer, the practical move is to stop betting on a single device. Design wearable-aware moments to be platform-agnostic and assistant-aware: assume some guests carry Gemini in their frames and some carry Meta AI, and build interactions that degrade gracefully to a phone for everyone else. Because these launch through fashion brands, the relevant context is styling, retail and lifestyle, the same rooms where brand-experience work already happens."},
+      {"type":"para","text":"That is why it belongs in an experiential toolkit as a branding surface rather than a tech novelty. When the hardware itself is positioned as fashion, the experience layered onto it has to carry the same taste, which is closer to a [branding activation kit](/kits/branding) than to a product demo. Translation, navigation and hands-free capture become quiet utilities inside a branded moment, not the headline of it."},
+      {"type":"subhead","text":"Where it fits today"},
+      {"type":"para","text":"Audio-first means managing expectations: the first wave is voice and capture, with visual overlays a 2027 story. That actually suits experiential work, because sound-led, capture-friendly moments are easier to stage across a crowd than display-dependent ones, and they do not strand guests looking through frames with no screen."},
+      {"type":"para","text":"Acting on this does not require a brand to pick a side or build for a platform in-house. SensaLab works as the white-label real-time 3D and immersive layer for agencies and brands, designing and running cross-platform experiences that go out under the client's name while the technical hedging stays with us."}
+    ]
+  },
+  {
+    "slug": "snap-brings-ai-lenses-luxury-fashion",
+    "headline": "Generative AR personas become a luxury ad unit, aimed at the next big spenders",
+    "dek": "The news is not a single Gucci lens. It is generative AI turning AR into a measurable luxury ad unit for the demographic that will define luxury spend.",
+    "focus_keyword": "generative ai ar lens",
+    "read_minutes": 3,
+    "meta_description": "Gucci's 'La Famiglia' is Snap's first Sponsored AI Lens for luxury fashion. The signal: generative AR is becoming a measurable ad unit aimed at Gen Z.",
+    "why": "Generative AR is being positioned as a measurable purchase-driver for the audience projected to become a quarter of luxury spending.",
+    "takeaway": "Treat AR personas as a top-of-funnel unit tied to a purchase story, and design the character system as carefully as any campaign, not as a filter afterthought.",
+    "body": [
+      {"type":"para","text":"Gucci's 'La Famiglia' is the first Sponsored AI Lens for a luxury fashion brand, powered by Snapchat's generative AI, per MediaPost. The lens transforms users into collection-based character personas, L'Incazzata, Direttore, La VIP, Il Figo and Principino. Snap says about 90% of 13-to-24-year-olds globally use the app, and roughly 80% of its users report that AR experiences help their purchase decisions. The move follows Snap's 2025 holiday luxury push with Chopard, BOSS and Lancome, and lands as Gen Z is projected to reach more than a quarter of global luxury spend within four years."},
+      {"type":"subhead","text":"The real signal is the ad unit, not the lens"},
+      {"type":"para","text":"One branded lens is not the story. The story is that generative AI has turned the sponsored AR unit into something a luxury house will buy, a persona system that reads as fashion rather than a face-warping gimmick, distributed to a platform that reaches roughly nine in ten people aged 13 to 24. Tie that reach to Snap's claim that around 80% of users say AR shapes purchase decisions, and to Gen Z's projected share of luxury spend, and the reframe is clear: AR is being sold as a measurable top-of-funnel unit for the next generation of luxury buyers, not as a novelty impression."},
+      {"type":"subhead","text":"What a producer can do now"},
+      {"type":"para","text":"The practical takeaway is to treat generative personas with campaign discipline. 'La Famiglia' works because the characters are tied to a collection and carry a point of view, not because they warp a face. A producer briefing this kind of work should scope the persona system, names, tone, wardrobe logic, as seriously as key art or a film, and should insist on a purchase story the AR moment plugs into, so the experience is accountable to intent rather than to view counts alone."},
+      {"type":"para","text":"It belongs in an experiential toolkit because it bridges owned moments and paid reach. The same generative persona built for a physical [activation](/kits/activations) can travel as a sponsored lens, letting one creative idea live on the floor and in the feed without being rebuilt twice. That continuity, one character system, two surfaces, is where AR stops being a stunt and starts being infrastructure."},
+      {"type":"subhead","text":"Where it fits today"},
+      {"type":"para","text":"The figures are Snap's own and describe intent rather than proven sales, so treat them as directional and instrument your own funnel. The dependable part is not the conversion claim; it is the audience concentration and the format's new legitimacy with luxury, both of which are reasons to build the capability before a client asks for it by name."},
+      {"type":"para","text":"A house does not need an in-house AR team to move here. SensaLab is the white-label real-time 3D and immersive layer that agencies and brands use to design and run these persona-driven experiences under their own name, so the character system ships as the brand's signature rather than a vendor's."}
+    ]
+  }
+]

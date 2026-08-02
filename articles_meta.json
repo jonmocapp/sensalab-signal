@@ -1,0 +1,398 @@
+{
+  "cosm-atlanta-shared-reality-dome": {
+    "cat": "Concert visuals",
+    "tokens": "concerts experiential",
+    "edition": 21,
+    "source_name": "Rough Draft Atlanta",
+    "source_url": "https://roughdraftatlanta.com/2026/03/05/cosm-atlanta-immersive-venue/",
+    "date": "2026-06-10",
+    "image_url": null
+  },
+  "sphere-abu-dhabi-goes-global": {
+    "cat": "Concert visuals",
+    "tokens": "concerts",
+    "edition": 21,
+    "source_name": "Euronews Culture",
+    "source_url": "https://www.euronews.com/culture/2026/05/15/sphere-abu-dhabi-the-worlds-most-futuristic-venue-is-heading-to-yas-island",
+    "date": "2026-05-15",
+    "image_url": "https://images.euronews.com/articles/stories/09/75/93/88/1536x864_cmsv2_15b4d87f-e183-5f13-92ad-07c41aab0174-9759388.jpg"
+  },
+  "world-cup-2026-brand-activations": {
+    "cat": "Experiential",
+    "tokens": "experiential concerts",
+    "edition": 21,
+    "source_name": "Event Marketer",
+    "source_url": "https://www.eventmarketer.com/article/world-cup-2026-experiential-10-soccer-activations-beyond-stadiums/",
+    "date": "2026-07-02",
+    "image_url": "https://www.eventmarketer.com/wp-content/uploads/2026/07/fogo-de-chao-1-fifa-world-cup-2026-eventmarketer.jpg"
+  },
+  "comic-con-2026-brand-offsites": {
+    "cat": "Experiential",
+    "tokens": "experiential",
+    "edition": 21,
+    "source_name": "BizBash",
+    "source_url": "https://www.bizbash.com/experiential-marketing/san-diego-comic-con-2026-how-brands-made-fans-part-of-the-story",
+    "date": "2026-07-31",
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt725d5e066dc2264b/bltf55d9c204245afe0/6a6b8cb510fdd1e98df45a03/SDCC_Nickelodeon_Booth_OV_72226_2655.JPG"
+  },
+  "volumetric-capture-unity-gaussian-splatting": {
+    "cat": "CGI & VFX",
+    "tokens": "cgi",
+    "edition": 21,
+    "source_name": "Global Broadcast Industry News",
+    "source_url": "https://www.globalbroadcastindustry.news/4dviews-unveils-most-complete-global-end-to-end-volumetric-capture-system-for-unity-with-gaussian-splatting-at-awe-usa-2026/",
+    "date": "2026-06-16",
+    "image_url": "https://www.globalbroadcastindustry.news/wp-content/uploads/2025/07/4d-views-2.png"
+  },
+  "metahuman-5-8-crowds-mocap": {
+    "cat": "CGI & VFX",
+    "tokens": "cgi",
+    "edition": 21,
+    "source_name": "80 Level",
+    "source_url": "https://80.lv/articles/populate-your-ue5-8-worlds-with-metahuman-crowds",
+    "date": "2026-06-18",
+    "image_url": "https://cms-assets.unrealengine.com/cm6ts095h04fm07oh6wxhfjst/resize=width:1920/quality=value:90/auto_image/cmqgvtktj41gk07n7xy463eur"
+  },
+  "epic-hyundai-world-cup-activation": {
+    "cat": "Gaming",
+    "tokens": "gaming experiential",
+    "edition": 21,
+    "source_name": "Bleeding Cool",
+    "source_url": "https://bleedingcool.com/games/epic-games-launches-new-hyundai-collab-ahead-of-world-cup/",
+    "date": "2026-06-09",
+    "image_url": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2026/06/Epic-Games-x-Hyundai-Collab-2026-World-Cup.jpeg"
+  },
+  "fortnite-spider-man-film-launch": {
+    "cat": "Gaming",
+    "tokens": "gaming",
+    "edition": 21,
+    "source_name": "Future of the Force",
+    "source_url": "https://thefutureoftheforce.com/2026/07/29/the-fortnite-x-spider-man-brand-new-day-collaboration-swings-into-battle-royale/",
+    "date": "2026-07-29",
+    "image_url": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2026/07/The-Fortnite-x-Spider-Man-Brand-New-Day-Collaboration-Swings-Into-Battle-Royale.jpg"
+  },
+  "meow-wolf-phenomenomaly-live": {
+    "cat": "Interactive",
+    "tokens": "interactive experiential",
+    "edition": 21,
+    "source_name": "PR Newswire",
+    "source_url": "https://www.prnewswire.com/news-releases/meow-wolfs-phenomenomaly-an-immersive-performance-spectacle-opens-in-all-five-exhibitions-today-302792736.html",
+    "date": "2026-06-05",
+    "image_url": "https://storage.ghost.io/c/4a/4c/4a4c4747-13cd-49f5-9bc3-7bc45024a366/content/images/2026/05/Web_Large-DEN_PHENOM_HIRES_SELECT-AtlasMedia-EricScire_05393.jpg"
+  },
+  "dataland-museum-ai-art-la": {
+    "cat": "Interactive",
+    "tokens": "interactive ai",
+    "edition": 21,
+    "source_name": "Blooloop",
+    "source_url": "https://blooloop.com/refik-anadol-dataland-opening-2026/",
+    "date": "2026-06-20",
+    "image_url": "https://blooloop.com/media-library/surreal-forest-scene-with-vibrant-colors-and-intricate-reflections-on-a-mirrored-surface.jpg?id=61902236&width=1245&height=700&quality=95&coordinates=0%2C75%2C0%2C75"
+  },
+  "nvidia-siggraph-2026-ai-agents": {
+    "cat": "AI",
+    "tokens": "ai cgi",
+    "edition": 21,
+    "source_name": "UC Today",
+    "source_url": "https://www.uctoday.com/immersive-workplace-xr-tech/nvidia-omniverse-libraries-agent-toolkit-siggraph-2026/",
+    "date": "2026-07-21",
+    "image_url": "https://www.uctoday.com/wp-content/uploads/2026/07/ro-2026-07-21T123012.845.jpg"
+  },
+  "tourism-malaysia-ai-video-backlash": {
+    "cat": "AI",
+    "tokens": "ai",
+    "edition": 21,
+    "source_name": "ContentGrip",
+    "source_url": "https://www.contentgrip.com/citrawarna-ai-video-backlash/",
+    "date": "2026-07-07",
+    "image_url": "https://2ud5y9rdc5.ucarecd.net/8428623a-3b92-4f76-a21e-27f4a0401ecb/"
+  },
+  "svedka-s-shake-your-bots-off": {
+    "cat": "AI",
+    "tokens": "ai",
+    "edition": 21,
+    "source_name": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+    "date": "2026-02-08",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/svedkasuperbowl2026.png?w=1024"
+  },
+  "coachella-google-deepmind-built-tested-three": {
+    "cat": "AI",
+    "tokens": "ai",
+    "edition": 21,
+    "source_name": "Decrypt",
+    "source_url": "https://decrypt.co/365532/coachella-google-deepmind-ai-test-future-live-entertainment",
+    "date": "2026-04-26",
+    "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/04/coachella-2026-ai-cropped-gID_7.png@webp"
+  },
+  "ibm-s-ai-sports-club-turns": {
+    "cat": "AI",
+    "tokens": "ai",
+    "edition": 21,
+    "source_name": "BizBash",
+    "source_url": "https://www.bizbash.com/experiential-marketing/sxsw-2026-top-brand-events-and-activations",
+    "date": "2026-03-27",
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt725d5e066dc2264b/blt1bd6bea8ab4a2d3b/69c594cc3a4727cbfc7ebbba/ibm-sxsw26-4.jpg"
+  },
+  "2026-f1-miami-grand-prix-17": {
+    "cat": "Experiential",
+    "tokens": "experiential",
+    "edition": 21,
+    "source_name": "Event Marketer",
+    "source_url": "https://www.eventmarketer.com/article/f1-miami-2026-grand-prix-experiential/",
+    "date": "2026-05-15",
+    "image_url": "https://www.eventmarketer.com/wp-content/uploads/2026/05/amex-f1-miami-2026-eventmarketer-6-1.jpg"
+  },
+  "top-brand-activations-coachella-2026": {
+    "cat": "Experiential",
+    "tokens": "experiential",
+    "edition": 21,
+    "source_name": "BizBash",
+    "source_url": "https://www.bizbash.com/experiential-marketing/coachella-2026-top-brand-activations",
+    "date": "2026-04-17",
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt725d5e066dc2264b/bltd96ec59e6c80e37a/69e00075061435b888674e40/pinterest_coachella_2026_0144.jpg"
+  },
+  "sxsw-2026-18-experiential-ideas-themes": {
+    "cat": "Experiential",
+    "tokens": "experiential",
+    "edition": 21,
+    "source_name": "Event Marketer",
+    "source_url": "https://www.eventmarketer.com/article/sxsw-experiential-ideas-themes-worth-stealing/",
+    "date": "2026-03-20",
+    "image_url": "https://www.eventmarketer.com/wp-content/uploads/2026/03/sxsw-2026-blumhouse-monster-meetup-eventmarketer-6.jpg"
+  },
+  "best-beauty-pop-ups-2026-ski": {
+    "cat": "Experiential",
+    "tokens": "experiential",
+    "edition": 21,
+    "source_name": "BeautyMatter",
+    "source_url": "https://beautymatter.com/articles/irl-and-everywhere-beautys-best-pop-ups-of-2026-so-far",
+    "date": "2026-03-08",
+    "image_url": null
+  },
+  "garden-studios-advanced-virtual-production-stage": {
+    "cat": "CGI & VFX",
+    "tokens": "cgi",
+    "edition": 21,
+    "source_name": "TVBEurope",
+    "source_url": "https://www.tvbeurope.com/virtual-production/garden-studios-drives-virtual-production-capabilities-forward",
+    "date": "2026-03-19",
+    "image_url": "https://www.tvbeurope.com/wp-content/uploads/2026/03/Garden-Studios-Virtual-Production-Stage-scaled.jpg"
+  },
+  "television-city-orbital-studios-partner-hollywood": {
+    "cat": "CGI & VFX",
+    "tokens": "cgi",
+    "edition": 21,
+    "source_name": "TV Tech",
+    "source_url": "https://www.tvtechnology.com/production/virtual-production/television-city-orbital-studios-partner-on-new-hollywood-virtual-production-studio",
+    "date": "2026-07-06",
+    "image_url": null
+  },
+  "clear-angle-studios-modular-volumetric-capture": {
+    "cat": "CGI & VFX",
+    "tokens": "cgi",
+    "edition": 21,
+    "source_name": "Post Magazine",
+    "source_url": "https://www.postmagazine.com/Press-Center/Daily-News/2026/Clear-Angle-Studios-introduces-Volumetric-Captur.aspx",
+    "date": "2026-06-10",
+    "image_url": null
+  },
+  "inside-arcturus-dynamic-gaussian-splat-capture": {
+    "cat": "CGI & VFX",
+    "tokens": "cgi",
+    "edition": 21,
+    "source_name": "Radiance Fields",
+    "source_url": "https://radiancefields.com/inside-the-splat-capture-behind-mrbeast-s-500m-subscriber-video",
+    "date": "2026-07-31",
+    "image_url": null
+  },
+  "metallica-24-show-life-burns-faster": {
+    "cat": "Concert visuals",
+    "tokens": "concerts",
+    "edition": 21,
+    "source_name": "Consequence",
+    "source_url": "https://consequence.net/2026/02/metallica-2026-residency-las-vegas-sphere/",
+    "date": "2026-02-25",
+    "image_url": "https://consequence.net/wp-content/uploads/2026/02/Metallica-Press.jpeg?quality=80"
+  },
+  "illenium-turns-sphere-neo-space-opera": {
+    "cat": "Concert visuals",
+    "tokens": "concerts",
+    "edition": 21,
+    "source_name": "Art Threat",
+    "source_url": "https://artthreat.net/6601-20209-illenium-sphere-residency-odyssey-debuts-with-cinematic-electronic-opera/",
+    "date": "2026-03-07",
+    "image_url": "https://artthreat.net/wp-content/uploads/2026/03/64075-illenium-sphere-residency-odyssey-debuts-with-cinematic-electronic-opera.jpg-scaled.png"
+  },
+  "tomorrowland-consciencia-ambitious-mainstage-ever": {
+    "cat": "Concert visuals",
+    "tokens": "concerts",
+    "edition": 21,
+    "source_name": "Creative Boom",
+    "source_url": "https://www.creativeboom.com/news/tomorrowland-2026s-stunning-designs-highlight-what-creativity-can-add-in-a-sea-of-samey-festivals/",
+    "date": "2026-07-23",
+    "image_url": "https://www.creativeboom.com/upload/articles/b5/b55e6a08b19004e0c5e6595c5da81c8ff692ca21_1280.jpg"
+  },
+  "soda-stereo-take-touring-digital-frontman": {
+    "cat": "Concert visuals",
+    "tokens": "concerts",
+    "edition": 21,
+    "source_name": "Forbes",
+    "source_url": "https://www.forbes.com/sites/andymeek/2026/07/28/argentine-rockers-soda-stereo-transform-arena-concerts-with-a-touring-digital-frontman/",
+    "date": "2026-07-28",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a69445bc3c37ed9a24d1305/Soda-Stereo-performing-on-stage-in-concert-/0x0.jpg"
+  },
+  "cleveland-museum-art-artlens-reimagined-gallery": {
+    "cat": "Interactive",
+    "tokens": "interactive",
+    "edition": 21,
+    "source_name": "Blooloop",
+    "source_url": "https://blooloop.com/news/cleveland-museum-art-ai-experiences",
+    "date": "2026-07-28",
+    "image_url": "https://blooloop.com/media-library/person-viewing-a-large-colorful-landscape-painting-in-a-gallery.jpg?id=67540909&width=1245&height=700&quality=95"
+  },
+  "fifa-gamefam-fifa-world-cup-2026": {
+    "cat": "Gaming",
+    "tokens": "gaming",
+    "edition": 21,
+    "source_name": "GamesBeat",
+    "source_url": "https://gamesbeat.com/gamefam-launch-fifa-world-cup-2026-super-soccer-roblox/",
+    "date": "2026-06-08",
+    "image_url": "https://i0.wp.com/www.digitalreviews.net/wp-content/uploads/2026/06/Roblox_FIFA2026_FSS_Ball_Challenge_Brazil_VS_Argentina.jpg?resize=1200%2C628&ssl=1"
+  },
+  "lil-tecca-headline-fortnite-festival-season": {
+    "cat": "Gaming",
+    "tokens": "gaming",
+    "edition": 21,
+    "source_name": "NME",
+    "source_url": "https://www.nme.com/news/gaming-news/lil-tecca-headline-fortnite-festival-season-15-skins-emotes-jam-tracks-3959394",
+    "date": "2026-07-28",
+    "image_url": "https://www.nme.com/wp-content/uploads/2026/07/Lil-Tecca-Fortnite-696x442.jpg"
+  },
+  "minecraft-experience-tops-one-million-visitors": {
+    "cat": "Gaming",
+    "tokens": "gaming",
+    "edition": 21,
+    "source_name": "BroadwayWorld",
+    "source_url": "https://www.broadwayworld.com/industry/article/MINECRAFT-EXPERIENCE-Tops-One-Million-Visitors-as-MOONLIGHT-TRAIL-Debuts-20260728",
+    "date": "2026-07-28",
+    "image_url": null
+  },
+  "game-publishers-activated-san-diego-comic": {
+    "cat": "Gaming",
+    "tokens": "gaming",
+    "edition": 21,
+    "source_name": "Event Marketer",
+    "source_url": "https://www.eventmarketer.com/article/sdcc-2026-part-1/",
+    "date": "2026-07-30",
+    "image_url": "https://www.eventmarketer.com/wp-content/uploads/2026/07/adult-swim-green-sdcc-2026-eventmarketer-4.jpg"
+  },
+  "vivid-sydney-2026-expands-day-night": {
+    "cat": "Concert visuals",
+    "tokens": "concerts",
+    "edition": 21,
+    "source_name": "Destination NSW",
+    "source_url": "https://www.destinationnsw.com.au/newsroom/first-look-at-australia-s-biggest-festival-with-100-days-to-go",
+    "date": "2026-02-12",
+    "image_url": "https://cdn.sanity.io/images/faycjvmy/production/7918c459958fca4b48e1b0fcae9377c00c6f777c-2449x1633.jpg"
+  },
+  "robotic-art-ai-driven-installations-lead": {
+    "cat": "Interactive",
+    "tokens": "interactive",
+    "edition": 21,
+    "source_name": "designboom",
+    "source_url": "https://www.designboom.com/technology/sonar-d-2026-festival-exhibitions-installations-barcelona-june-2026/",
+    "date": "2026-06-03",
+    "image_url": "https://static.designboom.com/wp-content/uploads/2026/05/sonar-d-2026-festival-exhibitions-installations-barcelona-june-2026-designboom600.jpg"
+  },
+  "80-000-visitors-swarm-tokyo-lights": {
+    "cat": "Interactive",
+    "tokens": "interactive",
+    "edition": 21,
+    "source_name": "Tokyo Metropolitan Government",
+    "source_url": "https://www.english.metro.tokyo.lg.jp/w/000-101-010299",
+    "date": "2026-07-29",
+    "image_url": null
+  },
+  "sphere-entertainment-intent-develop-smaller-scale": {
+    "cat": "Concert visuals",
+    "tokens": "concerts",
+    "edition": 21,
+    "source_name": "Sphere Entertainment Co.",
+    "source_url": "https://www.sphereentertainmentco.com/sphere-entertainment-the-state-of-maryland-prince-georges-county-and-peterson-companies-announce-intent-to-develop-a-sphere-at-national-harbor/",
+    "date": "2026-01-18",
+    "image_url": null
+  },
+  "meta-essilorluxottica-meta-glasses-ai-eyewear": {
+    "cat": "Spatial & AR",
+    "tokens": "spatial",
+    "edition": 21,
+    "source_name": "Meta Newsroom",
+    "source_url": "https://www.meta.com/blog/introducing-meta-glasses-a-range-of-new-styles-from-meta-and-essilorluxottica-starting-at-299/",
+    "date": "2026-06-23",
+    "image_url": null
+  },
+  "visionos-27-gives-apple-vision-pro": {
+    "cat": "Spatial & AR",
+    "tokens": "spatial",
+    "edition": 21,
+    "source_name": "AppleInsider",
+    "source_url": "https://appleinsider.com/articles/26/06/08/spatial-computing-apple-intelligence-upgrades-collide-in-visionos-27",
+    "date": "2026-06-08",
+    "image_url": "https://photos5.appleinsider.com/gallery/67801-143060-Apple-Vision-Pro-countertop-xl.jpg"
+  },
+  "google-samsung-confirm-android-xr-glasses": {
+    "cat": "Spatial & AR",
+    "tokens": "spatial",
+    "edition": 21,
+    "source_name": "9to5Google",
+    "source_url": "https://9to5google.com/2026/05/19/google-samsung-android-xr-glasses-styles-release-date/",
+    "date": "2026-05-19",
+    "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/android-xr-glasses-styles-gentle-monster-warby-parker-1.jpg?quality=82&strip=all&w=1600"
+  },
+  "snap-brings-ai-lenses-luxury-fashion": {
+    "cat": "Spatial & AR",
+    "tokens": "spatial",
+    "edition": 21,
+    "source_name": "MediaPost",
+    "source_url": "https://www.mediapost.com/publications/article/412696/snap-brings-ai-lenses-to-luxury-fashion-campaigns.html",
+    "date": "2026-02-10",
+    "image_url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/02/10/snapluxuryads-600_Dd5pzB9.jpg"
+  },
+  "lightroom-aardman-larger-than-life-360": {
+    "cat": "Interactive",
+    "tokens": "interactive",
+    "edition": 21,
+    "source_name": "Aardman",
+    "source_url": "https://www.aardman.com/latest-news/2026/march/lightroom-and-aardman-announce-larger-than-life-starring-wallace-gromit-shaun-and-more/",
+    "date": "2026-03-10",
+    "image_url": "https://images.lightroom.uk/uploads/2026/03/LTL_StaticButtons_ImageUpdate10_1920x1080.jpeg"
+  },
+  "area15-signs-more-world-class-tenants": {
+    "cat": "Experiential",
+    "tokens": "experiential",
+    "edition": 21,
+    "source_name": "Blooloop",
+    "source_url": "https://blooloop.com/area15-new-tenants-expansion/",
+    "date": "2026-01-14",
+    "image_url": "https://blooloop.com/media-library/area15.png?id=62803300&width=1245&height=700&quality=95"
+  },
+  "artechouse-houston-blooming-wonders-ai-driven": {
+    "cat": "Interactive",
+    "tokens": "interactive",
+    "edition": 21,
+    "source_name": "ARTECHOUSE",
+    "source_url": "https://www.artechouse.com/program/blooming-wonders-houston/",
+    "date": "2026-03-06",
+    "image_url": null
+  },
+  "media-cymru-premieres-immersive-works-artio": {
+    "cat": "Interactive",
+    "tokens": "interactive",
+    "edition": 21,
+    "source_name": "Business News Wales",
+    "source_url": "https://businessnewswales.com/media-cymru-to-launch-2026-showcase-year-at-outernet-london-with-premiere-of-immersive-innovation/",
+    "date": "2026-03-03",
+    "image_url": null
+  }
+}

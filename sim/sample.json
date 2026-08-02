@@ -1,0 +1,46 @@
+{
+  "issue_no": "05",
+  "issue_tag": "JUL 2026",
+  "edition_title": "When the room outperforms the ad",
+  "hero": {
+    "kicker": "Sensa Signal",
+    "headline": "The crowd became the campaign.",
+    "sub": "This week: three activations where the audience did the advertising — hands up, phones down, and a room that answered back."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "kicker": "Field Notes",
+      "headline": "Nobody filmed the best moment. Everybody remembered it.",
+      "body": "The strongest activation this month gave people something to do, not something to watch. When a crowd controls the light, they stop being spectators and start negotiating with the space — and the memory outlives any hero shot.",
+      "cta": "Read the field note ›"
+    },
+    {
+      "role": "in-the-lab",
+      "kicker": "In the Lab",
+      "headline": "A surface that reads intention, not just touch.",
+      "body": "Our newest interactive layer answers a wave, a lean, a held breath — no menus, no onboarding. The lower the barrier to interact, the higher the hands go. Instruction kills wonder; we design it out.",
+      "cta": "See how it listens ›"
+    },
+    {
+      "role": "craft",
+      "kicker": "Craft",
+      "headline": "The best interactive work is the kind nobody knows we made.",
+      "body": "White-label means your name on the marquee and ours nowhere in sight. Building magic that vanishes into another brand takes a particular restraint — the seams are the enemy, and closing them is the whole job.",
+      "cta": "Behind the veil ›"
+    }
+  ],
+  "video": {
+    "kicker": "Watch",
+    "headline": "Light that answers back.",
+    "body": "One take, no cuts: a blank wall learns a crowd, holds a beat, and blooms. From black, to first touch, to a room full of it.",
+    "duration": "01:00"
+  },
+  "invitation": {
+    "kicker": "An open invitation",
+    "headline": "Have something impossible in mind?",
+    "body": "Tell us what it looks like when you close your eyes. We will render it — under your name.",
+    "button": "Touch it"
+  },
+  "sources": ["sample"]
+}

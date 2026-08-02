@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "comic-con-2026-brand-offsites",
+    "headline": "Comic-Con's brand offsites became buildings, and the queue became the product",
+    "dek": "The news is not that brands showed up at Comic-Con. It is that the offsite has become standing architecture and personalized AI media, and a three-hour line is now an accepted unit of engagement.",
+    "focus_keyword": "comic-con brand offsites",
+    "read_minutes": 3,
+    "meta_description": "Comic-Con 2026 drew 130,000-plus fans as brand offsites went building-scale. The real signal for producers: dwell time and per-guest AI media.",
+    "why": "It shows where budget and attention are heading: offsites are becoming building-scale, real-time content engines measured in dwell time, not booth scans.",
+    "takeaway": "Stop pitching a photo backdrop and a booth. Pitch a responsive, per-guest environment that earns its queue and hands every visitor something personalized to share.",
+    "body": [
+      {"type":"para","text":"San Diego Comic-Con 2026 ran from July 23 to 26 and drew more than 130,000 attendees across four days. The most-photographed structure was not inside the convention center. Sony PlayStation wrapped the Omni San Diego Hotel in a 24,000-square-foot facade for Marvel's Wolverine, and the line to get in stretched to three hours. A few blocks away, Nickelodeon's Funergy Factory, produced by Gramercy Tech, used generative AI to create personalized slimed videos that guests received by QR code. HBO Max's Lanterns Training HQ in the Gaslamp District came from NVE Experience Agency, and FX parked four American Horror Story ice cream trucks serving twelve season-themed flavors."},
+      {"type":"para","text":"The real signal is not that studios rented activations. It is that the offsite has become standing architecture and personalized media, and that a three-hour queue is now counted as engagement rather than friction. The center of gravity has moved from the show floor to the street, and the unit of value has moved from a booth visit to a dwell time measured in hours."},
+      {"type":"subhead","text":"The queue is now the product"},
+      {"type":"para","text":"A 24,000-square-foot building wrap does not read as a booth. It reads as a landmark, and a landmark earns a line. When people accept a three-hour wait, they are telling you the experience is scarce enough to be worth it, and every minute in that line is time inside a branded environment being photographed and shared. The producer's job is shifting from moving traffic through quickly to holding attention with intent, which is a different design problem with different metrics."},
+      {"type":"subhead","text":"What a producer can build now"},
+      {"type":"para","text":"Nickelodeon's slimed videos are the tell. Generative AI let a mass activation hand every guest a personalized artifact, produced on site and delivered by QR code, without a render farm or a post team waiting days. That was not practical at festival scale a couple of years ago. A producer can now promise personalization to a crowd of thousands and actually deliver it, turning a single set into thousands of individualized takeaways. When you pair that with real-time environments, the same footprint can restage itself per guest instead of playing one fixed loop for everyone. Our [activation kits](/kits/activations) are built around exactly that shift, from fixed set pieces to responsive, per-guest scenes."},
+      {"type":"subhead","text":"Why this belongs in an experiential toolkit"},
+      {"type":"para","text":"Four studios, four different plays, one common thread: the offsite is now a real-time content engine, not a static display. A building wrap, a personalized-video pipeline, a training-HQ world and a themed food fleet all compete for the same currency, which is dwell time and share rate. Producers who can design environments that respond, personalize and restage in real time will win that currency at lower marginal cost than teams still fabricating one bespoke set per campaign."},
+      {"type":"para","text":"That is the layer we build. SensaLab is the white-label real-time 3D and immersive layer agencies and brands use to design and run experiences under their own name, so an offsite can go from a photo backdrop to a responsive world that earns its line."}
+    ]
+  },
+  {
+    "slug": "volumetric-capture-unity-gaussian-splatting",
+    "headline": "Volumetric capture now drops straight into Unity, with splats and meshes side by side",
+    "dek": "The news is not that 4Dviews added Gaussian splatting. It is that a captured human can enter a Unity real-time scene without a conversion step, and close-up meshes and mid-distance splats stop being a one-time choice.",
+    "focus_keyword": "volumetric capture unity",
+    "read_minutes": 3,
+    "meta_description": "4Dviews' Unity plug-in exports volumetric capture as Gaussian splats or meshes, no conversion step. Debuted at AWE USA 2026 in Long Beach.",
+    "why": "It signals where real-time content standards are heading: captured humans become engine-ready assets, and pipeline friction, not capture quality, was the real cost.",
+    "takeaway": "Stop treating volumetric capture as a fragile one-off render. Pitch captured performers as reusable, Unity-ready assets, meshes for close-ups and splats for the wider shots.",
+    "body": [
+      {"type":"para","text":"At AWE USA 2026, held June 15 to 18 at the Long Beach Convention Center, 4Dviews showed a new Unity plug-in at booth #935. It lets the company's HOLOSYS Splat software export PLY and SPZ Gaussian-splat files directly into Unity, creating a dual pipeline that carries both mesh-and-texture and Gaussian-splat workflows. The system exports three formats, 4DS for mesh and textures plus SPZ and PLY, and supports both offline playback and real-time rendering. 4Dviews recommends mesh and textures for close shots and Gaussian splats for medium-distance viewing, citing better capture of hair, fur, and reflective and translucent materials."},
+      {"type":"para","text":"The real signal is not that another vendor adopted Gaussian splatting. It is that a captured performance can now enter a real-time engine without a conversion detour, and that the old trade-off, clean geometry or convincing hair, becomes a per-shot decision inside one project. The cost that dropped is pipeline friction, the hours normally spent moving a volumetric asset between tools before it renders."},
+      {"type":"subhead","text":"What a producer can do now"},
+      {"type":"para","text":"Until now, dropping a real captured human into a Unity experience meant a chain of exports, conversions and cleanup before anything played back. A direct export path collapses that. A producer can hand a captured performer to a Unity team the way they already hand over a model, then choose meshes for the moments the audience gets close and splats for the wider shots where hair and translucency sell the realism. That is two looks from one capture, decided per shot rather than locked at capture time."},
+      {"type":"subhead","text":"Why splats and meshes both matter"},
+      {"type":"para","text":"Gaussian splats are strong at exactly the things polygon meshes struggle with, the soft edges of hair and fur, reflections and translucent surfaces, at medium viewing distance. Meshes still win up close, where silhouette and contact matter. Keeping both in one project means you stop betting a whole activation on a single representation. Paired with [real-time rendering](/nvidia-real-time-rendering) on the playback side, the same captured performance can hold up on an LED wall, a headset and a phone without a separate asset build for each."},
+      {"type":"subhead","text":"Why this belongs in an experiential toolkit"},
+      {"type":"para","text":"Volumetric capture has always promised a real person you can walk around. The blocker was rarely the capture, it was everything after it, the fragile handoff into the engine that actually runs the show. A direct-to-Unity path with two complementary representations makes captured humans a practical building block for activations, not a research demo. For producers, that means a talent likeness or a live performance can become a reusable, engine-ready asset instead of a one-off render."},
+      {"type":"para","text":"That is the layer we assemble. SensaLab is the white-label real-time 3D and immersive layer agencies and brands use to design and run experiences under their own name, and a clean capture-to-engine path is exactly the plumbing that keeps a live show looking like the pitch."}
+    ]
+  },
+  {
+    "slug": "metahuman-5-8-crowds-mocap",
+    "headline": "MetaHuman 5.8 makes crowds, full-body capture and a single webcam the new baseline",
+    "dek": "The news is not that Epic updated MetaHuman. It is that populating a scene with thousands of people, and capturing an actor, now need neither a crowd budget nor a mocap stage.",
+    "focus_keyword": "metahuman 5.8",
+    "read_minutes": 3,
+    "meta_description": "MetaHuman 5.8 adds crowd Collections, single-camera markerless mocap and full-body Mesh-to-MetaHuman, with RigLogic open-sourced under MIT.",
+    "why": "It signals a falling cost floor for believable digital humans: crowds, capture and rigging that once needed a volume and a team now run on a webcam and a laptop.",
+    "takeaway": "Stop scoping digital humans as a specialist line item with a mocap stage. Pitch webcam-captured performances and crowd density as standard, in-scene settings.",
+    "body": [
+      {"type":"para","text":"MetaHuman 5.8 ships inside Unreal Engine 5.8 with three changes worth a producer's attention. MetaHuman Collections, still experimental, can populate a real-time scene with hundreds of MetaHumans on mobile and thousands on higher-end platforms. A new MetaHuman Animator Markerless Motion Capture plugin records face, body, or both at once from a single camera placed off the actor, including a webcam. Mesh-to-MetaHuman, previously limited to heads, now converts a full body of arbitrary topology into a fully rigged MetaHuman in one operation, and Epic released the core RigLogic and DNA libraries on GitHub under an MIT license as OpenRigLogic."},
+      {"type":"para","text":"The real signal is not a version bump. It is that three separate line items, a crowd, a mocap stage and a character rig, are collapsing toward a new default where a webcam and a laptop cover work that used to need a volume, a suit and a rigging team. The cost that moved is the floor, the minimum spend to get believable digital humans moving in a real-time scene."},
+      {"type":"subhead","text":"What a producer can do now"},
+      {"type":"para","text":"Markerless capture from a single off-actor camera means a director can record a face and body performance without booking a mocap stage or suiting anyone up. A webcam and the plugin get you a usable take. Mesh-to-MetaHuman on full bodies means a scanned or sculpted character becomes a rigged, animatable human in one step instead of a rigging pass measured in days. Together, they shorten the distance from an idea for a character to that character performing on screen, from weeks to something closer to an afternoon."},
+      {"type":"subhead","text":"Crowds without a crowd budget"},
+      {"type":"para","text":"Collections is the quiet one. Filling a real-time scene with thousands of distinct humans used to be a specialist crowd task with its own tools and cost. Being able to populate a scene with hundreds on mobile and thousands on higher-end hardware turns crowd density into a setting rather than a project. For an activation, that is the difference between a stadium that looks empty and one that feels alive, running live on the hardware in the room."},
+      {"type":"subhead","text":"Why this belongs in an experiential toolkit"},
+      {"type":"para","text":"The MIT-licensed OpenRigLogic release matters more than it looks. Putting the core rig logic in the open, under a permissive license, lets studios build on the human-animation stack without licensing friction, which is how a technique stops being a vendor demo and becomes shared infrastructure. Paired with [virtual production](/hollywood-studio-virtual-production) workflows, a producer can staff a digital-human shot with a small team and standard hardware, then reuse the rig across a headset piece, an LED stage and a web build."},
+      {"type":"para","text":"That is the layer we operate. SensaLab is the white-label real-time 3D and immersive layer agencies and brands use to design and run experiences under their own name, so a believable digital crowd or a captured performer arrives as a dependable part of the show rather than a gamble."}
+    ]
+  }
+]

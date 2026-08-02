@@ -1,0 +1,39 @@
+{
+  "issue_no": "16",
+  "edition_title": "Premium brands started shooting for the headset",
+  "subject": "Premium brands are now shooting content made for the headset",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signal",
+    "statement": "Premium brands started shooting for the headset",
+    "sub": "Spatial content stopped being tech demos. Real brands are now filming stories meant to be lived inside, not watched on a rectangle."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "A football giant shot a film for spatial",
+      "body": "Apple and Real Madrid teamed on an immersive documentary filmed during the 2025 to 2026 Champions League, with more than 30 Blackmagic immersive cameras capturing the match up close. It arrives in 2026 as premium content shot specifically for spatial viewing.",
+      "why": "When a club of that size films for the headset first, spatial becomes a brand channel, not a science project.",
+      "cta": "See the shift ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "The platform grew up around real content",
+      "body": "visionOS 26 turns widgets spatial, adds lifelike depth to scenes, and supports 180 degree, 360 degree and wide field content from Insta360, GoPro and Canon. The pipeline to capture and publish spatial stories is finally something a normal crew can use.",
+      "why": "Standard cameras feeding a standard workflow means a brand can produce spatial content without a research lab.",
+      "cta": "Read the pipeline ›"
+    },
+    {
+      "role": "craft",
+      "statement": "Spatial is already working inside companies",
+      "body": "It is not only marketing. KLM built an Engine Shop app that speeds up aircraft maintenance with spatial computing. The same depth that sells a story on the outside is training and guiding teams on the inside.",
+      "why": "A tool that both markets and operates is a tool that survives the hype cycle. Spatial is passing that test.",
+      "cta": "Look inside ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Make the story something they stand inside",
+    "body": "Spatial rewards depth, presence and place. We design and produce immersive brand stories for the headset and the room, white label, under your name.",
+    "button": "Touch it"
+  }
+}

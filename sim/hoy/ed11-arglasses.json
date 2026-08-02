@@ -1,0 +1,39 @@
+{
+  "issue_no": "11",
+  "edition_title": "The face computer got a price",
+  "subject": "AR glasses got price tags and ship dates this summer",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signal",
+    "statement": "The face computer got a price and a ship date",
+    "sub": "Consumer AR glasses stopped being a someday demo. This summer they got price tags, ship dates, and the main stage at the industry's biggest show."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "Snap put a price on the face computer",
+      "body": "Snap unveiled its Specs AR glasses at Augmented World Expo in June: 2,195 dollars, preorders open, shipping this fall in the US, UK and France. A feature called EyeConnect lets two wearers share the same AR just by making eye contact.",
+      "why": "Shared AR by eye contact is a group mechanic. That is an activation waiting to happen, not a solo gadget.",
+      "cta": "See the play ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "AR went to work, not just play",
+      "body": "VITURE showed Helix, AI safety eyewear built on NVIDIA's XR platform for industrial and clinical work. The same week, Samsung revealed new glasses in the July roundups. The category is splitting into consumer and pro, and both keep getting lighter.",
+      "why": "When the hardware stops needing an explanation, more people will actually wear it at your event.",
+      "cta": "Read the split ›"
+    },
+    {
+      "role": "craft",
+      "statement": "The winning feature is shared, not solo",
+      "body": "Across every launch the through line is togetherness: glasses that let people see the same layer at the same moment. The lonely headset is losing to the shared overlay.",
+      "why": "Shared beats solo, again. The brands that design for two or twenty win the room.",
+      "cta": "Design for the room ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Build the shared layer, not the gadget",
+    "body": "AR is finally light enough to hand out at an activation. We design the shared, on site AR layer for brands and agencies, white label, under your name.",
+    "button": "Touch it"
+  }
+}

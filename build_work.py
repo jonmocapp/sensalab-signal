@@ -1,0 +1,112 @@
+# -*- coding: utf-8 -*-
+"""Work with us / project brief page. A natural questionnaire (project type, budget, timeline,
+the moment) whose answers together give SensaLab the full context. Netlify form 'signal-brief'."""
+import pathlib
+from signal_content import BLOG, FONT, ISO
+DEST = pathlib.Path(r"C:\Users\jonmo\OneDrive\Desktop\SensaLab\06-Web-y-Dev\Newsletter\blog")
+BASE = "https://signal.sensalab.io"
+
+PROJECT = ["An activation or BTL moment","A convention stand or booth","A product launch",
+ "A corporate or internal event","A retail experience","A live show or stage","Something else / not sure yet"]
+BUDGET = ["Under 25,000 USD","25,000 to 50,000","50,000 to 100,000","100,000 to 250,000","250,000 or more","Not sure yet"]
+TIMELINE = ["Within a month","One to three months","Three to six months","Just exploring for now"]
+
+def opts(name, arr, ph):
+    o = '<option value="" disabled selected>%s</option>' % ph
+    o += "".join('<option>%s</option>' % a for a in arr)
+    return '<select name="%s" required>%s</select>' % (name, o)
+
+CSS = r"""
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--ink:#1C1956;--body:#0B0F0F;--paper:#F4F3F3;--mut:#787878;--glass:rgba(255,255,255,.58);--gline:rgba(255,255,255,.7)}
+html{scroll-behavior:smooth}
+body{font-family:'Apparat','Helvetica Neue',Arial,sans-serif;color:var(--body);background:#EEF1FB;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit;text-decoration:none}img{display:block;max-width:100%}
+:focus-visible{outline:3px solid #3D76E8;outline-offset:2px;border-radius:8px}
+.bg{position:fixed;inset:0;overflow:hidden;z-index:0;pointer-events:none}
+.blob{position:absolute;border-radius:50%;filter:blur(72px);opacity:.42;pointer-events:none}
+.b1{width:50vw;height:50vw;left:-16vw;top:-16vw;background:radial-gradient(circle,#32BFFC,transparent 62%)}
+.b2{width:46vw;height:46vw;right:-14vw;bottom:-18vw;background:radial-gradient(circle,#B55CB7,transparent 62%)}
+main{position:relative;z-index:1}
+.chrome{position:fixed;top:16px;left:0;right:0;z-index:9999;display:flex;justify-content:space-between;padding:0 18px;pointer-events:none}
+.chrome a{pointer-events:auto;font:800 13px/1 'Apparat',Arial,sans-serif;padding:11px 18px;border-radius:999px;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
+.sigback{background:rgba(255,255,255,.78);color:#1C1956;border:1px solid rgba(255,255,255,.85);box-shadow:0 8px 24px rgba(28,25,86,.16)}
+.wrap{max-width:760px;margin:0 auto;padding:112px 22px 90px}
+.eyebrow{display:inline-flex;align-items:center;gap:10px;font-weight:800;font-size:12px;letter-spacing:.14em;color:var(--ink);opacity:.78;margin-bottom:14px}
+.eyebrow i{width:8px;height:8px;border-radius:50%;background:linear-gradient(135deg,#32BFFC,#B55CB7)}
+h1{font-weight:900;font-size:clamp(34px,5.4vw,54px);line-height:1.03;letter-spacing:-.03em;color:var(--ink);max-width:16ch}
+.lead{margin-top:18px;font-weight:500;font-size:clamp(16px,1.8vw,19px);line-height:1.6;color:var(--mut);max-width:54ch}
+.reply{margin-top:12px;font-weight:700;font-size:14px;color:var(--ink);opacity:.82}
+.card{margin-top:34px;background:var(--glass);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid var(--gline);border-radius:26px;box-shadow:0 18px 50px rgba(28,25,86,.10);padding:clamp(26px,4vw,42px)}
+.grp{margin-bottom:26px}
+.grp>.gl{font-weight:800;font-size:12px;letter-spacing:.12em;color:var(--mut);margin-bottom:14px}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:560px){.row{grid-template-columns:1fr}}
+label.f{display:block;margin-bottom:14px}
+label.f span{display:block;font-weight:700;font-size:14px;color:var(--ink);margin-bottom:6px}
+input,select,textarea{width:100%;border:1px solid rgba(28,25,86,.16);border-radius:14px;padding:14px 16px;font:500 15px 'Apparat',Arial,sans-serif;background:rgba(255,255,255,.75);color:var(--body);outline:none;transition:border-color .2s,box-shadow .2s}
+input:focus,select:focus,textarea:focus{border-color:#6060BE;box-shadow:0 0 0 4px rgba(96,96,190,.16)}
+textarea{min-height:110px;resize:vertical}
+select{appearance:none;-webkit-appearance:none;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%231C1956' stroke-width='3'><path d='M6 9l6 6 6-6'/></svg>");background-repeat:no-repeat;background-position:right 16px center;padding-right:42px}
+.submit{border:0;border-radius:999px;padding:16px 34px;font-weight:800;font-size:16px;color:#F4F3F3;background:linear-gradient(90deg,#3D76E8,#6060BE 55%,#B55CB7);cursor:pointer;transition:transform .2s}
+.submit:hover{transform:translateY(-2px)}
+.hp{position:absolute;left:-5000px}
+.next{margin-top:14px;font-weight:500;font-size:13px;color:var(--mut)}
+.thanks{display:none;text-align:center;padding:20px 0}
+.thanks h2{font-weight:900;font-size:clamp(24px,3vw,32px);color:var(--ink);letter-spacing:-.02em}
+.thanks p{margin-top:12px;font-weight:500;font-size:16px;color:var(--mut)}
+.foot{position:relative;z-index:1;max-width:760px;margin:0 auto;padding:0 22px 60px;color:var(--mut);font-size:13px;line-height:1.9}
+.foot a{color:var(--ink)}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+"""
+JS = ("function sigSubmit(form,done){var pre=location.protocol==='file:'||/^(localhost$|127\\.|192\\.168\\.)/.test(location.hostname);"
+ "if(pre){done(true);return;}var d=new URLSearchParams(new FormData(form));"
+ "fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:d.toString()}).then(function(r){done(r.ok);}).catch(function(){done(false);});}"
+ "var f=document.getElementById('brief');f.addEventListener('submit',function(e){e.preventDefault();"
+ "try{if(window.plausible)plausible('brief_submit');}catch(_){ }"
+ "sigSubmit(f,function(ok){document.getElementById('formwrap').style.display='none';var t=document.getElementById('thanks');t.style.display='block';"
+ "t.querySelector('p').textContent=ok?'Thanks. We have your brief and will reply within one business day, from Los Angeles.':'Almost. If you do not hear back within a day, email hello@sensalab.io and we will pick it up.';window.scrollTo({top:0,behavior:'smooth'});});});")
+
+def field(label, inner):
+    return '<label class="f"><span>%s</span>%s</label>' % (label, inner)
+
+HTML = ("<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta name=\"color-scheme\" content=\"light only\">"
+ "<title>Work with us | The Signal by SensaLab</title>"
+ "<meta name=\"description\" content=\"Tell us about your activation, event, or launch. A few natural questions so SensaLab can shape the right concept and reply with real context.\">"
+ "<link rel=\"canonical\" href=\"https://signal.sensalab.io/work.html\">"
+ "<meta name=\"robots\" content=\"index,follow\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"favicon-32.png\"><link rel=\"apple-touch-icon\" href=\"apple-touch-icon.png\">"
+ "<meta name=\"theme-color\" content=\"#F4F3F3\">"
+ "<meta property=\"og:type\" content=\"website\"><meta property=\"og:title\" content=\"Work with us, SensaLab\"><meta property=\"og:description\" content=\"Tell us about your activation, event, or launch.\"><meta property=\"og:image\" content=\"https://signal.sensalab.io/og.jpg\"><meta property=\"og:url\" content=\"https://signal.sensalab.io/work.html\">"
+ "<script defer data-domain=\"signal.sensalab.io\" src=\"https://plausible.io/js/script.js\"></script>"
+ "<style>" + FONT + CSS + "</style></head>"
+ "<body><div class=\"bg\"><div class=\"blob b1\"></div><div class=\"blob b2\"></div></div>"
+ "<div class=\"chrome\"><a class=\"sigback\" href=\"index.html\">&#8592; The Signal</a></div>"
+ "<main class=\"wrap\"><span class=\"eyebrow\"><i></i>Work with us</span>"
+ "<h1>Let us build the experience with you.</h1>"
+ "<p class=\"lead\">A few natural questions so we understand the moment before we talk. The more you share, the sharper the first idea we bring back. We work white label, so it ships under your brand.</p>"
+ "<p class=\"reply\">We reply within one business day, from Los Angeles.</p>"
+ "<div id=\"formwrap\"><form class=\"card\" id=\"brief\" name=\"signal-brief\" method=\"POST\" data-netlify=\"true\" netlify-honeypot=\"bot-field\">"
+ "<input type=\"hidden\" name=\"form-name\" value=\"signal-brief\"><p class=\"hp\"><label>Do not fill<input name=\"bot-field\"></label></p>"
+ "<div class=\"grp\"><div class=\"gl\">First, who are you</div>"
+ "<div class=\"row\">" + field("Your name", '<input name="name" required placeholder="Jane Rivera">') + field("Work email", '<input type="email" name="email" required placeholder="you@studio.com">') + "</div>"
+ + field("Company or agency", '<input name="company" placeholder="Studio or brand">') + "</div>"
+ "<div class=\"grp\"><div class=\"gl\">What are you creating</div>"
+ + field("Type of project", opts("project_type", PROJECT, "Choose the closest fit"))
+ + field("Tell us about the moment", '<textarea name="moment" required placeholder="The event, who it is for, and the feeling you want people to leave with."></textarea>') + "</div>"
+ "<div class=\"grp\"><div class=\"gl\">Scope</div>"
+ "<div class=\"row\">" + field("Rough budget", opts("budget", BUDGET, "Select a range")) + field("Timeline", opts("timeline", TIMELINE, "When is it")) + "</div>"
+ + field("Where is it happening", '<input name="location" placeholder="City, venue, or online">') + "</div>"
+ "<div class=\"grp\"><div class=\"gl\">Anything else</div>"
+ + field("Notes, links, references (optional)", '<textarea name="notes" placeholder="Deck, brief, moodboard, or a sentence on what success looks like."></textarea>') + "</div>"
+ "<button class=\"submit\" type=\"submit\">Send the brief &#8594;</button>"
+ "<p class=\"next\">What happens next: a real person reads it and comes back within one business day with a first take, not an autoresponder.</p>"
+ "</form></div>"
+ "<div class=\"thanks\" id=\"thanks\" role=\"status\"><h2>Got it.</h2><p></p></div>"
+ "</main>"
+ "<footer class=\"foot\"><p>Prefer email? <a href=\"mailto:hello@sensalab.io?subject=Working%20with%20SensaLab\">hello@sensalab.io</a> &middot; <a href=\"index.html\">The Signal</a> &middot; <a href=\"https://sensalab.io\">sensalab.io</a></p></footer>"
+ "<script>" + JS + "</script></body></html>")
+
+(BLOG/"work.html").write_text(HTML, encoding="utf-8")
+try: (DEST/"work.html").write_text(HTML, encoding="utf-8")
+except Exception: pass
+print("wrote work.html (%d KB)" % (len(HTML)//1024))

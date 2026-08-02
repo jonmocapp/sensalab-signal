@@ -1,0 +1,93 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>THE SIGNAL — SensaLab</title>
+<style>
+ :root{--bg:#07070C;--card:#0F0F17;--line:rgba(255,255,255,.10);--ink:#F4F3FA;--mut:#9C99B4;
+   --pur:#7B4DFF;--blu:#3D76E8;--grad:linear-gradient(90deg,#32BFFC,#3D76E8,#6060BE,#B55CB7);
+   --sans:'Helvetica Neue','Aeonik','Neue Haas Grotesk',Arial,system-ui,sans-serif;}
+ *{box-sizing:border-box;margin:0;padding:0} body{background:var(--bg);color:var(--ink);font-family:var(--sans);-webkit-font-smoothing:antialiased}
+ .wrap{max-width:680px;margin:0 auto;padding:0 20px 60px} .bar{height:4px;background:var(--grad)}
+ .mast{display:flex;align-items:center;justify-content:space-between;padding:26px 0 22px}
+ .wm{font-weight:800;font-size:22px;letter-spacing:-.02em} .wm b{color:var(--pur)}
+ .pill{display:inline-block;border:1px solid rgba(255,255,255,.38);border-radius:999px;padding:6px 13px;font-weight:700;font-size:10.5px;letter-spacing:.14em;color:#D9D7E8}
+ .issue{font-weight:700;font-size:11px;letter-spacing:.16em;color:var(--mut);text-transform:uppercase}
+ .kick{font-weight:800;font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--pur)}
+ .lede{font-weight:800;font-size:30px;line-height:1.12;letter-spacing:-.02em;margin:10px 0 4px} .lede .g,.say .g,.frame .say .g{color:var(--mut)}
+ .sub{color:var(--mut);font-size:15px;line-height:1.6;font-weight:500;margin-top:14px;max-width:560px}
+ .card{margin-top:40px}
+ .frame{position:relative;border-radius:18px;overflow:hidden;aspect-ratio:16/11;border:1px solid var(--line)}
+ .frame img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+ .frame .shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(7,7,12,.05) 30%,rgba(7,7,12,.86) 100%)}
+ .frame .num{position:absolute;top:14px;right:16px;font-weight:800;font-size:12px;color:rgba(255,255,255,.85);background:rgba(10,9,20,.5);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:5px 11px}
+ .frame .say{position:absolute;left:22px;right:22px;bottom:20px;font-weight:800;font-size:26px;line-height:1.1;letter-spacing:-.02em;text-shadow:0 2px 30px rgba(0,0,0,.5)}
+ .body{color:#C7C4D8;font-size:15px;line-height:1.62;font-weight:500;margin:16px 2px 0}
+ .why{margin:14px 2px 0;display:flex;gap:12px;align-items:center;background:rgba(255,255,255,.06);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:14px 16px}
+ .why .lbl{font-weight:800;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--pur);white-space:nowrap;border-right:1px solid rgba(255,255,255,.14);padding-right:12px}
+ .why .txt{font-weight:700;font-size:15.5px;line-height:1.35;letter-spacing:-.01em}
+ .cta{display:inline-block;margin-top:14px;color:var(--blu);font-weight:700;font-size:13.5px;text-decoration:none}
+ .play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:76px;height:76px;border-radius:50%;background:rgba(10,9,20,.5);border:2px solid rgba(255,255,255,.9)}
+ .play:after{content:"";position:absolute;top:50%;left:54%;transform:translate(-50%,-50%);border-left:22px solid #fff;border-top:14px solid transparent;border-bottom:14px solid transparent}
+ .invite{margin-top:44px;border:1px solid var(--line);border-radius:20px;padding:30px 26px;background:radial-gradient(120% 140% at 20% 0%,rgba(123,77,255,.16),transparent 60%),var(--card)}
+ .invite h3{font-weight:800;font-size:26px;line-height:1.12;letter-spacing:-.02em} .invite p{color:var(--mut);font-size:15px;line-height:1.6;margin:12px 0 20px;font-weight:500}
+ .btn{display:inline-block;background:var(--grad);color:#fff;text-decoration:none;font-weight:800;font-size:14px;border-radius:999px;padding:13px 30px}
+ .foot{margin-top:48px;border-top:1px solid var(--line);padding-top:22px;color:var(--mut);font-size:12px;line-height:1.7} .foot .sig{color:#D9D7E8;font-weight:700} a.q{color:#9Fb8FF;text-decoration:none}
+ @media(max-width:520px){.lede{font-size:24px}.frame .say{font-size:21px}.invite h3{font-size:22px}}
+</style></head><body>
+<div class="bar"></div>
+<div class="wrap">
+  <div class="mast"><div class="wm">Sensa<b>Lab</b></div>
+    <div style="display:flex;gap:12px;align-items:center;"><span class="issue">The Signal · #06</span><span class="pill">SENSALAB.IO</span></div></div>
+  <div class="kick">The July signal</div>
+  <h1 class="lede">Your audience just became a craft critic.<span class="g"></span></h1>
+  <p class="sub">A dome in Inglewood restaged a 25-year-old film, SIGGRAPH moved photoreal capture into standard pipelines, and the internet torched a too-smooth ogre. One lesson across all three: surfaces are strategy now.</p>
+  
+  <div class="card">
+    <div class="frame">
+      <img src="media/B-field-notes.webp" alt="">
+      <div class="shade"></div>
+      <div class="num">01</div>
+      <div class="say">Harry Potter didn&#x27;t reopen a movie. <span class="g">It opened a room.</span></div>
+    </div>
+    <p class="body">Harry Potter and the Sorcerer&#x27;s Stone in Shared Reality opened at Cosm Los Angeles in May: Warner Bros., Little Cinema, and MakeMake adapted the film so Hogwarts spills past the frame and onto the dome. The read for producers: IP holders now budget for staging, not screening. Catalog titles are experiential inventory.</p>
+    <div class="why"><span class="lbl">Why it matters</span><span class="txt">Catalog IP is experiential inventory now.</span></div>
+    <a class="cta" href="https://sensalab.io/signal/06" target="_blank" rel="noopener">Step inside the dome →</a>
+  </div>
+  <div class="card">
+    <div class="frame">
+      <img src="media/B-in-the-lab.png" alt="">
+      <div class="shade"></div>
+      <div class="num">02</div>
+      <div class="say">Photoreal capture walked out of the demo and into the pipeline.</div>
+    </div>
+    <p class="body">Out of SIGGRAPH 2026: OpenUSD v26.03 now includes a Gaussian splat schema, and a Filmakademie short ran a bedroom captured from 4,000 photos in real time inside Unreal. Photoreal location capture travels through standard tools — scan the venue, previz the activation, reuse the asset.</p>
+    <div class="why"><span class="lbl">Why it matters</span><span class="txt">Scan the venue, previz the activation, reuse the asset.</span></div>
+    <a class="cta" href="https://sensalab.io/signal/06" target="_blank" rel="noopener">See splats in production →</a>
+  </div>
+  <div class="card">
+    <div class="frame">
+      <img src="media/B-craft.jpg" alt="">
+      <div class="shade"></div>
+      <div class="num">03</div>
+      <div class="say">They sanded the grime off Shrek. <span class="g">The audience called it fake.</span></div>
+    </div>
+    <p class="body">The June Shrek 5 teaser drew backlash sharp enough that comments got switched off. The craft problem isn&#x27;t nostalgia; it&#x27;s texture. Sand the grime and weight off a character and it reads synthetic — audiences now call that &quot;AI slop.&quot; Polish isn&#x27;t finish.</p>
+    <div class="why"><span class="lbl">Why it matters</span><span class="txt">Polish isn&#x27;t finish.</span></div>
+    <a class="cta" href="https://sensalab.io/signal/06" target="_blank" rel="noopener">Read the teardown →</a>
+  </div>
+  
+  <div class="card">
+    <a href="https://www.youtube.com/results?search_query=Shrek+5+official+teaser+trailer" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;">
+    <div class="frame">
+      <img src="media/B-video.jpg" alt="">
+      <div class="shade"></div>
+      <div class="num">&#9654; 01:00</div>
+      <span class="play"></span>
+      <div class="say">Watch a room become a splat.</div>
+    </div></a>
+    <p class="body">Sixty seconds on photoreal capture: from 4,000 stills to a real-time environment you can walk a camera through. The technique behind this month&#x27;s pipeline shift, shown, not explained.</p>
+  </div>
+  <div class="invite"><h3>Have something impossible in mind?</h3><p>If a pitch on your desk needs real-time 3D, projection, or AR under your own brand, that&#x27;s the layer we build. Reply.</p>
+    <a class="btn" href="https://sensalab.io/signal/06" target="_blank" rel="noopener">Touch it →</a></div>
+  <div class="foot"><span class="sig">SensaLab · The real luxury is presence</span><br>
+    Rendering Imagination · <a class="q" href="https://sensalab.io">sensalab.io</a> · CDMX<br>
+    You're getting The Signal because you build experiences. Unsubscribe.</div>
+</div></body></html>

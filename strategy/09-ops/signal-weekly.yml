@@ -1,0 +1,134 @@
+# =============================================================================
+# INMERSIVO — The Signal · loop semanal (BORRADOR del especialista 09)
+#
+# Para activarlo: copiar este archivo a  .github/workflows/signal-weekly.yml
+# del repo PRIVADO del bot. Requiere (ver strategy/09-ops/README.md):
+#   Secrets:   BREVO_API_KEY, PAGES_DEPLOY_TOKEN  (+ ANTHROPIC_API_KEY cuando
+#              se active la ingesta automatica)
+#   Variables: SIGNAL_PUBLIC_BASE, SIGNAL_SITE_REPO, SEND_MODE, PROVIDER,
+#              BREVO_LIST_ID, FROM_NAME, FROM_EMAIL, COMPANY_LEGAL_NAME,
+#              COMPANY_ADDRESS
+#
+# OJO: el workflow v1 (.github/workflows/newsletter.yml) tambien corre los lunes.
+# Al activar este, pausar/borrar el v1 para no mandar DOS correos por semana.
+# =============================================================================
+name: INMERSIVO - The Signal (semanal)
+
+on:
+  schedule:
+    # Lunes 8:00 de Los Angeles en verano (PDT = UTC-7) -> 15:00 UTC.
+    # GitHub NO ajusta DST: en invierno (PST = UTC-8) esto es 7:00 LA.
+    # Si se prefiere 8:00 exacto todo el ano, cambiar a "0 16 * * 1" en noviembre.
+    # Nota: los crons de GitHub son best-effort (pueden retrasarse minutos/horas).
+    - cron: "0 15 * * 1"
+  workflow_dispatch:
+    inputs:
+      send_mode:
+        description: "Override de SEND_MODE (file | draft | send). Vacio = usar la variable."
+        required: false
+        default: ""
+
+# El job escribe de vuelta al repo (signal_state.json + ediciones-signal/sent/)
+permissions:
+  contents: write
+
+# Nunca dos corridas a la vez (cron + manual) — el estado no se corrompe
+concurrency:
+  group: inmersivo-signal
+  cancel-in-progress: false
+
+jobs:
+  signal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    # Variables NO sensibles a nivel de job; los SECRETS solo en el step que los usa
+    env:
+      PYTHONUNBUFFERED: "1"
+      SIGNAL_PUBLIC_BASE: ${{ vars.SIGNAL_PUBLIC_BASE }}
+      PROVIDER: ${{ vars.PROVIDER || 'brevo' }}
+      BREVO_LIST_ID: ${{ vars.BREVO_LIST_ID }}
+      FROM_NAME: ${{ vars.FROM_NAME || 'SensaLab' }}
+      FROM_EMAIL: ${{ vars.FROM_EMAIL || 'hello@sensalab.io' }}
+      COMPANY_LEGAL_NAME: ${{ vars.COMPANY_LEGAL_NAME || 'SensaLab' }}
+      COMPANY_ADDRESS: ${{ vars.COMPANY_ADDRESS || 'Los Angeles, CA — USA' }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      # TODO(ingesta): cuando exista el generador automatico de la edicion JSON
+      # (ingest_news + writer con el schema de sim/edicion-*.json), este gate se
+      # reemplaza por:  python run_weekly.py ingest  (que escribe next.json solo).
+      - name: Hay edicion esta semana?
+        id: gate
+        run: |
+          if [ -f ediciones-signal/next.json ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "go=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Sin ediciones-signal/next.json — semana sin edicion."
+          fi
+
+      - name: Construir edicion (web + email)
+        if: steps.gate.outputs.go == 'true'
+        run: python strategy/09-ops/run_weekly.py build --edition ediciones-signal/next.json
+
+      # El email y la web quedan descargables 90 dias para revision/auditoria
+      - name: Artifact de revision (web + email)
+        if: steps.gate.outputs.go == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: signal-edicion
+          path: |
+            out-signal/
+            site/
+          retention-days: 90
+
+      - name: Publicar web (GitHub Pages del repo publico)
+        if: steps.gate.outputs.go == 'true'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.PAGES_DEPLOY_TOKEN }}   # fine-grained PAT, solo ese repo
+          external_repository: ${{ vars.SIGNAL_SITE_REPO }}    # ej. sensalab/sensalab-signal
+          publish_branch: main
+          publish_dir: ./site
+          keep_files: true            # NO borra ediciones anteriores
+          commit_message: "The Signal: nueva edicion"
+
+      - name: Verificar web viva + campana en Brevo
+        if: steps.gate.outputs.go == 'true'
+        env:
+          # Prioridad: input manual > variable del repo > draft (el default seguro)
+          SEND_MODE: ${{ inputs.send_mode || vars.SEND_MODE || 'draft' }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+        # --test-to manda un test interno cuando la campana queda en borrador
+        run: python strategy/09-ops/run_weekly.py send --test-to hello@sensalab.io
+
+      # Persistir estado con el mismo patron anti-conflicto del workflow v1:
+      # si no se puede guardar, FALLA ruidoso (no perder numeracion en silencio).
+      - name: Persistir estado
+        if: always() && steps.gate.outputs.go == 'true'
+        run: |
+          git config user.name "inmersivo-bot"
+          git config user.email "bot@sensalab.io"
+          git add -f signal_state.json ediciones-signal/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "sin cambios que guardar"; exit 0
+          fi
+          git commit -m "The Signal: estado $(date +%F)"
+          for i in 1 2 3; do
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "estado persistido"; exit 0
+            fi
+            echo "push rechazado; intento rebase ($i/3)..."
+            git fetch origin ${{ github.ref_name }} || true
+            git rebase origin/${{ github.ref_name }} || git rebase --abort
+          done
+          echo "ERROR: no se pudo persistir el estado tras 3 intentos"; exit 1

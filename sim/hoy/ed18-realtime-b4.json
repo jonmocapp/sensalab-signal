@@ -1,0 +1,39 @@
+{
+  "issue_no": "18",
+  "edition_title": "Three signals real time took over",
+  "subject": "Rendering, the engine and the biggest room in games all moved",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signals",
+    "statement": "Three signals that real time took over this week",
+    "sub": "Photoreal moved to the roadmap, the engine behind the games paid out a billion, and gaming sold out its biggest room. Real time is the common thread."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "Neural rendering moved to the roadmap",
+      "body": "NVIDIA's SIGGRAPH keynote put neural rendering, world models and AI driven simulation on the near term roadmap, not the research horizon. Photoreal environments that used to be a post production line item are becoming something you generate and change live.",
+      "why": "When photoreal becomes real time, the differentiator shifts from can you render it to can you make it respond to the room.",
+      "cta": "See what shifts ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "The engine that paid creators a billion",
+      "body": "Epic teased Unreal Engine 6 and confirmed it has paid creators over 1 billion dollars through Unreal Editor for Fortnite, with iteration times down about 40 percent. The engine behind the games is the same one behind virtual production and live visuals.",
+      "why": "A paid creator base and faster iteration mean the talent for real time brand work already exists at scale.",
+      "cta": "Read the stack ›"
+    },
+    {
+      "role": "craft",
+      "statement": "Gamescom sold out for the first time",
+      "body": "Gamescom 2026 reached full exhibition capacity for the first time ever, with organizers already planning to expand. It runs late August in Cologne and is expected to surpass every previous edition. Even payment brands are buying in.",
+      "why": "When the biggest gaming stage sells out and brands show up, both the audience and the tools are worth your attention.",
+      "cta": "See the scale ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Borrow the game engine for the brand",
+    "body": "The tools that build worlds for players build them for audiences too. We produce real time brand experiences on the same stack, white label, under your name.",
+    "button": "Touch it"
+  }
+}

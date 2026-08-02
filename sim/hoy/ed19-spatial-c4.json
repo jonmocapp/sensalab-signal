@@ -1,0 +1,39 @@
+{
+  "issue_no": "19",
+  "edition_title": "Three signals brands bet on presence",
+  "subject": "Premium film, the volume and the AI backlash all pointed one way",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signals",
+    "statement": "Three signals that brands are betting on presence",
+    "sub": "A club filmed for the headset, the film volume went commercial, and the audience turned on synthetic ads. All three reward something real."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "A football giant shot a film for the headset",
+      "body": "Apple and Real Madrid teamed on an immersive documentary filmed during the 2025 to 2026 Champions League, with more than 30 Blackmagic immersive cameras capturing the match up close. It arrives in 2026 as premium content shot specifically for spatial viewing.",
+      "why": "When a club that size films for the headset first, spatial becomes a brand channel, not a science project.",
+      "cta": "See the shift ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "The film volume became a brand tool",
+      "body": "The real time virtual production stack that shot The Mandalorian, Unreal and an LED volume, matured into a commercial tool. In 2026 agencies and brands are booking the volume to shoot ten locations in a day without leaving the stage.",
+      "why": "A campaign that used to need travel and a weather window now needs a stage and a good real time artist.",
+      "cta": "See the stack ›"
+    },
+    {
+      "role": "craft",
+      "statement": "The audience started punishing AI ads",
+      "body": "A June 2026 Harris Poll found 78 percent of consumers say AI makes ads feel less authentic and 63 percent are less likely to buy from a brand that runs one. The antidote to a feed full of synthetic content is something physical, in the room, that a model cannot flood.",
+      "why": "For experiential this is a tailwind. In person and multisensory is exactly the authenticity brands are running back to.",
+      "cta": "Read the teardown ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Make it something they stand inside",
+    "body": "Presence is the counter to synthetic fatigue. We design and produce immersive brand stories for the headset and the room, white label, under your name.",
+    "button": "Touch it"
+  }
+}

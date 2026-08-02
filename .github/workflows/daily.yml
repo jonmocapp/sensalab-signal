@@ -1,0 +1,67 @@
+name: Signal - daily articles (Carril 2)
+
+# La plataforma completa en la nube: cada mañana junta noticias reales, redacta las mejores con
+# la voz SensaLab (Claude API), reconstruye "Latest stories" + el sitio, y publica en Netlify.
+# No necesitas tu PC prendida. Corre gratis en GitHub Actions (solo pagas los creditos de Anthropic
+# por articulo, ~$0.05-0.08 c/u). Boton manual con "Run workflow" para probar cuando quieras.
+on:
+  schedule:
+    - cron: "0 13 * * *"     # 13:00 UTC = 7:00 am CDMX (estable, Mexico no usa DST)
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Notas nuevas a escribir en esta corrida"
+        default: "3"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: signal-articles
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr el pipeline (ingesta -> redaccion Claude -> reconstruccion del sitio)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PIPELINE_MODEL: ${{ secrets.PIPELINE_MODEL }}
+          PIPELINE_MAX_NEW: ${{ github.event.inputs.limit || '3' }}
+        run: python pipeline.py --limit ${{ github.event.inputs.limit || '3' }}
+
+      - name: Publicar en Netlify (si hay secrets; si no, deja el sitio en blog/)
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        run: python deploy.py || echo "deploy omitido (agrega NETLIFY_AUTH_TOKEN y NETLIFY_SITE_ID)"
+
+      - name: Guardar estado + sitio (memoria anti-repeticion)
+        if: always()
+        run: |
+          git config user.name "signal-bot"
+          git config user.email "bot@sensalab.io"
+          git add -f signals.json articles_live.json articles_live.py published.json blog 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "sin cambios hoy"; exit 0
+          fi
+          git commit -m "Signal: daily articles $(date +%F)"
+          for i in 1 2 3; do
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "publicado"; exit 0
+            fi
+            echo "push rechazado; rebase ($i/3)..."
+            git fetch origin ${{ github.ref_name }} || true
+            git rebase origin/${{ github.ref_name }} || git rebase --abort
+          done
+          echo "ERROR: no se pudo guardar el estado tras 3 intentos"; exit 1

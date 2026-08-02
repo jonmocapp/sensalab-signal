@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "vivid-sydney-2026-expands-day-night",
+    "headline": "Vivid Sydney 2026 signals the shift from hero moment to hero calendar",
+    "dek": "The news is not a bigger light festival. It is the quiet normalisation of scale, run nightly, that used to be a once-a-year stunt.",
+    "focus_keyword": "light festival programming",
+    "read_minutes": 3,
+    "meta_description": "Vivid Sydney 2026's record scale signals a shift from hero moments to nightly programming, moving budget from fabrication to show control.",
+    "why": "When a spectacle becomes nightly programming, the budget moves from fabrication to show control and choreography, changing how a producer scopes and staffs the job.",
+    "takeaway": "Scope flagship moments as repeatable systems, not one-off objects: map how many nightly runs the experience needs and who owns show control before you commit budget.",
+    "body": [
+      {"type":"para","text":"Vivid Sydney returns from 22 May to 13 June 2026, running 23 nights along an unbroken 6.5km Light Walk of more than 40 installations, according to Destination NSW. Chris Levine's 'Molecule of Light' becomes the tallest work in the festival's history at 23m high and 17m wide, visible across Sydney Harbour, while Reelize Studio's 'Obstacle' ranks among the longest ever at 45m. The program also stages a record 22 drone shows across 11 nights at Cockle Bay. Since its inception, Vivid has drawn more than 25 million visitors and generated over $1.3 billion in visitor spend."},
+      {"type":"subhead","text":"The real signal is the calendar, not the centrepiece"},
+      {"type":"para","text":"The temptation is to read this as another bigger light festival. The sharper reading is the quiet normalisation of scale that used to be exceptional. A 23m installation and a 45m one are no longer stunts; they are anchor content on a route designed to hold a crowd for hours. Twenty-two drone shows across eleven nights turns a once-a-festival spectacle into scheduled, repeatable programming. The shift is from hero moment to hero calendar, and that is the part worth planning around."},
+      {"type":"para","text":"That shift moves the cost centre. When the marquee is a single 45m structure, the budget is fabrication and logistics. When the marquee is a drone show run 22 times across 11 nights, the budget is choreography, show control, and the software that re-runs a complex sequence reliably in changing wind and crowd conditions. Producers who scope for the first and encounter the second lose the schedule, not just the margin, because a spectacle that has to fire on cue every night is an operations problem long before it is a creative one."},
+      {"type":"subhead","text":"What a producer can do now"},
+      {"type":"para","text":"Treat 'flagship' as a system, not an object. Before committing to a single tall centrepiece, map how many times the experience has to fire, over how many nights, for how many people per hour. A [live show package](/kits/shows) built around nightly repeats forces the right questions early: who owns show control, what the fail-safe is when a drone show scrubs, and how the walk keeps working when one node goes dark. Plan the route, too. Vivid's real differentiator is the unbroken 6.5km flow, not any single work, and flow is a design problem rather than a fabrication one."},
+      {"type":"subhead","text":"Why it belongs in an experiential toolkit"},
+      {"type":"para","text":"Real-time rendering and networked show control are what make a hero calendar affordable. If your centrepiece is authored in an engine rather than built once in steel, you can re-theme it for a sponsor, localise it for a market, or reset it nightly without re-fabricating. That is the difference between a festival installation you strike at the end and a reusable experiential asset you can reprogram for the next brief."},
+      {"type":"para","text":"SensaLab is the white-label real-time 3D and immersive layer agencies and brands use to design and run experiences under their own name, so the show control, the route, and the repeatable spectacle stay yours to schedule."}
+    ]
+  },
+  {
+    "slug": "robotic-art-ai-driven-installations-lead",
+    "headline": "Sonar+D 2026 signals a move from content you watch to systems you talk to",
+    "dek": "The news is not that AI art reached a music festival. It is that the audience is now asked to behave, not just watch.",
+    "focus_keyword": "ai-driven installations",
+    "read_minutes": 3,
+    "meta_description": "Sonar+D 2026's robotic and AI installations signal a move from content you watch to systems you converse with. What it changes for producers.",
+    "why": "Responsive and generative installations turn the deliverable from a finished file into a behaving system, shifting budget and risk toward logic, tuning and testing.",
+    "takeaway": "Spec the interaction model, latency, crowd behaviour, generative guardrails and on-call ownership, before approving any visual, and prototype the response loop cheaply first.",
+    "body": [
+      {"type":"para","text":"Sonar+D 2026, the technology strand of Barcelona's Sonar festival, runs 18-19 June inside the neoclassical Llotja de Mar, foregrounding embodied robotics, AI interfaces and site-specific LED visuals, according to designboom. Volvox Labs' 'Astral Twin' pairs robotic arms that paint in dialogue with a giant LED wall, while Qs Ventures' 'A Voice from the Future' is a moss-covered phone booth inhabited by an AI persona. Several installations deploy AI tools, including Google DeepMind's Lyria 3, to generate soundscapes in real time."},
+      {"type":"subhead","text":"The real signal is behaviour, not playback"},
+      {"type":"para","text":"It is easy to file this as AI art arriving at a music festival. The deeper move is a change in what the audience is asked to do. These are not screens to watch; they are systems to converse with, a robot that responds, a booth that answers, a soundtrack generated in the moment. The new default is behaviour, not playback, and that reframes where the work actually lives."},
+      {"type":"para","text":"A looped video is authored once and shipped. A responsive installation is authored as rules: what it senses, how it reacts, what happens when two visitors interact at once, and what it does when no one is there. The deliverable becomes a behaving system with a fail state, not a finished file. Budget and risk shift from production toward logic, tuning and testing, the parts that never appear in the render, and the parts that decide whether the piece survives contact with a live crowd."},
+      {"type":"subhead","text":"What a producer can do now"},
+      {"type":"para","text":"Ask for the interaction model before the visual. For any AI-driven or robotic piece, the questions that decide success are unglamorous: latency between input and response, behaviour under a crowd, how a generative element is bounded so it never produces something off-brand or unsafe, and who is on call when it drifts. [Interactive art formats](/teamlab-interactive-art) live or die on the feel of that response loop, and you can prototype the loop with a rough rig and one interaction long before committing to robotic arms or a bespoke booth."},
+      {"type":"subhead","text":"Why it belongs in an experiential toolkit"},
+      {"type":"para","text":"Generative and responsive systems are reusable in a way fixed content is not. A behaviour tuned for one activation can be re-skinned for another brand, fed a different dataset, or bounded by new rules without rebuilding the rig. Treated as a capability rather than a one-off artwork, an AI-driven interaction becomes an asset you can redeploy, and a set of safeguards you only have to design once."},
+      {"type":"para","text":"SensaLab is the white-label real-time 3D and immersive layer agencies and brands use to design and run interactive work under their own name, from the response loop itself to the guardrails that keep a generative system on-brand."}
+    ]
+  },
+  {
+    "slug": "80-000-visitors-swarm-tokyo-lights",
+    "headline": "Tokyo Lights signals that the format, not the facade, is the reusable asset",
+    "dek": "The news is not 80,000 visitors or a 127m canvas. It is a one-minute competition format that scales content without scaling budget.",
+    "focus_keyword": "projection mapping competition",
+    "read_minutes": 3,
+    "meta_description": "Tokyo Lights drew 80,000 and 412 entries from 65 countries. The signal: a format that scales projection content without scaling budget.",
+    "why": "A one-minute open competition shows that standardising the canvas and templating the brief scales projection content without scaling the budget.",
+    "takeaway": "Invest once in a calibrated projection surface and a tight content spec, then feed it many short pieces rather than commissioning one monolithic show.",
+    "body": [
+      {"type":"para","text":"Tokyo Lights 2026 drew 80,000 visitors over 23-31 May, projecting onto the 127m-tall, 110m-wide facade of the Tokyo Metropolitan Government No.1 Building, according to the Tokyo Metropolitan Government. Its '1minute Projection Mapping Competition' received 412 entries from 65 countries and regions, narrowed to 18 finalists. Brazilian group Signal Bleed won the grand prize of 2 million yen for 'Touch Talk', and a paired Light Art Park featured 12 works, including Luke Jerram's 'Gaia'."},
+      {"type":"subhead","text":"The real signal is the format, not the facade"},
+      {"type":"para","text":"The headline numbers are the crowd and the building. The signal underneath is the format: a one-minute brief, open to anyone, that produced 412 entries from 65 countries. Projection mapping onto a landmark used to be a bespoke, six-figure commission. Here it is a competition structure, a repeatable machine that generates a deep pipeline of content at a low cost per piece."},
+      {"type":"para","text":"That inverts the usual economics. Instead of paying one studio to author one long show, the event standardises the canvas, the facade, the one-minute slot, the mapping template, and lets a global field fill it. The fixed cost is the rig and the template; the variable cost of each new piece approaches zero. Content scales without the budget scaling alongside it, which is the opposite of how most spectacle is priced."},
+      {"type":"subhead","text":"What a producer can do now"},
+      {"type":"para","text":"Separate the canvas from the content. The reusable asset here is not any single winning film; it is the calibrated projection surface and the one-minute spec that let 18 finalists plug in. For a brand, the equivalent is investing once in a mapped, calibrated stage, then feeding it many short pieces, seasonal, sponsor-specific or audience-submitted. Design the brief as a constraint, not a blank page: a tight [activation format](/kits/activations) does more for volume and quality than an open-ended commission, because it makes work comparable, schedulable and swappable."},
+      {"type":"subhead","text":"Why it belongs in an experiential toolkit"},
+      {"type":"para","text":"A calibrated projection surface is infrastructure. Once the facade is mapped and the pipeline is set, swapping content is a software task, not a rebuild. That is what turns a single spectacle into a venue you can reprogram nightly, monthly or per campaign, the same logic that makes a real-time content pipeline worth its setup cost."},
+      {"type":"para","text":"SensaLab is the white-label real-time 3D and immersive layer agencies and brands use to build and run projection and light work under their own name, from calibrating the canvas to keeping the content pipeline flowing."}
+    ]
+  },
+  {
+    "slug": "sphere-entertainment-intent-develop-smaller-scale",
+    "headline": "Sphere's smaller model signals a shift from singular landmark to repeatable product",
+    "dek": "The news is not a second Sphere. It is the word 'smaller', a landmark quietly turning into a replicable product line.",
+    "focus_keyword": "immersive venue format",
+    "read_minutes": 3,
+    "meta_description": "Sphere's smaller-scale D.C. model signals a shift from landmark to franchise, moving value from the building to portable immersive content.",
+    "why": "A replicable smaller-scale Sphere turns an immersive venue into a product line, moving value from the building to portable, high-spec content.",
+    "takeaway": "Author immersive content in real time against a venue spec, so a single piece can be re-targeted across differently sized rooms without a rebuild.",
+    "body": [
+      {"type":"para","text":"On 18 January 2026, Sphere Entertainment announced its intent to develop a second U.S. Sphere near Washington, D.C., the first to use a smaller-scale model, seating 6,000, according to Sphere Entertainment Co. The interior would carry a 16K by 16K LED display plane, billed as the world's highest-resolution screen, alongside an Exosphere exterior, Sphere Immersive Sound, haptic seating and 4D effects. The project is backed by roughly $200 million in combined incentives and projected to support 2,500 construction and 4,750 operational jobs, with more than $1 billion in annual economic impact."},
+      {"type":"subhead","text":"The real signal is the word 'smaller'"},
+      {"type":"para","text":"It is tempting to read this as simply a second Sphere. The signal is in the word smaller. The Las Vegas original was a singular landmark; a 6,000-seat model that can be replicated near a major metro is a product line. Sphere is moving from monument to format, from one destination people fly to, toward a venue class that could plausibly exist in many markets."},
+      {"type":"para","text":"For anyone who makes experiences, the consequence lands on the content side. A network of immersive venues sharing a common specification, the same LED plane resolution, the same immersive sound and haptic layers, creates demand for content authored to that spec and portable across sites. The scarce thing stops being the building and becomes the pipeline that can fill many of them, reliably and on schedule."},
+      {"type":"subhead","text":"What a producer can do now"},
+      {"type":"para","text":"Start treating immersive venue as a target format, not a one-off. If wraparound LED, spatial sound and 4D effects are becoming a repeatable class, the smart move is to author content that assumes that envelope, high-resolution, full-surround and built in real time so it can be re-rendered or re-timed per venue rather than baked to one screen. Authoring against a [venue-scale immersive spec](/sphere-live-venue) keeps a piece re-targetable, so the same asset can serve a 6,000-seat room or a larger flagship without starting over."},
+      {"type":"subhead","text":"Why it belongs in an experiential toolkit"},
+      {"type":"para","text":"When the venue becomes a product, value migrates from fabrication to content that travels. The differentiator is what you can put inside the room and how cheaply you can adapt it to the next location. Real-time authoring is what makes that adaptation affordable, and it is why immersive-venue content deserves a permanent place in the toolkit rather than a per-project scramble."},
+      {"type":"para","text":"SensaLab is the white-label real-time 3D and immersive layer agencies and brands use to create and operate venue-scale experiences under their own name, authored once, and re-targeted wherever the next room takes them."}
+    ]
+  }
+]

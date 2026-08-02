@@ -1,0 +1,70 @@
+name: INMERSIVO - newsletter semanal
+
+# Corre solo, gratis, en la nube de GitHub. No necesitas tu PC prendida.
+on:
+  schedule:
+    # Lunes 8:00 (hora CDMX = UTC-6). En UTC = 14:00.
+    # Nota: GitHub no ajusta DST. CDMX no usa horario de verano, asi que 8am es estable.
+    - cron: "0 14 * * 1"
+  workflow_dispatch:   # boton para correrlo a mano cuando quieras
+
+# Permite que el job escriba de vuelta al repo (state.json + ediciones/)
+permissions:
+  contents: write
+
+# Evita que dos corridas (ej. manual + cron) choquen y corrompan el estado
+concurrency:
+  group: inmersivo-newsletter
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr el bot
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ secrets.ANTHROPIC_MODEL }}
+          SEND_MODE: ${{ secrets.SEND_MODE }}
+          PROVIDER: ${{ secrets.PROVIDER }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ secrets.BREVO_LIST_ID }}
+          MAILERLITE_API_KEY: ${{ secrets.MAILERLITE_API_KEY }}
+          MAILERLITE_GROUP_ID: ${{ secrets.MAILERLITE_GROUP_ID }}
+          FROM_NAME: ${{ secrets.FROM_NAME }}
+          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
+          COMPANY_LEGAL_NAME: ${{ secrets.COMPANY_LEGAL_NAME }}
+          COMPANY_ADDRESS: ${{ secrets.COMPANY_ADDRESS }}
+        run: python newsletter_bot.py
+
+      # Guarda el estado (anti-repeticion) y la edicion. Rebase antes de push
+      # para no pisar cambios y no perder la memoria de anti-repeticion.
+      - name: Persistir estado y ediciones
+        if: always()
+        run: |
+          git config user.name "inmersivo-bot"
+          git config user.email "bot@sensalab.io"
+          git add -f state.json ediciones/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "sin cambios que guardar"; exit 0
+          fi
+          git commit -m "INMERSIVO: estado + edicion $(date +%F)"
+          # Push con reintentos; si no se puede persistir, FALLA ruidoso (no perder estado en silencio)
+          for i in 1 2 3; do
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "estado persistido"; exit 0
+            fi
+            echo "push rechazado; intento rebase ($i/3)..."
+            git fetch origin ${{ github.ref_name }} || true
+            git rebase origin/${{ github.ref_name }} || git rebase --abort
+          done
+          echo "ERROR: no se pudo persistir el estado tras 3 intentos (posible conflicto en state.json)"; exit 1

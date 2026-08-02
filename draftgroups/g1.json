@@ -1,0 +1,47 @@
+[
+ {
+  "slug": "svedka-s-shake-your-bots-off",
+  "cat": "AI",
+  "headline_real": "Svedka's 'Shake Your Bots Off' becomes the first primarily AI-generated national Super Bowl ad",
+  "source_name": "TechCrunch",
+  "facts": [
+   "Svedka's 30-second 'Shake Your Bots Off' aired in Super Bowl LX on Feb 8, 2026 as the first primarily AI-generated national Super Bowl spot",
+   "Produced with San Francisco AI studio Silverside — the same firm behind Coca-Cola's contentious 2025 AI holiday video — taking roughly four months to reconstruct the 'Fembot' character and train AI on facial expressions and body movement",
+   "Part of a Super Bowl LX AI-ad wave that also included Anthropic, Google (Nano Banana Pro), Meta/Oakley, Amazon Alexa+ and Wix"
+  ]
+ },
+ {
+  "slug": "coachella-google-deepmind-built-tested-three",
+  "cat": "AI",
+  "headline_real": "Coachella and Google DeepMind built and tested three AI prototypes at the 2026 festival",
+  "source_name": "Decrypt",
+  "facts": [
+   "Coachella's innovation team built three prototypes on Google DeepMind's Project Genie world-model platform, tested live during the April 2026 festival",
+   "One prototype rebuilds a live performance as an explorable 3D Unreal Engine environment with real-time alternate visuals; a second lets artists preview stage designs from uploaded images or text prompts on 3D models of Coachella stages; a third is a mobile game",
+   "Reported April 26, 2026; the tools remain internal proofs-of-concept, not publicly launched"
+  ]
+ },
+ {
+  "slug": "ibm-s-ai-sports-club-turns",
+  "cat": "AI",
+  "headline_real": "IBM's 'AI Sports Club' turns generative AI into live race commentary at SXSW 2026",
+  "source_name": "BizBash",
+  "facts": [
+   "IBM ran its 'AI Sports Club' as SXSW 2026's Tech & AI Track sponsor in Austin, March 12-18, 2026",
+   "The Hyperdrive Slot Car Challenge pitted four players head-to-head with AI-generated, real-time race commentary and analysis; an F1 simulator ran on IBM watsonx, the same stack behind the Scuderia Ferrari app's 400M+ global fan base",
+   "Guests generated personalized 'AI Sports Club Pass' badges under an 'Enter a fan, leave a driver' theme"
+  ]
+ },
+ {
+  "slug": "2026-f1-miami-grand-prix-17",
+  "cat": "Experiential",
+  "headline_real": "2026 F1 Miami Grand Prix: 17 Full-Throttle Brand Experiences",
+  "source_name": "Event Marketer",
+  "facts": [
+   "The fifth-year Miami Grand Prix (race May 3, 2026) drew an estimated 275,000 attendees",
+   "American Express built a two-story Amex Racing Club in the F1 Fan Zone plus a Platinum-only Trackside Lounge near the start/finish line",
+   "Liquid I.V. x McLaren sampled 97,000 hydration sticks over the weekend from a branded Hydratruck at Regatta Harbour (McLaren fan zone open April 29-May 3)",
+   "Monster Energy reached more than 25,000 fans, anchored by a 20-foot Lando Norris Zero Sugar can installation"
+  ]
+ }
+]

@@ -1,0 +1,39 @@
+{
+  "issue_no": "07",
+  "edition_title": "Real time caught up to photoreal",
+  "subject": "SIGGRAPH just moved the render farm on site",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signal",
+    "statement": "Real time just caught up to photoreal, on site not in post",
+    "sub": "SIGGRAPH 2026 wrapped in Los Angeles (July 19 to 23). The headlines went to film VFX. The story for experiential producers is quieter and bigger: the render farm is moving on site."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "Neural rendering left the lab",
+      "body": "NVIDIA's keynote on July 20, Next Era of Graphics, put neural rendering, world models and AI driven simulation on the near term roadmap, not the research horizon. Photoreal environments that used to be a post production line item are becoming something you generate and change live.",
+      "why": "When photoreal becomes real time, the hard part is no longer whether you can render it. It is whether you can make it respond to the room.",
+      "cta": "See what shifts ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "A GPU built for real time path tracing",
+      "body": "Bolt Graphics used SIGGRAPH on July 21 to show Zeus, a GPU architecture aimed squarely at real time path tracing. Path tracing is what makes light look honest, and doing it live is what an LED wall or a projection surface has always been missing.",
+      "why": "The render farm is walking onto the set. Budgets that used to live in post can move into the live experience.",
+      "cta": "Read the read ›"
+    },
+    {
+      "role": "craft",
+      "statement": "Generative 3D compressed the asset timeline",
+      "body": "Generative 3D tooling, with Tripo AI among the names on stage, keeps shrinking the distance between an idea and a usable asset. For a two week activation build, that is the difference between one hero moment and a whole responsive world.",
+      "why": "Faster assets do not just cut cost. They change what a short timeline can promise a brand.",
+      "cta": "Think in worlds ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Put a real time surface in your next activation",
+    "body": "If your next brief has an LED wall, a projection, or an AR layer, the SIGGRAPH takeaway is simple: design it to respond, not just to play. We build the responsive layer, white label, under your name.",
+    "button": "Touch it"
+  }
+}

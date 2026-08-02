@@ -1,0 +1,38 @@
+{
+  "issue_no": "14",
+  "edition_title": "AI as the pitch became the penalty",
+  "subject": "The audience started punishing brands that brag about AI",
+  "format": "teardown",
+  "hero": {
+    "kicker": "The teardown",
+    "statement": "Brands made AI the pitch. The audience made it the penalty",
+    "sub": "The numbers turned. Announcing AI now costs trust. Making something real is the move."
+  },
+  "teardown": {
+    "case": "The AI first marketing bet",
+    "statement": "Brands made AI the pitch. The audience made it the penalty",
+    "verdict": "AI as the message is backfiring. AI as the machine is quietly winning.",
+    "flaw": "A June 2026 Harris Poll found 78 percent of consumers say AI makes ads feel less authentic, 73 percent are less likely to trust an ad they suspect was AI made, and 63 percent are less likely to buy from a brand that runs one. Excitement about AI fell from 50 percent to 19 percent in two years. Leading with AI now reads as a brand that did not care enough to make something real.",
+    "principle": "AI as infrastructure wins. AI as the headline loses. And the antidote to a feed full of synthetic content is the opposite of a feed: something physical, in the room, that a person cannot fake and a model cannot flood.",
+    "why": "For experiential this is a tailwind, not a threat. In person and multisensory is exactly the authenticity that brands are running back to.",
+    "case_img_role": "craft",
+    "done_right": {
+      "text": "The brands pulling ahead use AI quietly to move faster and test more, then spend the saved time on real, human moments. Only 26 percent of consumers now prefer generative AI creator content, down from 60 percent in 2023. The winners hide the machine and show the craft.",
+      "label": "AI as the machine"
+    }
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "The trust penalty is real",
+      "body": "78 percent of consumers say AI makes ads feel less authentic, and 63 percent are less likely to buy from a brand that runs an AI made ad. The tool is not the problem. Bragging about it is.",
+      "why": "If the audience can tell, and now they can, the safe place to spend is on something they cannot fake.",
+      "cta": "Read the teardown ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Spend on what cannot be faked",
+    "body": "The counter to synthetic fatigue is a real moment people can touch. We build in person, multisensory experiences for brands and agencies, white label, under your name.",
+    "button": "Touch it"
+  }
+}

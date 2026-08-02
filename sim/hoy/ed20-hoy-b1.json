@@ -1,0 +1,39 @@
+{
+  "issue_no": "20",
+  "edition_title": "The week experiential went pro",
+  "subject": "A studio, a pair of glasses, and a beach all made the same bet",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signals",
+    "statement": "The week experiential went pro",
+    "sub": "A Hollywood studio built a volume, consumer AR glasses opened reservations, and a major airline turned a beach into a brand. Different players, same bet: put people inside it."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "A Hollywood studio bet the lot on virtual production",
+      "body": "Tyler Perry Studios is building a virtual production soundstage with Synapse, pairing an LED volume, camera tracking and Unreal, ready by the end of 2026. It is built for everything from features to commercials to immersive experiences, and the studio pledged to keep the crews behind the camera.",
+      "why": "When a studio that size makes the volume its default stage, real time production stops being experimental and becomes something brands can rent.",
+      "cta": "See the stage ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "Consumer AR glasses opened reservations",
+      "body": "Xreal opened paid reservations for the Aura, an Android first pair of XR glasses, signaling broader phone support for spatial apps later in 2026. The face computer keeps getting closer to something people actually wear all day.",
+      "why": "An Android first path means AR reach beyond Apple's price point. Wider audience, cheaper hardware, more people to hand a layer to at your activation.",
+      "cta": "Read the shift ›"
+    },
+    {
+      "role": "craft",
+      "statement": "An airline turned a beach into a brand",
+      "body": "Southwest brought back its Sunset on the Beach series, including a July event co branded with Coca-Cola around America 250. A real place, a real crowd, multisensory, the kind of moment a feed cannot fake.",
+      "why": "Consumers are 85 percent more likely to buy after a live event. The brands winning right now build something you stand inside, not scroll past.",
+      "cta": "Inside it ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Put people inside the brand",
+    "body": "The throughline this week: the ones investing in real, in person moments are pulling ahead. We build responsive, multisensory experiences for brands and agencies, white label, under your name.",
+    "button": "Touch it"
+  }
+}

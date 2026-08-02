@@ -1,0 +1,81 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>The Signal — SensaLab</title>
+<style>
+ :root{--navy:#1C1956;--black:#0B0F0F;--gray:#787878;--paper:#F4F3F3;--lilac:#E4E4EF;--line:rgba(28,25,86,.14);--sans:'Helvetica Neue','Aeonik','Neue Haas Grotesk',Arial,system-ui,sans-serif;}
+ *{box-sizing:border-box;margin:0;padding:0} body{background:var(--paper);color:var(--black);font-family:var(--sans);-webkit-font-smoothing:antialiased}
+ .wrap{max-width:680px;margin:0 auto;padding:0 20px 40px} .bar{height:4px;background:linear-gradient(90deg,#32BFFC,#3D76E8,#6060BE,#B55CB7)}
+ .mast{display:flex;align-items:center;justify-content:space-between;padding:26px 0 22px}
+ .logo{height:30px;width:auto;display:block}
+ .pill{display:inline-block;border:1px solid rgba(28,25,86,.28);border-radius:999px;padding:6px 13px;font-weight:700;font-size:11px;letter-spacing:.02em;color:var(--gray)}
+ .issue{font-weight:700;font-size:12px;letter-spacing:.04em;color:var(--gray)}
+ .kick{font-weight:800;font-size:13px;letter-spacing:.02em;color:var(--navy)}
+ .lede{font-weight:800;font-size:30px;line-height:1.12;letter-spacing:-.02em;margin:10px 0 4px;color:var(--navy)} .lede .g{color:var(--gray)}
+ .sub{color:var(--gray);font-size:15px;line-height:1.6;font-weight:500;margin-top:14px;max-width:560px}
+ .card{margin-top:40px}
+ .frame{position:relative;border-radius:18px;overflow:hidden;aspect-ratio:16/11;border:1px solid var(--line);box-shadow:0 12px 34px rgba(28,25,86,.10)}
+ .frame img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+ .frame .shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,15,15,.02) 30%,rgba(11,15,15,.82) 100%)}
+ .frame .num{position:absolute;top:14px;right:16px;font-weight:800;font-size:12px;color:var(--paper);background:rgba(11,15,15,.42);border:1px solid rgba(244,243,243,.32);border-radius:999px;padding:5px 11px}
+ .frame .say{position:absolute;left:22px;right:22px;bottom:20px;font-weight:800;font-size:26px;line-height:1.1;letter-spacing:-.02em;color:var(--paper);text-shadow:0 2px 30px rgba(0,0,0,.4)} .say .g{color:var(--lilac)}
+ .body{color:var(--black);font-size:15px;line-height:1.62;font-weight:500;margin:16px 0 0}
+ .why{margin:14px 0 0;display:flex;gap:12px;align-items:center;background:var(--lilac);border:1px solid rgba(28,25,86,.14);border-radius:14px;padding:14px 16px}
+ .why .lbl{font-weight:800;font-size:12px;letter-spacing:.01em;color:var(--navy);white-space:nowrap;border-right:1px solid rgba(28,25,86,.18);padding-right:12px}
+ .why .txt{font-weight:700;font-size:15.5px;line-height:1.35;letter-spacing:-.01em;color:var(--navy)}
+ .cta{display:inline-block;margin-top:14px;color:var(--navy);font-weight:700;font-size:13.5px;text-decoration:none;border-bottom:1.5px solid var(--navy);padding-bottom:1px}
+ .play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:76px;height:76px;border-radius:50%;background:rgba(11,15,15,.45);border:2px solid rgba(244,243,243,.92)}
+ .play:after{content:"";position:absolute;top:50%;left:54%;transform:translate(-50%,-50%);border-left:22px solid #F4F3F3;border-top:14px solid transparent;border-bottom:14px solid transparent}
+ .invite{margin-top:44px;border:1px solid var(--line);border-radius:20px;padding:30px 26px;background:#fff;box-shadow:0 12px 34px rgba(28,25,86,.08)}
+ .invite h3{font-weight:800;font-size:26px;line-height:1.12;letter-spacing:-.02em;color:var(--navy)} .invite p{color:var(--gray);font-size:15px;line-height:1.6;margin:12px 0 20px;font-weight:500}
+ .btn{display:inline-block;background:var(--navy);color:var(--paper);text-decoration:none;font-weight:800;font-size:14px;border-radius:999px;padding:13px 30px}
+ 
+ .foot{margin-top:56px;border-top:1px solid rgba(28,25,86,.14);padding-top:26px}
+ .foot .principle{color:#787878;font-size:13px;line-height:1.65;font-weight:500;max-width:580px} .foot .principle b{color:#1C1956;font-weight:800}
+ .foot .frow{margin:16px 0 6px;font-weight:700;font-size:12.5px;letter-spacing:.01em}
+ .foot .fmeta{color:#787878;font-size:11.5px;line-height:1.7}
+ @media(max-width:520px){.lede{font-size:24px}.frame .say{font-size:21px}.invite h3{font-size:22px}}
+</style></head><body>
+<div class="bar"></div>
+<div class="wrap">
+  <div class="mast"><img class="logo" src="media/sensalab-logo.png" alt="SensaLab">
+    <div style="display:flex;gap:12px;align-items:center;"><span class="issue">The Signal · #05</span><span class="pill">sensalab.io</span></div></div>
+  <div class="kick">The moment</div>
+  <h1 class="lede">The best of the World Cup happened outside the stadiums.<span class="g"></span></h1>
+  <p class="sub">Spain took the trophy at MetLife on July 19. Producers should study everything around it: fan festivals at two-million scale, a drone scoreboard over Seattle, and ticketed dome watch parties.</p>
+  
+  <div class="card" id="field-notes">
+    <div class="frame"><img src="media/A-field-notes.jpg" alt="The activations people remembered didn&#x27;t ask to be watched."><div class="shade"></div>
+      <div class="num">01</div><div class="say">The activations people remembered didn&#x27;t ask to be watched.</div></div>
+    <p class="body">Michelob ULTRA ran a two-week Pitchside Club on Santa Monica Pier with a 2,500-drone show; adidas built free Home of Soccer hubs across five cities with 3v3 tournaments. The pattern across Event Marketer&#x27;s roundup: watching was table stakes. The activations people queued for handed them a ball, a game, a role.</p>
+    <div class="why"><span class="lbl">Why it matters</span><span class="txt">Participation outlasts impressions.</span></div>
+    <a class="cta" href="https://sensalab.io/inmersivo/05" target="_blank" rel="noopener">Steal the playbook →</a>
+  </div>
+  <div class="card" id="in-the-lab">
+    <div class="frame"><img src="media/A-in-the-lab.jpg" alt="A scoreboard in the sky is just a data pipeline with an audience."><div class="shade"></div>
+      <div class="num">02</div><div class="say">A scoreboard in the sky is just a data pipeline with an audience.</div></div>
+    <p class="body">Visit Seattle flew a 400-drone scoreboard beside the Space Needle after each hosted match: 12-minute shows rendering the score, flags and city imagery, billed as a first. The steal: any same-day feed — scores, votes, sales — can become sky-scale scenography.</p>
+    <div class="why"><span class="lbl">Why it matters</span><span class="txt">Any same-day feed can become sky-scale scenography.</span></div>
+    <a class="cta" href="https://sensalab.io/inmersivo/05" target="_blank" rel="noopener">See it fly →</a>
+  </div>
+  <div class="card" id="craft">
+    <div class="frame"><img src="media/A-craft.png" alt="The watch party grew up — it&#x27;s a venue-grade product now."><div class="shade"></div>
+      <div class="num">03</div><div class="say">The watch party grew up — <span class="g">it&#x27;s a venue-grade product now.</span></div></div>
+    <p class="body">Fox Sports and FIFA put roughly 40 matches, the final included, inside Cosm&#x27;s 87-foot 12K domes in LA, Dallas and Atlanta — with stadium cameras framed for the dome, not TV. The craft lesson: capture designed for the canvas beats repurposed broadcast.</p>
+    <div class="why"><span class="lbl">Why it matters</span><span class="txt">Capture built for the canvas beats repurposed broadcast.</span></div>
+    <a class="cta" href="https://sensalab.io/inmersivo/05" target="_blank" rel="noopener">Inside the dome →</a>
+  </div>
+  
+  <div class="card" id="video"><a href="https://www.fox13seattle.com/video/fmc-tc4eswursuf4mz31" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;">
+    <div class="frame"><img src="media/A-video.jpg" alt=""><div class="shade"></div>
+      <div class="num">&#9654; 01:00</div><span class="play"></span>
+      <div class="say">Sixty seconds, three stolen ideas.</div></div></a>
+    <p class="body">Sixty seconds through the tournament&#x27;s off-pitch tech: a drone scoreboard over Seattle, shared-reality domes in three cities, and fan festivals two million strong. Watch with your next pitch open.</p></div>
+  <div class="invite" id="invitation"><h3>Have something impossible in mind?</h3><p>If the tournament left you with a brief that sounds unbuildable — a dome, a live-data show, a room that reacts — that is our favorite kind.</p>
+    <a class="btn" href="https://sensalab.io/inmersivo/05" target="_blank" rel="noopener">Touch it →</a></div>
+  
+  <div class="foot">
+    <p class="principle"><b>SensaLab®</b> &nbsp;—&nbsp; Rendering Experiences is the principle that guides everything we do. We transform ideas into emotional, immersive and measurable realities by blending creativity, technology, and human experience.</p>
+    <p class="frow"><a href="https://instagram.com/sensalab" style="color:#1C1956;text-decoration:none;">Instagram</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/company/sensalab" style="color:#1C1956;text-decoration:none;">LinkedIn</a> &nbsp;·&nbsp; <a href="https://youtube.com/@sensalab" style="color:#1C1956;text-decoration:none;">Youtube</a></p>
+    <p class="fmeta">© 2026 SensaLab, Inc. All rights reserved &nbsp;·&nbsp; Los Angeles, CA — USA &nbsp;·&nbsp;
+      <a href="mailto:hello@sensalab.io" style="color:#1C1956;">hello@sensalab.io</a></p>
+  </div>
+</div></body></html>

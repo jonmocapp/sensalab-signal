@@ -1,0 +1,50 @@
+[
+ {
+  "slug": "meta-essilorluxottica-meta-glasses-ai-eyewear",
+  "cat": "Spatial & AR",
+  "headline_real": "Meta and EssilorLuxottica launch new 'Meta Glasses' AI eyewear line starting at $299",
+  "source_name": "Meta Newsroom",
+  "facts": [
+   "Launched June 23, 2026 starting at $299 — about $80 cheaper than Ray-Ban Meta Gen 2",
+   "Three styles: Meta Adventurer, Meta Fury, and Meta Glasses by Kylie (Kylie Jenner collab, from ~$399)",
+   "Runs Meta AI on the new Muse Spark model, 12MP ultrawide camera, 8+ hours battery plus 40 hours from the charging case",
+   "New Rx Lens Swap lets buyers add prescription lenses after purchase without voiding warranty; sold across 17 markets via Meta.com, LensCrafters, Sunglass Hut, Best Buy and Amazon"
+  ]
+ },
+ {
+  "slug": "visionos-27-gives-apple-vision-pro",
+  "cat": "Spatial & AR",
+  "headline_real": "visionOS 27 gives Apple Vision Pro a spatial computing and Apple Intelligence upgrade",
+  "source_name": "AppleInsider",
+  "facts": [
+   "Announced at WWDC 2026; adds Spatial Panoramas that convert flat panoramas into stepable 3D environments",
+   "New Spatial Siri 3D widget enables hands-free AI interaction with no wake word",
+   "Adds Spatial Reframing AI photo editing, curved app windows, a Mac Virtual Display widget and Wi-Fi 3x faster",
+   "Apple Intelligence gains contextual understanding of objects seen through passthrough, plus 360-degree web experiences in Safari"
+  ]
+ },
+ {
+  "slug": "google-samsung-confirm-android-xr-glasses",
+  "cat": "Spatial & AR",
+  "headline_real": "Google and Samsung confirm Android XR glasses launching Fall 2026 with Warby Parker and Gentle Monster",
+  "source_name": "9to5Google",
+  "facts": [
+   "Google and Samsung officially teased first Android XR glasses styles for a Fall 2026 launch",
+   "Eyewear partners are Warby Parker and Gentle Monster for fashion-forward frames",
+   "Gemini-powered: real-time translation, navigation, restaurant ordering, summarized notifications and hands-free photo capture",
+   "Audio-first frames ship first; full-display versions expected to follow in 2027"
+  ]
+ },
+ {
+  "slug": "snap-brings-ai-lenses-luxury-fashion",
+  "cat": "Spatial & AR",
+  "headline_real": "Snap brings AI Lenses to luxury fashion as Gucci launches 'La Famiglia' Sponsored AI Lens",
+  "source_name": "MediaPost",
+  "facts": [
+   "Gucci's 'La Famiglia' is the first Sponsored AI Lens for a luxury fashion brand, powered by Snapchat's generative AI",
+   "Transforms users into collection-based character personas (L'Incazzata, Direttore, La VIP, Il Figo, Principino)",
+   "Snap says ~90% of 13-24-year-olds globally use the app and ~80% of users report AR experiences help purchase decisions",
+   "Follows Snap's 2025 holiday luxury push with Chopard, BOSS and Lancome; Gen Z projected to be 25%+ of global luxury spend within four years"
+  ]
+ }
+]

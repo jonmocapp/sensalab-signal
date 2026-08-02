@@ -1,0 +1,55 @@
+name: Signal - daily news feed
+
+# Carril 1: refresca el feed de Señales (noticias reales) cada mañana. GRATIS: no usa LLM ni
+# API key. Corre en la nube de GitHub (no necesitas tu PC prendida) y Netlify redespliega solo.
+on:
+  schedule:
+    # 13:00 UTC = 7:00 am CDMX (Mexico no usa DST, es estable todo el año).
+    - cron: "0 13 * * *"
+  workflow_dispatch:   # botón para correrlo a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: signal-daily
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Traer señales del día (determinista, sin LLM)
+        run: python daily_signals.py
+
+      - name: Reconstruir la home con el feed fresco
+        run: python build_blog_b.py
+
+      - name: Commit si hubo cambios
+        if: always()
+        run: |
+          git config user.name "signal-bot"
+          git config user.email "bot@sensalab.io"
+          git add -f signals.json blog/index.html blog/img blog/fonts 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "sin cambios en el feed hoy"; exit 0
+          fi
+          git commit -m "Signal daily: refresh feed $(date +%F)"
+          for i in 1 2 3; do
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "feed publicado"; exit 0
+            fi
+            echo "push rechazado; rebase ($i/3)..."
+            git fetch origin ${{ github.ref_name }} || true
+            git rebase origin/${{ github.ref_name }} || git rebase --abort
+          done
+          echo "ERROR: no se pudo publicar el feed tras 3 intentos"; exit 1

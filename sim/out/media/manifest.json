@@ -1,0 +1,26 @@
+{
+  "A": {
+    "hero": "media/A-hero.jpg",
+    "sections": {
+      "in-the-lab": "media/A-in-the-lab.jpg",
+      "craft": "media/A-craft.png",
+      "field-notes": "media/A-field-notes.jpg"
+    },
+    "video": {
+      "poster": "media/A-video.jpg",
+      "link": "https://www.fox13seattle.com/video/fmc-tc4eswursuf4mz31"
+    }
+  },
+  "B": {
+    "hero": "media/B-hero.jpg",
+    "sections": {
+      "field-notes": "media/B-field-notes.jpg",
+      "in-the-lab": "media/B-in-the-lab.png",
+      "craft": "media/B-craft.jpg"
+    },
+    "video": {
+      "poster": "media/B-video.jpg",
+      "link": "https://www.youtube.com/results?search_query=Shrek+5+official+teaser+trailer"
+    }
+  }
+}

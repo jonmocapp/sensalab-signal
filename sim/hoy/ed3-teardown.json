@@ -1,0 +1,38 @@
+{
+  "issue_no": "09",
+  "edition_title": "The experiential boom has a passive problem",
+  "subject": "A 128 billion boom, and most of it is still a backdrop",
+  "format": "teardown",
+  "hero": {
+    "kicker": "The teardown",
+    "statement": "The money showed up. The interactivity didn't",
+    "sub": "Experiential spending is at a record. Most of what it buys is still a photo op."
+  },
+  "teardown": {
+    "case": "The 128 billion experiential boom",
+    "statement": "The money showed up. The interactivity didn't",
+    "verdict": "The category is winning the budget war. It is losing the participation war.",
+    "flaw": "Global experiential spend passed 128 billion dollars in 2024, its first time above the levels seen before the pandemic, and 51 percent of brands say they will spend more through 2026. But walk the floor and most immersive activations are the same thing dressed up: a branded backdrop, a hashtag, a queue for a photo. That is reach wearing a costume, not participation.",
+    "principle": "The activations that convert are multisensory and responsive. They change based on what the visitor does. A spectacle you only watch is expensive reach. An experience that answers you is a relationship.",
+    "why": "The budget is already moving toward experiential. The brands that make it respond, not just look good, are the ones that turn footfall into a line on the pipeline.",
+    "case_img_role": "craft",
+    "done_right": {
+      "text": "The World Cup 2026 activations that landed were not the biggest screens. They were the ones that gave fans something to do. U.S. World Cup experiences are reportedly up 403 percent versus 2022, with attendance up 572 percent. Demand is not the problem. Passivity is.",
+      "label": "World Cup 2026"
+    }
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "Record spend, thin interaction",
+      "body": "Experiential passed 128 billion dollars in 2024 and over half of brands plan to spend more through 2026. The dollars are real. The participation often is not.",
+      "why": "A bigger budget on a passive idea just buys a more expensive photo op.",
+      "cta": "Read the teardown ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Make it answer back",
+    "body": "We turn activations from backdrop into dialogue, real time, responsive, multisensory, under your agency's name. Same budget, a reason to stay.",
+    "button": "Touch it"
+  }
+}

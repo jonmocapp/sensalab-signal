@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inmersivo — panel de medición (mock)</title>
+<style>
+  :root{
+    --ink:#0B0F0F; --bg:#F4F3F3; --gray:#787878; --navy:#1C1956; --panel:#E4E4EF;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);
+       font:14px/1.5 "KMR Apparat", Inter, system-ui, -apple-system, sans-serif;
+       padding:28px;max-width:1180px;margin:0 auto}
+  header{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin-bottom:6px}
+  h1{font-size:22px;font-weight:800;letter-spacing:-.01em}
+  h1 span{color:var(--gray);font-weight:400}
+  .meta{color:var(--gray);font-size:13px}
+  .banner{background:var(--panel);border:1px solid rgba(28,25,86,.18);border-radius:8px;
+          padding:8px 14px;font-size:12.5px;color:var(--navy);margin:12px 0 22px}
+  .grid{display:grid;gap:14px}
+  .tiles{grid-template-columns:repeat(auto-fit,minmax(122px,1fr))}
+  .cols2{grid-template-columns:1fr 1fr}
+  @media (max-width:860px){.cols2{grid-template-columns:1fr}}
+  .card{background:var(--panel);border-radius:12px;padding:16px 18px}
+  .card h2{font-size:13px;font-weight:700;margin-bottom:2px}
+  .card .src{font-size:11px;color:var(--gray);margin-bottom:12px}
+  .tile .k{font-size:11.5px;color:var(--gray)}
+  .tile .v{font-size:26px;font-weight:800;letter-spacing:-.02em;margin:2px 0}
+  .tile .d{font-size:11.5px;color:var(--gray)}
+  .tile .d b{color:var(--navy);font-weight:700}
+  .row{display:flex;align-items:center;gap:10px;margin:7px 0}
+  .row .lbl{flex:0 0 190px;font-size:12.5px;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .row .lbl small{color:var(--gray)}
+  .track{flex:1;background:var(--bg);border-radius:4px;height:14px;position:relative}
+  .fill{background:var(--navy);border-radius:4px;height:14px;min-width:3px}
+  .fill.soft{background:rgba(28,25,86,.45)}
+  .row .val{flex:0 0 58px;text-align:right;font-size:12.5px;font-weight:700}
+  .row .val small{color:var(--gray);font-weight:400}
+  .legend{display:flex;gap:16px;flex-wrap:wrap;font-size:11.5px;color:var(--gray);margin-top:10px}
+  .legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+  .stack{display:flex;height:22px;border-radius:5px;overflow:hidden;margin-top:6px}
+  .stack div{height:22px}
+  .wrow{display:flex;align-items:center;gap:8px;margin:5px 0;font-size:12.5px}
+  .wrow .wl{flex:0 0 92px}
+  .wrow .wt{flex:1;background:var(--bg);border-radius:3px;height:10px}
+  .wrow .wf{background:var(--navy);height:10px;border-radius:3px}
+  .wrow .wd{flex:0 0 92px;text-align:right;color:var(--gray)}
+  .wrow .wd b{color:var(--navy);font-weight:700}
+  .ok{color:var(--navy);font-weight:700}
+  .note{font-size:11.5px;color:var(--gray);margin-top:10px}
+  svg text{font:11px "KMR Apparat", Inter, system-ui, sans-serif;fill:var(--gray)}
+  svg .axis{stroke:#E4E4EF;stroke-width:1}
+  footer{margin-top:26px;font-size:11.5px;color:var(--gray);line-height:1.7}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Inmersivo <span>— panel de medición</span></h1>
+  <div class="meta">edición 012 · lunes 21 de julio, 2026 · formato: teardown</div>
+</header>
+<div class="banner">Mock con datos de ejemplo — ninguna cifra es real. Estructura según la spec 04-dashboard-spec.md.</div>
+
+<!-- fila 1: tiles -->
+<div class="grid tiles" style="margin-bottom:14px">
+  <div class="card tile"><div class="k">entregados</div><div class="v">143</div><div class="d">de 145 · <b>98.6%</b></div></div>
+  <div class="card tile"><div class="k">open rate</div><div class="v">46%</div><div class="d">66 únicos · <b>+2 pp</b> vs media 4</div></div>
+  <div class="card tile"><div class="k">click rate</div><div class="v">4.9%</div><div class="d">7 únicos · <b>+0.8 pp</b></div></div>
+  <div class="card tile"><div class="k">ctor</div><div class="v">10.6%</div><div class="d">meta fase 2: 12%</div></div>
+  <div class="card tile"><div class="k">visitas web</div><div class="v">6</div><div class="d">86% de los clicks</div></div>
+  <div class="card tile"><div class="k">lecturas</div><div class="v">4</div><div class="d">scroll ≥ 75%</div></div>
+  <div class="card tile"><div class="k">replies</div><div class="v">2</div><div class="d">1 conversación</div></div>
+  <div class="card tile"><div class="k">booked (mes)</div><div class="v">0</div><div class="d">objetivo fase 2: 1</div></div>
+</div>
+
+<!-- fila 2: embudo -->
+<div class="card" style="margin-bottom:14px">
+  <h2>Embudo de la edición</h2>
+  <div class="src">Brevo (poll + webhooks) · GA4 · registro manual semanal</div>
+  <div class="row"><div class="lbl">entregados</div><div class="track"><div class="fill" style="width:100%"></div></div><div class="val">143</div></div>
+  <div class="row"><div class="lbl">abiertos únicos <small>(direccional)</small></div><div class="track"><div class="fill" style="width:46.2%"></div></div><div class="val">66</div></div>
+  <div class="row"><div class="lbl">clicks únicos</div><div class="track"><div class="fill" style="width:4.9%"></div></div><div class="val">7</div></div>
+  <div class="row"><div class="lbl">visitas a la edición web</div><div class="track"><div class="fill" style="width:4.2%"></div></div><div class="val">6</div></div>
+  <div class="row"><div class="lbl">lecturas completas</div><div class="track"><div class="fill" style="width:2.8%"></div></div><div class="val">4</div></div>
+  <div class="row"><div class="lbl">replies</div><div class="track"><div class="fill" style="width:1.4%"></div></div><div class="val">2</div></div>
+  <div class="row"><div class="lbl">conversaciones</div><div class="track"><div class="fill" style="width:0.7%"></div></div><div class="val">1</div></div>
+  <div class="row"><div class="lbl">booked</div><div class="track"><div class="fill" style="width:0%"></div></div><div class="val">0</div></div>
+  <div class="note">El salto más débil esta semana: clicks → visitas ya sana (86%); el foco es abiertos → clicks (ctor 10.6%, meta 12%).</div>
+</div>
+
+<div class="grid cols2" style="margin-bottom:14px">
+  <!-- fila 3 izq: tendencia (small multiples, un eje por gráfica) -->
+  <div class="card">
+    <h2>Tendencia por edición</h2>
+    <div class="src">Brevo · ediciones 005–012 · dos escalas = dos gráficas (nunca doble eje)</div>
+    <svg viewBox="0 0 480 150" role="img" aria-label="open rate por edición, de 41 a 46 por ciento">
+      <text x="0" y="12">open rate %</text>
+      <line class="axis" x1="30" y1="30" x2="30" y2="120"/><line class="axis" x1="30" y1="120" x2="470" y2="120"/>
+      <text x="6" y="34">60</text><text x="6" y="124">0</text>
+      <polyline fill="none" stroke="#1C1956" stroke-width="2" points="50,58.5 110,54 170,61.5 230,51 290,55.5 350,49.5 410,52.5 466,50.7">
+        <title>open rate: 41, 44, 39, 46, 43, 47, 45, 46.2 %</title></polyline>
+      <circle cx="466" cy="50.7" r="4" fill="#1C1956"><title>012 · 46.2%</title></circle>
+      <text x="440" y="44" style="fill:#0B0F0F;font-weight:700">46%</text>
+      <text x="46" y="135">005</text><text x="406" y="135">011</text><text x="458" y="135">012</text>
+    </svg>
+    <svg viewBox="0 0 480 150" role="img" aria-label="click rate por edición, de 2.8 a 4.9 por ciento">
+      <text x="0" y="12">click rate %</text>
+      <line class="axis" x1="30" y1="30" x2="30" y2="120"/><line class="axis" x1="30" y1="120" x2="470" y2="120"/>
+      <text x="6" y="34">6</text><text x="6" y="124">0</text>
+      <polyline fill="none" stroke="#1C1956" stroke-width="2" stroke-dasharray="6 4" points="50,78 110,67.5 170,73.5 230,57 290,66 350,48 410,58.5 466,46.5">
+        <title>click rate: 2.8, 3.5, 3.1, 4.2, 3.6, 4.8, 4.1, 4.9 %</title></polyline>
+      <circle cx="466" cy="46.5" r="4" fill="#1C1956"><title>012 · 4.9%</title></circle>
+      <text x="436" y="40" style="fill:#0B0F0F;font-weight:700">4.9%</text>
+      <text x="46" y="135">005</text><text x="406" y="135">011</text><text x="458" y="135">012</text>
+    </svg>
+  </div>
+
+  <!-- fila 3 der: clicks por historia -->
+  <div class="card">
+    <h2>Clicks por link — edición 012</h2>
+    <div class="src">Brevo linksStats + webhooks (por utm_content)</div>
+    <div class="row"><div class="lbl">hero--cosm-la-nueva-pantalla</div><div class="track"><div class="fill" style="width:100%"></div></div><div class="val">4</div></div>
+    <div class="row"><div class="lbl">card-1--siggraph-realtime-crowds</div><div class="track"><div class="fill" style="width:50%"></div></div><div class="val">2</div></div>
+    <div class="row"><div class="lbl">invitation</div><div class="track"><div class="fill" style="width:50%"></div></div><div class="val">2</div></div>
+    <div class="row"><div class="lbl">video--shrek-inmersivo-detras</div><div class="track"><div class="fill" style="width:25%"></div></div><div class="val">1</div></div>
+    <div class="row"><div class="lbl">card-2--proyeccion-fachadas-la</div><div class="track"><div class="fill" style="width:0%"></div></div><div class="val">0</div></div>
+    <div class="note">La historia del hero gana; card-2 sin clicks dos ediciones seguidas → candidata a bajar de peso su topic.</div>
+
+    <h2 style="margin-top:18px">Rendimiento por topic — ventana 8 ediciones</h2>
+    <div class="src">performance_by_topic() · clicks por historia publicada</div>
+    <div class="row"><div class="lbl">venues y domos</div><div class="track"><div class="fill" style="width:100%"></div></div><div class="val">2.1</div></div>
+    <div class="row"><div class="lbl">3d en tiempo real</div><div class="track"><div class="fill" style="width:76%"></div></div><div class="val">1.6</div></div>
+    <div class="row"><div class="lbl">proyección y mapping</div><div class="track"><div class="fill" style="width:57%"></div></div><div class="val">1.2</div></div>
+    <div class="row"><div class="lbl">ar interactivo</div><div class="track"><div class="fill" style="width:43%"></div></div><div class="val">0.9</div></div>
+    <div class="row"><div class="lbl">retail experiencial</div><div class="track"><div class="fill" style="width:29%"></div></div><div class="val">0.6</div></div>
+  </div>
+</div>
+
+<div class="grid cols2" style="margin-bottom:14px">
+  <!-- fila 4 izq: salud de la lista -->
+  <div class="card">
+    <h2>Salud de la lista — 130 suscriptores activos</h2>
+    <div class="src">data/subscribers.json · engagement_score() · corte semanal</div>
+    <div class="stack">
+      <div style="width:40%;background:#1C1956" title="engaged: 52 (score ≥ 40)"></div>
+      <div style="width:16.2%;background:rgba(28,25,86,.62)" title="at-risk: 21 (score 15–40)"></div>
+      <div style="width:10.8%;background:rgba(28,25,86,.32)" title="new: 14 (alta < 21 días)"></div>
+      <div style="width:29.2%;background:rgba(28,25,86,.14)" title="dormant: 38"></div>
+      <div style="width:3.8%;background:#787878" title="lost: 5 (no contactar)"></div>
+    </div>
+    <div class="legend">
+      <span><i style="background:#1C1956"></i>engaged 52</span>
+      <span><i style="background:rgba(28,25,86,.62)"></i>at-risk 21</span>
+      <span><i style="background:rgba(28,25,86,.32)"></i>new 14</span>
+      <span><i style="background:rgba(28,25,86,.14)"></i>dormant 38</span>
+      <span><i style="background:#787878"></i>lost 5</span>
+    </div>
+    <div class="note">Engaged share 40% (meta fase 3: 45%). 38 dormant → correr secuencia de re-engage antes del issue 014. Escala de intensidad = opacidad del azul de marca (sin hexes nuevos); lost en gris por ser estado terminal.</div>
+
+    <h2 style="margin-top:18px">Formato — clicks por historia, ventana 8 ediciones</h2>
+    <div class="src">performance_by_topic().formats · sólido vs textura (una sola serie de color)</div>
+    <svg viewBox="0 0 480 92" role="img" aria-label="teardown 1.9 contra signal 1.4 clicks por historia">
+      <defs><pattern id="hatch" width="7" height="7" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+        <rect width="7" height="7" fill="#F4F3F3"/><line x1="0" y1="0" x2="0" y2="7" stroke="#1C1956" stroke-width="2.6"/>
+      </pattern></defs>
+      <text x="0" y="24">teardown (3 ed.)</text>
+      <rect x="120" y="12" width="300" height="18" rx="4" fill="#1C1956"><title>teardown: 1.9 clicks por historia</title></rect>
+      <text x="428" y="25" style="fill:#0B0F0F;font-weight:700">1.9</text>
+      <text x="0" y="60">signal (5 ed.)</text>
+      <rect x="120" y="48" width="221" height="18" rx="4" fill="url(#hatch)" stroke="#1C1956" stroke-width="1"><title>signal: 1.4 clicks por historia</title></rect>
+      <text x="349" y="61" style="fill:#0B0F0F;font-weight:700">1.4</text>
+    </svg>
+    <div class="note">Confirma la apuesta del cerebro: talkability alto → teardown. Muestra chica (3 ediciones): leer como dirección, no veredicto.</div>
+  </div>
+
+  <!-- fila 4 der: pesos del cerebro + experimento -->
+  <div class="card">
+    <h2>Pesos del cerebro y último ajuste</h2>
+    <div class="src">data/weights.json · adjust_weights() · learning rate 0.10 · piso 0.02 / techo 0.40</div>
+    <div class="wrow"><div class="wl">relevance</div><div class="wt"><div class="wf" style="width:52.5%"></div></div><div class="wd">0.21 <b>↑ +0.01</b></div></div>
+    <div class="wrow"><div class="wl">b2b</div><div class="wt"><div class="wf" style="width:45%"></div></div><div class="wd">0.18 · =</div></div>
+    <div class="wrow"><div class="wl">momentum</div><div class="wt"><div class="wf" style="width:32.5%"></div></div><div class="wd">0.13 <b>↑ +0.01</b></div></div>
+    <div class="wrow"><div class="wl">timeliness</div><div class="wt"><div class="wf" style="width:30%"></div></div><div class="wd">0.12 · =</div></div>
+    <div class="wrow"><div class="wl">novelty</div><div class="wt"><div class="wf" style="width:25%"></div></div><div class="wd">0.10 · =</div></div>
+    <div class="wrow"><div class="wl">talkability</div><div class="wt"><div class="wf" style="width:22.5%"></div></div><div class="wd">0.09 <b>↑ +0.01</b></div></div>
+    <div class="wrow"><div class="wl">authority</div><div class="wt"><div class="wf" style="width:17.5%"></div></div><div class="wd">0.07 ↓ −0.01</div></div>
+    <div class="wrow"><div class="wl">angle</div><div class="wt"><div class="wf" style="width:15%"></div></div><div class="wd">0.06 ↓ −0.01</div></div>
+    <div class="wrow"><div class="wl">geo</div><div class="wt"><div class="wf" style="width:10%"></div></div><div class="wd">0.04 ↓ −0.01</div></div>
+    <div class="note">Ajuste aplicado: 9 clicks ≥ muestra mínima (5). Historial completo en data/weights-history.jsonl.</div>
+
+    <h2 style="margin-top:18px">Experimento activo</h2>
+    <div class="src">roadmap 05-ab-testing-roadmap.md</div>
+    <p style="font-size:12.5px;margin-top:4px"><b>exp-subject-style</b> — asunto-ángulo vs asunto-beneficio.<br>
+    Estado: <span class="ok">programado para el issue 009</span> (fase 1 = solo baseline, sin tests).<br>
+    Split: lista congelada 50/50 · duración fijada: 6 ediciones · métrica: open rate pooled · guardarraíles: unsub, quejas, replies.</p>
+  </div>
+</div>
+
+<!-- fila 7: guardarraíles -->
+<div class="grid tiles">
+  <div class="card tile"><div class="k">hard + soft bounces</div><div class="v">1.4%</div><div class="d"><span class="ok">ok</span> · alarma ≥ 2%</div></div>
+  <div class="card tile"><div class="k">unsubscribes</div><div class="v">0.7%</div><div class="d"><span class="ok">ok</span> · alarma ≥ 1.5%</div></div>
+  <div class="card tile"><div class="k">quejas de spam</div><div class="v">0</div><div class="d"><span class="ok">ok</span> · alarma ≥ 1 (absoluto)</div></div>
+  <div class="card tile"><div class="k">crecimiento de lista (mes)</div><div class="v">+9</div><div class="d">meta fase 2: +10–20</div></div>
+</div>
+
+<footer>
+  Fuentes: Brevo stats (poll 1–2×/día) · webhooks Brevo → data/subscribers.json · GA4 (utm_campaign=issue-012) · registro manual (replies, conversaciones, booked).<br>
+  Paleta: solo #0B0F0F · #F4F3F3 · #787878 · #1C1956 · #E4E4EF (intensidades = opacidad del azul; series distinguidas por estilo, no por hue). Sentence case en todo.<br>
+  The real luxury is presence.
+</footer>
+
+</body>
+</html>

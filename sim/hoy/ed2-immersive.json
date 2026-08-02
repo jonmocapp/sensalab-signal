@@ -1,0 +1,39 @@
+{
+  "issue_no": "08",
+  "edition_title": "Three signals immersive went mainstream",
+  "subject": "Three separate signals that immersive went mainstream",
+  "format": "signal",
+  "hero": {
+    "kicker": "This week's signals",
+    "statement": "Immersive went mainstream on three fronts this week",
+    "sub": "Not one story, three. A studio filling venues across three continents, a Hollywood studio betting on domes, and an artist moving his life's work into the headset."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "statement": "Wevr filled venues on three continents",
+      "body": "LA studio Wevr reported five location based experiences across Asia, Europe and South America reaching more than a million people this year, including The Blu: Expedition Taiwan, built with HTC VIVERSE and Taiwan's Ministry of Culture in Kaohsiung.",
+      "why": "Shared immersive rooms are destinations. Destinations sell tickets a headset at home never will.",
+      "cta": "See the pattern ›"
+    },
+    {
+      "role": "in-the-lab",
+      "statement": "Sony put 100 million dollars into domes",
+      "body": "Sony is investing 100 million dollars in Cosm, the domed theater operator, which opens a fourth venue in Detroit this September and a fifth in Cleveland after that. The wraparound dome is spreading fast.",
+      "why": "When a studio like Sony bankrolls domes, the format has moved from novelty to real estate.",
+      "cta": "Follow the build ›"
+    },
+    {
+      "role": "craft",
+      "statement": "A named artist moved his catalog into spatial",
+      "body": "A.R. Rahman launched ARR Immersive on Apple Vision Pro, bringing a decade of immersive storytelling into a spatial app. When artists of that scale port their work, brands get a lane to build inside it.",
+      "why": "Cultural credibility is borrowable. Partner early and you sit inside the story, not beside it.",
+      "cta": "Read the angle ›"
+    }
+  ],
+  "invitation": {
+    "headline": "Design for the room, not the headset",
+    "body": "The immersive work that travels is the work people do together. We design shared, real time experiences for brands and agencies, your name on the front, our engine underneath.",
+    "button": "Touch it"
+  }
+}

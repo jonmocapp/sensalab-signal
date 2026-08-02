@@ -1,0 +1,79 @@
+{
+  "issue_no": "06",
+  "issue_tag": "JUL 2026",
+  "edition_title": "The Audience Can Tell",
+  "hero": {
+    "kicker": "The July signal",
+    "headline": "Your audience just became a craft critic",
+    "sub": "A dome in Inglewood restaged a 25-year-old film, SIGGRAPH moved photoreal capture into standard pipelines, and the internet torched a too-smooth ogre. One lesson across all three: surfaces are strategy now.",
+    "statement": "Your audience just became a craft critic."
+  },
+  "sections": [
+    {
+      "role": "field-notes",
+      "kicker": "Field Notes",
+      "headline": "Cosm turned a 25-year-old film into a venue-scale premiere",
+      "body": "Harry Potter and the Sorcerer's Stone in Shared Reality opened at Cosm Los Angeles in May: Warner Bros., Little Cinema, and MakeMake adapted the film so Hogwarts spills past the frame and onto the dome. The read for producers: IP holders now budget for staging, not screening. Catalog titles are experiential inventory.",
+      "cta": "Step inside the dome ›",
+      "statement": "Harry Potter didn't reopen a movie. It opened a room.",
+      "why": "Catalog IP is experiential inventory now."
+    },
+    {
+      "role": "in-the-lab",
+      "kicker": "In the Lab",
+      "headline": "Gaussian splatting graduated from demo to pipeline",
+      "body": "Out of SIGGRAPH 2026: OpenUSD v26.03 now includes a Gaussian splat schema, and a Filmakademie short ran a bedroom captured from 4,000 photos in real time inside Unreal. Photoreal location capture travels through standard tools — scan the venue, previz the activation, reuse the asset.",
+      "cta": "See splats in production ›",
+      "statement": "Photoreal capture walked out of the demo and into the pipeline.",
+      "why": "Scan the venue, previz the activation, reuse the asset."
+    },
+    {
+      "role": "craft",
+      "kicker": "Craft",
+      "headline": "Shrek got smoother. The audience called it fake.",
+      "body": "The June Shrek 5 teaser drew backlash sharp enough that comments got switched off. The craft problem isn't nostalgia; it's texture. Sand the grime and weight off a character and it reads synthetic — audiences now call that \"AI slop.\" Polish isn't finish.",
+      "cta": "Read the teardown ›",
+      "statement": "They sanded the grime off Shrek. The audience called it fake.",
+      "why": "Polish isn't finish."
+    }
+  ],
+  "video": {
+    "kicker": "Watch",
+    "headline": "A room becomes a splat",
+    "body": "Sixty seconds on photoreal capture: from 4,000 stills to a real-time environment you can walk a camera through. The technique behind this month's pipeline shift, shown, not explained.",
+    "duration": "01:00",
+    "statement": "Watch a room become a splat."
+  },
+  "invitation": {
+    "kicker": "An open invitation",
+    "headline": "Have something impossible in mind?",
+    "body": "If a pitch on your desk needs real-time 3D, projection, or AR under your own brand, that's the layer we build. Reply.",
+    "button": "Touch it"
+  },
+  "sources": [
+    "https://www.cosm.com/events/harry-potter-in-shared-reality",
+    "https://www.artsbeatla.com/2026/05/cosm-harry-potter/",
+    "https://stageandcinema.com/2026/07/10/harry-potter-cosm-review-inglewood/",
+    "https://blog.siggraph.org/2026/07/gaussian-splatting-in-virtual-production-how-we-put-a-human-sized-can-into-a-childhood-bedroom.html/",
+    "https://blockchain.news/news/amd-3d-gaussian-splatting-siggraph-2026",
+    "https://www.khronos.org/events/siggraph-2026",
+    "https://thetab.com/filmshrine/2026/06/16/shrek-5-turns-off-comments-after-new-trailer-sparks-backlash-animation/",
+    "https://screenrant.com/shrek-5-trailer-reactions/",
+    "https://thedirect.com/article/shrek-5-trailer-splits-fanbase-character-redesigns-animation"
+  ],
+  "teardown": {
+    "case": "Shrek 5 teaser",
+    "statement": "They sanded the grime off Shrek. The audience called it fake.",
+    "verdict": "The June teaser drew backlash sharp enough that comments got switched off. It wasn't nostalgia. It was texture.",
+    "flaw": "Sand the grime, pores and weight off a character and the eye clocks it instantly - it reads synthetic. The internet has a name for that now: \"AI slop.\" The redesign chased clean and lost the hand-made friction that made the original feel alive.",
+    "principle": "Polish and finish are not the same thing. Finish is the deliberate roughness that tells your senses something is real - the scuff, the fingerprint, the imperfect edge. Remove it and you remove belief.",
+    "why": "Polish isn't finish.",
+    "done_right": {
+      "label": "Cosm LA",
+      "text": "Same month, a dome in Inglewood restaged Harry Potter in shared reality - and kept every texture: dust in the light, weight in the stone. The surface did the convincing. That's the difference between rendering an image and rendering a place.",
+      "img_role": "field-notes"
+    },
+    "video_statement": "See the teaser everyone argued about.",
+    "case_img_role": "craft"
+  }
+}

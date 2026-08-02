@@ -1,0 +1,47 @@
+[
+ {
+  "slug": "television-city-orbital-studios-partner-hollywood",
+  "cat": "CGI & VFX",
+  "headline_real": "Television City and Orbital Studios partner on a new Hollywood virtual production studio and R&D lab",
+  "source_name": "TV Tech",
+  "facts": [
+   "New LED volume virtual production facility opens at 7800 Beverly Blvd. in LA's Fairfax District on the historic Television City lot (bought by Hackman Capital in 2018 for $750 million)",
+   "Orbital Studios (founded 2020 by A.J. Wedding) brings camera tracking, real-time rendering and an in-house Virtual Art Department to a full-service stage plus R&D lab",
+   "Orbital's roadmap spans AI-assisted content creation and location reconstruction via 3D Gaussian Splatting; recent credits include the docuseries 'World War II With Tom Hanks'"
+  ]
+ },
+ {
+  "slug": "clear-angle-studios-modular-volumetric-capture",
+  "cat": "CGI & VFX",
+  "headline_real": "Clear Angle Studios launches a modular Volumetric Capture Rig for dynamic Gaussian splat performances",
+  "source_name": "Post Magazine",
+  "facts": [
+   "Rig uses 40 high-speed machine-vision cameras with 6K sensors shooting 12-bit at 60fps, plus 450 individually programmable light nodes and up to 120 lighting configurations",
+   "Scalable capture volume reaches 2.5 cubic meters with 360-degree coverage, and is based at Pinewood Studios in Buckinghamshire, England",
+   "Dynamic Gaussian splat capture preserves original performance behavior and natural lighting, cutting manual post steps; Union VFX partnered on re-lighting solutions for the splat assets"
+  ]
+ },
+ {
+  "slug": "inside-arcturus-dynamic-gaussian-splat-capture",
+  "cat": "CGI & VFX",
+  "headline_real": "Inside Arcturus' dynamic Gaussian splat capture behind MrBeast's 500M-subscriber video",
+  "source_name": "Radiance Fields",
+  "facts": [
+   "Volumetric studio Arcturus reconstructed the 'Floor is Lava' sequence as a dynamic Gaussian splat, letting editors scout virtual camera moves after filming wrapped",
+   "Capture used only 30 to 35 cameras per shot inside a plexiglass cube, relying on depth supervision and multiview-consistent pruning to handle constant occlusion from fast-moving contestants",
+   "8 takes were processed and 3 made the final cut; the video marked MrBeast crossing 500 million YouTube subscribers on June 12, 2026"
+  ]
+ },
+ {
+  "slug": "metallica-24-show-life-burns-faster",
+  "cat": "Concert visuals",
+  "headline_real": "Metallica Announce 24-Show 'Life Burns Faster' Sphere Las Vegas Residency",
+  "source_name": "Consequence",
+  "facts": [
+   "24 performances run October 2026 through March 2027, all at 8:30 PM",
+   "Uses a 'No Repeat Weekend' format where Thursday and Saturday setlists share no songs",
+   "Built for Sphere's wraparound highest-resolution LED display and multi-sensory 4D technology",
+   "Original ticket allocation sold out, pushing shows to resale on Ticketmaster and StubHub"
+  ]
+ }
+]
