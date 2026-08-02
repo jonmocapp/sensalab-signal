@@ -6,12 +6,15 @@ name: Signal - daily articles (Carril 2)
 # por articulo, ~$0.05-0.08 c/u). Boton manual con "Run workflow" para probar cuando quieras.
 on:
   schedule:
-    - cron: "0 13 * * *"     # 13:00 UTC = 7:00 am CDMX (estable, Mexico no usa DST)
+    # 3 tandas al dia, 4 notas cada una. Horas CDMX (UTC-6, Mexico sin DST) -> UTC.
+    - cron: "0 15 * * *"     # 09:00 CDMX  (drop de la manana)
+    - cron: "0 23 * * *"     # 17:00 CDMX  (drop de la tarde)
+    - cron: "0 3 * * *"      # 21:00 CDMX  (drop de la noche)
   workflow_dispatch:
     inputs:
       limit:
-        description: "Notas nuevas a escribir en esta corrida"
-        default: "3"
+        description: "Notas nuevas por corrida"
+        default: "4"
 
 permissions:
   contents: write
@@ -37,8 +40,8 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PIPELINE_MODEL: ${{ secrets.PIPELINE_MODEL }}
-          PIPELINE_MAX_NEW: ${{ github.event.inputs.limit || '3' }}
-        run: python pipeline.py --limit ${{ github.event.inputs.limit || '3' }}
+          PIPELINE_MAX_NEW: ${{ github.event.inputs.limit || '4' }}
+        run: python pipeline.py --limit ${{ github.event.inputs.limit || '4' }}
 
       - name: Publicar en Netlify (si hay secrets; si no, deja el sitio en blog/)
         env:
