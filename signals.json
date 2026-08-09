@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T13:37:52.505333+00:00",
+  "generated": "2026-08-09T13:40:30.071442+00:00",
   "count": 60,
   "signals": [
     {
@@ -29,6 +29,34 @@
       "score": 0.396,
       "published": "2026-08-14T01:00:00+00:00",
       "added": "2026-08-02T20:49:56.939280+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmigwfbvv95cuxonkhbaf9qd1ixuuexak1ynuz2eutid2pium94bwtjmv9yaenzbtbhnxr5njjfm29vzdrvtzvdv3zwuxrobwvfyurcvlnmbkpgttrqze1lslvsrhfgdvgynm84tw1oeuzlcgg1cefjwg1klxfkqwr0b3pqbzjuvjfwodzxsq",
+      "headline": "Immersive art, live music and exhibitions coming to Stroud this autumn",
+      "source": "Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkhBaF9Qd1IxUUExak1YNUZ2eUtid2piUm94bWtJMV9yaENzbTBHNXR5NjJFM29vZDRVTzVDV3ZwUXRobWVfYURCVlNmbkpGTTRQZE1LSlVsRHFGdVgyNm84TW1OeUZlcGg1cEFjWG1kLXFKQWR0b3pQbzJuVjFWODZxSQ?oc=5",
+      "take": "Immersive art, live music and exhibitions coming to Stroud this autumn Yahoo News UK",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.383,
+      "published": "2026-08-09T05:00:00+00:00",
+      "added": "2026-08-09T13:40:30.071442+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmisafbvv95cuxnzkriu0cyawx0z3dnsfprrfbur2l0r3fjr3r0t1zcz3jwum9pzg9lz1jyd3atnli1enlxymlhmfatvw1rrwluszmzswi5ny1ramznu3zvufi5bzvmtxzrwfnqq1jxedvebdzwx05ynhjrqzz0yw8wc2xfwwvxoe1odet5nnzvwhb6mnfdawtndvzivghqm01dm1vqwfdts21znurad0fay2pvctnvumtsdg",
+      "headline": "Las Vegas' Viral Immersive Art Museum Is Still A Unique Gem Worth Visiting",
+      "source": "islands.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkRiU0cyaWx0Z3dNSFpRRFBUR2l0R3FJR3R0T1ZCZ3JwUm9PZG9LZ1Jyd3AtNlI1enlXYmlhMFAtVW1rRWlUSzMzSWI5Ny1RamZnU3ZvUFI5bzVmTXZRWFNqQ1JXeDVEbDZwX05yNHJRQzZ0YW8wc2xFWWVxOE1odEt5NnZvWHB6MnFDaWtndVZIVGhQM01DM1VqWFdtS21ZNURad0FaY2pvcTNvUmtSdg?oc=5",
+      "take": "Las Vegas' Viral Immersive Art Museum Is Still A Unique Gem Worth Visiting islands.com",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.383,
+      "published": "2026-08-09T03:45:00+00:00",
+      "added": "2026-08-09T13:40:30.071442+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmirgfbvv95cuxntvatuf9zutjyegloddlkqwjiu3zswfnzng9ytjq4yvvnr0jszkrlctqtmdllrlg5zkg1cfixmgriy09zcxhcyldnr3czzxdnwxpaculgawf4q05dvlpqdfdsnuhrrljyumhib0o1zw80zzllqkzjsmzzrgstdzztn2rin1nscunxqxpvblbwmwdvogngvxrsvus4ug5qymyzvzhtytbquvutnki3mmc",
@@ -183,6 +211,20 @@
       "score": 0.514,
       "published": "2026-08-07T11:19:00+00:00",
       "added": "2026-08-08T13:37:52.505333+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmif0fvx3lxte52am1iz0nuagftwwlsbgdfelc4m2lavhbsedddakdsmzh5tlu4v1pvvlplrmqtzxhxdna1ejctn2jkewfav24tc2pfanbkweutoetvtktretrrd0i0cxi4tuzmcw9ix3rgb294v3i2d180mmu3oe95eukwv3himvxsazmbqvvfexfmtum3uw9jufbqqkfjx1bfbheznwfizdv4rmjtd203dglnawrjn0lhlxk3zxa3twnqyl9qcvhrrdzfnnjjr1j3wldwnk9xmnjqn01qbkzhmg83c2d5am1fcxb4wvpcbkhvn0nzvnlyy0ncoenjmuzysuhhvvq5whowrhlywljmbmvyakjyt1zubnl3cdf3",
+      "headline": "Man City sells Korean‑lettered Haaland jerseys at Seoul pop-up",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52am1iZ0NuaGFTWWlSbGdFelc4M2laVHBSeDdDakdsMzh5TlU4V1pVVlplRmQtZXhxdnA1ejctN2JkeWFaV24tc2pFanBKWEUtOEtVTktreTRRd0I0cXI4TUZmcW9IX3RGb294V3I2d180MmU3OE95eUkwV3hIMVXSAZMBQVVfeXFMTUM3UW9JUFBqQkFjX1BfbHEzNWFiZDV4RmJTd203dGlnaWRJN0lhLXk3ZXA3TWNQYl9QcVhRRDZFNnJJR1J3WldwNk9XMnJqN01QbkZhMG83c2d5am1fcXB4WVpCbkhvN0NzVnlYY0NCOENJMUZYSUhhVVQ5WHowRHlYWlJMbmVYakJyT1Zubnl3cDF3?oc=5",
+      "take": "Man City sells Korean‑lettered Haaland jerseys at Seoul pop-up - CHOSUNBIZ Chosunbiz",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.361,
+      "published": "2026-08-07T09:10:00+00:00",
+      "added": "2026-08-09T13:40:30.071442+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmiogfbvv95cuxpmurtoe14me5isthythdleu5rcmxcbfj3rmlnlwvpbc1fsu9fwlgyzwhxamx4t28zzlbwy2c5zkdfsjc0enrtbtvslxhtmlzxs3jxak5kv3k3u19lylpwc1lxqunhrthzsujslw9moetiq2nhdg1ks2puenu3c1nttjvkvg1gu3rgltjhvxrwumuzswzvve43qlrxr0qtaxlzvhc",
@@ -799,48 +841,6 @@
       "score": 0.392,
       "published": "2026-08-04T11:36:19+00:00",
       "added": "2026-08-06T15:06:06.553865+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmi7gfbvv95cuxnmdvkt1mybgfotw1qtghtsl9vb08wc05un2fsq1aweflmrnnymjv0unljq3riwxboy1bfzwplrme1bhdxvwc4mwo0wuxqsgjqytheqndrt01boxm1wxnonfjrwet4uknwbkdzyi14tjrpmtvnmg1cd3h6m2zya3rdthjotxjjuei3uehxr1jheflhtnliz0s4vwoxlvnmdgwtd3e5b0czuuutbhmtyy10m1jaytbrwhlqexfyzxrtrzvimc15nwnvzng4zvc4chjmmi1ncmdxoulqtvfzz0hjuddkcnzjdnj5lwjvejlb",
-      "headline": "MediaCity celebrates delivery of groundbreaking virtual production acting as nerve-centre for BBC’s World Cup coverage",
-      "source": "Media City UK",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDVkT1MybGFOTW1qTGhTSl9vb08wc05UN2FSQ1AweFlmRnNyMjV0UnlJQ3RIWXBOY1BFZWplRmE1bHdxVWc4MWo0WUxQSGJqYThEQndrT01BOXM1WXNoNFJRWEt4UkNwbkdZYi14TjRPMTVnMG1Cd3h6M2Zya3RDTHJoTXJjUEI3UEhxR1JHeFlHTnliZ0s4VWoxLVNMdGwtd3E5b0czUUUtbHMtYy10M1JaYTBrWHlqeXFYZXRTRzViMC15NWNVZng4ZVc4cHJMMi1NcmdxOUlqTVFzZ0hjUDdKcnZjdnJ5LWJvejlB?oc=5",
-      "take": "MediaCity celebrates delivery of groundbreaking virtual production acting as nerve-centre for BBC’s World Cup coverage Media City UK",
-      "cat": "CGI & VFX",
-      "token": "cgi",
-      "tier": "query",
-      "geo": false,
-      "score": 0.506,
-      "published": "2026-08-04T11:27:25+00:00",
-      "added": "2026-08-04T15:15:11.904171+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmi4afbvv95cuxpvupabkxxa2lodvzzsko1v0j5anq3alj6v3lsvgj0q0n4avk4mdfeewnmmk1szeznbs1hx3rwbxjaeg1ka1q4nf9tcv9ysl8xx3ddanjfzljktzbamgtuczfxatvjvc1zatm3adhqnknivy01rugtvtbjskjmwe0wewjttxdwbgzldgnfugxyr3zumkpxeui5rfhxak9unvdxcc1irzrlzlhbtm1ix3nueg1nvvfccnftz0xscmn2mtl6qy1frnbyy3rhsmrimedmnda3cnvqwtdaqmvknuvmrq",
-      "headline": "HBCU Love: Texas Southern University’s School of Communication Unveils Hollywood-Grade Virtual Production LED Wall",
-      "source": "Texas Metro News",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUpabkxXa2lOdVZZSko1V0J5anQ3alJ6V3lsVGJ0Q0N4aVk4MDFEeWNmMk1sZEZnbS1HX3RWbXJaeG1ka1Q4NF9TcV9YSl8xX3dDanJfZlJkTzBaMGtuczFXaTVJVC1zaTM3aDhQNkNIVy01RUgtVTBJSkJMWE0weWJTTXdWbGZldGNFUGxYR3ZuMkpxeUI5RFhxak9UNVdxcC1IRzRlZlhBTm1IX3NUeG1NVVFCcnFTZ0xscmN2MTl6Qy1fRnByY3RHSmRIMEdmNDA3cnVqWTdaQmVKNUVmRQ?oc=5",
-      "take": "HBCU Love: Texas Southern University’s School of Communication Unveils Hollywood-Grade Virtual Production LED Wall Texas Metro News",
-      "cat": "CGI & VFX",
-      "token": "cgi",
-      "tier": "query",
-      "geo": false,
-      "score": 0.517,
-      "published": "2026-08-04T09:35:12+00:00",
-      "added": "2026-08-04T15:15:11.904171+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmigwfbvv95cuxoukzvchz0a0p6ahhmvmj4dnk2nznhnktydw9frk5tqk12n0o3ddfurv9kcnbxac13ci1vs20xynpps1ztdtzkd0utmvjodxjzcwd1bzlryu15mmnzzfpldgjxumpwunn4mmtpn2vumffiytbtzzl6axjtvnbfcjhbt1bxzw",
-      "headline": "The very fragrance that singer Chungha fell for... Juliette Has A Gun opens pop-up at The Hyundai Seoul",
-      "source": "sportschosun.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkZvcHZ0a0p6aHhMVmJ4dnk2NzNHNktYdW9fRk5TQk12N0o3dDFuRV9KcnBxaC13ci1VS20xYnppS1ZTdTZKd0UtMVJOdXJzcWd1bzlRYU15MmNZZFpldGJxUmpWUnN4MmtpN2VUMFFiYTBtZzl6aXJTVnBFcjhBT1BXZw?oc=5",
-      "take": "",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.47,
-      "published": "2026-08-04T09:11:48+00:00",
-      "added": "2026-08-04T15:15:11.904171+00:00"
     }
   ]
 }
