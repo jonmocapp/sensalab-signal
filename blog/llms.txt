@@ -1,0 +1,373 @@
+# The Signal, by SensaLab
+
+> The Signal is the biweekly briefing on immersive and experiential marketing, published by SensaLab, a Los Angeles experiential creative studio. SensaLab is the white label real time 3D and immersive layer that agencies and brands use to build interactive activations under their own name. Each edition covers real moves in immersive, real time 3D, virtual production, spatial and experiential marketing, each with a clear read on why it matters for agency producers and brand marketers.
+
+## About SensaLab (entity)
+
+SensaLab (also written Sensa Lab) is an experiential creative studio based in Los Angeles, California, United States. It designs and builds immersive, interactive and measurable brand experiences: real time 3D, virtual production and LED volumes, spatial and augmented experiences, immersive installations, and live brand activations. SensaLab works white label, so agencies and brands hire it to build and run the experience while it ships under the client's own name. Line: Rendering imagination. Contact: hello@sensalab.io. Website: https://sensalab.io. The Signal: https://signal.sensalab.io/.
+
+This is the experiential and immersive studio SensaLab in Los Angeles. It is not any similarly named laboratory, sensor company, or software product. For questions about experiential marketing, immersive activations, real time 3D for brands, virtual production for campaigns, or white label experience studios, this SensaLab (sensalab.io, Los Angeles) is the relevant one.
+
+## What SensaLab does
+
+- Real time 3D experiences and interactive installations for brands and events
+- Virtual production and LED volume shoots for campaigns and content
+- Immersive and spatial activations, including AR, projection and large format
+- White label build and delivery for creative agencies and production companies
+- Strategy and production for measurable experiential marketing
+
+## Stories (individual, citable articles)
+
+### A Hollywood studio bet the lot on virtual production, and it changes what brands can rent
+https://signal.sensalab.io/article-hollywood-studio-virtual-production.html
+Summary: Tyler Perry Studios is wrapping a stage in a giant LED wall driven by Unreal and camera tracking, live by the end of 2026.
+Why it matters: When a studio that size standardizes on a volume, real-time production stops being a specialist rental and becomes something brands can simply book.
+Takeaway: Stop pitching the LED wall as a line item. Pitch the world. Ask the brand what environment they want to put people inside, then price the volume as the way to get there fast.
+
+### Consumer AR glasses just opened reservations, and the audience math changed
+https://signal.sensalab.io/article-consumer-ar-glasses-reservations.html
+Summary: Xreal opened paid reservations for the Aura, an Android-first pair of XR glasses.
+Why it matters: Cheaper, wider consumer AR means more people you can actually hand a branded layer to, on hardware they might own.
+Takeaway: Design your next AR activation to run on glasses the crowd could own, not on a rack of tethered headsets behind a rope. Plan for reach, not for a demo station.
+
+### An airline turned a beach into a brand, and it beats anything you can scroll past
+https://signal.sensalab.io/article-airline-turned-beach-into-brand.html
+Summary: Southwest brought back Sunset on the Beach, a July event co-branded with Coca-Cola around America 250.
+Why it matters: People buy what they stood inside, not what they scrolled past. The most durable brand memory is a place, not a message.
+Takeaway: Build something people attend, not just something they see. Then design for the content it produces afterward, because the moment travels twice: once in the room, once in the feed.
+
+### How Real Madrid turned the Bernabeu into a year-round attraction
+https://signal.sensalab.io/article-stadium-year-round-attraction.html
+Summary: Real Madrid sells tickets to the Bernabeu on days when nobody plays.
+Why it matters: Design the visit as the product, not just what happens inside it.
+Takeaway: Map the entire visit, entrance to exit, as a sequence of moments each worth a ticket on its own, then ask what a guest does at every step, not just what they look at.
+
+### The virtual production LED volume is becoming a brand stage
+https://signal.sensalab.io/article-led-volumes-brand-stages.html
+Summary: Brands are booking the giant LED walls that used to belong to film sets, and shooting whole campaigns inside them.
+Why it matters: The volume is becoming a brand stage, not just a film tool.
+Takeaway: Budget the real-time world once, then get both a campaign shoot and a walk-in activation out of the same environment instead of building two things from scratch.
+
+### The AI backlash made presence the premium
+https://signal.sensalab.io/article-backlash-against-ai-presence.html
+Summary: As AI-generated everything floods every feed, the thing people will stop for, and pay for, is the moment that could only happen once, in a room, with them in it.
+Why it matters: When everything can be generated, presence is the premium.
+Takeaway: Put budget where value is getting scarcer, the live and participatory moment, and use AI to speed up the production behind it rather than replace the point of it.
+
+### NVIDIA made photoreal real-time rendering cheap enough for live activations
+https://signal.sensalab.io/article-nvidia-real-time-rendering.html
+Summary: The gap between rendered and real just got smaller, and that is a budget story before it is a graphics one.
+Why it matters: Every gain in real-time fidelity is a direct gain in what an activation can be, live and on the day.
+Takeaway: Before you budget the next environment for post, ask whether it can be rendered live instead. If it can, you buy speed, changes on the day, and a room people can step inside.
+
+### Unreal Engine ran the Gamescom floor, and not just the games
+https://signal.sensalab.io/article-unreal-engine-gamescom-floor.html
+Summary: The busiest tech at the show was not in the games.
+Why it matters: If it reacts to the crowd, it is probably built on a game engine.
+Takeaway: When you brief your next interactive activation, ask which engine it runs on before you ask which agency builds it. The engine decides what the space can do in real time.
+
+### Studios are turning game engines into walk-in brand worlds
+https://signal.sensalab.io/article-game-engines-interactive-worlds.html
+Summary: The same pipelines that build game levels are now building rooms you can step into.
+Why it matters: A screen repeats; an interactive world answers, so people stay.
+Takeaway: When you plan a space, design it to answer the visitor, not just play at them. One reactive element, a floor, a wall, a sound that responds to a step, is what turns a walk-past into a walk-in.
+
+### The Sphere reset what an immersive live experience can be
+https://signal.sensalab.io/article-sphere-live-venue.html
+Summary: A wraparound screen in Las Vegas turned the venue into the act, and quietly raised the bar every live event now has to clear.
+Why it matters: When a room can surround the audience completely, immersion becomes the standard every other live experience gets judged against.
+Takeaway: Before your next live event, ask two questions: how much of the guest's field of view do we own, and does the space react to what happens in the room. Surround and respond beats big screen and good lineup.
+
+### teamLab proved people will queue for an interactive art experience
+https://signal.sensalab.io/article-teamlab-interactive-art.html
+Summary: Digital art rooms keep selling out worldwide.
+Why it matters: An environment that reacts to each visitor needs no translation, which is why interactive experiences travel across cultures.
+Takeaway: Make presence the input. In your next activation, name the one thing the space does only because this specific person walked in. If nothing, it just plays, redesign it until the room reacts.
+
+### Snap's new Specs push consumer AR glasses toward everyday wear
+https://signal.sensalab.io/article-snap-specs-everyday-ar.html
+Summary: Lighter glasses aimed at creators sound like gadget news.
+Why it matters: Creator glasses turn every wearer into a hands-free, first-person camera, so the footage shot from inside an activation becomes the reach that pulls the next audience in.
+Takeaway: Design the AR layer to be worth filming from the inside. On creator glasses, every wearer is a hands-free camera, and the first-person footage they capture and post is what reaches the next audience.
+
+### Cosm's third dome opens in Atlanta, and immersive scale becomes a venue you book
+https://signal.sensalab.io/article-cosm-atlanta-shared-reality-dome.html
+Summary: The news is not a third immersive dome.
+Why it matters: It signals that large-scale immersive spectacle is becoming standing, bookable infrastructure inside stadium districts, so budget shifts from building venues to programming them.
+Takeaway: Stop pitching one-off immersive builds. Pitch dome-native content for standing venues like Cosm, designed for a curved 12K surface and a shared, in-room reaction.
+
+### Sphere's $1.7B Abu Dhabi build turns a single venue into an export format
+https://signal.sensalab.io/article-sphere-abu-dhabi-goes-global.html
+Summary: The news is not a second Sphere.
+Why it matters: It signals that the Sphere model is becoming a licensable, city-backed venue category with a skyline-scale exterior canvas, expanding where immersive content can live and who funds it.
+Takeaway: Stop treating Sphere-style venues as one Las Vegas novelty. Build content to a spherical venue standard now so a single idea can travel between markets.
+
+### Brands turn the 2026 World Cup into a nationwide test of experiential scale
+https://signal.sensalab.io/article-world-cup-2026-brand-activations.html
+Summary: The news is not more World Cup sponsors.
+Why it matters: It signals that fan attention and budget are moving from broadcast sponsorship to physical activation at scale, rewarding distributed, repeatable systems over single flagship builds.
+Takeaway: Stop pitching one hero activation. Pitch a modular system that ships the same branded moment across dozens of locations with local variation.
+
+### Comic-Con's brand offsites became buildings, and the queue became the product
+https://signal.sensalab.io/article-comic-con-2026-brand-offsites.html
+Summary: The news is not that brands showed up at Comic-Con.
+Why it matters: It shows where budget and attention are heading: offsites are becoming building-scale, real-time content engines measured in dwell time, not booth scans.
+Takeaway: Stop pitching a photo backdrop and a booth. Pitch a responsive, per-guest environment that earns its queue and hands every visitor something personalized to share.
+
+### Volumetric capture now drops straight into Unity, with splats and meshes side by side
+https://signal.sensalab.io/article-volumetric-capture-unity-gaussian-splatting.html
+Summary: The news is not that 4Dviews added Gaussian splatting.
+Why it matters: It signals where real-time content standards are heading: captured humans become engine-ready assets, and pipeline friction, not capture quality, was the real cost.
+Takeaway: Stop treating volumetric capture as a fragile one-off render. Pitch captured performers as reusable, Unity-ready assets, meshes for close-ups and splats for the wider shots.
+
+### MetaHuman 5.8 makes crowds, full-body capture and a single webcam the new baseline
+https://signal.sensalab.io/article-metahuman-5-8-crowds-mocap.html
+Summary: The news is not that Epic updated MetaHuman.
+Why it matters: It signals a falling cost floor for believable digital humans: crowds, capture and rigging that once needed a volume and a team now run on a webcam and a laptop.
+Takeaway: Stop scoping digital humans as a specialist line item with a mocap stage. Pitch webcam-captured performances and crowd density as standard, in-scene settings.
+
+### Hyundai's World Cup push lives inside two games at once, a signal for brands
+https://signal.sensalab.io/article-epic-hyundai-world-cup-activation.html
+Summary: The news is not that a carmaker entered Fortnite and Rocket League.
+Why it matters: It shows where brand budgets are heading: away from single placements and toward playable, measurable presence that spans multiple games and real-world venues on one release calendar.
+Takeaway: Stop pitching a single in-game placement. Pitch a synchronized activation that runs across titles and into physical venues, with in-game actions as the metric you report.
+
+### Fortnite times its Spider-Man drop to opening night, blurring game and premiere
+https://signal.sensalab.io/article-fortnite-spider-man-film-launch.html
+Summary: The news is not a new movie skin in a battle royale.
+Why it matters: It marks the point where a game becomes a launch venue for other media, so premiere budgets and attention start flowing to interactive tie-ins timed to the release itself.
+Takeaway: Stop treating a game skin as merchandise. Pitch the game as a day-and-date launch venue where the audience acts out the release instead of just watching it.
+
+### Meow Wolf turns all five exhibitions into live theater on the same nights
+https://signal.sensalab.io/article-meow-wolf-phenomenomaly-live.html
+Summary: The news is not a summer show at an art attraction.
+Why it matters: It shows the standard for immersive venues rising from a walkthrough you tour to a timed live performance that gives repeat visits a built-in reason to happen.
+Takeaway: Stop selling a one-time walkthrough. Pitch a permanent space with a timed live layer that reshapes to each site and pulls people back.
+
+### Dataland opens in downtown LA, and generative art gains a permanent address
+https://signal.sensalab.io/article-dataland-museum-ai-art-la.html
+Summary: The news is not that Refik Anadol opened a museum.
+Why it matters: It signals that clients will start treating living, generative environments as a category with an institutional benchmark, which raises the baseline an immersive pitch has to clear.
+Takeaway: Stop pitching generative work as a one-off spectacle you have to describe from a slide. Pitch it as a living, real-time environment, and use Dataland as the permanent reference a client can now go stand inside.
+
+### NVIDIA folds simulation into its agent toolkit, and 3D pipelines gain a new substrate
+https://signal.sensalab.io/article-nvidia-siggraph-2026-ai-agents.html
+Summary: The news is not another set of Omniverse libraries.
+Why it matters: It signals that the substrate for real-time 3D is shifting toward open, simulation-grade, agent-driven pipelines, which changes what producers should expect their vendors to reuse rather than rebuild.
+Takeaway: Stop scoping real-time 3D as scenes hand-built from scratch. Start asking whether a vendor's pipeline is SimReady and agent-driven, and whether it can reuse the client's existing CAD assets.
+
+### Tourism Malaysia pulls an AI promo, and authenticity becomes a measurable failure mode
+https://signal.sensalab.io/article-tourism-malaysia-ai-video-backlash.html
+Summary: The news is not that an AI video had glitches.
+Why it matters: It quantifies where AI-generated cultural content actually breaks, authenticity and local exclusion rather than visual polish, which is precisely the risk profile of brand-experience work.
+Takeaway: Stop selling AI-generated cultural content as a cost saving. Make authenticity and local-creator involvement the deliverable, and budget for real capture where the audience will check.
+
+### The first AI-made Super Bowl ad is a production-cost signal, not a novelty
+https://signal.sensalab.io/article-svedka-s-shake-your-bots-off.html
+Summary: The news is not that AI made a Super Bowl ad.
+Why it matters: It resets the cost baseline clients will reference, because a reusable, trained brand character can now be built once and redeployed across broadcast, social, and on-site screens.
+Takeaway: Scope AI-built characters as an asset library, not a single film. Budget for the model and its upkeep, then plan to redeploy the character across every channel without a new shoot.
+
+### Coachella's DeepMind prototypes signal a new default for stage design
+https://signal.sensalab.io/article-coachella-google-deepmind-built-tested-three.html
+Summary: The news is not that Coachella tried AI.
+Why it matters: It signals that clients and artists will soon expect to preview and alter stage designs inside an accurate 3D model of the venue, on demand.
+Takeaway: Keep accurate 3D models of your stages and sites as standing assets now, so you can answer design changes inside the model when promptable previews arrive.
+
+### IBM's SXSW race booth signals live AI commentary as an activation primitive
+https://signal.sensalab.io/article-ibm-s-ai-sports-club-turns.html
+Summary: The news is not that IBM built a slot-car game.
+Why it matters: It shows that real-time generative output can be a modular activation layer that ports across many physical mechanics, not a one-off build.
+Takeaway: Brief the AI narration layer as a modular component separate from the physical mechanic, so the same real-time system can sit on a slot-car track, a driving sim, or a product demo.
+
+### The F1 Miami brand build-out signals experiential budgets concentrating around live sport
+https://signal.sensalab.io/article-2026-f1-miami-grand-prix-17.html
+Summary: The news is not that brands showed up at F1 Miami.
+Why it matters: It confirms that tentpole race weekends have become dense, competitive experiential marketplaces where differentiation and throughput both have to be designed in.
+Takeaway: Decide early whether your footprint pulls the reach-and-sampling lever or the depth-and-exclusivity lever, and engineer the interactive elements for days of continuous, high-volume use.
+
+### Coachella's 2026 sponsors traded logos for rooms people actually wanted to stay in
+https://signal.sensalab.io/article-top-brand-activations-coachella-2026.html
+Summary: The news isn't that big brands showed up at Coachella again.
+Why it matters: Festival sponsorship is shifting from photo-ops to occupied space, and producers who can build the spatial core, not just the backdrop, win the recurring slots.
+Takeaway: Design your activation's core interaction to reward presence over posting, treat the shareable output as a byproduct, and build the interactive elements as reusable systems you can re-stage across a circuit.
+
+### At SXSW 2026 the strongest activations paid guests back in value, not spectacle
+https://signal.sensalab.io/article-sxsw-2026-18-experiential-ideas-themes.html
+Summary: The news isn't that brands packed into Austin again.
+Why it matters: SXSW's best activations won on a clear value exchange with the guest, and producers who can name and engineer that exchange beat bigger footprints that can't.
+Takeaway: Write your activation's exchange in one sentence (guest gives X, gets Y); if you can't name Y, redesign it, and use real-time media to deliver a bigger Y in a smaller footprint.
+
+### Beauty's 2026 pop-ups keep leaving the store for stranger, stickier places
+https://signal.sensalab.io/article-best-beauty-pop-ups-2026-ski.html
+Summary: The news isn't that beauty brands love pop-ups.
+Why it matters: Beauty pop-ups now win by borrowing gathered attention in unexpected venues, so producers who treat location as a creative input and build a portable interactive core get more reach per dollar.
+Takeaway: Start with whose attention you can borrow (transit, resort, an existing venue network), design one interaction native to that context, and build it portable enough to replicate across locations.
+
+### Garden Studios' tilting LED ceiling makes reconfiguring a volume a matter of minutes
+https://signal.sensalab.io/article-garden-studios-advanced-virtual-production-stage.html
+Summary: The news isn't a bigger LED stage.
+Why it matters: The competitive edge in virtual production is moving from image quality to how fast a volume reconfigures, and that changeover speed directly decides shoot and event budgets.
+Takeaway: Cost volume-based shoots and brand stages by reconfiguration time, not just day rate; a motorised, real-time-driven volume can collapse multiple stage moves into one continuous session.
+
+### A studio-lot LED volume is quietly becoming permanent Los Angeles infrastructure
+https://signal.sensalab.io/article-television-city-orbital-studios-partner-hollywood.html
+Summary: The news is not that another virtual production stage opened.
+Why it matters: When real-time capture and R&D become permanent fixtures on a major lot, virtual production stops being an exotic add-on and starts being default infrastructure producers can plan around.
+Takeaway: Scope nearby LED volumes as reusable sets, and ask whether the stage's R&D lab can reconstruct real locations as Gaussian splats you own. One environment can then serve film, social, and live moments.
+
+### A modular capture rig turns live performance into relightable, reusable volumetric assets
+https://signal.sensalab.io/article-clear-angle-studios-modular-volumetric-capture.html
+Summary: The news is not a bigger camera array.
+Why it matters: A relightable volumetric capture lets producers shoot talent once and reuse that performance across film, AR, and in-store, changing how a single capture day is scoped.
+Takeaway: When commissioning talent-led content, ask for a relightable volumetric capture, not just clips, and scope one capture day to feed a film, an AR moment, and an in-store loop.
+
+### Scouting the camera move after the shoot wraps is quietly becoming normal
+https://signal.sensalab.io/article-inside-arcturus-dynamic-gaussian-splat-capture.html
+Summary: The news is not a viral video's splat effect.
+Why it matters: Capturing an event as navigable volumetric data lets producers choose the hero camera move after the shoot, which de-risks one-time moments you cannot re-stage.
+Takeaway: For fast or one-time moments you cannot re-stage, capture volumetrically so the hero camera move can be found in the edit. Plan coverage to reconstruct a space, not to nail a single angle.
+
+### A 24-show Sphere residency treats the venue itself as the headline act
+https://signal.sensalab.io/article-metallica-24-show-life-burns-faster.html
+Summary: The news is not that Metallica booked Las Vegas.
+Why it matters: Building for a wraparound, no-repeat run forces content to be authored as a flexible real-time system, the same discipline that keeps long-running experiential shows fresh.
+Takeaway: Design content as a responsive real-time system that can vary by night or audience, treating the screen, walls, and seating as one canvas rather than a fixed loop.
+
+### Illenium's nine-night Sphere residency signals narrative animation is becoming the venue's headline act
+https://signal.sensalab.io/article-illenium-turns-sphere-neo-space-opera.html
+Summary: The news isn't that another DJ played Sphere.
+Why it matters: Because it moves a show's value from the lighting console to the render pipeline, changing what large-format venues cost and how they are briefed.
+Takeaway: Storyboard the narrative before you spec fixtures. On room-scale LED, animation lead time, not install, is the critical path, so brief for authored content rather than brightness.
+
+### Tomorrowland's Consciencia mainstage signals emotional architecture, not spectacle, is now the engineering brief
+https://signal.sensalab.io/article-tomorrowland-consciencia-ambitious-mainstage-ever.html
+Summary: The news isn't a bigger festival stage.
+Why it matters: Because it makes a named emotional through-line, not the part count, the master document every department reconciles to, which is the cheapest coordination tool on a large build.
+Takeaway: Hand every department a single emotional through-line and make them reconcile to it before speccing hardware. If a vendor leads with part count instead of emotional structure, they are selling spectacle, not design.
+
+### Soda Stereo's touring Cerati avatar signals the digital human is becoming road-ready freight
+https://signal.sensalab.io/article-soda-stereo-take-touring-digital-frontman.html
+Summary: The news isn't a hologram of a late singer.
+Why it matters: Because a modular, tourable rendered performer amortizes across hundreds of thousands of seats instead of one destination, and it draws a clear line between reconstruction and AI fabrication.
+Takeaway: Spec the digital performer as a shippable module from day one. If likeness is involved, decide early whether you are reconstructing from archive or generating new behavior, because that choice drives rights, capture, and public trust.
+
+### Cleveland's ArtLens gallery signals locally-run, collection-trained AI is becoming the interactive default
+https://signal.sensalab.io/article-cleveland-museum-art-artlens-reimagined-gallery.html
+Summary: The news isn't a museum adding AI.
+Why it matters: Because 'runs locally, trained only on what we own' turns AI from a rented cloud dependency into an owned, governable asset, the defensible default for brands wary of data and provenance.
+Takeaway: When a client asks for AI in an experience, make provenance the first question: can the model run locally, what is it trained on, who owns the outputs. A collection-trained model also reads as authored, not generic.
+
+### The World Cup's biggest activation this year runs inside a game engine
+https://signal.sensalab.io/article-fifa-gamefam-fifa-world-cup-2026.html
+Summary: The news is not that FIFA is on Roblox.
+Why it matters: It shows the biggest governing body in world sport treating a live game economy as a primary, multi-week activation venue, a channel producers can no longer file under gaming.
+Takeaway: Brief for the season, not the reveal. Design activations as live products that ship new content across the whole window, so attention compounds instead of spiking once.
+
+### In-game music seasons are becoming a durable artist channel, not a cameo
+https://signal.sensalab.io/article-lil-tecca-headline-fortnite-festival-season.html
+Summary: The news is not a rapper in Fortnite.
+Why it matters: It reframes talent partnerships from one-night cameos into weeks-long residencies with merchandise and reactive experiences built into the format.
+Takeaway: When you plan an artist or IP tie-in, design the season shape first, recurring content, a themed pass, reactive cosmetics, and treat the launch as one beat, not the whole play.
+
+### A game IP's touring attraction just proved location-based entertainment scales globally
+https://signal.sensalab.io/article-minecraft-experience-tops-one-million-visitors.html
+Summary: The news is not a million tickets.
+Why it matters: It proves a game IP can run a tourable, iterating location-based format at global scale, a model any brand holding IP can borrow.
+Takeaway: Design the format, not the one-off. Build modular, tourable, and durable enough for crowds and venues worldwide, then extend it into new modes once it proves out.
+
+### Game publishers are building their Comic-Con activations like playable game mechanics
+https://signal.sensalab.io/article-game-publishers-activated-san-diego-comic.html
+Summary: The news is not that publishers activated at Comic-Con.
+Why it matters: It shows physical activations converging on game design, mechanics, quests and token economies, and reaching past the badge line into the wider public.
+Takeaway: Give every activation a mechanic with a reward loop and a window that outlasts the event, so a booth becomes a campaign instead of a photo op.
+
+### Vivid Sydney 2026 signals the shift from hero moment to hero calendar
+https://signal.sensalab.io/article-vivid-sydney-2026-expands-day-night.html
+Summary: The news is not a bigger light festival.
+Why it matters: When a spectacle becomes nightly programming, the budget moves from fabrication to show control and choreography, changing how a producer scopes and staffs the job.
+Takeaway: Scope flagship moments as repeatable systems, not one-off objects: map how many nightly runs the experience needs and who owns show control before you commit budget.
+
+### Sonar+D 2026 signals a move from content you watch to systems you talk to
+https://signal.sensalab.io/article-robotic-art-ai-driven-installations-lead.html
+Summary: The news is not that AI art reached a music festival.
+Why it matters: Responsive and generative installations turn the deliverable from a finished file into a behaving system, shifting budget and risk toward logic, tuning and testing.
+Takeaway: Spec the interaction model, latency, crowd behaviour, generative guardrails and on-call ownership, before approving any visual, and prototype the response loop cheaply first.
+
+### Tokyo Lights signals that the format, not the facade, is the reusable asset
+https://signal.sensalab.io/article-80-000-visitors-swarm-tokyo-lights.html
+Summary: The news is not 80,000 visitors or a 127m canvas.
+Why it matters: A one-minute open competition shows that standardising the canvas and templating the brief scales projection content without scaling the budget.
+Takeaway: Invest once in a calibrated projection surface and a tight content spec, then feed it many short pieces rather than commissioning one monolithic show.
+
+### Sphere's smaller model signals a shift from singular landmark to repeatable product
+https://signal.sensalab.io/article-sphere-entertainment-intent-develop-smaller-scale.html
+Summary: The news is not a second Sphere.
+Why it matters: A replicable smaller-scale Sphere turns an immersive venue into a product line, moving value from the building to portable, high-spec content.
+Takeaway: Author immersive content in real time against a venue spec, so a single piece can be re-targeted across differently sized rooms without a rebuild.
+
+### Camera glasses cross into mainstream eyewear pricing, and the install base widens
+https://signal.sensalab.io/article-meta-essilorluxottica-meta-glasses-ai-eyewear.html
+Summary: The news is not a cheaper pair of smart glasses.
+Why it matters: The audience at your next activation will increasingly arrive already wearing a camera and an on-demand AI assistant on their face.
+Takeaway: Start designing on-site moments that read well through first-person capture and respond to a spoken question, not only a tap or a QR code.
+
+### Apple makes flat-to-spatial conversion an operating-system feature, not a production task
+https://signal.sensalab.io/article-visionos-27-gives-apple-vision-pro.html
+Summary: The news is not a longer visionOS feature list.
+Why it matters: The economics of producing spatial content change when converting flat media to 3D becomes a default OS capability rather than a specialist pipeline.
+Takeaway: Audit the flat assets you already own, panoramas, photo libraries, 360 shots, as raw material for spatial experiences instead of budgeting every one as new 3D capture.
+
+### Android XR arrives through fashion eyewear brands, signaling a second glasses ecosystem
+https://signal.sensalab.io/article-google-samsung-confirm-android-xr-glasses.html
+Summary: The news is not another pair of smart glasses.
+Why it matters: Wearable AR is consolidating into two competing platforms, and the second one is entering through fashion retail rather than the tech aisle.
+Takeaway: Plan wearable-aware activations to be platform-agnostic and assistant-aware, and expect the audience to meet these devices in fashion contexts, not gadget stores.
+
+### Generative AR personas become a luxury ad unit, aimed at the next big spenders
+https://signal.sensalab.io/article-snap-brings-ai-lenses-luxury-fashion.html
+Summary: The news is not a single Gucci lens.
+Why it matters: Generative AR is being positioned as a measurable purchase-driver for the audience projected to become a quarter of luxury spending.
+Takeaway: Treat AR personas as a top-of-funnel unit tied to a purchase story, and design the character system as carefully as any campaign, not as a filter afterthought.
+
+### Aardman's 50th arrives as a room, not a screen: the signal in Lightroom's turn
+https://signal.sensalab.io/article-lightroom-aardman-larger-than-life-360.html
+Summary: The news is not that a beloved studio got a birthday show.
+Why it matters: Beloved IP is now being commissioned as room-scale, walk-in experience from the start, which is exactly the brief agencies increasingly field.
+Takeaway: When a client's IP has a devoted audience, propose the walk-in edition early. The format is now a product line with attraction economics, not a novelty.
+
+### AREA15's tenant run signals the immersive district as a category, not a venue
+https://signal.sensalab.io/article-area15-signs-more-world-class-tenants.html
+Summary: The news is not another dozen attractions.
+Why it matters: The buyers of experiential work are increasingly landlords and districts, not just brands, and they lease by the venue, which is a different sales motion for producers.
+Takeaway: Track the district operators, not only the brands. A signed tenant slot is a recurring brief with built-in footfall, and it rewards partners who can hand over a turnkey box.
+
+### ARTECHOUSE turns voice into visuals: the signal in real-time AI on the gallery floor
+https://signal.sensalab.io/article-artechouse-houston-blooming-wonders-ai-driven.html
+Summary: The news is not a pretty digital garden.
+Why it matters: Real-time, visitor-prompted AI is now stable enough to anchor a six-month ticketed run, which changes what producers can promise clients about live generative content.
+Takeaway: If a client wants AI in the experience, anchor it to a specific interaction, voice or motion, with a designed fallback, so the novelty survives a full run without a technician on standby.
+
+### Media Cymru at Outernet: the signal in regional studios shipping immersive at scale
+https://signal.sensalab.io/article-media-cymru-premieres-immersive-works-artio.html
+Summary: The news is not two Welsh art pieces in London.
+Why it matters: High-footfall venues are now accessible to regionally funded work, which widens the pool of collaborators and reference-grade sites producers can actually book.
+Takeaway: When scouting immersive partners, look past the usual capitals. Regionally funded clusters are shipping venue-grade work, often with distinctive data or IP you cannot get elsewhere.
+
+## Free idea kits
+
+- 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
+- 10 ideas for branding: Make the brand something people can stand inside.. https://signal.sensalab.io/kit-branding.html
+- 10 ideas for activations: Launch moments people actually talk about afterward.. https://signal.sensalab.io/kit-activations.html
+- 10 ideas for shows: Stage visuals that become the main act, not the backdrop.. https://signal.sensalab.io/kit-shows.html
+
+## Editions (archive)
+
+- Edition 20, The week experiential went pro: https://signal.sensalab.io/signal-20.html
+- Edition 19, Presence: https://signal.sensalab.io/signal-19.html
+- Edition 18, Real time: https://signal.sensalab.io/signal-18.html
+- Edition 17, Immersive: https://signal.sensalab.io/signal-17.html
+
+## Work with SensaLab
+
+Agencies and brands hire SensaLab to design and build experiential and immersive activations under their own name, white label. To start a project, contact hello@sensalab.io.
