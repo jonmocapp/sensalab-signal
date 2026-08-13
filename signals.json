@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T14:13:08.611295+00:00",
+  "generated": "2026-08-13T14:14:35.001031+00:00",
   "count": 60,
   "signals": [
     {
@@ -31,6 +31,62 @@
       "added": "2026-08-02T20:49:56.939280+00:00"
     },
     {
+      "key": "https://www.bizbash.com/industry-buzz/us-event-industry-news-for-august-13-2026",
+      "headline": "US: Dagny Boston's New Event Space, Analog Events' New Hire, LEO Fellows Program, and More",
+      "source": "BizBash",
+      "link": "https://www.bizbash.com/industry-buzz/us-event-industry-news-for-august-13-2026",
+      "take": "",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "core",
+      "geo": false,
+      "score": 0.344,
+      "published": "2026-08-13T15:31:57+00:00",
+      "added": "2026-08-13T14:14:35.001031+00:00"
+    },
+    {
+      "key": "https://www.bizbash.com/event-design/vinyl-record-event-design-inspiration",
+      "headline": "16 Vinyl Record Design Ideas That'll Remix Your Next Event",
+      "source": "BizBash",
+      "link": "https://www.bizbash.com/event-design/vinyl-record-event-design-inspiration",
+      "take": "From groovy photo ops to interactive elements, here's how recent activations dropped vinyl records into their decor.",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "core",
+      "geo": false,
+      "score": 0.467,
+      "published": "2026-08-13T13:30:02+00:00",
+      "added": "2026-08-13T14:14:35.001031+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmirafbvv95cuxornbpq0vwcxjeuezzqlpsstbsx09jbvzldk5wseg1b3hvetv4axbdbxn5ctzlttrptzdhmjjiwepjexdnvu5gchpwsupdqznozg1nuwfzq2lvmjrqtjk3ognwdujxr282chjvuwrcdlu1bhddbl9mq0stwdfknu01eut6wkh6adbbtfrrytu0u3vjou9buuvsou14uu5fafzyz3fwqnowzuttskm4",
+      "headline": "Honda, Disneyland Partner For Experiential Fan Event 08/13/2026",
+      "source": "MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORnBPQ0VwcXJEUEZZQlpSSTBsX09jbVZLdk5wSEg1b3hveTV4aXBDbXN5cTZLTTRpTzdHMjJiWEpjeXdnVU5GcHpWSUpDQzNoZG1nUWFzQ2lvMjRQTjk3OGNWdUJXR282cHJvUWRCdlU1bHdDbl9MQ0stWDFkNU01eUt6Wkh6aDBBTFRRYTU0U3VJOU9BUUVSOU14UU5faFZyZ3FWQnowZUttSkM4?oc=5",
+      "take": "Honda, Disneyland Partner For Experiential Fan Event 08/13/2026 MediaPost",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.467,
+      "published": "2026-08-13T01:49:29+00:00",
+      "added": "2026-08-13T14:14:35.001031+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbminwfbvv95cuxnvuj2qxdscfzwqww5n2y0c25hbkxvmwdulxbfajbyefzisullykvwy1duejrkbghjymtud2ttnkl4dmpqqlrfcwtkavrlalhplwjtunhjn0s2cutobei0eu5pcw5smwtwqjfwbjaxtlu3s1dkcws3bwfoltbcwldwtvhyotrvymjbulvdwjdpykftr1zdnjvjout6res4svu",
+      "headline": "Projection mapping on the Obelisk, free outdoor movies, bookstores, and the subway running until dawn: Corrientes 24 HS returns with an Asterix and Obelix special",
+      "source": "Buenos Aires Secreta",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUJ2QXdscFZwQWw5N2Y0c25hbkxvMWduLXBFajBYeFZISUllYkVwY1dUejRkbGhjYmtud2tTNkl4dmpqQlRFcWtKaVRlalhpLWJTUnhJN0s2cUtObEI0eU5PcW5sMWtwQjFWbjAxTlU3S1dkcWs3bWFoLTBCWldWTVhYOTRVYmJBUlVDWjdpYkFTR1ZDNjVJOUt6REs4SVU?oc=5",
+      "take": "",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.5,
+      "published": "2026-08-12T19:14:38+00:00",
+      "added": "2026-08-13T14:14:35.001031+00:00"
+    },
+    {
       "key": "https://www.bizbash.com/event-venues/new-venues-in-san-francisco-northern-california-for-spring-2026-meetings-and-events",
       "headline": "6 New Venues in San Francisco/Northern California for Summer 2026 Meetings and Events",
       "source": "BizBash",
@@ -43,6 +99,20 @@
       "score": 0.344,
       "published": "2026-08-12T19:03:33+00:00",
       "added": "2026-08-12T14:13:08.611295+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmipwfbvv95cuxoq2ffbhr3cxu3mxhxuxu3btlaqkvfa2izoephunnwz2peb3jbr0pluezrzufrdghjtmtvoejzt2f2rk1qa2vnr2voctfrywzznejrnjncdlroytk2qv8zngtnwnppdm90bzdpbc1zcudicuk3ywnkb0x0ymp5mnrzvwxmnklaudj2dnrcqtlfwdvezzzozmnoyw1lcdbnu3rjsjdpnfz4na",
+      "headline": "Known welcomes Jennifer Houston as SVP and first head of experiential",
+      "source": "Campaign US",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2FFbHR3cXU3MXhxUXU3bTlaQkVFa2IzOEphUnNwZ2pEb3JBR0pLUEZRZUFrdGhJTmtVOEJZT2F2Rk1qa2VNR2VOcTFrYWZZNEJrNjNCdlRoYTk2QV8zNGtNWnpPdm90bzdPbC1ZcUdicUk3YWNKb0x0Ymp5MnRZVWxmNklaUDJ2dnRCQTlFWDVEZzZOZmNOYW1lcDBNU3RJSjdpNFZ4NA?oc=5",
+      "take": "Known welcomes Jennifer Houston as SVP and first head of experiential Campaign US",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.406,
+      "published": "2026-08-12T15:08:19+00:00",
+      "added": "2026-08-13T14:14:35.001031+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmipgfbvv95cuxqzuk5utjmuhjiefzvoxj5zkttsfiwnfnqc05hwxhsamrynufttle3c0nrm2v5r1lwyznzczfful81rvkzm1yxx2tyx2lhb3bxamrnm0xlvjzrnm9vehffee14nhpomefxzutvaul1odc1wtndq25iohfzbxl3lwvfqm9utup0tkndbjlgtmlbwlq1muutctdnmnlulxzlwklytzfiwel3",
@@ -253,6 +323,20 @@
       "score": 0.372,
       "published": "2026-08-11T09:35:44+00:00",
       "added": "2026-08-11T14:11:43.413043+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmimwfbvv95cuxndwlzymc3djhvyi11cudgczu2otrmvvdqrkjdejvctwxkwjnzdgxsn0dyrerjqlc4dkfsa0dzv25ote5hqmrts1hdcelksxjcaudkzg5un3zysjh4t3rwwfzhc2nsmjdly091tlljwhjivxq2bgnnekuyqvptenv1vww2twzka3lzvzrfcuexejzpds03vmy0m1vzoa",
+      "headline": "The Top Brand Activations From Lollapalooza 2026",
+      "source": "BizBash",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWlZYmc3djhvYi11cUdGczU2OTRMVVdQRkJDejVCTWxKWjNZdGxsN0dYRERjQlc4dkFsa0dZV25oTE5HQmRTS1hDcElkSXJCaUdKZG5UN3ZySjh4T3RwWFZHc2NSMjdlY091TllJWHJiVXQ2bGNnekUyQVpTenV1VWw2TWZKa3lzVzRFcUExejZpdS03VmY0M1VzOA?oc=5",
+      "take": "The Top Brand Activations From Lollapalooza 2026 BizBash",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.312,
+      "published": "2026-08-11T08:42:56+00:00",
+      "added": "2026-08-13T14:14:35.001031+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmitgfbvv95cuxnzjdqmjdfvhlicunhzuvemjnfdu5qtel5au9is3bvmktsyzzfwjdiznltx3ntu0n3x1jrwmu0x3l2z1q0x0zormlgythhr0pqr2llb0e2y1nrtwphswtxwgzcwdgzyi1yrghzsgswy1v0rny4outkc3d4uzvtcti4utb6zetgs0jjculunzjaztbxafoxu1d6vtnvbvpvytrjqzhttmharxnsnjjju1zheg9vqxnguq",
@@ -757,90 +841,6 @@
       "score": 0.514,
       "published": "2026-08-07T11:19:00+00:00",
       "added": "2026-08-08T13:37:52.505333+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmif0fvx3lxte52am1iz0nuagftwwlsbgdfelc4m2lavhbsedddakdsmzh5tlu4v1pvvlplrmqtzxhxdna1ejctn2jkewfav24tc2pfanbkweutoetvtktretrrd0i0cxi4tuzmcw9ix3rgb294v3i2d180mmu3oe95eukwv3himvxsazmbqvvfexfmtum3uw9jufbqqkfjx1bfbheznwfizdv4rmjtd203dglnawrjn0lhlxk3zxa3twnqyl9qcvhrrdzfnnjjr1j3wldwnk9xmnjqn01qbkzhmg83c2d5am1fcxb4wvpcbkhvn0nzvnlyy0ncoenjmuzysuhhvvq5whowrhlywljmbmvyakjyt1zubnl3cdf3",
-      "headline": "Man City sells Korean‑lettered Haaland jerseys at Seoul pop-up",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52am1iZ0NuaGFTWWlSbGdFelc4M2laVHBSeDdDakdsMzh5TlU4V1pVVlplRmQtZXhxdnA1ejctN2JkeWFaV24tc2pFanBKWEUtOEtVTktreTRRd0I0cXI4TUZmcW9IX3RGb294V3I2d180MmU3OE95eUkwV3hIMVXSAZMBQVVfeXFMTUM3UW9JUFBqQkFjX1BfbHEzNWFiZDV4RmJTd203dGlnaWRJN0lhLXk3ZXA3TWNQYl9QcVhRRDZFNnJJR1J3WldwNk9XMnJqN01QbkZhMG83c2d5am1fcXB4WVpCbkhvN0NzVnlYY0NCOENJMUZYSUhhVVQ5WHowRHlYWlJMbmVYakJyT1Zubnl3cDF3?oc=5",
-      "take": "Man City sells Korean‑lettered Haaland jerseys at Seoul pop-up - CHOSUNBIZ Chosunbiz",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.361,
-      "published": "2026-08-07T09:10:00+00:00",
-      "added": "2026-08-09T13:40:30.071442+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiogfbvv95cuxpmurtoe14me5isthythdleu5rcmxcbfj3rmlnlwvpbc1fsu9fwlgyzwhxamx4t28zzlbwy2c5zkdfsjc0enrtbtvslxhtmlzxs3jxak5kv3k3u19lylpwc1lxqunhrthzsujslw9moetiq2nhdg1ks2puenu3c1nttjvkvg1gu3rgltjhvxrwumuzswzvve43qlrxr0qtaxlzvhc",
-      "headline": "Proving the ROI of Experiential Marketing, Lucky Strike Entertainment Refreshes AM",
-      "source": "loyalty360.org",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMURtOE14ME5ISThYTHdLeU5RcmxCbFJ3RmlNLWVpbC1FSU9FWlgyZWhxamx4T28zZlBwY2c5ZkdFSjc0enRtbTVsLXhtMlZXS3JXak5KV3k3U19LYlpWc1lxQUNhRThZSUJSLW9MOEtiQ2NHdG1kS2pUenU3c1NtTjVkVG1GU3RGLTJHVXRwUmUzSWZvVE43QlRXR0QtaXlzVHc?oc=5",
-      "take": "Proving the ROI of Experiential Marketing, Lucky Strike Entertainment Refreshes AM loyalty360.org",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.385,
-      "published": "2026-08-07T08:39:16+00:00",
-      "added": "2026-08-07T14:04:50.531920+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiywfbvv95cuxqoghute9mcg41aw9pmmdsy0rscunyoupmng5llwlvbux4dfbnqm80whltn01vqzbovgxpzhvnoezldge2utlrevnunm9hq3yzb2o0uzayodddmfazcljjb1e5sfpatm1kukp2bjbfmhhwbdu5smpjog1zmmxowe5vammyeulrcenhzdnxcefqt1lsb19lt3femwxmd2xbm1rouf9hzdzsteneve9krdbicxzttfhrwghlb0hianfbevdwb3vhr2fnrvj4zw",
-      "headline": "Kia Extends Design Leadership with Five Red Dot Awards for Brand Communication Excellence",
-      "source": "Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGhuTE9mcG41aW9pMmdSY0RScUNyOUpmNG5LLWlVbUx4dFBnQm80WHlTN01vQzBOVGxpZHVnOEZldGE2UTlReVNUNm9hQ3Yzb2o0UzAyODdDMFAzclJJb1E5SFpaTm1KUkp2bjBFMHhwbDU5SmpJOG1ZMmxOWE5VamMyeUlrcENhZDNXcEFQT1lsb19LT3FEMWxMd2xBM1RoUF9HZDZsTENEVE9kRDBicXZtTFhRWGhlb0hIanFBeVdWb3VHR2FnRVJ4Zw?oc=5",
-      "take": "Kia Extends Design Leadership with Five Red Dot Awards for Brand Communication Excellence Hyundai Motor Group",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.388,
-      "published": "2026-08-07T07:59:00+00:00",
-      "added": "2026-08-10T14:12:38.255717+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmihafbvv95cuxqrfltrve5rwhxmlbmr0noa3hzuc03nm5fz0f6mefrshfece4wanm3ynlwrenwm2fwt1jfrzfxumltb3b6txzjdmtrbfjzngjvr3hnr1lsswlnegjly1dcrul2oev4nl9suxbzc0dsmupnzmrxs1jkvtl6nza3s0lslujksni",
-      "headline": "Workshop: Building a Real-Time Location",
-      "source": "Digital Production",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFlTRVE5RWhxMlBmR0NOa3hzUC03Nm5FZ0F6MEFrSHFEcE4wanM3YnlwRENwM2FwT1JfRzFXUmlTb3B6TXZJdmtrbFJZNGJvR3hNR1lsSWlNeGJLY1dCRUl2OEV4Nl9SUXBzc0dSMUpnZmRXS1JKVTl6NzA3S0lSLUJkSnI?oc=5",
-      "take": "Workshop: Building a Real-Time Location Digital Production",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.341,
-      "published": "2026-08-07T07:04:33+00:00",
-      "added": "2026-08-07T14:04:50.531920+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmizefvx3lxtfbiwgruugxzngq4defkdutvrwjzbfbbrm5gnzrrvzztvvd6ykhhnhr3agj4qjbzuzdmeudaylbhltfsbxdteho1uwy2sjrmz2hvsk5mszhyajroofppwtlntmjzbndsawrbvv95cuxqylhkblbswtrkohrbzhvlb0vic2xqquzurjc0uvc2bvvxemjiytr0d2hieeiwc1m3thlhwmjqry0xbg13bxh6nvfmnko0tgdovupotes4cmo0tjhat1k5z05iww5w",
-      "headline": "Festival-Inspired Experiential Retail Concepts",
-      "source": "Trend Hunter",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiWGRuUGxZNGQ4dEFkdUtvRWJzbFBBRm5GNzRRVzZtVVd6YkhhNHR3aGJ4QjBzUzdMeUdaYlBHLTFsbXdteHo1UWY2SjRMZ2hVSk5MSzhyajROOFpPWTlnTmJZbnDSAWRBVV95cUxQYlhkblBsWTRkOHRBZHVLb0Vic2xQQUZuRjc0UVc2bVVXemJIYTR0d2hieEIwc1M3THlHWmJQRy0xbG13bXh6NVFmNko0TGdoVUpOTEs4cmo0TjhaT1k5Z05iWW5w?oc=5",
-      "take": "Festival-Inspired Experiential Retail Concepts Trend Hunter",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.443,
-      "published": "2026-08-07T05:35:59+00:00",
-      "added": "2026-08-07T14:04:50.531920+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmingfbvv95cuxpodk1ngxraw1wukjpb3jtt2npmuu3bml0chhyyxnqumnynfngtgfwtkfiwnl3tzdhz3hyzuryndjxyuhcuxn3tenhu3bmnjrzb1pude9iqkjubhjewhbkdl9yohjlywtfntmyterabmhwyknfrlffu0pfujlkqkxty05gq1dockpyrlruek5dd2fhuezua1rix3vzefd4dw",
-      "headline": "Eagles Add Four Shows to Las Vegas Sphere Residency in January 2027",
-      "source": "k1047.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPODk1NGxRaW1wUkJPb3JtT2NpMUU3bml0cHhyYXNQUmNyNFNGTGFwTkFiWnl3TzdHZ3hyZURyNDJXYUhCUXN3TENhU3BMNjRZb1pudE9iQkJubHJEWHBKdl9yOHJlYWtFNTMyTERabmhWYkNfRlFfU0pfUjlKQkxtY05GQ1dOckpyRlRUek5Dd2FhUEZUa1RiX3VzeFd4dw?oc=5",
-      "take": "Eagles Add Four Shows to Las Vegas Sphere Residency in January 2027 k1047.com",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.43,
-      "published": "2026-08-06T21:25:07+00:00",
-      "added": "2026-08-07T14:04:50.531920+00:00"
     }
   ]
 }
