@@ -128,7 +128,7 @@ def _mock_article(c: dict, facts: str) -> dict:
 def _build_site() -> None:
     import set_articles
     set_articles.main()
-    for script in ("build_articles.py", "build_blog_b.py", "build_seo.py"):
+    for script in ("build_articles.py", "build_blog_b.py", "build_seo.py", "polish_blog.py"):
         r = subprocess.run([sys.executable, script], cwd=str(BASE),
                            capture_output=True, text=True)
         tail = (r.stdout or r.stderr or "").strip().splitlines()[-1:] or [""]

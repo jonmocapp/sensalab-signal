@@ -118,9 +118,11 @@ BY_SLUG = {s["slug"]: s for s in STORIES}
 FILTERS = [("All",""),("Experiential","experiential"),("Interactive","interactive"),("AI","ai"),
  ("CGI & VFX","cgi"),("Gaming","gaming"),("Concert visuals","concerts"),("Spatial & AR","spatial")]
 
+# Featured carousel: SOLO notas con FOTO REAL de la fuente (nada de portadas abstractas vacías).
 CAROUSEL = [BY_SLUG[s] for s in
- ["hollywood-studio-virtual-production","airline-turned-beach-into-brand","sphere-live-venue",
-  "stadium-year-round-attraction","consumer-ar-glasses-reservations"]]
+ ["tomorrowland-consciencia-ambitious-mainstage-ever","vivid-sydney-2026-expands-day-night",
+  "dataland-museum-ai-art-la","world-cup-2026-brand-activations","meow-wolf-phenomenomaly-live"]
+ if s in BY_SLUG]
 
 # (name, css class, kit-id, card title, blurb)
 KITS = [
