@@ -3,9 +3,12 @@
 pipeline.py lo corre DESPUES de build_articles/build_blog_b/build_seo, para que la
 automatizacion nunca regrese el blog al estado viejo. Idempotente (corre N veces sin danio).
 
-Reglas (2026-08-12):
+Reglas (2026-08-13):
  1. Logo del nav = wordmark AVIF de la pagina web (mismo asset).
- 2. Ninguna noticia sin imagen (portadas de vidrio deterministas + salvavidas JS).
+ 2. LOCK DE PORTADAS: las portadas SIEMPRE son las imagenes de INTERNET de la
+    fuente (og:image via set_articles USE_SOURCE_IMAGES=True). PROHIBIDO
+    sustituirlas por assets propios de Jon (orden directa 2026-08-13).
+    Ninguna noticia sin imagen: el salvavidas JS elimina la card si su imagen falla.
  3. Slide 1 del carrusel = poster "Welcome to The Signal." (placeholder de marca
     hasta que Jon entregue su imagen).
  4. CTA del kit = pill blanco grande (.kgo).
@@ -15,15 +18,11 @@ Reglas (2026-08-12):
  8. Sin parrafo corporativo en el hero (el About del footer SI se queda).
  + fondo lavanda premium, links #archive -> #latest, noscript fallback.
 """
-import hashlib
 import pathlib
 import re
-import shutil
 
 BASE = pathlib.Path(__file__).resolve().parent
 BLOG = BASE / "blog"
-GC = BLOG / "img" / "gc"
-POOL = BASE / "brand-assets"
 
 LOGO_AVIF = 'data:image/avif;base64,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'  # inyectado por tools: wordmark de la web como data URI
 LAV = "linear-gradient(180deg,#F3F1F8,#EAE7F2) fixed"
@@ -54,18 +53,6 @@ GUARD = (
     'if(s&&!s.classList.contains("on"))s.remove();});});})();</script>')
 
 
-def _pool():
-    return sorted(x.stem for x in POOL.glob("*.webp"))
-
-
-def _pick(slug, pool):
-    name = pool[int(hashlib.md5(slug.encode()).hexdigest(), 16) % len(pool)]
-    GC.mkdir(parents=True, exist_ok=True)
-    dst = GC / (slug + ".webp")
-    if not dst.exists():
-        shutil.copyfile(POOL / (name + ".webp"), dst)
-    return "img/gc/" + slug + ".webp"
-
 
 def recolor_all():
     for p in BLOG.glob("*.html"):
@@ -81,14 +68,6 @@ def polish_index():
     if not p.exists():
         print("[polish] no hay blog/index.html"); return
     t = p.read_text(encoding="utf-8", errors="ignore")
-    pool = _pool()
-    if pool:
-        t = re.sub(r'background-image:url\(img/cover-([a-z0-9\-]+)\.(?:jpg|jpeg|png|webp)\)',
-                   lambda m: "background-image:url(" + _pick(m.group(1), pool) + ")", t)
-        t = t.replace(
-            ".card .ph{height:190px;background-size:cover;background-position:center;transition:transform .5s ease}",
-            ".card .ph{height:190px;background-size:contain;background-repeat:no-repeat;"
-            "background-position:center;background-color:#EAE7F2;transition:transform .5s ease}")
     if LOGO_AVIF.startswith("data:"):
         t = re.sub(r'(<a class="brand" href="#top"><img src=")[^"]+(")',
                    lambda m: m.group(1) + LOGO_AVIF + m.group(2), t, count=1)
