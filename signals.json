@@ -1,7 +1,35 @@
 {
-  "generated": "2026-08-22T13:23:51.381566+00:00",
+  "generated": "2026-08-23T13:24:46.967927+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmijafbvv95cuxqb1dis2zzsknnswftbfq5ouq0u3jhou1hnvrkruc4ndezrnrfrwnrnfz1s09pzejknmpwwte3wnztathfdu1pemo0dlnjzg5kcdbjvelvcfj2dffjtkfuv0zqes1uynfmx0ljbmntv0e3lvfszwfpdko1auvldkoxm09ybetvcuywr3lxvg",
+      "headline": "MORE PROJECTION MAPPINGS @ SINGAPORE NIGHT FESTIVAL 2026",
+      "source": "Chang Tou Liang",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1dIS2ZZSkNNSWFTbFQ5OUQ0U3JhOU1HNVRkRUc4NDEzRnRfRWNRNFZ1S09pZEJkNmpwWTE3WnZtaThFdU1Pemo0dlNjZG5KcDBjVElvcFJ2dFFJTkFUV0ZqeS1uYnFMX0lJbmNtV0E3LVFSZWFPdko1aUVldkoxM09ybEtvcUYwR3lXVg?oc=5",
+      "take": "MORE PROJECTION MAPPINGS @ SINGAPORE NIGHT FESTIVAL 2026 Chang Tou Liang",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.397,
+      "published": "2026-08-22T23:59:00+00:00",
+      "added": "2026-08-23T13:24:46.967927+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmilafbvv95cuxou2d4nzrllwiymgrqng9xndheejrkvevyuzmwsnnom1nlbvpzetnhtnh1sljvztlbrxnxswday0zky3vobzzzbgntzfpxexyxb2vht1pxvfbhevjgthjucfh3twhamhjsdwtfz2p2we83a3p1wnder293aflvetc2veutqlprakvjuk9zthlwrgryt0fo",
+      "headline": "Las Vegas Sphere success",
+      "source": "LAist",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU2d4NzRlLWIyMGRQNG9xNDhEejRkVEVyUzMwSnNoM1NLbVpZeTNhTnh1SlJvZTlBRXNXSWdaY0ZkY3VobzZzbGNtZFpXeXYxb2VhT1pxVFBheVJGTHJUcFh3TWhaMHJSdWtfZ2p2WE83a3p1WndER293aFlveTc2VEUtQlpRakVjUk9zTHlwRGRyT0Fo?oc=5",
+      "take": "Las Vegas Sphere success LAist",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.427,
+      "published": "2026-08-22T15:45:00+00:00",
+      "added": "2026-08-23T13:24:46.967927+00:00"
+    },
     {
       "key": "https://news.google.com/rss/articles/cbmizafbvv95cuxpa2fwuthwqzfmutb3dgllr2qwsufkaefrdnnxn3fycmjhdkffbfjnzk5nogkydwjwytbvwkrwn1fsafluoxhzr0dkc3jjtw1zv1g2x2fhb3b2a2s3vf80uvfiqmxvbkfsthb5bc01ek9rwkrom241yy1oywjsuva4rtvfufjqdunhm0fxrmlxog9mwk4za2xlcl9uwul5ani4r0ltcfq4uzvjcetwv2nscef0dk5mwlzkqm5ouvyzy0f0bejumgrmx01ct2m",
       "headline": "Mumbai Light Festival To Transform Afghan Church With Immersive Projection Mapping",
@@ -15,6 +43,20 @@
       "score": 0.675,
       "published": "2026-08-22T08:06:50+00:00",
       "added": "2026-08-22T13:23:51.381566+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxnsu1wvgtudmpcotlbqjjmynz6rexjdelhmvf3mgiymuzrcfjjwjdsakvqmhgxr2fjvvv5twv5zzawm1hhzelxc1buu1c4wm9hsvhzzxr5tk84tmlybw40dxrmzuptt2lrvtzxy2r2zfe4teh0ewpjvfy0s2rza3lrzl9fvxzvqjbtb2hvq1b3znnyuedgcf9b",
+      "headline": "Backstreet’s Back: Backstreet Boys Return to Las Vegas Sphere with Six New Shows in Summer 2026",
+      "source": "TicketNews",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSU1wVGtudmpCOTlBQjJmYnZ6RExJdElHMVF3MGIyMUZRcFJjWjdSakVqMHgxR2FJVVV5TWV5ZzAwM1hhZElxc1BuU1c4Wm9hSVhzZXR5Tk84TmlybW40dXRmZUpTT2lrVTZXY2R2ZFE4TEh0eWpJVFY0S2Rza3lrZl9fVXZVQjBTb2hVQ1B3ZnNyUEdGcF9B?oc=5",
+      "take": "Backstreet’s Back: Backstreet Boys Return to Las Vegas Sphere with Six New Shows in Summer 2026 TicketNews",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.421,
+      "published": "2026-08-22T02:49:28+00:00",
+      "added": "2026-08-23T13:24:46.967927+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmihafbvv95cuxqvzjpzxbmbk1juufxzkxxa2lcctzobkzxmhkyamdpbktootdgby1przdxew5nauh5rtljufnwn1g1wnpgzupwsxetnhzuc3hjbuvwywj4slfxdxnud08ybzjxudr3ti1qzkx3ynfeylj4bunhdzffze50mhrlmerms3dwc3m",
@@ -185,6 +227,20 @@
       "added": "2026-08-22T13:23:51.381566+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmitafbvv95cuxqsgizzeg4cvbvc0niawrfyzlvvlhinw9bqnl0qmnovuhvvjh4nlzkbep4mdfgt3rlexd5bnfjdk5luhl3mffwoefjd1froxbywlnovmcyrfc1mmffc0g5rxutrhzwc0dsuer5zgx0mgfqnnnuvziwmkpwrwntd0iwzdyyqusyn1dkdhnqzwj3mknncdfmdfjnujv0yuz2nhjoz1vsafu2z1nzagnjbmlnd0lnwkg",
+      "headline": "ITW Universe Named Title Sponsor Of Classic NCR Golf League 2026",
+      "source": "Everything Experiential",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGIzZEg4cVBVc0NiaWRfYzlvVlhiNW9BQnl0QmNoVUhVVjh4NlZKbEp4MDFGT3RleXd5bnFJdk5LUHl3MFFWOEFjd1FrOXBYWlNoVmcyRFc1MmFFc0g5RXUtRHZwc0dsUER5ZGx0MGFQNnNUVzIwMkpwRWNTd0IwZDYyQUsyN1dKdHNqZWJ3MkNncDFMdFJNUjV0YUZ2NHJOZ1VsaFU2Z1NzaGNJbmlnd0lnWkg?oc=5",
+      "take": "ITW Universe Named Title Sponsor Of Classic NCR Golf League 2026 Everything Experiential",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.39,
+      "published": "2026-08-21T07:00:48+00:00",
+      "added": "2026-08-23T13:24:46.967927+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmitwfbvv95cuxqrgnax094awhnm1jumvjzyjbhdutaqxdwrg9ingxtulzmmk9srfcza2joz1dyvk0yoxdttkhob05tuu5swklsejnknk5pudlldelhbgjdcg1tsfzatw5gbtdyvkl6y2flrg1szjnpm3dtohdss1uynllrcuizouj3r2hrotb4czvutvvacgfzwvdim2jvmjvjr2i1z0s4sfhlu0j5edlzujvvs2u5nwpib09imkt0zdg",
       "headline": "Epson Elevates Projection Storytelling at Singapore Night Festival",
       "source": "Content + Technology",
@@ -253,6 +309,20 @@
       "score": 0.409,
       "published": "2026-08-20T19:08:51+00:00",
       "added": "2026-08-22T13:23:51.381566+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmijwjbvv95cuxpmznkqnleuufiy0nnbnn3yjlfdejqugnsq1rxmg45r3r2tjzgnzhou0ppbjzldvfoeldisktibldqmelltfzwvefmnhg0z2q3wmdxngfyyth4sndzztnudknfbzbdrvkzewt3uupvsnu0xzdqbe1neg9nszzfqvrzai1nbhpzodrauzvfvwvkbm1pa2vdsmjycmxsewuwvfdoahluymo1rmdua0txefezcvnrqjjess1pmeh4bdq4ywtddmtblu52sxj0a2o0cvd4etbvclvlb2tad0zzqvh0dfzum05ewxfmnlhamgtxawwydefrlvitrwjmyjbwmnrjmzlwn0lhnghuwkn0ofc4",
+      "headline": "Las Vegas Sphere concerts: All the acts that are playing and how to get tickets",
+      "source": "Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMzNKQnlEUUFIY0NnbnN3YjlfdEJqUGNSQ1RxMG45R3R2TjZGNzhOU0pPbjZldVFOeldISktIbldQMElLTFZwVEFmNHg0Z2Q3WmdXNGFYYTh4SndzZTNUdkNfbzBDRVkzeWt3UUpvSnU0XzdQbE1NeG9nSzZfQVRzai1NbHpzODRaUzVfVWVKbm1pa2VDSmJYcmxseWUwVFdOaHlUYmo1Rmdua0txeFEzcVNRQjJESS1PMEh4bDQ4YWtDdmtBLU52SXJ0a2o0cVd4eTBVclVLb2tad0ZZQVh0dFZuM05EWXFmNlhaMGtXaWwydEFrLVItRWJmYjBwMnRJMzlwN0lHNGhUWkN0OFc4?oc=5",
+      "take": "Las Vegas Sphere concerts: All the acts that are playing and how to get tickets Central Oregon Daily",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.404,
+      "published": "2026-08-20T16:42:19+00:00",
+      "added": "2026-08-23T13:24:46.967927+00:00"
     },
     {
       "key": "https://www.bizbash.com/industry-buzz/us-event-industry-news-for-august-20-2026",
@@ -337,6 +407,20 @@
       "score": 0.306,
       "published": "2026-08-20T09:46:08+00:00",
       "added": "2026-08-20T13:38:14.219626+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiaefvx3lxte9xowzkdnm4rudfsenlrs1ncklnr0lfthjyv25zunktdfpzdm0tz1ntn2yxdxjlbuh0zmxxvhvqvze1ohzvak5ptglqyy1loflmdehunfb3nhk0dhnkam95nvnlngm0beut",
+      "headline": "19 Immersive Experiences in Madrid: The Sensory Side of Culture",
+      "source": "Madrid Secreto",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xOWZKdnM4RUdFSENlRS1NcklNR0lFTHJYV25ZUnktdFpzdm0tZ1NTN2YxdXJlbUh0ZmxxVHVQVzE1OHZvak5PTGlQYy1LOFlMdEhuNFB3NHk0dHNkam95NVNLNGM0bEUt?oc=5",
+      "take": "19 Immersive Experiences in Madrid: The Sensory Side of Culture Madrid Secreto",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.45,
+      "published": "2026-08-20T09:13:44+00:00",
+      "added": "2026-08-23T13:24:46.967927+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmizwfbvv95cuxnz0rjbndmm0fbtetotgjsofnosgllyte3ujhln2jxow50aja1avhxbzh3r2r1wdzprjh2btzabgoybmm2cjrqt2fpwtvltkv2qllhyk52t1lnzmvha1n5ev92ttnhvw8twdjqylnsluvpwdlbvw9pevaxtudavfppu01mwnlfcxkzourwt0o3zndhrzm1rfjld2xls2druuhpnulradludmfssff3wes4svbpm1jbm3jiltz5vtu2autxvfrmx3lqcdfvoxptqnm",
@@ -549,6 +633,20 @@
       "added": "2026-08-19T13:36:21.261544+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmitafbvv95cuxozw5hbk1os0nvrghyt2xuudzfmgw3edd3sdnoevq0zum0m3lzbnljrvlta09sutdgbtvss0tqogqzagjhaul6dejda0jguu1ywlf3nzlbnnnmagrlbk5hd09zzlv5s1hlmjrmdgexq3hawhjiugk1x1rpverwq2pvnwpmwwywzhfwmc10ru5kstazr0hhuwnynkfhuzveavuybvjzzetroenushzinny2by1snzbsacgbqvvfexfmtvjtuhvgaxrzbklqvfnralvflxv1txzanfjeym9kuxpsamd0uexpqxbvrhzkegn5ae84beq2sum3v0p6oeplvw9ox2fwm01mmwfwn1pyzkpzyly0ellzeepsv0kwqtbyrtfbmc1nlxu3c1jpzk52dxntnklbu09prjrqngfwlwsysmnkynjxrgrym3ozavzeu2jlbuxjcjcxbxjvrmuxrjjrotk2rgtgrgrsujcxm3n6akmxbetxwldnnw04uutwq2e",
+      "headline": "Immersive Boston museum to close after years of ‘unforgettable moments’",
+      "source": "MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW5Hbk1oS0NVRGhyT2xuUDZfMGw3eDd3SDNOeVQ0ZUM0M3lZbnljRVlTa09sUTdGbTVsS0tqOGQzaGJHaUl6dEJDa0JGUU1YWlF3NzlBNnNMaGRlbk5Hd09zZlV5S1hlMjRMdGExQ3haWHJIUGk1X1RPVERWQ2pvNWpmWWYwZHFWMC10RU5kSTAzR0hHUWNyNkFHUzVEaVUybVJZZEtrOENuSHZiNnY2by1sNzbSAcgBQVVfeXFMTVJTUHVGaXRzbklQVFNralVfLXV1TXZaNFJEYm9kUXpsamd0UExpQXBVRHZKeGN5aE84bEQ2SUM3V0p6OEplVW9oX2FWM01mMWFWN1pyZkpzYlY0ellzeEpSV0kwQTBYRTFBMC1NLXU3c1JpZk52dXNtNklBU09pRjRqNGFwLWsySmNkYnJxRGRYM3ozaVZEU2JLbUxjcjcxbXJVRmUxRjJrOTk2RGtGRGRsUjcxM3N6akMxbEtXWldnNW04UUtWQ2E?oc=5",
+      "take": "Immersive Boston museum to close after years of ‘unforgettable moments’ MassLive.com",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.339,
+      "published": "2026-08-19T12:44:00+00:00",
+      "added": "2026-08-23T13:24:46.967927+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmilgfbvv95cuxqzwzur25bqmnndtvdazfcuhq5bgdox0hkrmfkslprr2hmy1rlefvjqml4wmctvvcwc0vdwtlitu4wck9ct0qzavzrcg10sm9uztbpmdzktjviq1fccelhn0jbq2xismjqmu5vyxyxotnpm21jb1hen1hstxjmc3lxzgfynjhizfrsmgtsowm5uxq1s3hlvee",
       "headline": "Kewpie Mayonnaise hosts pop-up in Covent Garden",
       "source": "Campaign",
@@ -661,6 +759,20 @@
       "added": "2026-08-19T13:36:21.261544+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmiiajbvv95cuxnt3brujq3rum2q0vnotk3rzlqbug2dllyrxnhdguyefb2avb2oxdwdwk2r3n1cxnttzhrbxlrvhd4rne2mgtfu2xxzhpkmvvnbwfksgtxugqyrhdbewx6vmhyeurrmzh3bg9oufllcu9hefm4slvibgvioxfmrkszm2nxafhkvkdgeey4a1foqzvkrg94whbtmmvktkn0b21wvkfaohjuumsyc3oywmhmbdd3lupdtdlxdtzsqmnienq1qupey1nkue5aburuazlvouw3cglssmjqmkdrq2mwv0nqlxbyqtcyyln5rxnjzhzmdtb5cndjazbtcehmduhywknvudlzdvm",
+      "headline": "Backstreet Boys 'Into the Millennium' residency is back at The Sphere: How to get tickets for their New Year's shows",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT3BrUjQ3RUM2Q0VNOTk3RzlQbUg2dllyRXNhdGUyeFB2aVB2OXdwdWk2R3N1cXNTTzhRbXlrVHd4RnE2MGtFU2xxZHpkMVVNbWFKSGtXUGQyRHdBeWx6VmhYeURRMzh3bG9oUFllcU9HeFM4SlVIbGViOXFmRkszM2NxaFhkVkdGeEY4a1FoQzVkRG94WHBtMmVkTkN0b21WVkFaOHJUUmsyc3oyWmhMbDd3LUpDTDlxdTZSQmNIenQ1QUpEY1NKUE5abURuazlvOUw3cGlSSmJqMkdrQ2MwV0NQLXBYQTcyYlN5RXNjZHZmdTB5cndJazBTcEhmdUhYWkNvUDlzdVM?oc=5",
+      "take": "Backstreet Boys 'Into the Millennium' residency is back at The Sphere: How to get tickets for their New Year's shows Yahoo",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.479,
+      "published": "2026-08-18T15:41:45+00:00",
+      "added": "2026-08-23T13:24:46.967927+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmidefvx3lxte9fdu9zsuottdl5ltbltevmy1jzwulht0ljm2nizuzluk9xvfhuowtmrulhwjjxalg5rfl0ml9on0dwus1ddgvhm2psqkvsdwxudmo5mel5sgxqac02dwrdztlybwnbou1jeufudmd4nwzkzhbf",
       "headline": "Hasbro announces an immersive experience featuring Peppa Pig, Transformers, Nerf, and My Little Pony—and the waitlist is already open!",
       "source": "São Paulo Secreto",
@@ -728,118 +840,6 @@
       "geo": false,
       "score": 0.415,
       "published": "2026-08-18T08:38:00+00:00",
-      "added": "2026-08-18T13:34:46.228688+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiogfbvv95cuxnstfkvefublhveuzgtvdjowxkwxn0ajljbmd1zfbgczuta0h5emfsehqxqu1uqtu5sli2dmjcnk5tbdjtzvltneh4ltvtmjhmzzgywufovdvltm1fturdtzfjvvjxx3zkeklzdwrjowrimnhrd2x3swrllwotsk9uznvumwutnti2c2zwn2jid2npcnrgazlcev9hreladdr1nue",
-      "headline": "Projection Mapping: Tateside Creates Immersive Experience in London",
-      "source": "Sixteen:Nine",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSTFkVEFUblhVeUZGTVdjOWxkWXN0ajljbmd1ZFBGczUta0h5emFSeHQxQU1uQTU5SlI2dmJCNk5tbDJtZVlTNEh4LTVtMjhMZzgyWUFOVDVlTm1fTURDTzFjVVJxX3ZkeklZdWRjOWRIMnhrd2x3SWRLLWotSk9uZnVUMWUtNTI2c2ZwN2JId2NpcnRGazlCeV9HREladDR1NUE?oc=5",
-      "take": "Projection Mapping: Tateside Creates Immersive Experience in London Sixteen:Nine",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.695,
-      "published": "2026-08-18T07:29:00+00:00",
-      "added": "2026-08-18T13:34:46.228688+00:00"
-    },
-    {
-      "key": "https://www.eventmarketer.com/article/the-brief-flavor-interventions-and-death-predictions",
-      "headline": "The Brief: Flavor Interventions and Death Predictions",
-      "source": "Event Marketer",
-      "link": "https://www.eventmarketer.com/article/the-brief-flavor-interventions-and-death-predictions/",
-      "take": "FIVE THINGS TO KNOW THIS WEEK This week’s hot takes on hot topics in experiential marketing cover flavor interventions, coffee portraits and death predictions.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.506,
-      "published": "2026-08-17T21:41:37+00:00",
-      "added": "2026-08-18T13:34:46.228688+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmirwfbvv95cuxntvdzzm9pv21lrnnps2xpwfzzsejobgvpmwviszdyvenocefxdnb4a0nvbzvnlvuyb1ryalyxz2hxowc3yxa4tnnvehlzm1pmeurodu02wxhxwdfjrer2y0nlvwg2dwdxuw43cde1c0xux1g5zwpdow8yohrfqmh5yjv5c3o1djmtrmq4nge4tgpidtbrbnbwm25jmwjzr1zvrlhiac1wndv3atlhvgtj0ggvaufvx3lxte1nv3nmb2lxbutgc09lbglyvlliqk5szu8xzuhln1huq05wqvd2chhrq29vnu0tvtjvvhjqvjfnafc5zzdhcdhoc1v4evkzwmz5re51ttzzehfymulerhzjq2vvadz1z1drbjdwmtvztg5fwdllakm5bzi4df9cahlinxlzejv2my1gzdg0ythmakh1mgtuchazbmmxynnhvlvgwgjolxa0nxdpoudua0k",
-      "headline": "Bluffton: New, permanent 3D projection mapping experience",
-      "source": "WPTA | 21Alive | Fort Wayne, IN",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVdzZm9pV21LRnNPS2xpWFZZSEJObGVPMWVISzdYVENOcEFXdnB4a0NvbzVNLVUyb1RyalYxZ2hXOWc3YXA4TnNVeHlZM1pmeUROdU02WXhxWDFJRER2Y0NlVWg2dWdXUW43cDE1c0xuX1g5ZWpDOW8yOHRfQmh5YjV5c3o1djMtRmQ4NGE4TGpIdTBrbnBwM25jMWJzR1ZVRlhiaC1wNDV3aTlHVGtJ0gGvAUFVX3lxTE1NV3Nmb2lXbUtGc09LbGlYVllIQk5sZU8xZUhLN1hUQ05wQVd2cHhrQ29vNU0tVTJvVHJqVjFnaFc5ZzdhcDhOc1V4eVkzWmZ5RE51TTZZeHFYMUlERHZjQ2VVaDZ1Z1dRbjdwMTVzTG5fWDllakM5bzI4dF9CaHliNXlzejV2My1GZDg0YThMakh1MGtucHAzbmMxYnNHVlVGWGJoLXA0NXdpOUdUa0k?oc=5",
-      "take": "Bluffton: New, permanent 3D projection mapping experience WPTA | 21Alive | Fort Wayne, IN",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.621,
-      "published": "2026-08-17T20:28:00+00:00",
-      "added": "2026-08-18T13:34:46.228688+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmimwfbvv95cuxqddn1qw80exflvxbgmha1r2h3vkzhejffzdjnnznwnnlkszmwt3bvmg91bgw3wdixtjjednpvm2jrvfhpctveav9iuzzqc3nwum5nmxd6d2ftnjrrdvkxvffzzenrumzymvviblhuve9mx0jkrkzjrljvdknjs0jysvl2mgqzr3jpqjrpoupsn3hdyvj2qwlibg41udibrwfbvv95cuxntvdzzm9pv21lrnnps2xpwfzzsejobgvpmwviszdyvenocefxdnb4a0nvbzvnlvuyb1ryalyxz2hxowc3yxa4tnnvehlzm1pmeurodu02wxhxwdfjrer2y0nlvwg2dwdxuw43cde1c0xux1g5zwpdow8yohrfqmh5yjv5c3o1djmtrmq4nge4tgpidtbrbnbwm25jmwjzr1zvrlhiac1wndv3atlhvgtj",
-      "headline": "Bluffton: New, permanent 3D projection mapping experience",
-      "source": "WPTA | 21Alive | Fort Wayne, IN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDN1QW80eXFlVXBGMHA1R2h3VkZhejFFZDJnNzNwNnlkSzMwT3BvMG91bGw3WDIxTjJEdnpvM2JRVFhPcTVEaV9IUzZqc3NWUm5NMXd6d2FtNjRrdVkxVFFZZENrUmZYMVVIblhuVE9MX0JKRkZjRlJVdkNJS0JySVl2MGQzR3JpQjRpOUpsN3hDYVJ2QWlibG41UdIBrwFBVV95cUxNTVdzZm9pV21LRnNPS2xpWFZZSEJObGVPMWVISzdYVENOcEFXdnB4a0NvbzVNLVUyb1RyalYxZ2hXOWc3YXA4TnNVeHlZM1pmeUROdU02WXhxWDFJRER2Y0NlVWg2dWdXUW43cDE1c0xuX1g5ZWpDOW8yOHRfQmh5YjV5c3o1djMtRmQ4NGE4TGpIdTBrbnBwM25jMWJzR1ZVRlhiaC1wNDV3aTlHVGtJ?oc=5",
-      "take": "Bluffton: New, permanent 3D projection mapping experience WPTA | 21Alive | Fort Wayne, IN",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.555,
-      "published": "2026-08-17T20:28:00+00:00",
-      "added": "2026-08-21T13:36:56.037670+00:00"
-    },
-    {
-      "key": "https://www.eventmarketer.com/article/6-brands-that-unleashed-experiential-at-superzoo-2026",
-      "headline": "6 Brands That Unleashed Experiential at SuperZoo 2026",
-      "source": "Event Marketer",
-      "link": "https://www.eventmarketer.com/article/6-brands-that-unleashed-experiential-at-superzoo-2026/",
-      "take": "If you’ve never squeezed a poop-in-a-bag squishy or considered a calming mousse for your cat, you’ve never been to SuperZoo.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": true,
-      "score": 0.493,
-      "published": "2026-08-17T17:00:29+00:00",
-      "added": "2026-08-18T13:34:46.228688+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxolw0zstdwvlm0tfrpyxrbenjteev5bgf2nuxcejlorlvzdklqynjzsuzsdhq1zwvjdm5lx3lktlpsmmdgq0lsyxn6ovfxq2roquowyxutczj1mfj1eg1vqmpxu18wnjhtbhz2bex3zm5eqtnimzbbdvlhcdniy3llntq1ag5uautyzf9rofblbufic3v4oehv",
-      "headline": "6 Brands That Unleashed Experiential at SuperZoo 2026",
-      "source": "Event Marketer",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLW0zSTdwVlM0TFRpYXRBenJTeEV5bGF2NUxCejloRlVzdklQYnJZSUZsdHQ1ZWVjdm5LX3lKTlpsMmdGQ0lSYXN6OVFXQ2ROQUowYXUtczJ1MFJ1eG1vQmpxU18wNjhtbHZ2bEx3Zm5EQTNiMzBBdVlHcDNiY3lLNTQ1aG5UaUtYZF9rOFBLbUFIc3V4OEhV?oc=5",
-      "take": "6 Brands That Unleashed Experiential at SuperZoo 2026 Event Marketer",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.359,
-      "published": "2026-08-17T17:00:29+00:00",
-      "added": "2026-08-22T13:23:51.381566+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmibefvx3lxtfb5z2nhbflyve0zag9hukt1unpgov9pd1e2aeu4qxhzvwjxmw5ex0nnm2jwwhrtlvf1zkzudwh4ek82vhytc3awttrsmdlcyvrvbvjywdfdeepoqkmwwkdpa3rpn3m1s2thwldhua",
-      "headline": "Reno events this week: A jazz tribute, summer snow day and immersive art",
-      "source": "This Is Reno",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Z2NhbFlYVE0zaG9HUkt1UnpGOV9Pd1E2aEU4QXhZVWJxMW5EX0NnM2JWWHRtLVF1ZkZudWh4ek82VHYtc3AwTTRSMDlCYVRvbVJYWDFDeEpoQkMwWkdpa3RpN3M1S2thWldHUA?oc=5",
-      "take": "Reno events this week: A jazz tribute, summer snow day and immersive art This Is Reno",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.407,
-      "published": "2026-08-17T17:00:00+00:00",
-      "added": "2026-08-18T13:34:46.228688+00:00"
-    },
-    {
-      "key": "https://www.eventmarketer.com/article/three-ways-to-drive-trade-show-success-with-learning",
-      "headline": "3 Ways Exhibitors Are Tackling Education Through Experience",
-      "source": "Event Marketer",
-      "link": "https://www.eventmarketer.com/article/three-ways-to-drive-trade-show-success-with-learning/",
-      "take": "Attendees would ideally spend 54 percent of their learning time outside traditional session rooms, and at trade shows, that number rises to 64 percent…",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.364,
-      "published": "2026-08-17T16:55:45+00:00",
       "added": "2026-08-18T13:34:46.228688+00:00"
     }
   ]
