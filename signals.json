@@ -1,7 +1,63 @@
 {
-  "generated": "2026-08-28T22:47:04.478858+00:00",
+  "generated": "2026-08-29T16:54:52.269176+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmizwfbvv95cuxqdvjpzupmrtdaadbrdgxutgmxdfrjodhtwmvrexhtn2v3ddi0uhhnx3nutnlxdmjezlqyqjvjakhotehhcfvnvkneuwr1efldujv5sundtggxbtv5d0rzn2d5c3pmqllgtkturufywxppwthms1vtmffwb2lnblvnnwctmgpiexu4tnrkwkzwu1jnegz0znlrdhpaahz4tursammzm21vtjvqskpxvxzwckg1x1vqzkztof9tqwhjsetlcfu4wtfdnkw2b2ffzgs",
+      "headline": "US Open Sponsors Pivot From Endorsement Deals To Immersive Experiences",
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdVJPZUpMRTdaaDBrdGxUTGMxdFRJODhtWmVreXhTN2V3dDI0UHhNX3NUTnlxdmJEZlQyQjVJakhOTEhhcFVNVkNEUWR1eFlDUjV5SUNDTGgxbTV5d0RZN2d5c3pMQllGTktURUFYWXppWThMS1VtMFFWb2lnblVnNWctMGpIeXU4TnRKWkZWU1JNeGZ0ZnlRdHpaaHZ4TURSamMzM21VTjVqSkpXVXZWckg1X1VQZkZTOF9tQWhjSEtlcFU4WTFDNkw2b2FFZGs?oc=5",
+      "take": "US Open Sponsors Pivot From Endorsement Deals To Immersive Experiences Forbes",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.387,
+      "published": "2026-08-29T16:05:35+00:00",
+      "added": "2026-08-29T16:54:52.269176+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmitafbvv95cuxoehj0v3pottv1sv9ft1d1d0vrmw5uwmfkaeptehnsr04ylwfwclhqdjuyq0drdziwbxjungjez052uuredlfzt0pzvevptuc5txfdb0rha3gytlfatg10bkzwzfrxvnzlywppc0nsa2txs3daq1pzedlfc0vlewtnqwjsn2kwrlveawl0yngybhdbam1wtje1owlrodbra1vqbhnzwhzyzjdhmtlwqzd6x3roodk",
+      "headline": "Jeppe Hein and the interactive series shaping public space",
+      "source": "Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHJ0V3pOTTV1SV9fT1d1d0VRMW5UWmFkaEpTeHNsR04yLWFwclhqdjUyQ0drdzIwbXJuNGJEZ052UUREdlFZT0pZVEVPTUc5TXFDb0Rha3gyTlFaTG10bkZwZFRxVnZLYWpPc0NSa2txS3daQ1pZeDlFc0VLeWtnQWJsN2kwRlVEaWl0YngybHdBam1wTjE1OWlRODBRa1VQbHNzWHZYZjdhMTlWQzd6X3RoODk?oc=5",
+      "take": "Jeppe Hein and the interactive series shaping public space Ad-hoc-news.de",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.313,
+      "published": "2026-08-29T14:08:29+00:00",
+      "added": "2026-08-29T16:54:52.269176+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiuafbvv95cuxpmm5pc242mzi2lvbrzxrick41czzpekr6yjzhreexrwvnsdz4exo4yjvimdnlq2hmnnmtvkzdzne0elfgbwtrrfpum0m5mmtlawvtohvtrfrmz0lpwejxx1ryzgdhbu1rzndzs0dfqtzvtxrms2trnjh2ddviotvfmvnmwe1jnmzmumtjohvlqvdoveq2a0t2dmvnbumwbktelvrknnpfsja5awj2bfjvsvvlz2j4s3rh",
+      "headline": "Spotify Takes Fan-made Playlists To The Streets With Hyperlocal OOH",
+      "source": "Everything Experiential",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMm5Pc242MzI2LVBrZXRick41czZpekR6YjZHREExRWVNSDZ4eXo4YjViMDNlQ2hMNnMtVkZDZnE0elFGbWtrRFpuM0M5MmtlaWVtOHVTRFRmZ0lPWEJxX1RYZGdHbU1rZndZS0dFQTZvTXRmS2trNjh2dDViOTVfMVNmWE1jNmZMUmtJOHVlQVdOVEQ2a0t2dmVNbUMwbktELVRkNnpfSjA5aWJ2bFJvSVVLZ2J4S3Rh?oc=5",
+      "take": "Spotify Takes Fan-made Playlists To The Streets With Hyperlocal OOH Everything Experiential",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.439,
+      "published": "2026-08-29T07:45:46+00:00",
+      "added": "2026-08-29T16:54:52.269176+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi2gfbvv95cuxom3rtdkvuann5vvhlx2varujxy05fz25irxlfmhy0zmtmndl3znpxoglpoufewkfnv2rdsthurvnrqkpuzgnqblfrdhnrdtjquhpuylndttrpszvrcfpcufj6zzdnsfewdulxrhbfqkjjowkyzwvzr2tfumxfs1rmeejgnhzpvdzfwtjpc0z5ykrrv29tv0lqn1bqu3i2amvbz2e3n3fvquffwdbpa2prbmtwqjdivuxyuhfnyxpbn2jsdufuanztz2jszln5rle5lupzlw5cdlbyuq",
+      "headline": "With the advent of social media, particularly Instagram, viewers began waiting in line to view the artist's polka-dot, mirror-reflected infinity rooms.",
+      "source": "facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM3RtdkVuanN5VVhLX2VaRUJxY05fZ25IRXlfMHY0ZmtMNDl3ZnpxOGlPOUFEWkFNV2RDSThuRVNrQkpuZGNqblFRdHNRdTJQUHpuYlNDTTRPSzVrcFpCUFJ6ZzdnSFEwdUlxRHBFQkJJOWkyZWVzR2tfUmxFS1RMeEJGNHZpVDZFWTJpc0Z5YkRrV29TV0lqN1BqU3I2amVBZ2E3N3FvQUFFWDBPa2prbmtWQjdiVUxyUHFNYXpBN2JSdUFUanZtZ2JSZlN5RlE5LUpZLW5CdlBYUQ?oc=5",
+      "take": "",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.33,
+      "published": "2026-08-29T02:42:56+00:00",
+      "added": "2026-08-29T16:54:52.269176+00:00"
+    },
     {
       "key": "https://news.google.com/rss/articles/cbmiigfbvv95cuxnwwzqsghmt2jvrefgclhhtgkwmgrzaenac2jatvlbxzhjavdtadm2c1vvaklnognkttvkzvfka2xer0c3x01sdjzrahfnt1yxmvllnfn4lwo2whzprxl2vthutvpwmlpnqvfgtwm0oxbzre1squhnnee1tl90s3himlhncgy0v0n6dmc",
       "headline": "Metallica Expands Sphere Residency to 24 Shows",
@@ -351,6 +407,20 @@
       "score": 0.368,
       "published": "2026-08-26T16:24:25+00:00",
       "added": "2026-08-27T22:40:59.491107+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmib0fvx3lxte1yuk5wt0hizdlzufnhow1pqwlex2fxzkruve10r1e2czrquddqrzrovehjtxl0c1bqrtlnnl83ylhzz3hmadduotdaq1zvuv9famy5tufvzkthunlidlpwyxe5uhzwbulktuhjtfzjuq",
+      "headline": "Every 2026-27 Vegas residency, including Backstreet Boys at Sphere for under $170",
+      "source": "Syracuse.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YUk5wT0hiZDlzUFNHOW1pQWlEX2FxZkRuVE10R1E2czRqUDdqRzROVEhjTXl0c1BQRTlNNl83YlhzZ3hMaDduOTdaQ1ZvUV9famY5TUFvZkthUnlIdlpWYXE5UHZWbUlkTUhjTFZjUQ?oc=5",
+      "take": "Every 2026-27 Vegas residency, including Backstreet Boys at Sphere for under $170 Syracuse.com",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.374,
+      "published": "2026-08-26T14:34:00+00:00",
+      "added": "2026-08-29T16:54:52.269176+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmikgfbvv95cuxobgvtvws3x1g4b1lbzg5wynjyu3vyr2nougpjs1plwxlmade1bnm0zu9xrdmtz0dhehfqx1jpodlxetdor3hybhpyy1pfd05rrvfhtwlqehrnchfht1jirelsqtfrthgxwjhizzh6vzrmr3j3d1plwk5jcfvzyza2lxjqehzkrlu4dha4bfdvnjlouq",
@@ -771,76 +841,6 @@
       "score": 0.427,
       "published": "2026-08-22T15:45:00+00:00",
       "added": "2026-08-23T13:24:46.967927+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmizafbvv95cuxpa2fwuthwqzfmutb3dgllr2qwsufkaefrdnnxn3fycmjhdkffbfjnzk5nogkydwjwytbvwkrwn1fsafluoxhzr0dkc3jjtw1zv1g2x2fhb3b2a2s3vf80uvfiqmxvbkfsthb5bc01ek9rwkrom241yy1oywjsuva4rtvfufjqdunhm0fxrmlxog9mwk4za2xlcl9uwul5ani4r0ltcfq4uzvjcetwv2nscef0dk5mwlzkqm5ouvyzy0f0bejumgrmx01ct2m",
-      "headline": "Mumbai Light Festival To Transform Afghan Church With Immersive Projection Mapping",
-      "source": "Everything Experiential",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa2FwUThWQzFMUTB3dGllR2QwSUFkaEFRdnNXN3FycmJhdkFFbFJnZk5NOGkydWJwYTBVWkRWN1FSaFluOXhZR0dKc3JjTW1zV1g2X2Fhb3B2a2s3VF80UVFIQmxVbkFSTHB5bC01ek9rWkROM241Yy1OYWJsUVA4RTVfUFJqdUNhM0FxRmlXOG9mWk4za2xLcl9UWUl5anI4R0lTcFQ4UzVJcEtWV2NscEF0dk5MWlZKQm5OUVYzY0F0bEJUMGRmX01CT2M?oc=5",
-      "take": "Mumbai Light Festival To Transform Afghan Church With Immersive Projection Mapping Everything Experiential",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.675,
-      "published": "2026-08-22T08:06:50+00:00",
-      "added": "2026-08-22T13:23:51.381566+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxny2lktzbxyjhuq001t2v0oujjdlcwt0jvvexreu1lqxjxt3fzcgjpwgg0bexaow5mnhh6mtn4r29od05ctkxdmlbzrwe0zl83ykxcvkningnwd1r4uw9lnnprvhp5dutzxzjaemd3vvzrb0tmvdjavgprbwxhugxucvrpcxhrwl92vjbnyvhettj1awf1anm2xzffsfrtc1rsz1vyb2p1wljmq0lstl9tx0fxam9sudjfuzdhywexmehtqq",
-      "headline": "Central Coast Studios Reveals $260M Real-Time Screen, Motion Capture and Esports Hub",
-      "source": "FilmInk",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2lkTzBxYjhuQ001T2V0OUJJdlcwT0JvVExReU1LQXJxT3FZcGJpWGg0bExaOW5mNHh6MTN4R29Od05CTkxDMlBZRWE0Zl83YkxCVkNINGNWd1R4UW9lNnpRVHp5dUtZXzJaemd3VVZRb0tmVDJaVGprbWxhUGxucVRPcXhRWl92VjBnYVhETTJ1aWF1anM2XzFFSFRTc1RsZ1Vyb2p1WlJmQ0lSTl9TX0FXam9SUDJFUzdhYWExMEhtQQ?oc=5",
-      "take": "Central Coast Studios Reveals $260M Real-Time Screen, Motion Capture and Esports Hub FilmInk",
-      "cat": "Gaming",
-      "token": "gaming",
-      "tier": "query",
-      "geo": false,
-      "score": 0.321,
-      "published": "2026-08-22T04:08:36+00:00",
-      "added": "2026-08-24T13:41:55.611463+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmipafbvv95cuxpngptqwnzddn5vvrpdw9qdkrxqu5hamxemtjkaxp1tdg4n2xvzni5m3hja2disgpzawrwsdy0uu5xwvbszlqwnfnbruhgb2nfdzq5ztjmy1nxckqwmk9tytrstmk0tvhddhbrr2dbwwrrcw1pswdvd0trnfi3wdlfrzktamfda2q3mufdtzfkyutzq0o1ykxtmwzhruxjrfflzk5vmq",
-      "headline": "Greenply turns MATECIA 2026 into an experiential marketing showcase",
-      "source": "Adgully.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGpTQWNzdDN5VVRPdW9qdkRXQU5HamxEMTJKaXp1TDg4N2xvZnI5M3hJa2dISGpzaWRwSDY0UU5XWVBSZlQwNFNBRUhGb2NfdzQ5ZTJMY1NXckQwMk9TYTRsTmk0TVhDdHBRR2dBWWRRcW1pSWdVd0tRNFI3WDlFRzktamFDa2Q3MUFDTzFKYUtZQ0o1YkxtMWZhRUxJRFFlZk5vMQ?oc=5",
-      "take": "Greenply turns MATECIA 2026 into an experiential marketing showcase Adgully.com",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.365,
-      "published": "2026-08-22T04:00:52+00:00",
-      "added": "2026-08-26T13:44:36.188575+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxnsu1wvgtudmpcotlbqjjmynz6rexjdelhmvf3mgiymuzrcfjjwjdsakvqmhgxr2fjvvv5twv5zzawm1hhzelxc1buu1c4wm9hsvhzzxr5tk84tmlybw40dxrmzuptt2lrvtzxy2r2zfe4teh0ewpjvfy0s2rza3lrzl9fvxzvqjbtb2hvq1b3znnyuedgcf9b",
-      "headline": "Backstreet’s Back: Backstreet Boys Return to Las Vegas Sphere with Six New Shows in Summer 2026",
-      "source": "TicketNews",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSU1wVGtudmpCOTlBQjJmYnZ6RExJdElHMVF3MGIyMUZRcFJjWjdSakVqMHgxR2FJVVV5TWV5ZzAwM1hhZElxc1BuU1c4Wm9hSVhzZXR5Tk84TmlybW40dXRmZUpTT2lrVTZXY2R2ZFE4TEh0eWpJVFY0S2Rza3lrZl9fVXZVQjBTb2hVQ1B3ZnNyUEdGcF9B?oc=5",
-      "take": "Backstreet’s Back: Backstreet Boys Return to Las Vegas Sphere with Six New Shows in Summer 2026 TicketNews",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.421,
-      "published": "2026-08-22T02:49:28+00:00",
-      "added": "2026-08-23T13:24:46.967927+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmihafbvv95cuxqvzjpzxbmbk1juufxzkxxa2lcctzobkzxmhkyamdpbktootdgby1przdxew5nauh5rtljufnwn1g1wnpgzupwsxetnhzuc3hjbuvwywj4slfxdxnud08ybzjxudr3ti1qzkx3ynfeylj4bunhdzffze50mhrlmerms3dwc3m",
-      "headline": "Paramount Products & Experiences and Egan Productions Announce 'PAW Patrol Rescue Pups: An Immersive Experience'",
-      "source": "NickALive!",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVzJpZXBMbk1jUUFXZkxXa2lCcTZobkZXMHkyamdPbktoOTdGby1PRzdXeW5naUh5RTljUFNwN1g1WnpGZUpwSXEtNHZuc3hjbUVWYWJ4SlFXdXNUd08ybzJXUDR3Ti1QZkx3YnFEYlJ4bUNhdzFFZE50MHRlMERMS3dWc3M?oc=5",
-      "take": "Paramount Products & Experiences and Egan Productions Announce 'PAW Patrol Rescue Pups: An Immersive Experience' NickALive!",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.467,
-      "published": "2026-08-22T01:40:00+00:00",
-      "added": "2026-08-22T13:23:51.381566+00:00"
     }
   ]
 }
