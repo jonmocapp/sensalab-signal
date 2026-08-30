@@ -1,7 +1,63 @@
 {
-  "generated": "2026-08-29T16:54:52.269176+00:00",
+  "generated": "2026-08-30T17:03:33.337794+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmimafbvv95cuxnnem5txnmbnzfthrdy0t2rf91svvgm2jbv0n4vnoztgvzdudwyvfncwrrvl9vzfq2rfrnugw1ewnodfd4ywnprfb0ahhlak9py2k4xzfhnf9isflzuwtsqwhkagxtx1bmmuluvhphul9icxzkevnumknnrkcydfnorwrudhoyugrsexmxrlu5qtrnow9wcnzmyq",
+      "headline": "SEC stars get Heisman Trophy campaign promoted at Las Vegas Sphere",
+      "source": "AL.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEM5TXNMbnZFTHRDY0t2RF91SVVGM2JBV0N4VnozTGVzdUdwYVFncWRrVl9vZFQ2RFRnUGw1eWNodFd4YWNPRFB0aHhLak9pY2k4XzFhNF9ISFlZUWtSQWhkaGxtX1BMMUlUVHphUl9IcXZKeVNUMkNnRkcydFNORWRUdHoyUGRseXMxRlU5QTRNOW9wcnZmYQ?oc=5",
+      "take": "SEC stars get Heisman Trophy campaign promoted at Las Vegas Sphere AL.com",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.467,
+      "published": "2026-08-30T15:29:00+00:00",
+      "added": "2026-08-30T17:03:33.337794+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi0wfbvv95cuxqv01isvplr0xttnbnx0o0lujla3lhsvk3cxbfbtazm25ku2jya0hzddz3a1lxytvryzjfbndqmfhax19ycghxvwlqm0drunc1rgxtelztlvzvcs1tuu55qws1aghkzzndb3e1lvhslvlqqxi3rekyvuxhovrbs3dxvwpluk4wcevjx05bc1ddm3bqdtdpyxgyswc4rmvfdw9idlfgvkz4rev2adhjmec5ewlxx1fcwuj2ymjxdmp4vwewttfnse1gmu1rd0lvnw4zz0n3",
+      "headline": "Why Ole Miss football took Heisman Trophy campaign to Las Vegas Sphere",
+      "source": "The Clarion-Ledger",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV01ISVpLR0xTTnBnX0o0LUJla3lhSVk3cXBFbTAzM25KU2Jya0hzdDZ3a1lXYTVRYzJfbndQMFhaX19YcGhXVWlqM0dRUnc1RGxTelZtLVZVcS1TUU55QWs1aGhKZzNDb3E1LVhsLVlqQXI3REkyVUxhOVRBS3dXVWpLUk4wcEVJX05Bc1dDM3BqdTdpYXgySWc4RmVFdW9IdlFGVkZ4REV2aDhjMEc5eWlxX1FCWUJ2YmJXdmp4VWEwTTFnSE1GMU1rd0lvNW4zZ0N3?oc=5",
+      "take": "Why Ole Miss football took Heisman Trophy campaign to Las Vegas Sphere The Clarion-Ledger",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.467,
+      "published": "2026-08-30T15:03:00+00:00",
+      "added": "2026-08-30T17:03:33.337794+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxpzedfrmpvt2e2nu5althssgjayi1py3hhs2c3z2jbeme5du5btml4bw5tq1flr3fduzu4v01danutr2nyr0fuvhpuz0zar0w2u050v1f4nhnvclgtz19gqwhfs3vzrhnetnffckpvcfc4m0jcsvr0uknpak9ry0dkrnfflwfrqvveahjnnxdhz095ru9rm0drlxflnfn5be0xcvpkvnlvmxhqvtbvuzzkwwtr",
+      "headline": "ArtFusion, an inaugural, immersive art festival, comes to Baltimore County",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEdfRmpVT2E2NU5aLThSSGJaYi1PY3hhS2c3Z2JBemE5dU5BTml4bW5TQ1FlR3FDUzU4V01DanUtR2NYR0FuVHpUZ0ZaR0w2U050V1F4NHNVclgtZ19GQWhfS3VZRHNETnFFckpvcFc4M0JCSVR0UkNpak9rY0dkRnFfLWFRQVVEaHJnNXdHZ095RU9RM0dRLXFlNFN5bE0xcVpkVnlVMXhQVTBvUzZKWWtR?oc=5",
+      "take": "ArtFusion, an inaugural, immersive art festival, comes to Baltimore County CBS News",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.406,
+      "published": "2026-08-29T18:00:00+00:00",
+      "added": "2026-08-30T17:03:33.337794+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxnsu1wvgtudmpcotlbqjjmynz6rexjdelhmvf3mgiymuzrcfjjwjdsakvqmhgxr2fjvvv5twv5zzawm1hhzelxc1buu1c4wm9hsvhzzxr5tk84tmlybw40dxrmzuptt2lrvtzxy2r2zfe4teh0ewpjvfy0s2rza3lrzl9fvxzvqjbtb2hvq1b3znnyuedgcf9b",
+      "headline": "Backstreet’s Back: Backstreet Boys Return to Las Vegas Sphere with Six New Shows in Summer 2026",
+      "source": "TicketNews",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSU1wVGtudmpCOTlBQjJmYnZ6RExJdElHMVF3MGIyMUZRcFJjWjdSakVqMHgxR2FJVVV5TWV5ZzAwM1hhZElxc1BuU1c4Wm9hSVhzZXR5Tk84TmlybW40dXRmZUpTT2lrVTZXY2R2ZFE4TEh0eWpJVFY0S2Rza3lrZl9fVXZVQjBTb2hVQ1B3ZnNyUEdGcF9B?oc=5",
+      "take": "Backstreet’s Back: Backstreet Boys Return to Las Vegas Sphere with Six New Shows in Summer 2026 TicketNews",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.426,
+      "published": "2026-08-29T17:12:21+00:00",
+      "added": "2026-08-30T17:03:33.337794+00:00"
+    },
     {
       "key": "https://news.google.com/rss/articles/cbmizwfbvv95cuxqdvjpzupmrtdaadbrdgxutgmxdfrjodhtwmvrexhtn2v3ddi0uhhnx3nutnlxdmjezlqyqjvjakhotehhcfvnvkneuwr1efldujv5sundtggxbtv5d0rzn2d5c3pmqllgtkturufywxppwthms1vtmffwb2lnblvnnwctmgpiexu4tnrkwkzwu1jnegz0znlrdhpaahz4tursammzm21vtjvqskpxvxzwckg1x1vqzkztof9tqwhjsetlcfu4wtfdnkw2b2ffzgs",
       "headline": "US Open Sponsors Pivot From Endorsement Deals To Immersive Experiences",
@@ -99,6 +155,20 @@
       "score": 0.449,
       "published": "2026-08-28T14:00:22+00:00",
       "added": "2026-08-28T22:47:04.478858+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi4afbvv95cuxqdkywtjbirzrddljzmtdec1q5cnbbqlbkcl95y3nevgzaa3fwvvbvwwz2u2lmovpzzvu5yzrqzupwukvsnmlhnmnix1m4mmk1bedvvwn3z3hnmhk0lu5itmpddenpnwiycdbmttc5u3jmeevzzgjxrgnscu9lv0fuczj4uhruczg2c2fkanfhqvhpqlvgdllloec5tuvmof9vq2rprnnzcfz3mzzfdlzxb09slwdunndmqkc3bgjdcexkvhlroxplbjv5zmi2a2hksfhcduxznxdgtenucwqxea",
+      "headline": "WHEN SINGAPORE’S LEGENDS LIGHT UP THE NIGHT ✨🌊 SINGAPORE — Folklore takes center stage — quite literally — at the Singapore Night Festival, where the facade of the National Museum of Singapore transforms into a vivid canvas of myths, creatur",
+      "source": "Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdkYwTjBIRzRDdlJzMTdEc1Q5cnBBQlBkcl95Y3NEVGZaa3FWVVBVWWZ2U2lmOVpZZVU5YzRqZUpWUkVSNmlHNmNiX1M4Mmk1bEdVVWN3Z3hNMHk0LU5ITmpDdENPNWIycDBMTTc5U3JMeEVzZGJXRGNScU9lV0FUczJ4UHRuczg2c2FKanFHQVhPQlVGdlllOEc5TUVmOF9vQ2RpRnNZcFZ3MzZfdlZxb09SLWdUNndmQkc3bGJDcExkVHlROXpLbjV5ZmI2a2hKSFhCdUxZNXdGTENucWQxeA?oc=5",
+      "take": "",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.349,
+      "published": "2026-08-28T12:30:35+00:00",
+      "added": "2026-08-30T17:03:33.337794+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmidefvx3lxte9nyznsyw81qmnhovltrjnxlxdddjllbglntc04zs1tnvpsrtvhulrmdty3dzfqog05m0o4cgpkyuzqzxvqwvryc0pethnjdwnldmheyjlqmg5quc1aqjzjr2g1bvnbwvfqsuttckg4vgzxbgdk",
@@ -379,6 +449,20 @@
       "score": 0.444,
       "published": "2026-08-26T21:03:06+00:00",
       "added": "2026-08-27T22:40:59.491107+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxny2lktzbxyjhuq001t2v0oujjdlcwt0jvvexreu1lqxjxt3fzcgjpwgg0bexaow5mnhh6mtn4r29od05ctkxdmlbzrwe0zl83ykxcvkningnwd1r4uw9lnnprvhp5dutzxzjaemd3vvzrb0tmvdjavgprbwxhugxucvrpcxhrwl92vjbnyvhettj1awf1anm2xzffsfrtc1rsz1vyb2p1wljmq0lstl9tx0fxam9sudjfuzdhywexmehtqq",
+      "headline": "Central Coast Studios Reveals $260M Real-Time Screen, Motion Capture and Esports Hub",
+      "source": "FilmInk",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2lkTzBxYjhuQ001T2V0OUJJdlcwT0JvVExReU1LQXJxT3FZcGJpWGg0bExaOW5mNHh6MTN4R29Od05CTkxDMlBZRWE0Zl83YkxCVkNINGNWd1R4UW9lNnpRVHp5dUtZXzJaemd3VVZRb0tmVDJaVGprbWxhUGxucVRPcXhRWl92VjBnYVhETTJ1aWF1anM2XzFFSFRTc1RsZ1Vyb2p1WlJmQ0lSTl9TX0FXam9SUDJFUzdhYWExMEhtQQ?oc=5",
+      "take": "Central Coast Studios Reveals $260M Real-Time Screen, Motion Capture and Esports Hub FilmInk",
+      "cat": "Gaming",
+      "token": "gaming",
+      "tier": "query",
+      "geo": false,
+      "score": 0.303,
+      "published": "2026-08-26T19:03:28+00:00",
+      "added": "2026-08-30T17:03:33.337794+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmiiafbvv95cuxqbem3mfk3rzbrewo0zgdardfemmvhq2x0sdhtvc1rogkxnu1sujjdmmdiuvitdthex1brswt4efvasfjzdzvzlu9nzkg2adu5bm5dmzfpru1yzg5lsdzvqzm4oxf4rmmzcgoyy2fvyly4nekyvwhdrdq5cwz0tffwejdmv2tyutdv",
@@ -757,90 +841,6 @@
       "score": 0.447,
       "published": "2026-08-24T12:00:25+00:00",
       "added": "2026-08-24T13:41:55.611463+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmi3wjbvv95cuxomhjjce5caw5xymjqvgo0wnfmbhfdslbfdxh2bxm0afbfymhrsfjvdtdheur2wekybg1oukdvugjccvqztgxoevjvnmhlctmzqzuzv2nkcxqycdvvrk85mfatuljpwjzhvknlbklxz05eq1jkeuz5sxfdzezrckhiaxn0vxnouudza0lty0xpsguyce1bx1duellqyxvprg9oc2zewmxatxqxbxj6zuteeurmzkzwwtrqcxlqes1knxn1dhrjmw9mtde5rwszcjdubgftmwr5yvjiwvf0r0hfyjmxwuvnbutudl9jnhllzfiza3l1bmexsen5djlqou9ktw5fqmkteehtmhrpnejdu3l4n3jlvug4r3u3r2tjzjvkr212vwdywtnidgniczdcctzln2njnjrfdmpwb3nwvuvyrmsywtfgsnpvykpgrwnvskpzqw42dwfnzdrnvgm",
-      "headline": "Activation Group (9919.HK) Announces 2026 Interim Results with Revenue of approx. RMB 287 million; Client Portfolio Diversification Achieves Substantial Breakthrough; Healthy Cash Flow Position",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMHJjcE5CaW5XYmJQVGo0WnFmbHFDSlBfdXh2bXM0aFBFYmhrSFJVdTdheUR2WEkybG1oUkdvUGJCcVQzTGxoeVJvNmhlcTMzQzUzV2NKcXQycDVvRk85MFAtUlJpWjZhVkNLbklxZ05EQ1JKeUZ5SXFDZEZRckhIaXN0VXNOUUdZa0ltY0xPSGUycE1BX1duellqYXVPRG9Oc2ZEWmxaTXQxbXJ6ZUtEeURMZkZWWTRqcXlQeS1KNXN1dHRJMW9MTDE5RWszcjdubGFTMWR5YVJIWVF0R0hfYjMxWUVnbUtUdl9jNHllZFIza3l1bmExSEN5djlqOU9kTW5fQmkteEhtMHRPNEJDU3l4N3JLVUg4R3U3R2tjZjVkR212VWdYWTNIdGNIczdCcTZlN2NJNjRfdmpWb3NWVUVyRmsyWTFGSnpvYkpGRWNVSkpZQW42dWFNZDRnVGM?oc=5",
-      "take": "",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.346,
-      "published": "2026-08-24T09:54:32+00:00",
-      "added": "2026-08-24T13:41:55.611463+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmivafbvv95cuxnvmzruzvac3losi1rzjfdy2hjuemxcu9js2nkmg1fs1ctr3n5tl8tcmpxtkrhvwllm2pdlxp2bunxuudfq3hxew9xtnn3ujrrmzjznnv4bgtybwm0bunjb1dmtk83bhvguvdnmfbaoxq1vtdjbmxcctdxauprru1zmdvpdnzqtthynhpowwo3ejc4v1nid3h4zfjpekpaefl3t3psb2twruj5aepumk1uswlkz2t1aexkslrlag",
-      "headline": "Red Rock OPS Uses Brompton Hydra To Transform LED Virtual Production Stage At SP Studios",
-      "source": "Live Design Online",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVmZRUzVac3lOSi1RZjFDY2hJUEMxcU9jS2NKMG1fS1ctR3N5Tl8tcmpxTkRhVWlLM2pDLXp2bUNXUUdfQ3hxeW9XTnN3UjRrMzJzNnV4bGtybWM0bUNJb1dMTk83bHVGUVdNMFBaOXQ1VTdJbmxCcTdXaUpRRU1zMDVpdnZqTThyNHpOWWo3ejc4V1NId3h4ZFJPekpaeFl3T3pSb2twRUJ5aEpuMk1uSWlKZ2t1aExKSlRLag?oc=5",
-      "take": "Red Rock OPS Uses Brompton Hydra To Transform LED Virtual Production Stage At SP Studios Live Design Online",
-      "cat": "CGI & VFX",
-      "token": "cgi",
-      "tier": "query",
-      "geo": false,
-      "score": 0.518,
-      "published": "2026-08-24T09:40:08+00:00",
-      "added": "2026-08-24T13:41:55.611463+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmirafbvv95cuxqmupvefrty3pvy0lqv1hgttlwog1jdhvhr3rwskm2zmlua0npvtm1munktjdrzzlese56ce9cnhhnv2cxx1rnzdjjavmwszaxamhomvh0zgqwnc1zmjboedz4ofb3vdlvsve4czhyendqqjr5tnkxctr3mnz3zkutawm1ztk3qnnqmjv3agvubwxfdjlmvhhlu2lur2oyykrjew5lynnxsfhoum1z",
-      "headline": "Metallica extend Las Vegas Sphere residency into 2027",
-      "source": "Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUpVeFRTY3pvY0lQV1hGTTlWOG1jdHVHR3RwSkM2Zmlua0NpVTM1MUNKTjdRZzlESE56cE9CNHhNV2cxX1RnZDJjaVMwSzAxamhoMVh0ZGQwNC1zMjBoeDZ4OFB3VDlVSVE4czhYendqQjR5TnkxcTR3MnZ3ZkUtaWM1ZTk3QnNQMjV3aGVUbWxfdjlMVHhlU2luR2oyYkRJeW5lYnNXSFhoUm1z?oc=5",
-      "take": "Metallica extend Las Vegas Sphere residency into 2027 Ad-hoc-news.de",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.423,
-      "published": "2026-08-24T08:36:24+00:00",
-      "added": "2026-08-25T13:40:09.178369+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmijafbvv95cuxqb1dis2zzsknnswftbfq5ouq0u3jhou1hnvrkruc4ndezrnrfrwnrnfz1s09pzejknmpwwte3wnztathfdu1pemo0dlnjzg5kcdbjvelvcfj2dffjtkfuv0zqes1uynfmx0ljbmntv0e3lvfszwfpdko1auvldkoxm09ybetvcuywr3lxvg",
-      "headline": "MORE PROJECTION MAPPINGS @ SINGAPORE NIGHT FESTIVAL 2026",
-      "source": "Chang Tou Liang",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1dIS2ZZSkNNSWFTbFQ5OUQ0U3JhOU1HNVRkRUc4NDEzRnRfRWNRNFZ1S09pZEJkNmpwWTE3WnZtaThFdU1Pemo0dlNjZG5KcDBjVElvcFJ2dFFJTkFUV0ZqeS1uYnFMX0lJbmNtV0E3LVFSZWFPdko1aUVldkoxM09ybEtvcUYwR3lXVg?oc=5",
-      "take": "MORE PROJECTION MAPPINGS @ SINGAPORE NIGHT FESTIVAL 2026 Chang Tou Liang",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.397,
-      "published": "2026-08-22T23:59:00+00:00",
-      "added": "2026-08-23T13:24:46.967927+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxqvtl2ykrkqjhztjvzwkxzovjhdedcvvawvzfhyvg4agxva09ud3hkxzhzsvnzt0nesvduajzztmxwtjldzlfnzzr1ww9wnnjkmffxuwvmrc0wvnhwcnrbt0hsoflny2hmrezlcxnkvuhtbxbidexowvzjbtzod3uzbhltc3h0vkhzskddzthkrgfvnfbomnq0wxb2zdlxngddagd6bwnxdfrpa3e1bnl5dvfn",
-      "headline": "No Doubt - 2026 Las Vegas Sphere residency and tribute wave",
-      "source": "Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTl2YkRkQjhZTjVzWkxZOVJHdEdCVVAwVzFHYVg4aGxva09Ud3hKXzhzSVNzT0NESVduajZzTmxWTjlDZlFNZzR1WW9wNnJkMFFXUWVMRC0wVnhwcnRBT0hsOFlnY2hMREZlcXNKVUhTbXBidExOWVZJbTZod3UzbHlTc3h0VkhzSkdDZThkRGFVNFBoMnQ0WXB2ZDlxNGdDaGd6bWNXdFRPa3E1bnl5dVFn?oc=5",
-      "take": "No Doubt - 2026 Las Vegas Sphere residency and tribute wave Ad-hoc-news.de",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.393,
-      "published": "2026-08-22T19:01:34+00:00",
-      "added": "2026-08-26T13:44:36.188575+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilafbvv95cuxou2d4nzrllwiymgrqng9xndheejrkvevyuzmwsnnom1nlbvpzetnhtnh1sljvztlbrxnxswday0zky3vobzzzbgntzfpxexyxb2vht1pxvfbhevjgthjucfh3twhamhjsdwtfz2p2we83a3p1wnder293aflvetc2veutqlprakvjuk9zthlwrgryt0fo",
-      "headline": "Las Vegas Sphere success",
-      "source": "LAist",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU2d4NzRlLWIyMGRQNG9xNDhEejRkVEVyUzMwSnNoM1NLbVpZeTNhTnh1SlJvZTlBRXNXSWdaY0ZkY3VobzZzbGNtZFpXeXYxb2VhT1pxVFBheVJGTHJUcFh3TWhaMHJSdWtfZ2p2WE83a3p1WndER293aFlveTc2VEUtQlpRakVjUk9zTHlwRGRyT0Fo?oc=5",
-      "take": "Las Vegas Sphere success LAist",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.427,
-      "published": "2026-08-22T15:45:00+00:00",
-      "added": "2026-08-23T13:24:46.967927+00:00"
     }
   ]
 }
