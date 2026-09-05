@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-04T16:39:02.383378+00:00",
+  "generated": "2026-09-05T15:42:02.922424+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmirwfbvv95cuxqmk90s0j1ne1xvc12d2s4x1ltuja4nejhvvuxdgprneq0egjwa2xolujpyzjsy3zjz2hxuwxycxc5vva0yly3z2lkajdvbmrkdfpteetywm9lqmljn2c4bfdqc0ktexawbfz5vko5nzlhei13u19hafbdddlicvbrn2nqafr6stgxa2jrekotvmx4mxztc0rlatfux3a2nufktxhuadkxethkbdbjddhj",
+      "headline": "The Eagles Sphere residency starts again soon. How much are tickets?",
+      "source": "New York Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMk90S0J1NE1xVC12d2s4X1ltUjA4NEJHVVUxdGprNEQ0eGJWa2xoLUJpYzJsY3ZjZ2hXUWxYcXc5VVA0YlY3Z2lkajdVbmRkdFpTeEtyWm9lQmljN2c4bFdQc0kteXAwbFZ5Vko5NzlHei13U19haFBDdDlIcVBrN2NqaFR6STgxa2JRekotVmx4MXZTc0RLaTFUX3A2NUFkTXhuaDkxeThkbDBjdDhJ?oc=5",
+      "take": "",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.402,
+      "published": "2026-09-04T20:54:00+00:00",
+      "added": "2026-09-05T15:42:02.922424+00:00"
+    },
     {
       "key": "https://news.google.com/rss/articles/cbmi6gfbvv95cuxpuun6wwrtrmvpalzznghfq3p3n1bwr0r2zfnqwm14z29fevbewmzrrexuogtqeuvzmm9qatznekdpohz6y3jquuhzaf9lvg1sq01wskxbltz2n3nezwyxbgvfaffgvtr5utcyes1mqv9xnvvku1finwlnelcwdzhaluu4etuxtkizuexhcxjjbef1v2x2mhlrzfy2verwmxrnd2hwv1hfs2lcrtbaq2vhvxplrwxcwghlq2p6y05wcu1rt05twdrht0y1zefnrnj3vlhkzgrezxu3dhd1qs1rslryek5xcm95zfe",
       "headline": "Mercedes-Benz Studio Toronto Unveils New '140 Years of Innovation' Immersive Experience at Holt Renfrew",
@@ -129,6 +143,20 @@
       "added": "2026-09-04T16:39:02.383378+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxny2lktzbxyjhuq001t2v0oujjdlcwt0jvvexreu1lqxjxt3fzcgjpwgg0bexaow5mnhh6mtn4r29od05ctkxdmlbzrwe0zl83ykxcvkningnwd1r4uw9lnnprvhp5dutzxzjaemd3vvzrb0tmvdjavgprbwxhugxucvrpcxhrwl92vjbnyvhettj1awf1anm2xzffsfrtc1rsz1vyb2p1wljmq0lstl9tx0fxam9sudjfuzdhywexmehtqq",
+      "headline": "Central Coast Studios Reveals $260M Real-Time Screen, Motion Capture and Esports Hub",
+      "source": "FilmInk",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2lkTzBxYjhuQ001T2V0OUJJdlcwT0JvVExReU1LQXJxT3FZcGJpWGg0bExaOW5mNHh6MTN4R29Od05CTkxDMlBZRWE0Zl83YkxCVkNINGNWd1R4UW9lNnpRVHp5dUtZXzJaemd3VVZRb0tmVDJaVGprbWxhUGxucVRPcXhRWl92VjBnYVhETTJ1aWF1anM2XzFFSFRTc1RsZ1Vyb2p1WlJmQ0lSTl9TX0FXam9SUDJFUzdhYWExMEhtQQ?oc=5",
+      "take": "Central Coast Studios Reveals $260M Real-Time Screen, Motion Capture and Esports Hub FilmInk",
+      "cat": "Gaming",
+      "token": "gaming",
+      "tier": "query",
+      "geo": false,
+      "score": 0.329,
+      "published": "2026-09-03T20:58:34+00:00",
+      "added": "2026-09-05T15:42:02.922424+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmiekfvx3lxtfbhwfdqd180ogdkdknovzbfc3jiukdqnnhlzhzgnzfpsmjhouvuqw5mtw8xnuuzcfrtn0tqszlpcm1dzxnxbk9ztlblt0vuz3dqt0dzvfbwuzrxcddbbnppdjg2adflzvnqzg42r21fby1fuenqwkvuqlbn",
       "headline": "On The Subject Of Selfies And Immersive Art",
       "source": "ArtFacts",
@@ -155,6 +183,20 @@
       "score": 0.407,
       "published": "2026-09-03T19:50:13+00:00",
       "added": "2026-09-04T16:39:02.383378+00:00"
+    },
+    {
+      "key": "https://www.eventmarketer.com/article/jeep-d23-toy-box-america250",
+      "headline": "How Jeep Unpacked an America250 Campaign from a Giant Toy Box",
+      "source": "Event Marketer",
+      "link": "https://www.eventmarketer.com/article/jeep-d23-toy-box-america250/",
+      "take": "When attendees at D23 turned a corner at the Anaheim Convention Center, they came face-to-face with a 1:1 toy car “action figure” box large enough for them to…",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "core",
+      "geo": false,
+      "score": 0.321,
+      "published": "2026-09-03T18:24:21+00:00",
+      "added": "2026-09-05T15:42:02.922424+00:00"
     },
     {
       "key": "https://www.bizbash.com/experiential-marketing/qvc-hosted-a-creator-first-commerce-experience-in-honor-of-its-40th-anniversary",
@@ -197,6 +239,20 @@
       "score": 0.545,
       "published": "2026-09-03T17:05:00+00:00",
       "added": "2026-09-04T16:39:02.383378+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmivafbvv95cuxoaxzdwlduz2hpmeprqkdzufg1ogderm4toehrte9pugj5ugj1evldcefddk90c0hqslu4uzjorgjqejlfeutuuzz2qwi3ttfqyuznq043bufxshy2adm3dmnzsu5fbexqntv0ee1uyjezovp0rg4xefrna1jnnu9wcuz5dknqrfo0veuxmje0b09jvdjidtlvd2zzte91mfpiukhotm83ela0vm5pq2q4cgfwy0r5djvncu0wwa",
+      "headline": "Newsroom AI and iD\\TBWA Transform the New Audi Q3 Ecosystem into a Unique Brand Stories Experience",
+      "source": "Roastbrief US",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXZDWlduZ2hpMEprQkdzUFg1OGdERm4tOEhrTE9PUGJ5UGJ1eVlDcEFDdk90c0hQSlU4UzJoRGJQejlFeUtUUzZ2QWI3TTFqYUZNQ043bUFXSHY2aDM3dmNZSU5FbExQNTV0eE1UYjEzOVp0RG4xeFRna1JNNU9WcUZ5dkNqRFo0VEUxMjE0b09JVDJidTlVd2ZZTE91MFpiUkhoTm83elA0Vm5pQ2Q4cGFwY0R5djVncU0wWA?oc=5",
+      "take": "Newsroom AI and iD\\TBWA Transform the New Audi Q3 Ecosystem into a Unique Brand Stories Experience Roastbrief US",
+      "cat": "AI",
+      "token": "ai",
+      "tier": "query",
+      "geo": false,
+      "score": 0.3,
+      "published": "2026-09-03T16:35:32+00:00",
+      "added": "2026-09-05T15:42:02.922424+00:00"
     },
     {
       "key": "https://www.eventmarketer.com/article/evian-200th-anniversary-us-open-sponsorship",
@@ -281,6 +337,20 @@
       "score": 0.511,
       "published": "2026-09-03T09:15:32+00:00",
       "added": "2026-09-04T16:39:02.383378+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiygjbvv95cuxovuxtatq2rzlfr2z1twi1qw5udnnpslrxnmhfrfnylur1zhrka0twykw1qnd1rnvtnlrsbhlyetcyzc1row9zvmdibu5rz1eydf9tvkzps3m1m0lwdjbotkh0v3u1rtgxuuk3ouzzwedjskpqmus1avo1cmfhqxpru2tudjh5u2fkn2thogxlx3davnjirgxrelbym0fts3kwsk5obgnprevvtddva3j2slpqzmhgcxrfngg5auponwvmcjnsbmxsadjwafjjddbnr2dudvlrww1xyu5pd2vzwlktbmlfcu14nwzfehdoewwyelnnam9wc2vhrfrmoe4zturyns1lbkq1auqyrjhpyutmuzdqu2ktqjlkww51ak50odncx1vum1jinkvoakxgyjzjctvaszg1mlpezzlrawhfowdylwvwq0e",
+      "headline": "Gallery of Facade of the new Sesc Avenida Paulista features projection mapping by VJ Spetto",
+      "source": "ArchDaily",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOVUxTaTQ2RzlfR2Z1TWI1QW5UdnNpSlRXNmhfRFNyLUR1ZHRka0twYkw1Qnd1RnVTNlRSbHlYeTcyZC1ROW9ZVmdibU5rZ1EydF9TVkZPS3M1M0lwdjBoTkh0V3U1RTgxUUk3OUZzWEdJSkpQMUs1aVo1cmFhQXprU2tUdjh5U2FKN2tHOGxLX3daVnJiRGxRelBYM0FtS3kwSk5ObGNPREVvTDdva3J2SlpqZmhGcXRfNGg5aUpoNWVmcjNsbmxsaDJWaFJjdDBnR2dudVlrWW1XYU5Pd2VzWlktbmlfcU14NWZfeHdOeWwyelNnam9Wc2VHRFRMOE4zTURYNS1lbkQ1aUQyRjhPYUtMUzdQU2ktQjlKWW51ak50ODNCX1VuM1JiNkVOakxGYjZJcTVaSzg1MlpEZzlRaWhfOWdyLWVWQ0E?oc=5",
+      "take": "Gallery of Facade of the new Sesc Avenida Paulista features projection mapping by VJ Spetto - 8 ArchDaily",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.508,
+      "published": "2026-09-02T23:42:46+00:00",
+      "added": "2026-09-05T15:42:02.922424+00:00"
     },
     {
       "key": "https://www.bizbash.com/experiential-marketing/how-madonna-and-absolut-curated-a-spicy-confessions-ii-album-release-event-series",
@@ -465,6 +535,20 @@
       "added": "2026-09-02T16:54:40.442570+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmi2wfbvv95cuxqewhhewizwxvfz2lnaefzdjzhru9hngv1r0g4nuq4mwzmvlq3t0hfsunjd1n4xzu2sxnzduvtrvlrmtzsngxyd3rdue1xsetmdg5vzep3ajbqoxfiq2j1x2psd2rtb2t5vzjuakffs3zaee9kwgnouv83tvzwbtzrd3zjvep2sxj2dlpxsdvjumjmeex2dljmc3notwzqszbmd0wws0pmyu8xyndzclr1r2zsuffjsxvlmkpqqzi4auu5cv9gmfi2dwnwqzzhzer6nmhgc0jeektrymc",
+      "headline": "Immersive art experience Somnium returns to Rockford's Sinnissppi Park",
+      "source": "Rockford Register Star",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeWhheWIzWXVfZ2lnaEFzdjZhRU9hNGV1R0g4NUQ4MWZmVlQ3T0hfSUNJd1N4XzU2SXNzdUVTRVlRMTZSNGxYd3RDUE1xSEtmdG5vZEp3ajBQOXFiQ2J1X2pSd2RTb2t5VzJuakFFS3ZaeE9kWGNOUV83TVZwbTZRd3ZjVEp2SXJ2dlpxSDVjUmJMeEx2dlJmc3NoTWZQSzBMd0wwS0pMYU8xYndZclR1R2ZSUFFjSXVlMkpQQzI4aUU5cV9GMFI2dWNWQzZhZER6NmhGc0JEektrYmc?oc=5",
+      "take": "Immersive art experience Somnium returns to Rockford's Sinnissppi Park Rockford Register Star",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.37,
+      "published": "2026-09-01T16:20:00+00:00",
+      "added": "2026-09-05T15:42:02.922424+00:00"
+    },
+    {
       "key": "https://www.bizbash.com/event-tech/new-event-tech-tools-for-september-2026",
       "headline": "Event Tech Check: New Tools for ROI, Speaker Management, Attendee Behavior Analysis, and More",
       "source": "BizBash",
@@ -547,6 +631,20 @@
       "score": 0.341,
       "published": "2026-09-01T08:45:15+00:00",
       "added": "2026-09-01T17:02:59.736800+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbminafbvv95cuxqsmhnzg9jcgdpvhz6svpkqxf5mnhoz2k0bwoyctf5bxjosvjhutg2vfzqcjy2nxhirnq2rug2qlntzhjrak5ulvm2b0xlzxdqv1nownk3r1hmthl6lu1xr0r4nhn1u1pqtnd5t0xlenl0ehvxt3hcadvqzfhaufitykfvvurhqvzprxuzrzhpcgzhdersegpszug0etc",
+      "headline": "Bowie State University and Revolutionary VP Studios partner to create virtual production workforce pipeline",
+      "source": "Computer Graphics World",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmhNZG9JcGdPVHZ6SVpkQXF5MnhOZ2k0bWoycTF5bXJoSVJHUTg2VFZqcjY2NXhiRnQ2RUg2QlNtZHJRak5uLVM2b0xlZXdqV1NOWnk3R1hmTHl6LU1XR0R4NHN1U1pQTnd5T0xLenl0eHVXT3hCaDVQZFhaUFItYkFVVURhQVZPRXUzRzhPcGZHdERSeGpSZUg0eTc?oc=5",
+      "take": "Bowie State University and Revolutionary VP Studios partner to create virtual production workforce pipeline Computer Graphics World",
+      "cat": "CGI & VFX",
+      "token": "cgi",
+      "tier": "query",
+      "geo": false,
+      "score": 0.362,
+      "published": "2026-09-01T07:00:00+00:00",
+      "added": "2026-09-05T15:42:02.922424+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmiuwfbvv95cuxny1zqtwldwwd2u1dtd05jbm0zotjwcfj1ukyxbzjjwtvzbejouhjnu2vatmpqohjvdg9sqnzubnr4ntlmnuf4bjzoujlpovhzqnvvazlwdxi2nmzgenrolu8tznatmg9knup1sfdqm2xkeu05sur6dfzaavfkzvvjlwncb014ndvjbktktxfsbehuohfpnllbdmvkwwv1bkxmufv1wut5vlm0wjhcwvy3x2fmlwhtcwxzahvv",
@@ -717,6 +815,20 @@
       "added": "2026-08-31T19:17:50.712674+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmiaefvx3lxte1xrhl3q2c0ahhkwnczavdwrs0wb0dbeleyzdbvzwu1qwftv1jtowhjwgvvauhzx2rlmnm3umnmylzkve5dsglznhlmu1zkn09vdnpirunhtkfzuuljynm5aehaztlimedo",
+      "headline": "College Football Is Here... and Ole Miss Used the Vegas Sphere for a Heisman Campaign",
+      "source": "AVNetwork",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XRHl3Q2c0aHhkWnczaVdWRS0wb0dBelEyZDBVZWU1QWFtV1JtOWhjWGVVaUhZX2RlMnM3UmNmYlZkVE5DSGlZNHlmU1ZKN09VdnpiRUNHTkFzUUlJYnM5aEhaZTlIMEdo?oc=5",
+      "take": "College Football Is Here... and Ole Miss Used the Vegas Sphere for a Heisman Campaign AVNetwork",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.38,
+      "published": "2026-08-31T12:43:40+00:00",
+      "added": "2026-09-05T15:42:02.922424+00:00"
+    },
+    {
       "key": "https://www.bizbash.com/sporting-events/bizbash-power-players-2026-anna-karefa-johnson",
       "headline": "BizBash Power Players 2026: Anna Karefa-Johnson",
       "source": "BizBash",
@@ -728,118 +840,6 @@
       "geo": false,
       "score": 0.51,
       "published": "2026-08-31T11:26:02+00:00",
-      "added": "2026-08-31T19:17:50.712674+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmimgfbvv95cuxnddnhdjlvq09xc1yzwti3qjjtehbyohhmdvbnlvyztefix1bcztnldk5qwtdrr3liutlvb0lyvkzxrhnbtw5raxhmm3hsuxrlzvdjlxnymzffclpuetrkekldbwztu3m4clf3znlyemh4m2z1ewrwbepnmtqwexjzrw1senljthflee92ddi0bfzcnxnzng9ooghr",
-      "headline": "Ole Miss Showcasing Chambliss, Lacy on Sphere",
-      "source": "Ole Miss Athletics",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdDNHdjlvQ09Xc1YzWTI3QjJteHBYOHhMdVBNLVYzTEFiX1BCZTNLdk5QWTdRR3lIUTlVb0lYVkZXRHNBTW5raXhmM3hSUXRlZVdJLXNyMzFfclpUeTRKeklDbWZtU3M4clF3ZnlYemh4M2Z1eWRWbEpnMTQweXJZRW1SenljTHFleE92dDI0bFZCNXNZNG9OOGhR?oc=5",
-      "take": "Ole Miss Showcasing Chambliss, Lacy on Sphere Ole Miss Athletics",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.407,
-      "published": "2026-08-31T10:49:18+00:00",
-      "added": "2026-08-31T19:17:50.712674+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiwwfbvv95cuxnwmpmvjrbz004dk9wzgjvywjucgdyywfsvdhyawpjug1ht2vvr0lybmfoz0larfq3t1ncvhnoq0kylvdyt3zsdkvkn2xjmldwz1v3rks0axuxuwowqzfba1cwmuoxbtbkdm9fngj2ctzuzkdpykxiv0n6rlrca1fpufy3r2lzmnoyuhlxtnh2rhrxtzfbqtr2twtxv24wdudfdnh6qvzcu3dkslbmt3bcrhbydnfpvehur3zmrnhjtlfkavk",
-      "headline": "Fanta Turns Halloween Campaign Into Its Own Horror Universe With Ghost Face",
-      "source": "Everything Experiential",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWmpMVjRBZ004dk9WZGJvYWJucGdyYWFsVDhYaWpjUG1HT2VvR0lybmFoZ0laRFQ3T1NCVHNoQ0kyLVdyT3ZsdkVKN2xjMldWZ1V3Rks0aXUxUWowQzFBa1cwMUoxbTBKdm9fNGJ2cTZuZkdpYkxiV0N6RlRCa1FpUFY3R2lZMnoyUHlXTnh2RHRxTzFBQTR2TWtXV24wdUdfdnh6QVZCU3dKSlBmT3BCRHBYdnFPVEhuR3ZmRnhJTlFkaVk?oc=5",
-      "take": "Fanta Turns Halloween Campaign Into Its Own Horror Universe With Ghost Face Everything Experiential",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.412,
-      "published": "2026-08-31T07:54:44+00:00",
-      "added": "2026-08-31T19:17:50.712674+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxpv0fftmdiczcwmkrodk5fwjnyqvfjck9qbghxzfmwvefvrfmyywhjwuvytenjq25jbl9pz3huaxparzrfwdrgshr2oxbjtdhezzlzlwr1mgszc3nvvmezdffzy1nqamxfughwb2xzznjrmy1xdtzntjz4v0vwc3qztgwxofj4yvlkyvzjelbnqtzqd0vrwvj2vmdaodbqnexarhlyr19qdkllcktwczbmwtdcnwpjswftxznorgftaevsuq",
-      "headline": "Beyond The Mic: How Pooja Kanwal Is Bringing Storytelling To The Emcee Role",
-      "source": "Everything Experiential",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0FfTmdIczcwMkROdk5FWjNyQVFJck9QbGhXZFMwVEFvRFMyYWhJWUVyTENJQ25jbl9PZ3hUaXpaRzRFWDRGSHR2OXBJTDhEZzlzLWR1MGszc3NvVmEzdFFzY1NqamxfUGhWb2xzZnJrMy1xdTZNTjZ4V0VWc3QzTGwxOFJ4YVlKYVZJelBNQTZqd0VrWVJ2VmdaODBQNExaRHlyR19QdkllcktWczBmWTdCNWpjSWFTXzNORGFtaEVsUQ?oc=5",
-      "take": "Beyond The Mic: How Pooja Kanwal Is Bringing Storytelling To The Emcee Role Everything Experiential",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.382,
-      "published": "2026-08-31T07:49:43+00:00",
-      "added": "2026-08-31T19:17:50.712674+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmirafbvv95cuxndenpoxvfvxzzek1yt1vitwzlnjm4n2pxvlhlmxlmz1hyred2vm1umc15qwstvdheznbxutaxeepwaeformv2bgzkwlnyvgl5v3vsulmtueytrnp3vlzhege1ekrxuf8wzufzswq5rxc1dgzwtuc0x0kxwlaxdjfrqmvtt3pkqlvud0lfouxsb19cuwlgn3doquvonldvmjbkm21rsjrxvmh3r29r",
-      "headline": "Omnicom Launches Hearts United As New Global Media Network",
-      "source": "Everything Experiential",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdENpOXVFVXZzek1YT1ViTWZlNjM4N2pXVlhLMXlMZ1hYREd2Vm1uMC15QWstVDhEZnBxUTAxeEpwaEFoRmV2bGZKWlNYVGl5V3VsUlMtUEYtRnp3VlZheGE1ekRXUF8wZUFzSWQ5RXc1dGZWTUc0X0kxWlAxdjFRQmVTT3pkQlVUd0lfOUxSb19CUWlGN3dOQUVONldVMjBkM21rSjRXVmh3R29r?oc=5",
-      "take": "Omnicom Launches Hearts United As New Global Media Network Everything Experiential",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.382,
-      "published": "2026-08-31T07:04:33+00:00",
-      "added": "2026-08-31T19:17:50.712674+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmi2wfbvv95cuxpym9xzgzod3pkcxnla3hrvwnuazfjehdoejm2nhflnxnzmff2nkdqzw45mlbmm1pzu3i1cghgzfhgckjtdnzsujjwoewxam9nrnritvjtwvdjt3von2forc1jtvdczjj3unforxfku0lasnuxdzblakvfwe1krlzbczf2smfjyjrtumxasy1vnm1gdk5uyzlxc2m5bkhjqumttdjfv1jtevrgrjg4ve8wz185bg51vdvmzurgym0xretycy14uwdlmddxwxz5zkrrqnflem1imf9jyxc",
-      "headline": "Hexogon Solution brings Singapore’s National Day Parade 2026 to life with aerial projection mapping",
-      "source": "Inavate Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYm9XZGZod3pKcXNla3hrVWNUazFJeHdoejM2NHFlNXNzMFF2NkdqZW45MlBmM1pzU3I1cGhGZFhGckJTdnZsUjJwOEwxam9NRnRITVJtWVdJT3VoN2FORC1jTVdCZjJ3UnFoRXFkU0laSnUxdzBlakVFWE1KRlZBczF2SmFJYjRTUmxaSy1VNm1Gdk5uYzlXc2M5bkhjQUMtTDJfV1JTeVRGRjg4VE8wZ185bG51VDVMZURGYm0xREtYcy14UWdLMDdXWXZ5ZkRrQnFlem1IMF9jYXc?oc=5",
-      "take": "Hexogon Solution brings Singapore’s National Day Parade 2026 to life with aerial projection mapping Inavate Magazine",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.487,
-      "published": "2026-08-31T07:00:00+00:00",
-      "added": "2026-09-04T16:39:02.383378+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmif0fvx3lxte5lvgncbnbynuv3rhpyz0hsznvrrldnbfvsnxhcowc2txzqzhg5eek0oe5iltzwuli2dhbmyxhiqzdnwjnink90u2w0zlr0cmrxz3hurezloxbsz0fdq1c3ykfqrm9nnznxvvq0rw5ou2ndyja2oeloael1zdjrcms",
-      "headline": "The 8 Best Immersive Exhibitions In London",
-      "source": "The Glossary",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVGNCbnBYNUV3RHpyZ0hSZnVRRldNbFVsNXhCOWc2TXZQZHg5eEk0OE5ILTZwUlI2dHBMYXhiQzdnWjNINk90U2w0ZlR0cmRXZ3huREZlOXBSZ0FDQ1c3YkFqRm9NNzNxVVQ0RW5OU2NDYjA2OElOaEl1ZDJRcms?oc=5",
-      "take": "The 8 Best Immersive Exhibitions In London - Autumn 2026 The Glossary",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.335,
-      "published": "2026-08-31T07:00:00+00:00",
-      "added": "2026-09-04T16:39:02.383378+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmikwfbvv95cuxnsflhnwxyr1mwy1jyami2tjlpwxnlm3dysldnci15cerry0p2rxzam2frwk05zzaxrxnptwfhdni1znfnmwixttnvmkp6z0y4ekplvjk2afpibluzmmdinufmu3njyjfiuuitbzjicjlfmviwvs1fvv90vzlmb2nxyjg0m2i1sjfxoepuq1diwnfnsmvsaacbqvvfexfmufhxsc1ing9wymy1vla2bwvonzdtnhvunmpqbfuwtzdvvlq3d0fsx1zxy2n6zexwn1vsd0qtbehdm1v1mlhnnv81tuzrb3bozutubfldnm9ny3fdn3dfqvz1a21mmky3lxb4whzdaerudfczrw0zr0ngnhhwzdhpafa4zlzqymd5oxzwvfhtze9zegn0a1rkvfjzvedwduttwwlcz1hwt1k",
-      "headline": "The Trinidad-Kewan Heisman campaign appears on the Sphere in Las Vegas",
-      "source": "WTVA",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSFlHNWxyR1MwY1JYamI2TjlpWXNLM3dySldnci15cERrY0p2RXZaM2FrWk05ZzAxRXNPTWFhdnI1ZnFNMWIxTTNVMkp6Z0Y4ekplVjk2aFpIblUzMmdiNUFMU3NJYjFiUUItbzJicjlfMVIwVS1fVV90Vzlmb2NxYjg0M2I1SjFxOEpuQ1dIWnFNSmvSAacBQVVfeXFMUFhxSC1iNG9WYmY1VlA2bWVONzdtNHVuNmpQbFUwTzdvVlQ3d0FsX1ZxY2N6ZExwN1Vsd0QtbEhDM1V1MlhNNV81TUZrb3BOZUtUbFlDNm9NY3FDN3dFQVZ1a21mMkY3LXB4WHZDaERudFczRW0zR0NGNHhWZDhPaFA4ZlZqYmd5OXZwVFhtZE9ZeGN0a1RKVFJZVEdWdUtTWWlCZ1hWT1k?oc=5",
-      "take": "The Trinidad-Kewan Heisman campaign appears on the Sphere in Las Vegas WTVA",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.523,
-      "published": "2026-08-30T23:15:00+00:00",
-      "added": "2026-09-03T16:44:46.436179+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbminwfbvv95cuxnr0y3qxhiuhbkv0pvzkfznfpquufwlv9huxctszjjr243ctu0x21vzhbyckx5anncohhmcgxwuzc3rfvkdddat1pvtdvymtn2nli3r1m1wgfvdzlremizyzi5runum0f5zk1mme1rrvhbdxvivnpdwgd1bkvuanjbetlqndb0nunsahnfu3v3bhrfcfpxmkphnmdadnoyu2c",
-      "headline": "The Trinidad-Kewan Heisman campaign appears on the Las Vegas Sphere",
-      "source": "fox10tv.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0Y3QXhiUHBkV0pvZkFZNFpQUUFwLV9HUXctSzJjR243cTU0X21VZHBYckx5anNCOHhMcGxwUzc3RFVKdDdaT1pvTDVyMTN2NlI3R1M1WGFVdzlRemIzYzI5RUNUM0F5Zk1mME1RRVhBdXVIVnpDWGd1bkVuanJBeTlQNDB0NUNsaHNFU3V3bHRfcFpxMkpHNmdadnoyU2c?oc=5",
-      "take": "The Trinidad-Kewan Heisman campaign appears on the Las Vegas Sphere fox10tv.com",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.458,
-      "published": "2026-08-30T23:12:00+00:00",
       "added": "2026-08-31T19:17:50.712674+00:00"
     }
   ]
