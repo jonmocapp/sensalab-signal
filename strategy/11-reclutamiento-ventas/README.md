@@ -10,9 +10,13 @@ con productores de agencias experienciales en LA. **Buscamos personas, no agenci
 | `03-lista-candidatos.md` | Qué salió del Tier A real + qué NO pude verificar y por qué. Protocolo de verificación. |
 | `04-mensajes.md` | Mensajes de acercamiento: a candidatos reales, a fuentes de referido, y plantillas por arquetipo. |
 | `05-estructura-comision.md` | Sobre qué se paga el 15–20%, cola, registro de cuenta, cuentas de la casa. |
+| `06-sourcing-ex-ventas.md` | **Operación a volumen.** 158 agencias, 158 búsquedas listas, triage reclutar-vs-vender, rendimiento esperado. |
 | `detect_independents.py` | Script reproducible: clasifica señales de independencia en `seed-118.csv`. |
 | `data/senales-independencia.csv` | Output del script. 45 filas con señal. |
 | `data/candidatos-tracker.csv` | Tracker vacío para el sourcing en vivo. |
+| `data/universo-agencias.csv` | 158 agencias consolidadas de 4 fuentes (repo + los 2 PDFs). |
+| `data/busquedas-ex-ventas.csv` | Una búsqueda LinkedIn + una X-ray por agencia, priorizadas. |
+| `data/perfiles-semilla.csv` | 240 perfiles de LinkedIn del Master List, para verificar y expandir. |
 
 ## El hallazgo que cambia el plan
 
