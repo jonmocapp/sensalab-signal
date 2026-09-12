@@ -10,7 +10,9 @@ con productores de agencias experienciales en LA. **Buscamos personas, no agenci
 | `03-lista-candidatos.md` | Qué salió del Tier A real + qué NO pude verificar y por qué. Protocolo de verificación. |
 | `04-mensajes.md` | Mensajes de acercamiento: a candidatos reales, a fuentes de referido, y plantillas por arquetipo. |
 | `05-estructura-comision.md` | Sobre qué se paga el 15–20%, cola, registro de cuenta, cuentas de la casa. |
+| `07-pipeline-local.md` | **Corre en tu maquina.** Apollo en vez de raspar LinkedIn: setup, probe, cobertura. |
 | `06-sourcing-ex-ventas.md` | **Operación a volumen.** 158 agencias, 158 búsquedas listas, triage reclutar-vs-vender, rendimiento esperado. |
+| `pipeline_ex_ventas.py` | El pipeline: consulta Apollo por agencia y deja solo a los que ya salieron. |
 | `detect_independents.py` | Script reproducible: clasifica señales de independencia en `seed-118.csv`. |
 | `data/senales-independencia.csv` | Output del script. 45 filas con señal. |
 | `data/candidatos-tracker.csv` | Tracker vacío para el sourcing en vivo. |

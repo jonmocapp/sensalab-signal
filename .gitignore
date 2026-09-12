@@ -8,3 +8,6 @@ venv/
 
 *.zip
 signal-home*.html
+
+# cache del pipeline de reclutamiento
+strategy/11-reclutamiento-ventas/.cache_apollo/
