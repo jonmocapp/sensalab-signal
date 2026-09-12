@@ -5,6 +5,7 @@ con productores de agencias experienciales en LA. **Buscamos personas, no agenci
 
 | Doc | Qué resuelve |
 |---|---|
+| **`EMPIEZA-AQUI.md`** | **El camino corto, sin código. Lee esto primero.** |
 | `01-perfil-ideal.md` | Quién es exactamente la persona. 3 arquetipos, descalificadores, scoring 0–25. |
 | `02-donde-buscar.md` | Dónde está y cómo sacarla. Filtros Sales Navigator, boolean, canales fuera de LinkedIn. |
 | `03-lista-candidatos.md` | Qué salió del Tier A real + qué NO pude verificar y por qué. Protocolo de verificación. |
