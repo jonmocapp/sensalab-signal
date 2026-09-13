@@ -354,6 +354,24 @@ Summary: The news is not two Welsh art pieces in London.
 Why it matters: High-footfall venues are now accessible to regionally funded work, which widens the pool of collaborators and reference-grade sites producers can actually book.
 Takeaway: When scouting immersive partners, look past the usual capitals. Regionally funded clusters are shipping venue-grade work, often with distinctive data or IP you cannot get elsewhere.
 
+### ESPN's Studio W signals the LED volume moving from film set to daily broadcast
+https://signal.sensalab.io/article-espn-studio-w-led-volume-xr-broadcast.html
+Summary: The news is not a new NFL Live set.
+Why it matters: A real-time XR volume is now running a daily live show rather than a film shoot, which resets what producers can promise clients about immersive stages on a broadcast schedule.
+Takeaway: Treat the LED volume as repeatable live infrastructure. If a network can run one nightly, an activation can run one for a campaign window, on a schedule and a budget you can plan.
+
+### HBO's Lanterns premiere signals scenic contrast, not spectacle, as the design brief
+https://signal.sensalab.io/article-hbo-lanterns-premiere-scenic-contrast-signal.html
+Summary: The news is not a green carpet for a superhero show.
+Why it matters: Premieres are shifting from generic glamour to world-specific scenic that argues with itself, which raises the bar on set-building and narrative fidelity for brand events.
+Takeaway: Anchor an event in the source world's real texture, then let the contrast do the work. A distressed exterior with a refined interior reads as intention, not budget.
+
+### Pandora's D23 mystery box signals purchase mechanics engineered as the experience
+https://signal.sensalab.io/article-pandora-d23-mystery-box-loop-signal.html
+Summary: The news is not a pink booth at a Disney fan event.
+Why it matters: The activation ties spend, reveal and social trading into a single designed loop, which is a more durable model than a photogenic set that produces no repeat behavior.
+Takeaway: Design the mechanic, not just the set. A reveal that rewards spend and a scarcity that rewards trading keeps guests in the space and brings them back to the counter.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
