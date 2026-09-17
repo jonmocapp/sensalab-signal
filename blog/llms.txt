@@ -354,6 +354,24 @@ Summary: The news is not two Welsh art pieces in London.
 Why it matters: High-footfall venues are now accessible to regionally funded work, which widens the pool of collaborators and reference-grade sites producers can actually book.
 Takeaway: When scouting immersive partners, look past the usual capitals. Regionally funded clusters are shipping venue-grade work, often with distinctive data or IP you cannot get elsewhere.
 
+### The signal in Khadlaj's museum takeover is programmable venues, not perfume
+https://signal.sensalab.io/article-khadlaj-perfumes-arte-museum-las-vegas-multisensory-takeover.html
+Summary: Khadlaj rented an immersive art venue for a fragrance launch and reprogrammed it wholesale.
+Why it matters: Permanent immersive venues with resident media pipelines let brands reach cinematic scale on show-time economics, widening who can produce venue-grade launches.
+Takeaway: When scoping an immersive launch, price a resident-pipeline venue against a bespoke build, and brief the venue like a screen with a native resolution and frame rate.
+
+### SEC Network's reconfigurable Charlotte studios signal broadcast sets built to change
+https://signal.sensalab.io/article-sec-network-charlotte-led-floor-reconfigurable-studios.html
+Summary: ESPN rebuilt SEC Network's Charlotte studios to be reconfigured on the fly.
+Why it matters: Motorised LED arrays and a full LED floor let one room hold several shows, shifting cost from single-use carpentry to content, calibration and live automation.
+Takeaway: Specify reconfiguration as a requirement: ask how many looks a room holds, how fast it transitions, and who drives the automation live, and design the transitions as content.
+
+### Claire's anamorphic billboard signals retail betting on the street as stage
+https://signal.sensalab.io/article-claires-anamorphic-3d-billboard-pierced-new-york.html
+Summary: Claire's put oversized earrings that pierce the frame on a New York board.
+Why it matters: Anamorphic DOOH works when the illusion proves a single product truth; tied to a clear claim it turns the medium into the message rather than spectacle for its own sake.
+Takeaway: Start from the product truth, design the forced perspective around it, lock the viewing vantage, and pressure-test the layout flat; if it still works, the 3D is decoration.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
