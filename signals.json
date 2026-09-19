@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-18T16:47:20.179040+00:00",
+  "generated": "2026-09-19T16:09:12.025025+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://www.eventmarketer.com/article/wellness-trade-shows-care",
+      "headline": "Beyond Wellness: 5 Ways Trade Shows and Events Show They Care",
+      "source": "Event Marketer",
+      "link": "https://www.eventmarketer.com/article/wellness-trade-shows-care/",
+      "take": "It wasn’t that long ago when goat yoga on the trade show floor was the g.o.a.t.",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "core",
+      "geo": false,
+      "score": 0.463,
+      "published": "2026-09-18T17:41:14+00:00",
+      "added": "2026-09-19T16:09:12.025025+00:00"
+    },
     {
       "key": "https://www.eventmarketer.com/article/top-experiential-brand-collabs-new-york-fashion-week-2026",
       "headline": "Top Experiential Moments and Brand Collabs from New York Fashion Week",
@@ -73,6 +87,20 @@
       "added": "2026-09-18T16:47:20.179040+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmitwfbvv95cuxqnhbqckhta2hhmlrcnmxcyvvhsgxiwhffltg0ngniztlpdwnduvdntffvr2lubv8zsvbgv182ewpptndenvdmc2uyqxjqrlnmmvdltxvxrk1sm1flzxhss1lybe9mcnr0mlmzwnbrcgc3d1ztmjk5t2niee9ox1jvwmllef83zwjea3c3sfh1chpysxnwyjazndrtz3lvznb2cwr6btl5s1vxmmpivki2wfh3end2t28",
+      "headline": "AI Meets Experience: How Experiential Marketing Is Reshaping Modern Brand Strategy",
+      "source": "Adgully.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHBqckhta2hHMlRCNmxCYVVhSGxIWHFFLTg0NGNiZTlpdWNDUVdNTFFVR2lubV8zSVBGV182eWpPTndENVdmc2UyQXJQRlNMMVdlTXVXRk1SM1FLZXhSS1lybE9McnR0MlMzWnBRcGc3d1ZtMjk5T2NieE9oX1JvWmlleF83ZWJEa3c3SFh1cHpySXNwYjAzNDRtZ3lVZnB2cWR6bTl5S1VxMmpiVkI2WFh3end2T28?oc=5",
+      "take": "AI Meets Experience: How Experiential Marketing Is Reshaping Modern Brand Strategy Adgully.com",
+      "cat": "AI",
+      "token": "ai",
+      "tier": "query",
+      "geo": false,
+      "score": 0.434,
+      "published": "2026-09-18T12:16:00+00:00",
+      "added": "2026-09-19T16:09:12.025025+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmiyafbvv95cuxnwedham83a090anhreffkv0h2blnyofizcupbz0diavitvlm5rw9tyw1qzdfbbznzbepqbdrimlbksmqxrwvbs1hjnjbfavrfcfn6wldrqk9xcnazs0dmchl0sxzqzldccvhhx1d0rgzazhp5m0pprjdfdu5tr250u0ixnnbydllpdxvxy184uxdzdkcytuxcbkxwbunscec3yulbynjnbxewdxzeyjr4dunhvfl4cdywbmpuexhfdl9xuktpcxpktg",
       "headline": "FAO SCHWARZ BRINGS ITS ICONIC TOY STORE EXPERIENCE TO AMAZON.COM THIS FALL",
       "source": "PR Newswire",
@@ -99,6 +127,48 @@
       "score": 0.524,
       "published": "2026-09-18T11:12:22+00:00",
       "added": "2026-09-18T16:47:20.179040+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi0wfbvv95cuxqszkwzkvhluh0bi1bdghkn0nozjjdbxzet0ptbgvzdhzacufmvff3zetzb1rfs3vfsvdschjinvbgrdzxeuj1n3nmukr5vfbfcezybjr5nxjxrhnqywfjvmgtbmh1mfnlyvzkwc1qdmxlugjvwmvhwlzubwdiagdwmk01r2voahpim1vvqujxb1fmrekysm5xculhykfhuwnfm3czadgzy3jfalgwzhzjww52amw2tdg0nl96bk8yrtfgofg3buhyynnat0fus0duuw8w",
+      "headline": "BFI London Film Festival Is Bringing Awe-Inspiring Immersive Art To St Martin-In-The-Fields",
+      "source": "Londonist",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSzkwZkVHLUh0bi1BdGhKN0NOZjJDbXZET0ptbGVZdHZacUFmVFF3ZEtzb1RFS3VfSVdScHJiNVBGRDZxeUJ1N3NmUkR5VFBFcEZybjR5NXJxRHNqYWFjVmgtbmh1MFNLYVZkWC1QdmxLUGJvWmVHWlZubWdiaGdWMk01R2VOaHpiM1VvQUJXb1FmREkySm5XcUlhYkFhUWNFM3czaDgzY3JFalgwZHZJWW52amw2TDg0Nl96bk8yRTFGOFg3bUhyYnNaT0FUS0dUUW8w?oc=5",
+      "take": "BFI London Film Festival Is Bringing Awe-Inspiring Immersive Art To St Martin-In-The-Fields Londonist",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.403,
+      "published": "2026-09-18T10:44:18+00:00",
+      "added": "2026-09-19T16:09:12.025025+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmihgfbvv95cuxomwp0ugtnzji4twftyxhsmlbcrvq0rmlfegyzd1pxcmvkwdy4nezkudrovfvosfbtqwxmb2u3tu1vugvvyuptqw1pq1lvvgjktmzkznpdynvnm20zsknyehbetzblsgfuatu5agtobdlua1zvns1jbmdyefpmtwfqeghkwhhxdw",
+      "headline": "Hello Kitty lands at Galerie Joseph for a brand-new immersive experience in Paris",
+      "source": "Paris Select Book",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMWp0UGtNZjI4TWFtYXhsMlBCRVQ0RmlfeGYzd1pXcmVkWDY4NEZkUDRoVFVoSFBtQWxmb2U3TU1vUGVVYUptQW1pQ1lvVGJkTmZkZnpDYnVNM20zSkNYeHBETzBLSGFUaTU5aGtObDlUa1ZVNS1jbmdyeFpmTWFqeGhKWHhxdw?oc=5",
+      "take": "Hello Kitty lands at Galerie Joseph for a brand-new immersive experience in Paris Paris Select Book",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.433,
+      "published": "2026-09-18T10:34:08+00:00",
+      "added": "2026-09-19T16:09:12.025025+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiugfbvv95cuxnqwlrbja0ngzjdxpja0hteldgywtzdfzhdlhldmpaei1idmznsluytnhfsmf1djnjvdq3mdv2dev6akotrzzonnbnn3zvnvczmelumtbiq2ctwnbtlxg0befoben1czrtx1hxdw40r3rrbmqza29yn3psvkfxtelkemfnandgrnr3avv0ykhfy0lbrmtwodu4andzyxptwnrmcjjxzkprdlhyqu9zutltvlvjeupcbtr5yxc",
+      "headline": "bigbasket Gets Mumbai To Turn Up The Volume With Ganpati Modak Meter",
+      "source": "Everything Experiential",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQWlrbjA0NGZJdXpJa0hteldGYWtzdFZhdlhldmpaei1idmZnSlUyTnhfSmF1djNjVDQ3MDV2dEV6akotRzZoNnBnN3ZvNVczMEluMTBIQ2ctWnBTLXg0bEFobEN1czRtX1hXdW40R3RRbmQza29YN3psVkFXTElKemFNandGRnR3aVV0YkhfY0lBRmtWODU4andzYXptWnRMcjJXZkprdlhyQU9ZUTlTVlVJeUpCbTR5YXc?oc=5",
+      "take": "bigbasket Gets Mumbai To Turn Up The Volume With Ganpati Modak Meter Everything Experiential",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.372,
+      "published": "2026-09-18T09:24:47+00:00",
+      "added": "2026-09-19T16:09:12.025025+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmimwfbvv95cuxpmw9bsme0vflvmdzzcgvywwpcnnrka1rjqjnnnffltfltmgnhyjbxd05hcc1pmzhbreu3zwpfuwzhti1influlvotn2g2vnnsr1cynedxtxddtkq5axvoa3dovwlleelwbm5sqvrswvjla1uzcjjhmek3bhjnsxdcuwfzuez3wvnmwf95bed1lwrjbwe4wmlomwz0vq",
@@ -507,6 +577,20 @@
       "added": "2026-09-16T17:22:28.339832+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmimafbvv95cuxqsdvtmktjwm83b2rgunzmzxhra0zft2nfdgttsmxarwtbqvr2zmutbujsdwfaaepqq3zjbudylxvrqufcltrylujksuxou2rnqtjqyvbinnfvuhvoyjbsq3b5d1vfsgrrem9nnzgwzkewnhrlukfsm0ntwlixsfu4mvpud2p1bwe0t0hwvk00twhilu56ytqxca",
+      "headline": "Behind the Brand Activation Boom",
+      "source": "members.asicentral.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDVTMktjWm83b2RGUnZMZXhRa0ZfT2NfdGtTSmxaRWtBQVR2ZmUtbUJSdWFaaEpQQ3ZjbUdYLXVRQUFCLTRyLUJkSUxOU2RnQTJqYVBINnFvUHVOYjBsQ3B5d1VFSGRRem9NNzgwZkEwNHRLUkFSM0NtWlIxSFU4MVpud2p1bWE0T0hWVk00TWhiLU56YTQxcA?oc=5",
+      "take": "Behind the Brand Activation Boom members.asicentral.com",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.38,
+      "published": "2026-09-16T12:51:57+00:00",
+      "added": "2026-09-19T16:09:12.025025+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmikafbvv95cuxnrmk0wnoxnufpchpwdgdgwm5vnkfjvezpajbizfv0zgh3rupfz19jujdzqnpwwg9vagztdujmblziwvp1swcxn051sdbmoexhafdbqnbstjixemluthbuv2dic2pqx3dyvf9lr3rkd2jra0l6vvp6tnnqeehralb0tldnv2y0vjjnbfdlve9vegw",
       "headline": "Sphere Las Vegas Appoints Lyft as Official Rideshare Partner",
       "source": "Little Black Book | LBBOnline",
@@ -549,6 +633,20 @@
       "added": "2026-09-16T17:22:28.339832+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmimgfbvv95cuxnwk9edvpla01ivlbsvmmwuwxya2puzu90qmz0zlhkujkwa1axvxnerex1d01tc0l0bdlkoww3n0lztee3cthicg13vzctegtcc2zmttbmvlu3z3c2mv9vcvznyzzoqm44uwjuykixc2juavptt1h3ymtqmnnudjfqdva4nwdiv2djenndvme1rmhrmezqmlzzvepr",
+      "headline": "SEND charity unveils citywide art installation",
+      "source": "Learning Disability Today",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWk9EdVpLa01iVlBsVmMwUWxYa2pUZU90QmZ0ZlhKUjkwa1AxVXNEREx1d01tc0l0bDlKOWw3N0lzTEE3cThicG13VzcteGtCc2ZmTTBMVlU3Z3c2MV9vcVZNYzZOQm44UWJUYkIxc2JuaVptT1h3YmtqMnNudjFQdVA4NWdIV2dJenNDVmE1RmhrMEZQMlZZVEpR?oc=5",
+      "take": "SEND charity unveils citywide art installation Learning Disability Today",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.348,
+      "published": "2026-09-16T09:09:48+00:00",
+      "added": "2026-09-19T16:09:12.025025+00:00"
+    },
+    {
       "key": "https://www.eventmarketer.com/article/three-roi-clocks-how-one-brand-makes-2027-budget-decisions",
       "headline": "Three ROI Clocks: How One Brand is Making 2027 Budget Decisions",
       "source": "Event Marketer",
@@ -561,6 +659,20 @@
       "score": 0.364,
       "published": "2026-09-15T20:42:59+00:00",
       "added": "2026-09-16T17:22:28.339832+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmikwfbvv95cuxqbgstoetwsepdd0zjsv9ismy2vtdxq0loyjroegvnv2txvwvqc0rodkhyv3ptv25hevjoemfonffdsfgwqwzfrhlanlr6s1zfclfemdq0v1fhyvpkuhjhb01trktfzmfwwulwcmldsnfyazrfvxm5dhzwr2phy0jhdgzmu2r6ckfya3j1v1c5burfd3m",
+      "headline": "What to Expect at The Eagles’ Sphere Residency",
+      "source": "eventticketscenter.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbGstOEtWSEpDd0ZJSV9ISmY2VTdXQ0loYjRoeGVNV2txVWVqc0RodkhYV3pTV25HeVJoemFONFFDSFgwQWZfRHlaNlR6S1ZfclFEMDQ0V1FhYVpkUHJhb01tRktFZmFWWUlwcmlDSnFyazRFVXM5dHZwR2phY0JHdGZmU2R6ckFya3J1V1c5bURfd3M?oc=5",
+      "take": "What to Expect at The Eagles’ Sphere Residency eventticketscenter.com",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.365,
+      "published": "2026-09-15T20:18:35+00:00",
+      "added": "2026-09-19T16:09:12.025025+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmisafbvv95cuxqzth5dekxc2dpwwtqm3zxaglkcgg5melmdvj2y1p0nfzlyw0yehpscjhzrtvay1o1c3diofp4nlzjalhxwlbyzuuxtgh2s1rrzfi1m0nqdtqtekxjvlhhwlvqdnn4mjrfvm1voghiohbou1hws19nbwn0advaavniyuy2yk5gcfzbqzm1odr1zmjfrvfbwnfetdvus2o2yumxwuvoafbdqxfpatzfd1jpbg",
@@ -729,118 +841,6 @@
       "score": 0.428,
       "published": "2026-09-14T22:23:05+00:00",
       "added": "2026-09-15T17:23:29.314801+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmijgfbvv95cuxncmzts3jqv0dza0c4cmxmckzkoxbounbva2nnzxvcrk1hzzzwuulldxjxltbymfh0s3bvwkd3rlf3m296mvn0mxbscutrsjjpru04wevzd0luulzvvdn3y3hoa3lks1v1n3zorkdotvdrmjftqvbpavrxwxfqafi1y0tst3bzvmxzrtd5r2rb",
-      "headline": "Oprah Winfrey's AHA: An Immersive Experience at Sphere",
-      "source": "Oprah.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmZtS3JQV0dZa0c4cmxMckZkOXBoUnBVa2NNZXVCRk1hZzZWUUlldXJxLTBYMFh0S3BVWkd3RlF3M296MVN0MXBScUtrSjJpRU04WEVzd0lUUlZvVDN3Y3hoa3lKS1V1N3ZoRkdoTVdRMjFTQVBPaVRxWXFQaFI1Y0tST3BZVmxzRTd5R2RB?oc=5",
-      "take": "Oprah Winfrey's AHA: An Immersive Experience at Sphere Oprah.com",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.58,
-      "published": "2026-09-14T17:26:46+00:00",
-      "added": "2026-09-14T18:15:24.160107+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiowfbvv95cuxotnoxrutzbgjiew9qr3lsckzybhbnbwp1qmdfdgfws1hyc25xeetxuw5wnvn1wwnjqjdftdlmbgq3v3ztr3lvte1ezu1ruufsrkjrmnjhzxlznknkaxjnb0zlnwztc0zuznaxoerizdb3zjrubjlvsflvbxnorno3qw9hqmtrelyynkoxb0vnouzrdzbjt0jbngpvntvwuzfdagnv",
-      "headline": "Oprah announces 2027 ‘Aha’ Las Vegas Sphere residency. Get tickets today",
-      "source": "nypost.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnoxRUtZbGJieW9QR3lsckZybHBnbWp1QmdFdGFWS1hYc25XeEtXUW5WNVN1WWNjQjdfTDlMbGQ3V3ZtR3lVTE1EZU1RUUFsRkJrMnJhZXlzNkNkaXJNb0ZLNWZtc0ZUZnAxOERIZDB3ZjRUbjlvSFlVbXNoRno3QW9hQmtRelYyNkoxb0VnOUZrdzBjT0JBNGpVNTVwUzFDaGNV?oc=5",
-      "take": "",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.426,
-      "published": "2026-09-14T17:10:00+00:00",
-      "added": "2026-09-15T17:23:29.314801+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiigfbvv95cuxqotrwy0ljrnb4wgd0ugpusg54r201vzn6sgxrmgk1vu1smhq1zwzjuxfcvf9fz1pqufjhrklymklfalritwxrrvhfakdlwwdwufjiutbcafo3mkdttzhtvg45smgyqwjbs3vhcwxwykxfm0lrnnradgtpmjfznf9nwwfusthunjdoyuhsay8bqvvfexfmtzm3rejdlwv6rxbpb2fwoehkmzd3ewvpr0juzxzom2z6vvhnqk1teenyahjzuupveddmeunjrljibwdkn0c0qw81n2g4wepfmy1bcznznfowcjc2wu9juy1dlvmymdl0swvpvfrrwg1ydwizttuxzdznsnnzbm0yakrwrffqeevisjfjdnhvyu0",
-      "headline": "Oprah’s hosts immersive ‘Aha!’ experience at Las Vegas Sphere",
-      "source": "NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTRWY0lJRnB4WGd0UGpUSG54R201VzN6SGxRMGk1VU1sMHQ1ZWZjUXFCVF9fZ1pqUFJhRklyMklfalRITWxrRVhFakdlWWdwUFJiUTBCaFo3MkdTTzhTVG45SmgyQWJBS3VHcWxwYkxFM0lrNnRadGtpMjFzNF9NWWFUSThUNjdoYUHSAY8BQVVfeXFMTzM3REJDLWV6RXBpb2FwOEhKMzd3eWVPR0JUZXZOM2Z6VVhNQk1teENyaHJzUUpVeDdMeUNJRlJIbWdkN0c0QW81N2g4WEpfMy1BczNzNFowcjc2WU9jUy1DLVMyMDl0SWVPVFRrWG1YdWIzTTUxZDZNSnNzbm0yakRWRFFqeEViSjFjdnhvYU0?oc=5",
-      "take": "Oprah’s hosts immersive ‘Aha!’ experience at Las Vegas Sphere NewsNation",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.595,
-      "published": "2026-09-14T16:07:19+00:00",
-      "added": "2026-09-15T17:23:29.314801+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmizafbvv95cuxowvpbmkvxqxv1dlfnu0t2sm9oz0qwwgqtuwpuy3b0ymnglxbsuvply3m2mg43btlncjm3r3lcujzeze9otvdzu2mwqzl3b0hjb0rnvvk0a0g1y0nisggxnhbhtemxt1duvvfocc1xmznovuhzmjnun1zoqzrhdwxqqkp3m2tmt2jes1z5qvjmqmm3cxa5cedfzgsxcmo5quppsg9dumj6mjrlm2y3tmnzbgxcahfvwenhcki3lv9hehk3ew55nhltzvl2ueu",
-      "headline": "Rogue Trooper at TIFF: Unreal Engine 5 Just Lowered Feature Animation’s Cost Floor",
-      "source": "Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWVpBMkVXQXV1dlFnU0t2Sm9OZ0QwWGQtUWpUY3B0YmNGLXBSUVplY3M2MG43bTlNcjM3R3lCUjZEZE9OTVdZU2MwQzl3b0hjb0RNVVk0a0g1Y0NISGgxNHBhTEMxT1duVVFocC1XMzNOVUhZMjNUN1ZOQzRHdWxQQkp3M2tmT2JES1Z5QVJmQmM3cXA5cEdFZGsxcmo5QUpPSG9DUmJ6MjRlM2Y3TmNzbGxCaHFvWENhckI3LV9HeHk3eW55NHltZVl2UEU?oc=5",
-      "take": "Rogue Trooper at TIFF: Unreal Engine 5 Just Lowered Feature Animation’s Cost Floor Tech Times",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.337,
-      "published": "2026-09-14T14:21:31+00:00",
-      "added": "2026-09-15T17:23:29.314801+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmioafbvv95cuxnq1pqaxrsdxhkckzgdkhay19fz3raemq1yxdtnexzqwpbm3k1awz3vnzuc1vnaerywkfwukvzmxaxdfoxejrlm2luew1ybdryrfoywgp4nwlwtgg1qs1jbzr1b3o2vtg4mutpanjtz2l5rjz3vznotgdfulcxue5mogdkeepfx3p5lurkzjz4suzbclvilvvrsutxblhlu09f0ggmaufvx3lxte5qu2nooxdzwu95bvr3dg5zmxdytuzjsmzgwg1izmo5mgz0qlfxbxjoc0jjx1zubmwyog54suitnvqycfrou1zsdhdprlb5mvpzbxzkukswaddnbtzwnzdaymfycvrznkharvvhs1bxbtnmmhprzuzzew5pvhv3av95x3fbytlrrdneag9jakr0rezmak5pbg1paho4x1nfutrcy1dnowc",
-      "headline": "Oprah Winfrey to host 'AHA' immersive experience at Las Vegas Sphere",
-      "source": "upi.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ1pqaXRsdXhkckZGdkhaY19fZ3RaemQ1YXdTNExzQWpBM3k1aWZ3VnZuc1VnaERyWkFWUkVZMXAxdFoxejRLM2lUeW1ybDRYRFoyWGp4NWlWTGg1QS1JbzR1b3o2VTg4MUtPanJTZ2l5RjZ3VzNOTGdFUlcxUE5MOGdkeEpfX3p5LURkZjZ4SUZBclViLVVrSUtXblhLU09f0gGmAUFVX3lxTE5qU2NoOXdZWU95bVR3dG5ZMXdYTUZJSmZGWG1IZmo5MGZ0QlFxbXJOc0JjX1ZubmwyOG54SUItNVQycFROU1ZSdHdPRlB5MVpZbXZkUkswaDdnbTZwNzdaYmFYcVRZNkhaRVVhS1BXbTNmMHprZUZZeW5PVHV3aV95X3FBYTlRRDNEaG9jakR0REZmak5pbG1paHo4X1NFUTRCY1dNOWc?oc=5",
-      "take": "Oprah Winfrey to host 'AHA' immersive experience at Las Vegas Sphere upi.com",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.606,
-      "published": "2026-09-14T14:07:24+00:00",
-      "added": "2026-09-14T18:15:24.160107+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmipafbvv95cuxnbg1kse1hsllcwg9admfcthi1r1fmwxrjeewxugdzb3o5wupqqmrlmjbpc1pxuwhnxzzhxzhitufjrmm0yxviz0dkblbiqzbttxvseu1qcjduxzfnzkmyn0rkcddzyy1wuvrjymitqwhpefpmaurmdc1vd2vjculzqlv0wvnywmd1btbmmzlfnur2ale5bktrsfjmcdjsbf9eltjeaa",
-      "headline": "Oprah Winfrey shares new details about \"AHA\" shows coming to Las Vegas Sphere",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG1KSE1HSllCWG9admFCTHI1R1FmWXRjeEwxUGdzb3o5WUpqQmRLMjBpc1pXUWhNXzZHXzhITUFJRmM0YXViZ0dKblBIQzBtTXVseU1qcjdUXzFNZkMyN0RKcDdZYy1WUVRjYmItQWhPeFpmaURMdC1vd2VJcUlZQlV0WVNyWmd1bTBMMzlfNUR2alE5bktrSFJMcDJsbF9ELTJEaA?oc=5",
-      "take": "Oprah Winfrey shares new details about \"AHA\" shows coming to Las Vegas Sphere CBS News",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.382,
-      "published": "2026-09-14T13:20:00+00:00",
-      "added": "2026-09-14T18:15:24.160107+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmixafbvv95cuxpv0qtc05pdkl1yv9llww0nvvtsjexmuzjukdrqzfksfh1y3don1lou09qdzlcsdj0d3jqqvzsu0z0qmlqx2gtd1pewxb3c3b2dkpkzgoxeggtc2fuyxhgzldzcgnfqxpwogrxc1bvtu5hee5jblpdvgv2t3vzdefyne56tlutwmribmtpt1holxo5mllwzk92dw04y0liskn5vnrrn1zoy2fhtv9org93tha2bwh2oetkrk5avefabnkzywiw0ghkaufvx3lxte1uzhc5rtbhznfftg0tz2u5b3b2sfhhukpmynhotzmxzxm2zmy2nm1pchhhdlytwehscwrmd3zhx0xqdla1eg1uafdgyulxrmjmtxm3ng9sbe5uuhvctmximmhrcevcnjhrs2xnz01cytbfak5kcwf4v3z5akxsexruwxb4ul9az0nruvrtmwxnterkoe9qumpqywlaqmxclvi0oepvx2powddha1gzvmnfck1vognatxv3z1vwtwzbc3hlne5vqjhrx0e",
-      "headline": "Oprah Winfrey to bring first-of-its-kind immersive experience to Las Vegas Sphere",
-      "source": "KLAS 8 News Now",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV0Qtc05Pdkl1YV9LLWw0NVVTSjExMUZjUkdrQzFkSFh1Y3doN1lOU09QdzlCSDJ0d3JqQVZsU0Z0QmlQX2gtd1pEWXB3c3B2dkpKZGoxeGgtc2FUYXhGZldZcGNfQXpwOGRXc1BVTU5heE5JblpDVGV2T3VzdEFyNE56TlUtWmRIbmtpT1hoLXo5MllWZk92dW04Y0liSkN5VnRRN1ZoY2FHTV9ORG93THA2bWh2OEtkRk5aVEFabnkzYWIw0gHKAUFVX3lxTE1UZHc5RTBHZnFFTG0tZ2U5b3B2SFhHUkpMYnhOTzMxZXM2ZmY2Nm1PcHhhdlYtWEhscWRMd3ZhX0xQdlA1eG1UaFdGYUlxRmJmTXM3NG9sbE5uUHVCTmxiMmhrcEVCNjhrS2xNZ01CYTBfak5KcWF4V3Z5akxSeXRUWXB4Ul9aZ0NrUVRtMWxNTERKOE9qUmpqYWlaQmxCLVI0OEpvX2pOWDdHa1gzVmNfck1vOGNaTXV3Z1VwTWZBc3hlNE5vQjhrX0E?oc=5",
-      "take": "Oprah Winfrey to bring first-of-its-kind immersive experience to Las Vegas Sphere KLAS 8 News Now",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.605,
-      "published": "2026-09-14T12:53:54+00:00",
-      "added": "2026-09-14T18:15:24.160107+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmimwfbvv95cuxpvdfuudfzyxg4z0eybghinwfttkrku2iwnefbde1fctlqnulawm52rtkxukvor1rzdxlxqkx0ajhla0pqrwdtznj2mnhtemtsmflod0pjbwhodgjqec1hovrnafdjb0pndwrtnmz6exznd29pzvpxzlplwfdzdgtvrko1au9uqjjouw1nvw0ysgz0cdzbodqwcdyzaw",
-      "headline": "Oprah Winfrey wants you to reach your ‘AHA’ moment at the Sphere",
-      "source": "apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDFuUDFZYXg4Z0EybGhiNWFTTkRKU2IwNEFBdE1fcTlqNUlaWm52RTkxUkVoR1RZdXlxQkx0ajhla0pQRWdTZnJ2MnhtemtSMFlod0pjbWhOdGJqeC1HOVRNaFdJb0pndWRtNmZ6eXZnd29pZVpxZlplWFdzdGtVRko1aU9uQjJOUW1NVW0ySGZ0cDZBODQwcDYzaw?oc=5",
-      "take": "Oprah Winfrey wants you to reach your ‘AHA’ moment at the Sphere apnews.com",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.535,
-      "published": "2026-09-14T12:45:00+00:00",
-      "added": "2026-09-14T18:15:24.160107+00:00"
     }
   ]
 }
