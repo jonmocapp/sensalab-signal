@@ -372,6 +372,24 @@ Summary: Claire's put oversized earrings that pierce the frame on a New York boa
 Why it matters: Anamorphic DOOH works when the illusion proves a single product truth; tied to a clear claim it turns the medium into the message rather than spectacle for its own sake.
 Takeaway: Start from the product truth, design the forced perspective around it, lock the viewing vantage, and pressure-test the layout flat; if it still works, the 3D is decoration.
 
+### An open-access LED volume signals virtual production spreading past the majors
+https://signal.sensalab.io/article-chrysaor-studios-open-access-led-volume-gold-coast.html
+Summary: A Gold Coast studio opened a bookable Unreal-driven volume with public money.
+Why it matters: Virtual production stops being a big-studio moat when a permanent volume is bookable by the day; access to the wall, not ownership of it, is where the economics now sit.
+Takeaway: Treat a bookable volume as a test bed: pre-build the Unreal scene, book a recce, validate the in-camera effect for a day before committing to a full virtual-production shoot.
+
+### Shrek in shared reality signals catalog film becoming a repeatable dome format
+https://signal.sensalab.io/article-shrek-cosm-shared-reality-catalog-dome-format.html
+Summary: Cosm and Universal are re-rendering a 25-year-old film for the dome.
+Why it matters: Turning a catalog title into dome content, rather than commissioning new work, signals that immersive venues are becoming a distribution format for existing IP, not just a stage for bespoke spectacle.
+Takeaway: You do not need to rebuild a story for the dome; keep the canonical frame intact and design an extended periphery around an existing asset, then reuse the pipeline across venues.
+
+### A vacant hospital as gallery signals found space becoming the experiential canvas
+https://signal.sensalab.io/article-hospital-of-emotions-found-space-experiential-canvas.html
+Summary: Seventy artists filled a shuttered LA hospital, room by room.
+Why it matters: A decommissioned building carries lived-in narrative that a purpose-built box has to manufacture; found space is becoming a medium in its own right, which turns wayfinding and pacing into the real design problem.
+Takeaway: When location carries the concept, the job shifts from decor to sequencing: plan the route, pace the emotional beats across rooms, and let the building's own architecture do the work it already does.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html

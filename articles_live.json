@@ -2496,6 +2496,171 @@
    "source_url": "https://www.media4growth.com/showcase/campaigns/claires-pierces-a-billboard-in-new-york-86245",
    "date": "2026-09-12",
    "image_url": null
+  },
+  {
+   "slug": "chrysaor-studios-open-access-led-volume-gold-coast",
+   "cat": "CGI & VFX",
+   "tokens": "cgi",
+   "edition": 21,
+   "source_name": "Screen Queensland",
+   "source_url": "https://screenqueensland.com.au/sq-news/media-centre/capital-grants-program-for-gold-coast-screen-businesses/",
+   "date": "2026-09-19",
+   "image_url": "",
+   "headline": "An open-access LED volume signals virtual production spreading past the majors",
+   "dek": "A Gold Coast studio opened a bookable Unreal-driven volume with public money. The signal is access to the wall, not another wall.",
+   "focus_keyword": "open-access virtual production",
+   "read_minutes": 3,
+   "meta_description": "Chrysaor Studios opened a permanent open-access LED volume on the Gold Coast, backed by Screen Queensland. Why bookable virtual production changes the producer math.",
+   "why": "Virtual production stops being a big-studio moat when a permanent volume is bookable by the day; access to the wall, not ownership of it, is where the economics now sit.",
+   "takeaway": "Treat a bookable volume as a test bed: pre-build the Unreal scene, book a recce, validate the in-camera effect for a day before committing to a full virtual-production shoot.",
+   "body": [
+    {
+     "type": "para",
+     "text": "Chrysaor Studios has opened what it calls Queensland's only permanent, open-access virtual production stage, inside its 1,900-square-metre facility at Varsity Lakes on the Gold Coast. Through its on-site partner Animax Studios, the site runs a permanent 49.5-square-metre Unilumin URMIII LED volume driven by Unreal Engine 5. The build was supported by Screen Queensland's Capital Grants Program, a 5 million dollar scheme that gave matched funding of up to 750,000 dollars each to 12 small-to-medium Gold Coast screen businesses, and it opened for bookings in April 2026. Since then the studio reports 47 on-site visits and events, 40 of them producer tours, walkthroughs and recces."
+    },
+    {
+     "type": "subhead",
+     "text": "The signal is access, not scale"
+    },
+    {
+     "type": "para",
+     "text": "The real signal is not another LED volume; it is who is allowed to book one. Virtual production has mostly been framed as a capability you own, a wall bolted to a stage a large studio controls. Chrysaor positions its volume as open-access and, as what it describes as Australia's first Social Traders certified social enterprise film studio, points it at independent filmmakers and local crews rather than tentpole shoots. The centre of gravity moves from ownership of the wall to availability of the wall."
+    },
+    {
+     "type": "para",
+     "text": "The ratio buried in the numbers is the honest part. Forty of the studio's first 47 visits were tours, walkthroughs and recces, not confirmed shoots. That gap between interest and a booked day is where a lot of virtual production economics actually live, and a public grant is what lets a stage stay open long enough to close it. A bookable volume only pays off if the exploratory traffic converts."
+    },
+    {
+     "type": "subhead",
+     "text": "What a producer can do now"
+    },
+    {
+     "type": "para",
+     "text": "For a producer, an open-access stage changes the math on a brand film or a set-extension shoot. You can test a virtual backdrop for a day without carrying the cost of owning a volume, which turns a large capital question into a line item. The move that pays off is to arrive with the Unreal scene pre-built and colour-checked, book a recce first, and pressure-test the in-camera result before the shoot day rather than discovering the seams on the clock."
+    },
+    {
+     "type": "subhead",
+     "text": "Why it belongs in an experiential toolkit"
+    },
+    {
+     "type": "para",
+     "text": "The same wall that serves a film pipeline serves live and experiential work. A real-time volume is a content system you can repurpose for a launch film, a shoppable set or a physical [activation](/kits/activations), because the scene is data rather than a painted flat and can be re-lit or re-staged between uses. For teams building brand experiences, the useful reading is that virtual production is drifting from a bespoke build toward a shared resource you schedule, the way you already schedule a stage or a screen."
+    },
+    {
+     "type": "para",
+     "text": "SensaLab builds and runs real-time 3D and LED-volume content for studios and agencies under their own name, so the wall, the pipeline and the render stay someone else's problem while the work ships as yours."
+    }
+   ]
+  },
+  {
+   "slug": "shrek-cosm-shared-reality-catalog-dome-format",
+   "cat": "Concert visuals",
+   "tokens": "concerts",
+   "edition": 21,
+   "source_name": "Attractions Magazine",
+   "source_url": "https://attractionsmagazine.com/shrek-immersive-experience-coming-to-cosm-for-25th-anniversary/",
+   "date": "2026-09-19",
+   "image_url": "",
+   "headline": "Shrek in shared reality signals catalog film becoming a repeatable dome format",
+   "dek": "Cosm and Universal are re-rendering a 25-year-old film for the dome. The signal is a back catalog turned into bookable venue inventory.",
+   "focus_keyword": "shared reality dome",
+   "read_minutes": 3,
+   "meta_description": "Cosm and Universal open a multi-film partnership with a shared-reality Shrek across four US domes. Why existing catalog is becoming repeatable immersive inventory.",
+   "why": "Turning a catalog title into dome content, rather than commissioning new work, signals that immersive venues are becoming a distribution format for existing IP, not just a stage for bespoke spectacle.",
+   "takeaway": "You do not need to rebuild a story for the dome; keep the canonical frame intact and design an extended periphery around an existing asset, then reuse the pipeline across venues.",
+   "body": [
+    {
+     "type": "para",
+     "text": "Cosm has announced that Shrek will return as what it calls the world's first animated cinematic experience in shared reality, tied to the film's 25th anniversary. The 2001 original stays in its 16:9 frame while newly built environments extend beyond the screen and wrap across Cosm's 12K-plus LED dome, carrying audiences into locations including Shrek's Swamp, Duloc's Arena and Dragon's Keep. The show is made with Universal, DreamWorks Animation and the studio Reel FX, and it opens a multi-film partnership between Cosm and Universal. Tickets go on sale this fall for Cosm venues in Los Angeles, Dallas, Atlanta and Detroit; an opening date and prices have not been set."
+    },
+    {
+     "type": "subhead",
+     "text": "The signal is the catalog, not the character"
+    },
+    {
+     "type": "para",
+     "text": "The real signal is a distributor treating a 25-year-old title as fresh dome inventory. This is not a new production so much as existing IP re-rendered for a venue format, and the phrase that matters is multi-film partnership: one adaptation is a stunt, a pipeline is a business. If a back catalog can be fed through the same dome treatment repeatedly, the venue stops being a place you commission spectacle for and starts being a channel you distribute through."
+    },
+    {
+     "type": "para",
+     "text": "The restraint in the build is the craft. Keeping the film in 16:9 and constructing environments around it, rather than remastering every frame to fill the sphere, protects the canonical work while the dome supplies a periphery. That is cheaper, faster and safer than a full reformat, and it gives a repeatable recipe: preserve the centre, extend the edges, reuse the toolchain on the next title."
+    },
+    {
+     "type": "subhead",
+     "text": "What a producer can do now"
+    },
+    {
+     "type": "para",
+     "text": "For a producer weighing dome or large-format content, the lesson is that you rarely need to rebuild a story to earn the format. Take an existing asset, a film, a campaign film or an archive of brand footage, and design an extended world around its fixed frame rather than re-authoring it from scratch. That keeps the source recognisable, contains the budget, and lets the same environment pack travel between venues instead of being built once and stranded."
+    },
+    {
+     "type": "subhead",
+     "text": "Why it belongs in a live toolkit"
+    },
+    {
+     "type": "para",
+     "text": "The dome hosting Shrek is the same class of surface an agency books for a [branded show](/kits/shows), and the workflow is the transferable part. A brand sitting on a library of assets can borrow this model, hold the hero content canonical and wrap it in a real-time environment tuned to the venue, then re-stage it as the tour or the residency moves. The immersive surface becomes a distribution format for work you already own, not only a commission line."
+    },
+    {
+     "type": "para",
+     "text": "SensaLab builds and operates real-time environments for domes, volumes and large-format rooms under an agency's own name, so the periphery, the render and the show control ship as your production rather than a vendor credit."
+    }
+   ]
+  },
+  {
+   "slug": "hospital-of-emotions-found-space-experiential-canvas",
+   "cat": "Interactive",
+   "tokens": "interactive",
+   "edition": 21,
+   "source_name": "Colossal",
+   "source_url": "https://www.thisiscolossal.com/2026/06/in-los-angeles-70-artists-transform-a-vacant-hospital/",
+   "date": "2026-09-19",
+   "image_url": "",
+   "headline": "A vacant hospital as gallery signals found space becoming the experiential canvas",
+   "dek": "Seventy artists filled a shuttered LA hospital, room by room. The signal is architecture doing the narrative work a built box cannot fake.",
+   "focus_keyword": "found-space immersive art",
+   "read_minutes": 3,
+   "meta_description": "Hospital of Emotions turns a shuttered Los Angeles hospital into 80 rooms of immersive art across eight themes. Why found space is becoming the experiential canvas.",
+   "why": "A decommissioned building carries lived-in narrative that a purpose-built box has to manufacture; found space is becoming a medium in its own right, which turns wayfinding and pacing into the real design problem.",
+   "takeaway": "When location carries the concept, the job shifts from decor to sequencing: plan the route, pace the emotional beats across rooms, and let the building's own architecture do the work it already does.",
+   "body": [
+    {
+     "type": "para",
+     "text": "Hospital of Emotions turns the long-shuttered St. Vincent Medical Center near downtown Los Angeles into a four-floor immersive exhibition, with more than 70 artists taking over more than 80 rooms. The former hospital, founded in 1856 by the Daughters of Charity and bankrupt in 2020 before private investors bought it, now has its operating rooms, patient rooms, emergency spaces, nurses' stations and corridors each handed to a different artist. The rooms are organised around eight themes: joy, love, fear, anger, hope, sadness, compassion and resilience. It opened to the public on May 27, 2026, was due to close at the end of July, and has been extended through September 30 after strong turnout."
+    },
+    {
+     "type": "subhead",
+     "text": "The signal is the building, not the art"
+    },
+    {
+     "type": "para",
+     "text": "The real signal is found space treated as the medium. The hospital's own architecture, the ward corridors, the operating theatre, the nurses' station, does narrative work that no purpose-built box can fake, because the associations arrive with the room before an artist touches it. Placing themes like fear and compassion inside spaces where those states were actually lived is a shortcut to meaning that a white cube has to manufacture from scratch."
+    },
+    {
+     "type": "para",
+     "text": "The extension through September 30 is its own data point. A temporary tenancy in a distressed building, one that went bankrupt and changed hands, is a fragile arrangement, and demand strong enough to push the run two months longer says the format has an audience beyond the novelty window. Found space is cheap in atmosphere and expensive in logistics, and the trade only works when the turnout justifies holding the lease."
+    },
+    {
+     "type": "subhead",
+     "text": "What a producer can do now"
+    },
+    {
+     "type": "para",
+     "text": "For a producer, the model is a reminder that location can carry a concept a set would have to build. Scouting decommissioned buildings, a hospital, a bank, a department store, buys narrative for the price of a short-term lease. The hard part is not decor; sequencing 80 rooms across eight emotional themes is a wayfinding and pacing problem, and the risk is a crowd that stalls, doubles back or misses the arc the space was meant to deliver."
+    },
+    {
+     "type": "subhead",
+     "text": "Why it belongs in an experiential toolkit"
+    },
+    {
+     "type": "para",
+     "text": "The same instinct scales to brand work. A branded [activation](/kits/activations) in a raw or reclaimed building can trade a fabricated environment for a real one, provided the route, the lighting and the interactive beats are designed around what the architecture already says. Layering real-time or responsive content into found rooms lets a brand borrow a building's history without pretending to erase it, which is often more convincing than a flawless build."
+    },
+    {
+     "type": "para",
+     "text": "SensaLab designs and runs the interactive and real-time layer for experiences like these under a partner's own name, so the sensing, the content and the show logic hold up across dozens of rooms while the concept stays yours."
+    }
+   ]
   }
  ]
 }
