@@ -1,7 +1,35 @@
 {
-  "generated": "2026-09-19T16:09:12.025025+00:00",
+  "generated": "2026-09-20T16:37:11.949293+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmisefvx3lxtfa2m3bqvkjinmg2ugs0v2lzb3bkdm9nnnh4dtrqr25xrfnptfy2mzrhn1ywlvbru1fpewx1ee5xmvjkvnviblhzbg",
+      "headline": "Amazon",
+      "source": "Little Black Book | LBBOnline",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2M3BqVkJINmg2UGs0V2lzb3BKdm9nNnh4dTRQR25XRFNPTFY2MzRHN1YwLVBrU1FPeWx1eE5XMVJkVnViblhzbg?oc=5",
+      "take": "Amazon - Christmas Activation for Amazon Echo Little Black Book | LBBOnline",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.47,
+      "published": "2026-09-20T10:00:16+00:00",
+      "added": "2026-09-20T16:37:11.949293+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiy0fvx3lxte5zvkhwmxrnn282ltdbsu9muhfpstbjbku4smdbdje2agr0alqwbketss12zxzmds0ymu1wqkdnveutwmxuqtrzvnjfchqtte5jvtczc2lieujndkw2uwdabvl3uq",
+      "headline": "Sauce Spectacle - Condiment innovation is betting on experiential, globally influenced products",
+      "source": "Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZVkhwMXRnN282LTdBSU9MUHFpSTBjbkU4SmdBdjE2aGR0alQwbkEtSS12ZXZMdS0yMU1WQkdNVEUtWmxuQTRZVnJFcHQtTE5JVTczc2lIeUJNdkw2UWdabVl3UQ?oc=5",
+      "take": "Sauce Spectacle - Condiment innovation is betting on experiential, globally influenced products Trend Hunter",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.395,
+      "published": "2026-09-18T19:04:34+00:00",
+      "added": "2026-09-20T16:37:11.949293+00:00"
+    },
     {
       "key": "https://www.eventmarketer.com/article/wellness-trade-shows-care",
       "headline": "Beyond Wellness: 5 Ways Trade Shows and Events Show They Care",
@@ -101,6 +129,20 @@
       "added": "2026-09-19T16:09:12.025025+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmizwfbvv95cuxpr0cyt0owukrqqwnwqwlqmdr2szm2z2pxs0znmkdqbxg3nhdplwhsrc1ar18wy0vrsjnvcvhlcfzooegwc2jrvgpnwmh5t1pdoeffaes3v0ltczznamytluvvcs13ejrkr1pgmhpzywg3cwrtuk8zcen2vnr3ewtpovnrsfayeefcc0wwzkzhsxpxbez6sg5pmufwodb3shjvu1y2x1o4vgvxq0s4dk1jdw5katbza0hjnhhhu0xwvjdjejbry2pln3y5r1dmqm8",
+      "headline": "FAO SCHWARZ BRINGS ITS ICONIC TOY STORE EXPERIENCE TO AMAZON.COM THIS FALL",
+      "source": "Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR0cyT0owUkRqQWNWQWlqMDR2SzM2Z2pXS0ZnMkdQbXg3NHdPLWhsRC1aR18wY0VRSjNVcVhlcFZOOEgwc2JRVGpnWmh5T1pDOEFfaEs3V0ltczZNamYtLUVvcS13ejRKR1pGMHpZYWg3cWRTUk8zcEN2VnR3eWtpOVNrSFAyeEFCc0wwZkZHSXpxbEZ6SG5PMUFwODB3SHJVU1Y2X1o4VGVXQ0s4dk1jdW5kaTBza0hJNHhHU0xWVjdjejBrY2plN3Y5R1dMQm8?oc=5",
+      "take": "FAO SCHWARZ BRINGS ITS ICONIC TOY STORE EXPERIENCE TO AMAZON.COM THIS FALL Morningstar",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.319,
+      "published": "2026-09-18T12:05:00+00:00",
+      "added": "2026-09-20T16:37:11.949293+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmiyafbvv95cuxnwedham83a090anhreffkv0h2blnyofizcupbz0diavitvlm5rw9tyw1qzdfbbznzbepqbdrimlbksmqxrwvbs1hjnjbfavrfcfn6wldrqk9xcnazs0dmchl0sxzqzldccvhhx1d0rgzazhp5m0pprjdfdu5tr250u0ixnnbydllpdxvxy184uxdzdkcytuxcbkxwbunscec3yulbynjnbxewdxzeyjr4dunhvfl4cdywbmpuexhfdl9xuktpcxpktg",
       "headline": "FAO SCHWARZ BRINGS ITS ICONIC TOY STORE EXPERIENCE TO AMAZON.COM THIS FALL",
       "source": "PR Newswire",
@@ -157,6 +199,20 @@
       "added": "2026-09-19T16:09:12.025025+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmixgfbvv95cuxqced4nxhqr2vrz3bzdjhfowjenzbnb0dkcgl0wwxfd1vnatrrry1va0xyluktwgpqaxn5mhh4vzfox2lvbmjrzllrdmcwweruehrzog5xs25yqxg4sjiyu1zcnnf5shjxc2tiaf9cylfqzgjrx0tnmmxnueqyeudvnw1zx0jrvkfiemjod3nozzfismz5venzr3v0t0tuu2stvvdqzm9odgjhavnyofdzu0poql9eymlprfbasulpbho5n1i4ync",
+      "headline": "UltraLED Displays Moves Beyond LED Screens With New Professional AV Solutions",
+      "source": "Everything Experiential",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcEd4NXhQR2VRZ3BzdjhfOWJENzBnb0dKcGl0WWxfd1VNaTRrRy1va0xyLUktWGpqaXN5MHh4VzFOX2lvbmJRZllrdmcwWERueHRzOG5XS25YQXg4SjIyU1ZCNnF5SHJxc2tIaF9CYlFqZGJRX0tNMmxNUEQyeUdVNW1ZX0JrVkFiemJod3NoZzFiSmZ5VENzR3V0T0tuU2stVVdQZm9odGJHaVNYOFdZU0pOQl9EYmlPRFBaSUlpbHo5N1I4Ync?oc=5",
+      "take": "UltraLED Displays Moves Beyond LED Screens With New Professional AV Solutions Everything Experiential",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.55,
+      "published": "2026-09-18T09:54:32+00:00",
+      "added": "2026-09-20T16:37:11.949293+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmiugfbvv95cuxnqwlrbja0ngzjdxpja0hteldgywtzdfzhdlhldmpaei1idmznsluytnhfsmf1djnjvdq3mdv2dev6akotrzzonnbnn3zvnvczmelumtbiq2ctwnbtlxg0befoben1czrtx1hxdw40r3rrbmqza29yn3psvkfxtelkemfnandgrnr3avv0ykhfy0lbrmtwodu4andzyxptwnrmcjjxzkprdlhyqu9zutltvlvjeupcbtr5yxc",
       "headline": "bigbasket Gets Mumbai To Turn Up The Volume With Ganpati Modak Meter",
       "source": "Everything Experiential",
@@ -197,6 +253,20 @@
       "score": 0.411,
       "published": "2026-09-18T03:30:16+00:00",
       "added": "2026-09-18T16:47:20.179040+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmijgfbvv95cuxqnfngrvhzujfaaxphrtdkzkzzruvrukjcuxjkvwyys0j2u0dingjwakjvv2t4mk1wewg5bkrmu0c4uvdhovuwbni4wl9ycfp6v0vwvwzmnfplc2zam2jpx3nbv3i5v0tztnr6rglyz2fmmvv3dndfv2zaq2fpse90akrqstkzz19iyzl6dkf3",
+      "headline": "Sulwhasoo enters Japan with first official Isetan Shinjuku pop-up",
+      "source": "Retail Asia",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFNGRVhzUjFaaXphRTdkZkZzRUVrUkJCUXJkVWYyS0J2U0diNGJwakJVV2t4Mk1weWg5bkRMU0c4UVdhOVUwbnI4Wl9ycFp6V0VwVWZMNFpLc2ZaM2JpX3NBV3I5V0tzTnR6RGlYZ2FMMVV3dndFV2ZaQ2FpSE90akRQSTkzZ19iYzl6dkF3?oc=5",
+      "take": "Sulwhasoo enters Japan with first official Isetan Shinjuku pop-up Retail Asia",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.387,
+      "published": "2026-09-18T03:30:16+00:00",
+      "added": "2026-09-20T16:37:11.949293+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmikafbvv95cuxqvfjosvzdzvfycevlx2frcvm3x1rxwe01n1uxa2lmevjpz3kymkdxm1zfb2jsrtzub0nrawfjm09wafhwszvpdu00vkuzmxpilwo2t19hc0prelr3oe82sljuvwvqbfe0ned1ntz6r2zwouxmthl5dtrkeedpagntwlmwrmfzchpsvknbcw80skk",
@@ -407,6 +477,20 @@
       "score": 0.422,
       "published": "2026-09-16T23:04:38+00:00",
       "added": "2026-09-17T17:21:38.531129+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmimajbvv95cuxouvrrrhm2q1j6nglymm8tqurgbhboqvc4ek0zrxbrwjhjywytrmnwynfczxbwzfluwxpkv1hqddu0v2piehzcblb4rwqycgtmrdbrv0x6ww5uzelomnv3tnlyskhysdrbt3m5dwdnee1pcjfvvwpvytrudnvdyxm4mu50yxdonxexawxwdzlcvfzlmfi2t2x6rzq3dnv4t0jos3fzm25qm292exlpsgxqbxvyznjym0nwceu0vk1cmkpxednqc2doqm5zekp5mkdkbny5c25yywzstunlu2htz18xmdllcgjvv1zonetcuueyclldtv8zvk0ybvphetjtdwo0bhnac0j6cfzqogyzzxblntazwlbq",
+      "headline": "Art Basel in Basel 2026. SYMBIOSIS by A.A.Murakami: Immersive art installation with BMW M760e xDrive at the BMW Lounge in Basel. Photo: Gary Yeh (06/2026)",
+      "source": "BMW Group",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOUVRrRHM2Q1J6NGlYMm8tQURGbHBoQVc4ek0zRXBrWjhjYWYtRmNwYnFCZXBWZFluWXpkV1hQdDU0V2pIeHZCblB4RWQycGtMRDBRV0x6WW5UZEloMnV3TnlySkhySDRBT3M5dWdneE1pcjFvVWpVYTRUdnVDYXM4MU50YXdONXExaWxwdzlCVFZLMFI2T2x6RzQ3dnV4T0JOS3FZM25QM292eXlpSGxQbXVyZnJYM0NWcEU0Vk1CMkpXeDNqc2doQm5Zekp5MkdKbnY5c25YYWZsTUNlU2hTZ18xMDlLcGJvV1ZONEtCUUEycllDTV8zVk0ybVpHeTJTdWo0bHNac0J6cFZQOGYzZXBlNTAzWlBq?oc=5",
+      "take": "Art Basel in Basel 2026. SYMBIOSIS by A.A.Murakami: Immersive art installation with BMW M760e xDrive at the BMW Lounge in Basel. Photo: Gary Yeh (06/2026) BMW…",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.56,
+      "published": "2026-09-16T22:57:27+00:00",
+      "added": "2026-09-20T16:37:11.949293+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmi8wfbvv95cuxnmestrvpsahywwhzomupzofvftu12bi1xsuytzlmtudmzzejuyxfccdvqru9md1jztjb2tnftqlpztke1z1dimldlu1rkm3bwqzb0nhrlvjlzqtvxywnlwerwouvtzgp2ltvntjbiotnbsti4bk9eznlqr3l4q0lmuja4znp6yufvrnu1unjpqms0szbotln0mf9feevvqzvhnzrevdvnc1dvzddun3j5tjr4cge5rvb0lusxqm4zy3ftdnfjrknna2vfm0w1t2itrlbkq3nsrxfic0m1m1zbm1nqduttnwxwzlotue04ltjfuw8",
@@ -756,90 +840,6 @@
       "geo": false,
       "score": 0.386,
       "published": "2026-09-15T14:01:11+00:00",
-      "added": "2026-09-15T17:23:29.314801+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilwjbvv95cuxpaxjfdmlnbglzmnlha1jjwxv2mlnqs29unwc2zs1xz05nng9hbkvgbum1bkzfb2q1bg9ws0h1whhpz0jcdk81z3nav05wnuzpwtveown5dmdlcg5prvfmanlqsxy0mthsmwnizklcy2hmbu1qclvrywdnawr2uuvrbwy4bjjrazfprxi5exlod2vvnlpxmzkyrnhnrxb5qllua0ndvv9zlxlin0dhd056b1vlcgzqanb6yvnhbv96twl1mw5ldfpjb0xydnbodmjqsmlpb1a1slbwr3fwb3k0dlm3umlhykyya0p0rutgymduzxfvuefylwxgaldzcmzltldeahryzvdicc1pnvhzn09yahruswc",
-      "headline": "TEQUILA DON JULIO INTRODUCES LA EXPERIENCIA DON JULIO: HECHO POR AMOR, AN IMMERSIVE EXPERIENCE CELEBRATING THE CRAFT OF TEQUILA MAKING",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPaXJfdmlNbGlZMnlHa1JJWXV2MlNQS29UNWc2ZS1xZ05NNG9HbkVGbUM1bkZFb2Q1bG9WS0h1WHhPZ0JCdk81Z3NaV05WNUZpWTVEOWN5dmdlcG5PRVFManlqSXY0MThsMWNIZklCY2hMbU1QclVrYWdnaWR2UUVRbWY4bjJRazFpRXI5eXlod2VVNlpxMzkyRnhNRXB5QllUa0NDVV9zLXliN0dhd056b1VLcGZqanB6YVNHbV96TWl1MW5ldFpJb0xYdnBodmJQSmlpb1A1SlBWR3FWb3k0dlM3UmlhYkYya0p0RUtGYmdUZXFvUEFYLWxGaldZcmZlTldEaHRYZVdIcC1PNVhZN09yaHRUSWc?oc=5",
-      "take": "TEQUILA DON JULIO INTRODUCES LA EXPERIENCIA DON JULIO: HECHO POR AMOR, AN IMMERSIVE EXPERIENCE CELEBRATING THE CRAFT OF TEQUILA MAKING PR Newswire",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.38,
-      "published": "2026-09-15T14:00:00+00:00",
-      "added": "2026-09-18T16:47:20.179040+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiuwfbvv95cuxpmnraveozwenqng1lvehorljsdxhkzkramul1n0w0yzjnnkzhy1cynutorfjkx0lfyuj1skxleupbylctmutvrmzkddhyzwltekduyulkqlliuwlwt19vnhl1sxu3vghvrglbdhm5y2fdzxjlz1hxbdlylww2s0xucljewwmwsmdwdjv4ehjwwws4q0dutu5oqkx4we9ozkr6r2k4og5uwu5lt21yejb4edzxefletnl5umtj",
-      "headline": "Stuckeman School names inaugural Immersive Environments Lab Fellow",
-      "source": "The Pennsylvania State University",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnRaVEozWENQNG1lVEhoRlJSdXhKZkRaMUl1N0w0YzJnNkZhY1cyNUtORFJKX0lFYUJ1SkxLeUpBYlctMUtVRmZkdDhyZWltekdUYUlKQlliUWlWT19vNHl1SXU3VGhvRGlBdHM5Y2FDZXJlZ1hXbDlYLWw2S0xuclJEWWMwSmdwdjV4eHJwWWs4Q0dUTU5oQkx4WE9OZkR6R2k4OG5uWU5lT21yejB4eDZxeFlETnl5UmtJ?oc=5",
-      "take": "Stuckeman School names inaugural Immersive Environments Lab Fellow The Pennsylvania State University",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.373,
-      "published": "2026-09-15T11:33:17+00:00",
-      "added": "2026-09-16T17:22:28.339832+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmioafbvv95cuxpcuriyvzpzmnbvwr2emozr191smvlenplm2hfvmpcmdz3vmdnuxl1rwg4szy4m05dowllc3qznji2rlnpehhivzhwmfkzwdlantzteglrqnnbtmx5vgtnsnzru0x3rlu5cwq1dmh6medjwwvsxy15n1jtx0i3nexqqlvsmfvjrmjwrdltzetybtrjedrzsglws0lnyxrotln2",
-      "headline": "Inextis Elevates Sneha Sandhu To Managing Partner",
-      "source": "Everything Experiential",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcURiYVZPZmNBVWR2emozR191SmVLenplM2hfVmpCMDZ3VmdnUXl1RWg4SzY4M05DOWllc3QzNjI2RlNPeHhiVzhwMFkzWDlaNTZteGlrQnNBTmx5VGtNSnZRU0x3RlU5cWQ1dmh6MEdJWWVSXy15N1JTX0I3NExqQlVsMFVjRmJwRDltZEtybTRjeDRZSGlWS0lnYXRoTlN2?oc=5",
-      "take": "Inextis Elevates Sneha Sandhu To Managing Partner Everything Experiential",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.372,
-      "published": "2026-09-15T09:20:45+00:00",
-      "added": "2026-09-16T17:22:28.339832+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmibkfvx3lxte5fnzjtsfdqn040bmlkwe4yrkdsbvpgzwvsq2jkv0zyvvbpohvnqvlovnfpyjlhrxbiyjmxd0vyz0c1q0dttkdur0xqsxdnsfn2dtm5r2dju19cugqtwe04r1fhdzhmru15buv6wjzr",
-      "headline": "Kuniyoshi Immersive Art 2026: The ukiyo-e world comes to life in Kyoto",
-      "source": "Stripes Japan",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FNzJtSFdQN040bmlkWE4yRkdsbVpGZWVsQ2JKV0ZyVVBpOHVnQVlOVnFPYjlHRXBIYjMxd0VyZ0c1Q0dtTkduR0xQSXdnSFN2dTM5R2dJU19CUGQtWE04R1FHdzhMRU15bUV6WjZR?oc=5",
-      "take": "Kuniyoshi Immersive Art 2026: The ukiyo-e world comes to life in Kyoto Stripes Japan",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.382,
-      "published": "2026-09-15T05:24:46+00:00",
-      "added": "2026-09-15T17:23:29.314801+00:00"
-    },
-    {
-      "key": "https://www.eventmarketer.com/article/brief-temptations-cat-bodega-cinema-lavazza",
-      "headline": "The Brief: Cat Bodegas and Cinema Lavazza",
-      "source": "Event Marketer",
-      "link": "https://www.eventmarketer.com/article/brief-temptations-cat-bodega-cinema-lavazza/",
-      "take": "This week’s hot takes on hot topics in experiential marketing cover cat bodegas, scientific mobile tours and Cinema Lavazza.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.444,
-      "published": "2026-09-14T22:37:02+00:00",
-      "added": "2026-09-15T17:23:29.314801+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxobep4vvmtqjf0bupncnjuemhvvvr4smjzvkoys21iqwhsci1lbvlxrzm1ci1nvnkzbjnxwm1ibzbtchvoy3j2nk9ilully3dfyunzb2c5wddroc1azdbhz3dfyw1trdrqv3jwx0tezzrzx2nfbw9rnhmxvg9sy1zrdtdllvj6wfnsvtdfy3ljr25rd1prbhlr",
-      "headline": "Oprah Winfrey Brings First-of-Its-Kind Show to Las Vegas Sphere",
-      "source": "InspireMore",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObEp4VVMtQjF0bUpNcnJuemhvVVR4SmJZVkoyS21IQWhSci1LbVlxRzM1ci1NVnkzbjNXWm1ibzBTcHVOY3J2Nk9iLUllY3dfYUNZb2c5WDdrOC1aZDBhZ3dFYW1tRDRQV3JWX0tEZzRzX2NFbW9RNHMxVG9sY1ZRdTdLLVJ6WFNSVTdfY3ljR25rd1pRbHlR?oc=5",
-      "take": "Oprah Winfrey Brings First-of-Its-Kind Show to Las Vegas Sphere InspireMore",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.428,
-      "published": "2026-09-14T22:23:05+00:00",
       "added": "2026-09-15T17:23:29.314801+00:00"
     }
   ]
