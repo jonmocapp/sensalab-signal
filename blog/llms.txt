@@ -390,6 +390,24 @@ Summary: Seventy artists filled a shuttered LA hospital, room by room.
 Why it matters: A decommissioned building carries lived-in narrative that a purpose-built box has to manufacture; found space is becoming a medium in its own right, which turns wayfinding and pacing into the real design problem.
 Takeaway: When location carries the concept, the job shifts from decor to sequencing: plan the route, pace the emotional beats across rooms, and let the building's own architecture do the work it already does.
 
+### Snap's $2,195 AR Specs signal glasses becoming a standalone stage, not a phone accessory
+https://signal.sensalab.io/article-snap-specs-standalone-ar-stage-signal.html
+Summary: Snap opened pre-orders for standalone AR glasses at $2,195.
+Why it matters: A self-contained pair of AR glasses moves the display off the phone and onto the body, which changes what an experience can assume about a person's hands and gaze and makes spatial content a first-class surface rather than a handset trick.
+Takeaway: Design spatial content now that targets many surfaces at once, so a launch built for phones and walls can add a glasses-ready path without being re-authored when headsets become common.
+
+### Sponsors trading US Open endorsements for immersion signal the activation as the media buy
+https://signal.sensalab.io/article-us-open-sponsors-immersion-activation-media-buy.html
+Summary: Amex, Peloton, Emirates and others turned the 2026 US Open into a field of activations.
+Why it matters: When sponsorship money buys a booth a fan queues for, plays with and films rather than a board they glance at, the placement becomes an experience that yields dwell time and first-party data, which is a harder thing to make and a more valuable thing to own.
+Takeaway: Brief a sponsorship as an experience with a measurable interaction: start from what a fan will do with their hands and phone, design the queue and dwell, and instrument the moment so the brand leaves with data as well as footage.
+
+### A museum planned as a civic hub signals participation replacing the passive gallery wall
+https://signal.sensalab.io/article-thyssen-civic-hub-participation-signal.html
+Summary: The Thyssen-Bornemisza is planning a second Madrid venue around a 360-work contemporary collection.
+Why it matters: When a national museum frames a new venue around what people will do rather than what they will see, participation moves from a programming add-on to the organising principle of the space, which puts interactive logic and pacing at the centre of the design problem.
+Takeaway: Write the participation brief before the floor plan: decide what a visitor can touch, trigger and contribute first, and let that drive the sensing, wayfinding and pacing rather than retrofitting interaction into a room built for viewing.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
