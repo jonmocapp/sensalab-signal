@@ -2826,6 +2826,155 @@
           "text": "SensaLab designs and operates the interactive and real-time layer for cultural and brand spaces under a partner's own name, so the sensing, the content and the show logic behave across a whole building while the concept stays yours."
         }
       ]
+    },
+    {
+      "slug": "brooklyn-bridge-aqua-cosmos-projection-signal",
+      "cat": "Experiential",
+      "tokens": "experiential",
+      "edition": 21,
+      "source_name": "The Art Newspaper",
+      "source_url": "https://www.theartnewspaper.com/2026/09/23/hudson-canyon-public-art-projection-brooklyn-bridge-anita-glesta-wildlife-conservation-society-artw",
+      "date": "2026-09-24",
+      "image_url": "",
+      "headline": "A conservation projection on the Brooklyn Bridge signals the city itself as screen",
+      "dek": "Anita Glesta's 18-minute Aqua Cosmos turns the Brooklyn Bridge into a projection surface for the Hudson Canyon. The signal is a landmark used as a screen for a grounded argument.",
+      "focus_keyword": "landmark projection mapping",
+      "read_minutes": 3,
+      "meta_description": "Aqua Cosmos projects the Hudson Canyon onto the Brooklyn Bridge for two nights. Why message-led landmark projection is the signal for experiential producers.",
+      "why": "When a conservation partner projects an evidence-based, 18-minute film onto a landmark bridge for a two-night window, it shows how a shared piece of infrastructure can carry a specific argument to an audience it already has, which is the discipline behind message-led projection rather than decorative light.",
+      "takeaway": "Earn the surface and ground the content: pin a named viewing point, a fixed nightly window and a cut built for that exact facade, so a landmark projection reads as an event and a cultural argument rather than branded signage.",
+      "body": [
+        {
+          "type": "para",
+          "text": "On 25 and 26 September 2026, the Brooklyn Bridge becomes a projection surface for Aqua Cosmos: The Hudson Canyon, an 18-minute work by the multimedia artist Anita Glesta. Produced with the Wildlife Conservation Society and ArtW, and presented through New York City's Department of Transportation art program, the piece plays from 7pm to 10pm each evening and is viewed from the Emily Warren Roebling Plaza in Brooklyn Bridge Park. Its subject is the Hudson Canyon, the largest submarine canyon on the Atlantic coast, sitting about 100 miles off New York City and reaching depths of 2.5 miles across a width of 7.5 miles, a scale often compared to the Grand Canyon. The sequence blends footage from a 2025 NOAA expedition, archival images and journals from a 1925 voyage, and Glesta's own paintings and drawings into a single moving image."
+        },
+        {
+          "type": "subhead",
+          "text": "The signal is the surface, not the spectacle"
+        },
+        {
+          "type": "para",
+          "text": "A projection on a landmark bridge reads at first as spectacle. The more useful reading is that a working piece of civic infrastructure has been treated as a screen for a specific, evidence-based argument about a place most New Yorkers will never see. The canyon is invisible and offshore; the bridge is unavoidable and shared. The work borrows the bridge's daily audience to carry a conservation message that would otherwise stay inside a museum or a journal. The signal is that the site does the reach, and the content does the rest."
+        },
+        {
+          "type": "para",
+          "text": "For a producer, the mechanics are the lesson. The run is two nights, timed to darkness, with a single defined vantage point rather than an open field of sightlines. That is a deliberate constraint: it fixes the composition, the throw distance and the crowd flow around one plaza, which is far easier to light, steward and permit than a full 360-degree spread. If you are pitching a landmark projection, the version that clears is the one with a named viewing location, a fixed nightly window and a content cut built for that exact surface, not a vague promise to light up a structure."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "Aqua Cosmos is a template for message-led projection: a real dataset in the NOAA and archival material, a real place in the canyon, and a real surface in the bridge, tied together by a partner with standing to make the claim. That structure travels. Swap the canyon for a product story, a heritage site or a sustainability commitment, and the same discipline applies. Earn the surface, ground the content in something verifiable, and keep the run short enough to feel like an event rather than signage. A short, well-argued cut on a landmark reads as cultural; a loop of brand imagery reads as advertising."
+        },
+        {
+          "type": "para",
+          "text": "The kind of pipeline that makes this work, with content mastered for a specific facade, mapped to its geometry, and run cleanly across a defined window, is exactly what a projection show demands. Teams building this class of work lean on a repeatable [projection and show pipeline](/kits/shows) rather than assembling one from scratch each time."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab builds real-time and projection work of this kind as a white-label partner, so an agency or institution can put a landmark-scale piece in front of its own audience under its own name. The signal in Aqua Cosmos is not the bridge; it is the rigour behind the picture."
+        }
+      ]
+    },
+    {
+      "slug": "kpop-demon-hunters-netflix-house-immersive-signal",
+      "cat": "Interactive",
+      "tokens": "interactive",
+      "edition": 21,
+      "source_name": "Variety",
+      "source_url": "https://variety.com/2026/shopping/news/kpop-demon-hunters-immersive-experience-netflix-tickets-1236872059/",
+      "date": "2026-09-24",
+      "image_url": "",
+      "headline": "Netflix turning a hit into a walkable set signals IP built to be entered, not watched",
+      "dek": "Netflix opens KPop Demon Hunters: The Immersive Experience in Dallas and Philadelphia this November, priced as mainstream footfall. The signal is IP designed to be entered.",
+      "focus_keyword": "immersive brand experience",
+      "read_minutes": 3,
+      "meta_description": "Netflix House opens a KPop Demon Hunters walkthrough in Dallas and Philadelphia. Why a task-driven, affordably priced immersive is the signal for experiential design.",
+      "why": "When a platform stages a hit as a task-driven, moderately priced walkthrough in two owned venues, it treats the immersive as a spatial edition of the IP rather than merchandising, which reframes the space as repeatable footfall that must reset, endure daily use and reward a second visit.",
+      "takeaway": "Design IP walkthroughs around an objective and a few filmable hero moments, and price and phase them for repeat footfall, so the space earns its keep as a permanent attraction rather than a one-off spectacle.",
+      "body": [
+        {
+          "type": "para",
+          "text": "Netflix has set two locations and two dates for KPop Demon Hunters: The Immersive Experience, a ticketed walkthrough based on its animated hit. The experience opens at Netflix House Dallas on 12 November 2026 and at Netflix House Philadelphia on 20 November 2026. Guests move through sets modelled on the film's fictional Seoul, joining the group HUNTR/X, made up of Rumi, Mira and Zoey, to restore the Honmoon and take down demons across interactive sets and screens built with 3D technology. Puppetry for the characters Derpy Tiger and Sussie Bird was produced in collaboration with Jim Henson's Creature Shop. General admission tickets start at 39 dollars, with children's tickets for ages 3 to 12 starting at 34 dollars; Mastercard cardholders could buy from 22 September, Netflix members from 29 September, and the general public from 1 October."
+        },
+        {
+          "type": "subhead",
+          "text": "The signal is IP built to be entered"
+        },
+        {
+          "type": "para",
+          "text": "A streaming platform opening a physical attraction is not new. What the dates and format signal is a shift in how the title is designed to be consumed. The film already exists; the immersive is a second, spatial edition of the same IP, staged in two owned venues rather than licensed out to a touring operator. Netflix is treating the walkthrough as part of the property, not a merchandising afterthought, and pricing it as a mainstream family outing rather than a premium collectors' event."
+        },
+        {
+          "type": "para",
+          "text": "For a producer, the tell is the interaction model. The experience is framed around a task, to restore the Honmoon and take down demons, not around a set of photo moments. That gives guests a reason to move, a goal to pursue and a narrative arc across rooms, which is what keeps dwell time and word of mouth up. The Henson puppetry detail matters too: it commits real craft to two characters that will do the heavy lifting in photos and video. If you are scoping an IP walkthrough, the money goes furthest on a clear objective and a few hero moments people will film, not on evenly spread production across every room."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "The pricing is the part worth copying. At 39 dollars general admission and 34 for children, this is positioned as repeatable footfall for a permanent venue, not a one-off spectacle. That changes the brief: the space has to reset cleanly between groups, survive months of daily use, and reward a second visit. A phased on-sale, with the card partner first, then members, then the public, also does quiet demand-shaping work, smoothing the opening weeks and rewarding the platform's own audience before the general rush."
+        },
+        {
+          "type": "para",
+          "text": "Turning a piece of IP into a staged, ticketed route is its own discipline: sightlines, sensing, throughput and a story that survives being walked rather than watched. It is the core of a modern [brand activation kit](/kits/activations), where the goal is a space people move through with purpose, not a backdrop they pass."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab designs and builds this class of interactive, real-time experience as a white-label studio, so a platform, studio or brand can open a walkthrough of its own property under its own name. The signal is that the story, not the screen, is now the thing being staged."
+        }
+      ]
+    },
+    {
+      "slug": "4wall-disclosure-day-led-volume-signal",
+      "cat": "CGI & VFX",
+      "tokens": "cgi",
+      "edition": 21,
+      "source_name": "PLSN",
+      "source_url": "https://plsn.com/plsntv/the-disclosure-day-led-volume-built-by-4wall/",
+      "date": "2026-09-24",
+      "image_url": "",
+      "headline": "A blockbuster shooting its car chase on an LED wall signals volumes trusted with hard shots",
+      "dek": "4Wall built the LED volume and a custom 360-degree car process for Steven Spielberg's Disclosure Day. The signal is virtual production trusted with the hard shots.",
+      "focus_keyword": "LED volume virtual production",
+      "read_minutes": 3,
+      "meta_description": "4Wall built Disclosure Day's LED volume and a 360-degree car process. Why finished content as pre-production is the signal for LED-stage experiential work.",
+      "why": "When a major film shoots its car chase on a custom 360-degree LED process with content delivered five months ahead, it shows in-camera virtual production maturing past static interiors into the hard shots, and it makes finished visual content a pre-production, not a post, dependency.",
+      "takeaway": "Treat LED-stage content as pre-production: finish, colour-manage and load the imagery before anyone shoots, because on a volume you light and reflect with it live, and the schedule and budget should move forward to match.",
+      "body": [
+        {
+          "type": "para",
+          "text": "For Steven Spielberg's Disclosure Day, the vendor 4Wall Entertainment built the LED volume and virtual production setup used across several of the film's key sets. According to a build breakdown from PLSN, 4Wall ran an Absen PR1.9 wall for the News Room set and an Absen PL2.5 wall for the Wardex set, part of three virtual production environments assembled for the shoot. The walls were driven by Brompton Technology Tessera SX40 processing and Disguise VX 4+ media servers, with Sony VENICE 2 cameras genlocked to the displays and Brompton ShutterSync and Pomfort LiveGrade handling synchronisation and on-set colour. For the film's car chase and crash sequences, 4Wall built a custom 360-degree LED car process so the work could be shot on a controlled soundstage. Content from the VFX studios Framestore and Territory was delivered roughly five months before shooting, and playback was controlled in real time via switchboard from New York, with the VFX supervisor Matthew Butler overseeing the match to on-set action."
+        },
+        {
+          "type": "subhead",
+          "text": "The signal is the car process, not the wall"
+        },
+        {
+          "type": "para",
+          "text": "LED volumes on a major film are no longer news; the newsworthy detail is what was shot on them. Putting the car chase and crash work onto a custom 360-degree LED process, rather than a road or a bluescreen, is the signal. Vehicle work is one of the harder cases for in-camera virtual production, because reflections, speed cues and constant camera motion all fight the illusion, so building a bespoke rig for it says the technique has matured past static interiors into the sequences that used to demand plates and heavy compositing."
+        },
+        {
+          "type": "para",
+          "text": "For a producer, the useful takeaway is the timeline, not the gear list. Content from Framestore and Territory landed about five months before the shoot. That lead time is the whole game in volume work: the wall only pays off if the imagery is finished, colour-managed and loaded before actors arrive, because you are lighting and reflecting with it live. The lesson for any brand or event build using LED backgrounds is that the schedule inverts, with the visual content becoming pre-production rather than post, and the budget should follow it there."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "The named stack is worth reading as a checklist rather than a spec sheet. Genlocked cameras, dedicated processing, media servers, ShutterSync and on-set colour grading are the same components that make a live LED stage read cleanly on camera at a launch, a broadcast or a stage show. The film production is simply running them at a scale and discipline most experiential builds can borrow from. The experiential world already shares this kit with virtual production, as an [open-access LED volume](/chrysaor-studios-open-access-led-volume-gold-coast) has already shown; the Disclosure Day build is a reminder of how far the same tools stretch."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab builds real-time and LED-volume work as a white-label partner, so a studio, agency or brand can put in-camera and on-stage visuals in front of an audience under its own name. The signal in the Disclosure Day rig is that the volume is now trusted with the hard shots, not just the easy ones."
+        }
+      ]
     }
   ]
 }

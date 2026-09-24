@@ -408,6 +408,24 @@ Summary: The Thyssen-Bornemisza is planning a second Madrid venue around a 360-w
 Why it matters: When a national museum frames a new venue around what people will do rather than what they will see, participation moves from a programming add-on to the organising principle of the space, which puts interactive logic and pacing at the centre of the design problem.
 Takeaway: Write the participation brief before the floor plan: decide what a visitor can touch, trigger and contribute first, and let that drive the sensing, wayfinding and pacing rather than retrofitting interaction into a room built for viewing.
 
+### A conservation projection on the Brooklyn Bridge signals the city itself as screen
+https://signal.sensalab.io/article-brooklyn-bridge-aqua-cosmos-projection-signal.html
+Summary: Anita Glesta's 18-minute Aqua Cosmos turns the Brooklyn Bridge into a projection surface for the Hudson Canyon.
+Why it matters: When a conservation partner projects an evidence-based, 18-minute film onto a landmark bridge for a two-night window, it shows how a shared piece of infrastructure can carry a specific argument to an audience it already has, which is the discipline behind message-led projection rather than decorative light.
+Takeaway: Earn the surface and ground the content: pin a named viewing point, a fixed nightly window and a cut built for that exact facade, so a landmark projection reads as an event and a cultural argument rather than branded signage.
+
+### Netflix turning a hit into a walkable set signals IP built to be entered, not watched
+https://signal.sensalab.io/article-kpop-demon-hunters-netflix-house-immersive-signal.html
+Summary: Netflix opens KPop Demon Hunters: The Immersive Experience in Dallas and Philadelphia this November, priced as mainstream footfall.
+Why it matters: When a platform stages a hit as a task-driven, moderately priced walkthrough in two owned venues, it treats the immersive as a spatial edition of the IP rather than merchandising, which reframes the space as repeatable footfall that must reset, endure daily use and reward a second visit.
+Takeaway: Design IP walkthroughs around an objective and a few filmable hero moments, and price and phase them for repeat footfall, so the space earns its keep as a permanent attraction rather than a one-off spectacle.
+
+### A blockbuster shooting its car chase on an LED wall signals volumes trusted with hard shots
+https://signal.sensalab.io/article-4wall-disclosure-day-led-volume-signal.html
+Summary: 4Wall built the LED volume and a custom 360-degree car process for Steven Spielberg's Disclosure Day.
+Why it matters: When a major film shoots its car chase on a custom 360-degree LED process with content delivered five months ahead, it shows in-camera virtual production maturing past static interiors into the hard shots, and it makes finished visual content a pre-production, not a post, dependency.
+Takeaway: Treat LED-stage content as pre-production: finish, colour-manage and load the imagery before anyone shoots, because on a volume you light and reflect with it live, and the schedule and budget should move forward to match.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
