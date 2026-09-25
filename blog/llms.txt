@@ -426,6 +426,24 @@ Summary: 4Wall built the LED volume and a custom 360-degree car process for Stev
 Why it matters: When a major film shoots its car chase on a custom 360-degree LED process with content delivered five months ahead, it shows in-camera virtual production maturing past static interiors into the hard shots, and it makes finished visual content a pre-production, not a post, dependency.
 Takeaway: Treat LED-stage content as pre-production: finish, colour-manage and load the imagery before anyone shoots, because on a volume you light and reflect with it live, and the schedule and budget should move forward to match.
 
+### One campus wiring film, games and esports together signals the pipelines converging
+https://signal.sensalab.io/article-central-coast-studios-real-time-esports-precinct-signal.html
+Summary: Central Coast Studios detailed a $260 million precinct putting virtual production, motion capture and esports on one campus.
+Why it matters: When a single campus puts film capture, game development and esports on shared real-time pipelines and plans to train its own crew, it signals that real-time rendering is becoming a common substrate across formats, not a per-project tool, and that operators rather than hardware are the real constraint.
+Takeaway: Plan real-time builds as shared infrastructure and budget for the operators, not just the volume: an environment built for one format should be re-lit and re-used across film, stage and interactive work, and the scarce resource is the crew who can run it.
+
+### Prada turning a Milan arcade into an eight-floor world signals retail built as a destination
+https://signal.sensalab.io/article-prada-galleria-milan-destination-retail-signal.html
+Summary: Prada opened an eight-floor Prada Galleria in Milan's Galleria Vittorio Emanuele II, mixing retail, exhibitions, dining and a cultural gallery.
+Why it matters: When a luxury house turns a flagship into eight floors of retail, exhibitions, dining and a cultural gallery, it signals that flagship retail is being measured in dwell time and return visits rather than single transactions; the product stays for sale, but the experience around it becomes the reason to walk in.
+Takeaway: Design a permanent brand space as a venue, not a shop: pair the commercial floor with a rotating exhibition and a hospitality anchor so it earns repeat footfall across a calendar of reasons to return, instead of a single launch spike.
+
+### An agency writing measurement into the brief signals experiential built to answer for outcomes
+https://signal.sensalab.io/article-gpj-experience-intelligence-outcomes-signal.html
+Summary: GPJ launched its Experience Intelligence System, writing measurement into the creative brief across participation, sentiment and business impact.
+Why it matters: When a major agency writes measurement into the creative brief and rolls out purpose-built KPIs tied to brand goals, it signals that experiential is being asked to answer for outcomes across participation, sentiment and business impact, designed in from the start rather than retrofitted in a post-event deck.
+Takeaway: Treat measurement as a design input: agree the two or three behaviours that would prove the experience worked and instrument the space to capture them while it runs, so the build and its evidence are designed together from the first sketch.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
