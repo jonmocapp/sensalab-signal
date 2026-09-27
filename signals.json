@@ -1,7 +1,35 @@
 {
-  "generated": "2026-09-26T16:49:03.443789+00:00",
+  "generated": "2026-09-27T17:21:00.919849+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmifkfvx3lxtfbkywlkbnpcdljkcvhyrzbqqvoxltd4avrsb3bmvjrxb2xjtjlqzgy4ohpjdfnjuzdnqwhvv2v5bhpfufbqvvplejd6b0hyywpnr3rma0tzdc1oamz2eejowkqzvuphsldwujloy18tudm3umlssxjyz29cuzj1qq",
+      "headline": "A new immersive art fair is coming to the Merchandise Mart this October in Chicago",
+      "source": "Secret Chicago",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkYWlkbnpCdlJkcVhYRzBQQVoxLTd4aVRSb3BmVjRXb2xJTjlQZGY4OHpJdFNJUzdnQWhVV2V5bHpFUFBQVVplejd6b0hyYWpnR3RMa0tzdC1oamZ2eEJOWkQzVUphSldWUjloY18tUDM3UmlSSXJyZ29CUzJ1QQ?oc=5",
+      "take": "A new immersive art fair is coming to the Merchandise Mart this October in Chicago Secret Chicago",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.387,
+      "published": "2026-09-27T17:00:00+00:00",
+      "added": "2026-09-27T17:21:00.919849+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmikgfbvv95cuxpcdn4ww9msuxrctqxx3diamzkogw2bthzzkljz0nutxbtchnivknusgpruvzitk5ltk1lcvb2vzdhufutdgt0ynnwrgxsnvdwvus1oxhamfvlvlvfwdffcxiwz0v0dmhyznvdu2xtalnvbnrpmlbqyktim0xkedf1x0yzaxvpquqxckzmdvhhc3npudiblwfbvv95cuxoodhfelizandydwjvwdzuuupkse1ockdswep6skl1mjbzltnjujm5dlluavfkluzesnp1x1dxqkhyyxrpt3pmykf6ze1pexzhtflfcnrtuzzpa0frwm9ltlkwn2lmcdlkcefbdxpnoue2ckjhzjnkvgxiauxhvc1rszjzbu9mtfgwulzoymlkm0ferxa1lupb",
+      "headline": "Oprah Winfrey wants you to reach your ‘AHA’ moment at the Sphere",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcDN4WW9MSUxrcTQxX3dIamZKOGw2bThZZkljZ0NUTXBTcHNiVkNuSGpRUVZiTk5LTk1lcVB2VzdHUFUtdGt0YnNWRGxsNVdWVUs1OXhaMFVlVlVfWDFfcXIwZ0V0dmhyZnVDU2xtalNvbnRpMlBQYktiM0xkeDF1X0YzaXVpQUQxckZMdVhHc3NPUdIBlwFBVV95cUxOODhFelIzandYdWJvWDZUUUpkSE1OckdsWEp6Skl1MjBzLTNJUjM5dlluaVFkLUZESnp1X1dxQkhyYXRpT3pMYkF6ZE1peXZHTFlFcnRtUzZPa0FRWm9LTlkwN2lmcDlkcEFBdXpNOUE2ckJHZjNKVGxIaUxHVC1rSzJzbU9mTFgwUlZOYmlKM0FERXA1LUpB?oc=5",
+      "take": "Oprah Winfrey wants you to reach your ‘AHA’ moment at the Sphere ABC News - Breaking News, Latest News and Videos",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.533,
+      "published": "2026-09-27T07:50:14+00:00",
+      "added": "2026-09-27T17:21:00.919849+00:00"
+    },
     {
       "key": "https://news.google.com/rss/articles/cbmirgfbvv95cuxnmdjbdfldyljqyld0ohzrcmjpbw9qu0fimlpjylpknwtnoewxmuxxs0cytufmqjcwt0fawxdjrfcxsmrtutlpttles2vxdmrsnmtrejm1b3ytyvljzuvqqxdodgllmjlam0nytkpmakrlrkremwl3bvzyeda1tgdwemzyrk5wyniydu1grwxtnhz5zdngskl5awhxbeituenkchdtvxvuz1lknwnuagfsabmbqvvfexfmugjhn1ntqwl2vi13wgpxr3rubjfksnnuodrnqnrnwdblwfrbd29vmufvzfb3dkh6ntnvrxbru3mxempsue1lewc1ceotwfd2zwtdslrwu3eyagr6mhllbzvuaezqehy2n0lus0vpvkxjt1ztunlpwe1jcgdau3npa190mnbyt2l3x25pndlua0lommjsc2ftt2r2s0hrenzmuwozmmthykjhv3licxvfz2lia0e",
       "headline": "What's In Store!! Prada Galleria Brings An Elevated Immersive Experience To Milan",
@@ -43,6 +71,34 @@
       "score": 0.423,
       "published": "2026-09-26T01:13:48+00:00",
       "added": "2026-09-26T16:49:03.443789+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi0wfbvv95cuxnyw9dbwxhttrocktmvvh1d1l4mk00ejzoa3kttvfrqwy5txu4cwzornn2ek1dumfktkyzuzb1u2roazh6mf94sfnyv2rqwufyqi05afvwtgzqq3lpy1dxd3zkwtfzrkdvlwlwuktrluzpmvp1b0gzx2vvnjiydeoyzk9jvg9luxjqzeh6ajbnm0p0cjhsbhb2euvzt0oyagxhv2lxy3kxqzvmaxjwtxa1x3pntvexrnnkvg5qmurns2phndbzrwnwofbxnwmtd1ffzm5z",
+      "headline": "SUN: Md. residents voice concerns over proposal to build Sphere",
+      "source": "WBFF",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYW9DbWxHTTROcktmVVh1d1l4Mk00ejZOa3ktTVFrQWY5TXU4cWZoRnN2ek1DUmFkTkYzUzB1U2Roazh6MF94SFNYV2RQWUFYQi05aFVwTGZQQ3lpY1dxd3ZKWTFzRkdvLWlwUktrLUZpMVp1b0gzX2VVNjIydEoyZk9jVG9LUXJqZEh6ajBNM0p0cjhSbHB2eUVzT0oyaGxHV2lXY3kxQzVmaXJwTXA1X3pnTVExRnNKVG5qMURNS2phNDBzRWNwOFBXNWMtd1FfZm5z?oc=5",
+      "take": "SUN: Md. residents voice concerns over proposal to build Sphere WBFF",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.389,
+      "published": "2026-09-25T21:51:28+00:00",
+      "added": "2026-09-27T17:21:00.919849+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxnsu1wvgtudmpcotlbqjjmynz6rexjdelhmvf3mgiymuzrcfjjwjdsakvqmhgxr2fjvvv5twv5zzawm1hhzelxc1buu1c4wm9hsvhzzxr5tk84tmlybw40dxrmzuptt2lrvtzxy2r2zfe4teh0ewpjvfy0s2rza3lrzl9fvxzvqjbtb2hvq1b3znnyuedgcf9b",
+      "headline": "Backstreet’s Back: Backstreet Boys Return to Las Vegas Sphere with Six New Shows in Summer 2026",
+      "source": "TicketNews",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSU1wVGtudmpCOTlBQjJmYnZ6RExJdElHMVF3MGIyMUZRcFJjWjdSakVqMHgxR2FJVVV5TWV5ZzAwM1hhZElxc1BuU1c4Wm9hSVhzZXR5Tk84TmlybW40dXRmZUpTT2lrVTZXY2R2ZFE4TEh0eWpJVFY0S2Rza3lrZl9fVXZVQjBTb2hVQ1B3ZnNyUEdGcF9B?oc=5",
+      "take": "Backstreet’s Back: Backstreet Boys Return to Las Vegas Sphere with Six New Shows in Summer 2026 TicketNews",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.416,
+      "published": "2026-09-25T20:42:51+00:00",
+      "added": "2026-09-27T17:21:00.919849+00:00"
     },
     {
       "key": "https://www.theartnewspaper.com/2026/09/25/tom-wesselmann-studio-cooper-square-tomokazu-matsuyama",
@@ -183,6 +239,20 @@
       "score": 0.461,
       "published": "2026-09-25T02:06:10+00:00",
       "added": "2026-09-26T16:49:03.443789+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmib0fvx3lxtfbfbwq5vu44sengxzdov1byv3d6ujllbe1mwtlomelmv3ppvdg4vvn3vjvrvg9fynhkrjnwd1jmwu9hunfoq01ltudmrgdvtwzbyuxkwwjevndidek2bdrurzb2mhfrmjvedtrpb2s3bw",
+      "headline": "MGallery Collection unveils Nírema Hotel & Spa Samos, a new design-led seafront retreat in Greece",
+      "source": "WebWire",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfbWQ5VU44SENGXzdOV1BYV3d6UjllbE1MWTloMElMV3ppVDg4VVN3VjVrVG9FYnhkRjNWd1JMWU9HUnFOQ01lTUdMRGdvTWZBYUxKWWJEVndIdEk2bDRuRzB2MHFRMjVEdTRpb2s3bw?oc=5",
+      "take": "MGallery Collection unveils Nírema Hotel & Spa Samos, a new design-led seafront retreat in Greece WebWire",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.345,
+      "published": "2026-09-24T23:56:14+00:00",
+      "added": "2026-09-27T17:21:00.919849+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmirafbvv95cuxornbpq0vwcxjeuezzqlpsstbsx09jbvzldk5wseg1b3hvetv4axbdbxn5ctzlttrptzdhmjjiwepjexdnvu5gchpwsupdqznozg1nuwfzq2lvmjrqtjk3ognwdujxr282chjvuwrcdlu1bhddbl9mq0stwdfknu01eut6wkh6adbbtfrrytu0u3vjou9buuvsou14uu5fafzyz3fwqnowzuttskm4",
@@ -479,6 +549,20 @@
       "added": "2026-09-23T17:33:21.334508+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmiaefvx3lxte1xrhl3q2c0ahhkwnczavdwrs0wb0dbeleyzdbvzwu1qwftv1jtowhjwgvvauhzx2rlmnm3umnmylzkve5dsglznhlmu1zkn09vdnpirunhtkfzuuljynm5aehaztlimedo",
+      "headline": "The Vegas Sphere and Disguise Announce Multi-Year Partnership",
+      "source": "AVNetwork",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XRHl3Q2c0aHhkWnczaVdWRS0wb0dBelEyZDBVZWU1QWFtV1JtOWhjWGVVaUhZX2RlMnM3UmNmYlZkVE5DSGlZNHlmU1ZKN09VdnpiRUNHTkFzUUlJYnM5aEhaZTlIMEdo?oc=5",
+      "take": "The Vegas Sphere and Disguise Announce Multi-Year Partnership AVNetwork",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.397,
+      "published": "2026-09-23T12:28:49+00:00",
+      "added": "2026-09-27T17:21:00.919849+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmiigfbvv95cuxnwwzqsghmt2jvrefgclhhtgkwmgrzaenac2jatvlbxzhjavdtadm2c1vvaklnognkttvkzvfka2xer0c3x01sdjzrahfnt1yxmvllnfn4lwo2whzprxl2vthutvpwmlpnqvfgtwm0oxbzre1squhnnee1tl90s3himlhncgy0v0n6dmc",
       "headline": "Metallica Expands Sphere Residency to 24 Shows",
       "source": "TicketNews",
@@ -757,90 +841,6 @@
       "score": 0.383,
       "published": "2026-09-22T16:08:55+00:00",
       "added": "2026-09-22T17:25:30.640551+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmib0fvx3lxte1xrjz5tdm2cvjvmgctrhmycddjy0zkmep3akhkyzv6wwtdrll6vvc1dju5zfred3nmehhgc3lxswqzrvl1umteelnnvxnezfc1tzhacm1knmhvq0m2uwdhcfi1evbsxzjfqi1it2dqdw",
-      "headline": "A Defining Moment for MGallery Collection: Brand Signs Ink 48 as Its U.S. Flagship Hotel in New York",
-      "source": "WebWire",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xRjZ5TDM2cVJvMGctRHMycDdjY0ZKMEp3akhKYzV6WWtDRll6VVc1djU5ZFREd3NmeHhGc3lXSWQzRVl1UmtEelNnVXNEZFc1Tzhacm1KNmhvQ0M2UWdHcFI1eVBsXzJFQi1iT2dqdw?oc=5",
-      "take": "",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.316,
-      "published": "2026-09-22T14:20:03+00:00",
-      "added": "2026-09-22T17:25:30.640551+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmibefvx3lxte41a1p4uxphzzlunk1omfzfmwpkswjkd1ljq3fgvzjxoemzb29ltumwafn4rwvvvelxexpvtjhqblnslwdmtwtst2p3wldic2fqym5nq2k1chdyugzndvbxy3hrewhstfpsbhc4tw",
-      "headline": "FRAMELESS is running immersive art sessions until 10pm on Fridays and Saturdays",
-      "source": "Crack Magazine",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41a1p4UXpHZzluNk1oMFZfMWpKSWJKd1lJQ3FGVzJXOEMzb29lTUMwaFN4RWVvVElXeXpvTjhQblNsLWdMTWtsT2p3Wldic2FqYm5NQ2k1cHdyUGZndVBXY3hreWhSTFpSbHc4Tw?oc=5",
-      "take": "FRAMELESS is running immersive art sessions until 10pm on Fridays and Saturdays Crack Magazine",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.416,
-      "published": "2026-09-22T12:49:09+00:00",
-      "added": "2026-09-23T17:33:21.334508+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmikwfbvv95cuxpx1j3njnrv3lscvrpd29pd0xxzupcrnnobxljnxz5zmfyumnxrvp6se1rrwxpnhh0dnrkneftsjnzm3vtmez1ndhumtdcyxdveghqlu5luhv5ahvvne1ymxnmefv1tkroudvumgxdqvfxwupuoejwac1ickv1mkfsvhfvovf2sdvhmjrvde5iovgtohc",
-      "headline": "Industry Snapshot: Why experiential marketing is winning attention",
-      "source": "Campaign Middle East",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX1J3NjNRV3lscVRpd29pd0xXZUpCRnNobXljNXZ5ZmFyUmNXRVp6SE1RRWxPNHh0dnRKNEFTSjNzM3VtMEZ1NDhuMTdCYXdveGhqLU5LUHV5aHVvNE1YMXNMeFV1TkROUDVUMGxDQVFXWUpUOEJWaC1ickV1MkFsVHFVOVF2SDVhMjRVdE5iOVgtOHc?oc=5",
-      "take": "Industry Snapshot: Why experiential marketing is winning attention Campaign Middle East",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.414,
-      "published": "2026-09-22T10:00:05+00:00",
-      "added": "2026-09-22T17:25:30.640551+00:00"
-    },
-    {
-      "key": "https://www.adweek.com/creativity/with-a-self-help-book-i-cant-believe-its-not-butter-aims-to-inspire-america",
-      "headline": "With a Self-Help Book, I Can’t Believe It’s Not Butter Aims to Inspire America",
-      "source": "Adweek",
-      "link": "https://www.adweek.com/creativity/with-a-self-help-book-i-cant-believe-its-not-butter-aims-to-inspire-america/",
-      "take": "The ‘90s diet icon is entering its next chapter, led by new mascot Tubz (and a Fabio cameo).",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "rotate",
-      "geo": false,
-      "score": 0.36,
-      "published": "2026-09-22T09:01:00+00:00",
-      "added": "2026-09-22T17:25:30.640551+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiwefvx3lxte9vc0pfyldqanm5yxjsazzxqlm5emjbsvrnrc1mcerpz1hwothvu0iwzfrxv1vsmmv2m1p4lvdnovdfagnvanhtcljiazd1q3vnykf5uzr5uvc",
-      "headline": "Moment Factory at 25: why immersive experiences are about more than technology",
-      "source": "Blooloop",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Vc0pFYldqanM5YXJsazZXQlM5emJBSVRNRC1mcERpZ1hwOThVU0IwZFRxV1VsMmV2M1p4LVdnOVdFaGNVanhtclJiazd1Q3VnYkF5UzR5UVc?oc=5",
-      "take": "Moment Factory at 25: why immersive experiences are about more than technology Blooloop",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.383,
-      "published": "2026-09-22T09:00:08+00:00",
-      "added": "2026-09-22T17:25:30.640551+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiw0fvx3lxte5znzzjsuk4egnwne5ucefsui03cezrv1jhrkxhu29bwmdxntnxrdzmwhfhwxe5nwu4qufdquduuwvisdfcdglfdtd4uznpumdux2hlexrer2lhbta",
-      "headline": "Cosm to present Shrek in Shared Reality, in partnership with Universal Film",
-      "source": "blooloop",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZNzZjSUk4eGNwNE5ucEFsUi03cEZrV1JHRkxHU29BWmdXNTNxRDZmWHFHWXE5NWU4QUFDQUduUWViSDFCdGlfdTd4UzNpUmdUX2hLeXRER2lhbTA?oc=5",
-      "take": "Cosm to present Shrek in Shared Reality, in partnership with Universal Film blooloop",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.337,
-      "published": "2026-09-22T08:45:06+00:00",
-      "added": "2026-09-23T17:33:21.334508+00:00"
     }
   ]
 }
