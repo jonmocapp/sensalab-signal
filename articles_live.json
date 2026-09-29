@@ -3116,6 +3116,147 @@
           "text": "SensaLab builds real-time and immersive activations as a white-label partner, and designs them to be legible to measurement, so an agency or brand can prove what a live experience moved under its own name. The signal in EIS is that experiential is being asked to answer for outcomes, and the work that plans for that from the brief will hold up best."
         }
       ]
+    },
+    {
+      "slug": "sphere-disguise-media-server-venue-infrastructure-signal",
+      "cat": "Concert visuals",
+      "tokens": "concerts",
+      "edition": 21,
+      "source_name": "PLSN",
+      "source_url": "https://plsn.com/featured/las-vegas-sphere-and-disguise-announce-multi-year-partnership/",
+      "date": "2026-09-23",
+      "image_url": "",
+      "headline": "Sphere hard-wiring Disguise into its stack signals the media server as venue infrastructure",
+      "dek": "Sphere Entertainment and Disguise signed a multi-year deal to co-develop video playback and prepare the venue for Abu Dhabi and Maryland. The signal is the media server treated as permanent infrastructure, not rental gear.",
+      "focus_keyword": "real-time media servers",
+      "read_minutes": 3,
+      "meta_description": "Sphere and Disguise signed a multi-year deal to co-develop video playback tech. Why treating the media server as venue infrastructure matters for live production.",
+      "why": "When the operator of the most-watched immersive venue signs a multi-year deal to co-develop its media server roadmap rather than renting playback per show, it signals that real-time video infrastructure is becoming a fixed part of a venue's architecture, engineered alongside the building and scaled as the format is exported.",
+      "takeaway": "Treat the playback engine as infrastructure, not a rental line item: specify the media server, its content pipeline and its scaling path at the same time you design the canvas, so the show and the system that drives it are planned as one.",
+      "body": [
+        {
+          "type": "para",
+          "text": "On 23 September 2026, Sphere Entertainment Co. and Disguise announced a multi-year technology partnership to co-develop video technologies custom-made for Sphere, according to PLSN. Disguise has been a key technology partner since Sphere opened in 2023, and the venue uses Disguise media servers and software to process, synchronise and play back content in real time at a scale the companies describe as unparalleled in live entertainment. The expanded agreement is aimed at advancing the technologies and workflows that accelerate video playback and preparing the venue for its next phase of global growth, with Sphere set to be the first partner to bring Disguise's next-generation technology to market. Ryan Dolan, executive vice president and head of event and interactive technology at Sphere, said the venue was built to redefine live entertainment and that pushing the boundaries of immersive experiences required technology partners that share its ambition. Disguise chief executive Fernando Kufer framed the next stage as expanding Sphere's video offerings around Disguise's technology, after three years of development together."
+        },
+        {
+          "type": "subhead",
+          "text": "The signal is playback treated as architecture"
+        },
+        {
+          "type": "para",
+          "text": "The headline reads like a vendor renewal, but the real signal is where the video engine now sits. Sphere is not booking a media server for a run of shows; it is co-owning a roadmap and committing to deploy the next generation first. That moves playback from a rental line item hung on a truss to a fixed layer of the building, specified and scaled like power or structure. The venue's plans to repeat the format in Abu Dhabi and in National Harbor, Maryland, make the logic clear: if the canvas is going to be exported, the system that drives it has to be engineered to travel, not reassembled from hired parts each time."
+        },
+        {
+          "type": "para",
+          "text": "For a producer, the useful read is not the brand names but the order of operations. You do not need a bespoke deal to adopt the discipline of specifying the playback engine, its content pipeline and its failover at the same moment you design the canvas, rather than choosing pixels first and solving the drive later. Deciding early how content is processed, synchronised and served is what keeps a large display from becoming a bottleneck, and it is the difference between a screen that shows video and a system that performs reliably every night."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "Real-time media servers are the quiet backbone of almost any large immersive build, from a projection-mapped facade to an [LED volume](/kits/shows), because they are what turn a stack of panels into a single, frame-accurate surface. Treating that engine as core infrastructure, not an afterthought, is the habit worth borrowing here: the content pipeline, the synchronisation and the room's ability to scale are design questions, decided at the brief, not procurement questions settled at load-in. A venue signing a multi-year commitment to its playback layer is a reminder that the system behind the image is as much the product as the image."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab builds real-time and immersive shows as a white-label partner, and engineers the playback and content pipeline alongside the canvas, so an agency or brand can put a large-format experience on the floor under its own name and trust it to run. The signal in the Sphere deal is that the media server has become infrastructure, and the work that plans for it that way is the work that holds up at scale."
+        }
+      ]
+    },
+    {
+      "slug": "universal-hollywood-sign-projection-landmark-stage-signal",
+      "cat": "Experiential",
+      "tokens": "experiential",
+      "edition": 21,
+      "source_name": "AV Magazine",
+      "source_url": "https://www.avinteractive.com/territories-news/us-canada/universal-studios-hollywood-projection-maps-iconic-la-sign-23-09-2026/",
+      "date": "2026-09-23",
+      "image_url": "",
+      "headline": "Universal projecting onto the Hollywood Sign signals the protected landmark as a one-night stage",
+      "dek": "Universal projection-mapped the Hollywood Sign to launch its Fast & Furious: Hollywood Drift ride, working with Paintscaping and the Hollywood Chamber of Commerce. The signal is a protected landmark becoming a licensed, temporary screen.",
+      "focus_keyword": "projection mapping",
+      "read_minutes": 3,
+      "meta_description": "Universal projection-mapped the Hollywood Sign for its Fast & Furious ride launch. Why turning a protected landmark into a one-night screen matters for experiential teams.",
+      "why": "When a studio lights a protected civic landmark for a single promotional night, working through the body that controls it, it signals that the most valuable canvas is often a place people already know, unlocked by permission and a projection plan rather than built from scratch.",
+      "takeaway": "Scout the landmark before you build the set: the fastest route to reach and recall is often a place the audience already recognises, turned into a temporary screen through the right permissions and a projection plan, not a structure fabricated from zero.",
+      "body": [
+        {
+          "type": "para",
+          "text": "Universal Studios Hollywood projection-mapped the Hollywood Sign to mark the opening of its Fast & Furious: Hollywood Drift roller coaster, which opened on 16 September 2026, according to AV Magazine. The 14-metre-tall white letters were showered in chrome and lit with imagery of speeding-car lights drawn from the films, with the words Fast & Furious appearing across the sign's W. The mapping was carried out by Los Angeles-based studio Paintscaping, with technical support from Jeff Kleiser, a visual-effects veteran and chief executive of Synthespian Studios, whose property sits directly below the landmark. Universal created the promotion in partnership with the Hollywood Chamber of Commerce, the body that stewards the protected sign."
+        },
+        {
+          "type": "subhead",
+          "text": "The signal is permission, not spectacle"
+        },
+        {
+          "type": "para",
+          "text": "The eye-catching part is the chrome, but the real signal is access. The Hollywood Sign is a protected landmark that is normally off-limits as an advertising surface, so the story is less about the projectors than about the deal that lit them: a studio, a mapping specialist and the chamber that controls the site agreeing to turn a civic monument into a screen for one night. The canvas already carried a century of recognition; the work was unlocking it, not building it. That is a different production model from fabricating a set, and it puts the heaviest lifting into rights, siting and a projection plan rather than steel and freight."
+        },
+        {
+          "type": "para",
+          "text": "For a producer, the transferable move is to scout before you build. The most efficient path to reach and recall is frequently a place the audience already knows, converted into a temporary stage through the right permissions and a careful projection design, rather than a structure raised from nothing on a rented lot. That means starting with who controls the surface, what the sightlines and throw distances allow, and how a short, well-documented activation earns its coverage, then designing the content to the landmark instead of forcing a generic set into an unfamiliar space."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "Projection mapping onto an existing structure is one of the highest-leverage tools an experiential team has, because it borrows a location's built-in meaning and scale instead of paying to manufacture them. The craft is technical, aligning content to an irregular real-world surface, and it is logistical, since a landmark [activation](/kits/activations) lives or dies on permissions, timing and a clean single-night execution. Universal's choice to route the launch through the sign's steward, rather than a purpose-built stage, is a reminder that the site and its rights are part of the creative brief, not a detail handled after the concept is locked."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab designs projection and immersive activations as a white-label partner, mapping content to real architecture and planning the siting and execution around it, so an agency or brand can stage a landmark moment under its own name and land it cleanly on the night. The signal in Universal's Hollywood Sign is that the most powerful canvas is often one the audience already recognises, reached through permission and a plan rather than built from scratch."
+        }
+      ]
+    },
+    {
+      "slug": "honda-disneyland-encanto-d23-product-as-scene-signal",
+      "cat": "Experiential",
+      "tokens": "experiential",
+      "edition": 21,
+      "source_name": "Event Marketer",
+      "source_url": "https://www.eventmarketer.com/article/honda-encanto-d23-fandom-2026/",
+      "date": "2026-09-24",
+      "image_url": "",
+      "headline": "Honda folding its cars into Encanto fandom at D23 signals the product as scene",
+      "dek": "Honda and Disneyland turned their two-decade alliance into an Encanto activation at D23 2026, from a character dance experience to vehicles staged inside the fandom. The signal is the product placed inside the story, not beside it.",
+      "focus_keyword": "brand activation",
+      "read_minutes": 3,
+      "meta_description": "Honda built its cars into an Encanto activation at D23 2026 rather than a static stand. Why staging a product inside the story matters for experiential brand teams.",
+      "why": "When a long-time sponsor turns its expo presence into a themed experience built around a film rather than a vehicle stand, it signals that the effective move is to place the product inside a story the audience already loves, earning attention through participation instead of proximity.",
+      "takeaway": "Put the product inside the experience, not next to it: give visitors a reason to engage with the story first and let the brand live inside that scene, so people remember taking part rather than passing a display.",
+      "body": [
+        {
+          "type": "para",
+          "text": "At D23: The Ultimate Disney Fan Event, held 14 to 16 August 2026, Honda and Disneyland built their footprint around Walt Disney Animation Studios' film Encanto rather than a conventional vehicle stand, according to Event Marketer. Guests could join an Encanto Dance Experience, dancing alongside characters from the film, then download and share an exclusive D23 video, and every attendee received a set of commemorative D23 buttons featuring the movie's characters. Honda's vehicles, including the Odyssey minivan and Acura's flagship three-row MDX, were staged inside that themed environment rather than lined up on a plinth. The activation extended a partnership that Honda dates to January 2005, which has spanned the sponsorship and re-engineering of Disneyland's Autopia attraction and fireworks sponsorships, and under which Honda is the official vehicle of the Disneyland Resort."
+        },
+        {
+          "type": "subhead",
+          "text": "The signal is the product inside the story"
+        },
+        {
+          "type": "para",
+          "text": "A car company at a fan expo could default to a row of vehicles and a spec sheet. The signal in Honda's approach is the inversion: the draw is the Encanto experience, and the product lives inside it. That reframes the vehicle from the thing being shown to part of the scene the audience chose to enter, and it trades passive proximity, a shopper walking past a display, for participation, a fan dancing with a character and leaving with a video and a button. The brand's payoff is not a glance but a memory of taking part, which is a far stickier form of attention at an event built entirely around fandom."
+        },
+        {
+          "type": "para",
+          "text": "For a producer, the transferable discipline is to lead with the reason to engage and let the brand sit inside it. That means designing the interaction first, what a visitor does, feels and takes away, and then placing the product where it belongs in that moment, rather than starting from the asset you must feature and bolting an experience around it. The shareable video and the collectible button are worth noting too: they give the guest a role and a takeaway, turning a booth visit into something the visitor carries out of the room and, often, onto their own feeds."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "Honda's D23 build is a clean example of a brand borrowing an existing story's emotional pull instead of manufacturing its own from scratch, the same logic behind any licensed or co-branded [activation](/kits/activations). The craft is in the integration: making the product feel native to the world rather than an interruption of it, and giving guests an action, not just a sight. A long-time sponsor choosing a themed, participatory experience over a static display is a reminder that relevance at a fan event is earned by joining the story the audience came for, and designing the brand's place inside it deliberately."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab builds branded and immersive activations as a white-label partner, designing the interaction first and integrating a product or message so it reads as part of the world, so an agency or brand can show up inside a story the audience already loves under its own name. The signal in Honda's D23 presence is that the product belongs inside the experience, and the work that designs it that way is what people remember."
+        }
+      ]
     }
   ]
 }

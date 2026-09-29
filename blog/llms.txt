@@ -444,6 +444,24 @@ Summary: GPJ launched its Experience Intelligence System, writing measurement in
 Why it matters: When a major agency writes measurement into the creative brief and rolls out purpose-built KPIs tied to brand goals, it signals that experiential is being asked to answer for outcomes across participation, sentiment and business impact, designed in from the start rather than retrofitted in a post-event deck.
 Takeaway: Treat measurement as a design input: agree the two or three behaviours that would prove the experience worked and instrument the space to capture them while it runs, so the build and its evidence are designed together from the first sketch.
 
+### Sphere hard-wiring Disguise into its stack signals the media server as venue infrastructure
+https://signal.sensalab.io/article-sphere-disguise-media-server-venue-infrastructure-signal.html
+Summary: Sphere Entertainment and Disguise signed a multi-year deal to co-develop video playback and prepare the venue for Abu Dhabi and Maryland.
+Why it matters: When the operator of the most-watched immersive venue signs a multi-year deal to co-develop its media server roadmap rather than renting playback per show, it signals that real-time video infrastructure is becoming a fixed part of a venue's architecture, engineered alongside the building and scaled as the format is exported.
+Takeaway: Treat the playback engine as infrastructure, not a rental line item: specify the media server, its content pipeline and its scaling path at the same time you design the canvas, so the show and the system that drives it are planned as one.
+
+### Universal projecting onto the Hollywood Sign signals the protected landmark as a one-night stage
+https://signal.sensalab.io/article-universal-hollywood-sign-projection-landmark-stage-signal.html
+Summary: Universal projection-mapped the Hollywood Sign to launch its Fast & Furious: Hollywood Drift ride, working with Paintscaping and the Hollywood Chamber of Commerce.
+Why it matters: When a studio lights a protected civic landmark for a single promotional night, working through the body that controls it, it signals that the most valuable canvas is often a place people already know, unlocked by permission and a projection plan rather than built from scratch.
+Takeaway: Scout the landmark before you build the set: the fastest route to reach and recall is often a place the audience already recognises, turned into a temporary screen through the right permissions and a projection plan, not a structure fabricated from zero.
+
+### Honda folding its cars into Encanto fandom at D23 signals the product as scene
+https://signal.sensalab.io/article-honda-disneyland-encanto-d23-product-as-scene-signal.html
+Summary: Honda and Disneyland turned their two-decade alliance into an Encanto activation at D23 2026, from a character dance experience to vehicles staged inside the fandom.
+Why it matters: When a long-time sponsor turns its expo presence into a themed experience built around a film rather than a vehicle stand, it signals that the effective move is to place the product inside a story the audience already loves, earning attention through participation instead of proximity.
+Takeaway: Put the product inside the experience, not next to it: give visitors a reason to engage with the story first and let the brand live inside that scene, so people remember taking part rather than passing a display.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
