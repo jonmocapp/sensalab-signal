@@ -3257,6 +3257,159 @@
           "text": "SensaLab builds branded and immersive activations as a white-label partner, designing the interaction first and integrating a product or message so it reads as part of the world, so an agency or brand can show up inside a story the audience already loves under its own name. The signal in Honda's D23 presence is that the product belongs inside the experience, and the work that designs it that way is what people remember."
         }
       ]
+    },
+    {
+      "slug": "moreno-valley-museum-immersive-van-gogh-civic-reuse-signal",
+      "cat": "Interactive",
+      "tokens": "interactive",
+      "edition": 21,
+      "source_name": "Lighthouse Immersive",
+      "source_url": "https://lighthouseimmersive.com/moval-museum-experience/",
+      "date": "2026-09-25",
+      "image_url": "",
+      "headline": "Moreno Valley turning a shuttered Sears into an immersive museum signals civic reuse",
+      "dek": "The news is not another Van Gogh projection. It is that a city reopened a dead department-store anchor as a ticketed immersive venue, turning immersive content into civic real-estate strategy.",
+      "focus_keyword": "immersive museum",
+      "read_minutes": 3,
+      "meta_description": "Moreno Valley and Lighthouse Immersive reopened a 38,000 sq ft former Sears as an immersive museum. Why that reuse model matters more than the Van Gogh show itself.",
+      "why": "When a municipal government re-tenants a dark big-box anchor with projection, spatial audio and retail rather than a seasonal pop-up, immersive content has crossed from novelty into durable, bookable infrastructure a producer can template.",
+      "takeaway": "Treat immersive projection as a reusable venue format, not a one-off exhibition: read the room first, design the retail and food adjacencies into the show, and let a civic or real-estate partner share the risk.",
+      "body": [
+        {
+          "type": "para",
+          "text": "The City of Moreno Valley and Lighthouse Immersive opened the Moreno Valley Museum and ArtSpace on 25 September 2026, converting a former 38,000-square-foot Sears at the Moreno Valley Mall into a combined museum and entertainment complex, according to Lighthouse Immersive and trade coverage of the opening. The venue's first major show is Immersive Van Gogh: The Next Chapter, which the operators describe as more than 140 artworks recreated through animated projections, surround sound and immersive visual effects. Beyond the projection hall, the building carries hands-on exhibits, additional galleries, curated retail, a cafe and on-site parking, so it reads as both a civic museum and a ticketed attraction under one roof."
+        },
+        {
+          "type": "subhead",
+          "text": "The real signal is the box, not the brushwork"
+        },
+        {
+          "type": "para",
+          "text": "Immersive Van Gogh has toured for years, so another staging is not the story. The signal is where it landed. A municipal government took a 38,000-square-foot retail anchor left behind by a department store and reopened it as a projection venue with galleries and retail attached. That reframes immersive content as civic infrastructure: a way to re-tenant dead square footage, program a downtown and sell tickets, rather than a short pop-up that strikes after a season. When a city treats a dark anchor as a stage, the immersive format stops being a novelty and becomes a real-estate strategy."
+        },
+        {
+          "type": "subhead",
+          "text": "What a producer can do now"
+        },
+        {
+          "type": "para",
+          "text": "If you are pitching a brand or a developer sitting on vacant big-box space, the Moreno Valley model is a template you can borrow without the intellectual property. Van Gogh is public domain, but the mechanic is portable: a large, column-light floor plate, projection surfaces on the walls, a sound bed, a retail and cafe tail to lift dwell and spend, and a civic partner to share risk. Scope the space first by its ceiling height, floor flatness and sightlines, because those decide whether animated projection reads as immersive or as wallpaper. Then design the retail and food adjacencies as part of the show, not as an afterthought bolted to the exit."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "For an experiential team, a venue like this is less a destination to visit than a reference build. It shows that animated projection, spatial audio and a controllable dark box can carry a full ticketed program for months rather than days, and that the economics improve when retail and hospitality are designed into the floor plan. The same stack powers a brand flagship, a seasonal activation or a touring production, so treating it as [a bookable show format](/kits/shows) rather than a single exhibition is the useful lens. The constraint is always the room: resolution, blend lines and acoustics decide whether guests feel surrounded or merely projected at."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab builds this kind of real-time and projection-driven work as a white-label partner, so an agency or developer can take an immersive venue to a client under its own name. If a dark anchor or a blank hall is on your desk, the useful first step is a technical read of the room before a creative treatment, and that is a conversation we are glad to have quietly in the background."
+        }
+      ]
+    },
+    {
+      "slug": "texas-legacy-in-lights-architecture-as-canvas-signal",
+      "cat": "CGI & VFX",
+      "tokens": "cgi",
+      "edition": 21,
+      "source_name": "TV Technology",
+      "source_url": "https://www.tvtechnology.com/production/filmmakers-rely-on-blackmagic-design-for-new-live-action-projection-mapping-project",
+      "date": "2026-07-23",
+      "image_url": "",
+      "headline": "A live-action film shot to wrap a museum facade signals architecture as the canvas",
+      "dek": "A project billed as the first live-action projection-mapping film designed its capture around a building's geometry. The signal is shooting for the surface, not warping footage to fit it afterward.",
+      "focus_keyword": "projection mapping film",
+      "read_minutes": 3,
+      "meta_description": "Texas Legacy in Lights was shot with up to five URSA Cine 12K LF cameras to map a 96-by-32-foot museum facade. Why designing capture around architecture changes projection work.",
+      "why": "When a production plans its cameras and resolution around a building's real geometry rather than fixing the image in software later, projection mapping shifts from a post-production rescue into a decision made on set, with resolution to spare.",
+      "takeaway": "If a facade is your stage, resolve the geometry before the shoot: model the surface, let it drive lens choice and camera count, and storyboard to the building's windows and setbacks as a storytelling tool rather than an obstacle.",
+      "body": [
+        {
+          "type": "para",
+          "text": "Blackmagic Design announced on 23 July 2026 that a project billed as the world's first live action projection mapping film, Texas Legacy in Lights, was captured with its URSA Cine 12K LF and PYXIS 6K cameras, according to the company and trade coverage from TV Technology and Mixonline. The film dramatizes the Texas Revolution of 1835 and is built to be projected onto the Gonzales Memorial Museum, a facade measuring 96 feet by 32 feet, roughly one and a half times the size of an IMAX screen. To cover that surface the team often ran five URSA Cine 12K LF cameras at once, all capturing a single take, then assembled the building like a mosaic so different facades carried different images at different moments."
+        },
+        {
+          "type": "subhead",
+          "text": "The real signal is shooting for the surface"
+        },
+        {
+          "type": "para",
+          "text": "Projection mapping is usually treated as a post-production job: shoot normally, then warp footage to fit a wall. The signal here is the inversion. The production designed the capture around the architecture, shooting ultra-wide at very high resolution specifically so the final image could be cut to the museum's real geometry without falling apart. That is a meaningful shift. When the camera plan starts from the building's dimensions rather than a rectangular frame, mapping stops being a rescue operation in software and becomes a decision made on the day, with resolution to spare."
+        },
+        {
+          "type": "subhead",
+          "text": "What a producer can do now"
+        },
+        {
+          "type": "para",
+          "text": "If a facade or a hard architectural surface is your stage, the lesson is to resolve the geometry before the shoot, not after. Measure the surface, model it, and let that model drive lens choice, camera count and overlap, because a 12K-class sensor exists precisely to give you room to crop into a non-rectangular canvas. Budget for the real cost here, which is not only cameras but the alignment and blending that turn several feeds into one seamless image across an uneven wall. And storyboard to the building: a facade with windows, cornices and setbacks can hold several images at once, which is a storytelling tool rather than an obstacle."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "For brand and cultural work, architecture is the most available large-format screen a city has, and most of it is free of the resolution limits that constrain LED budgets. A high-resolution capture-to-mapping pipeline lets a producer light up a landmark for an [activation](/kits/activations) without hanging a single panel, which matters when the venue is a heritage building that cannot be touched. The craft is in the match between source resolution and projected scale: shoot too tight and the wall looks soft, plan the geometry early and a 96-foot facade can read as sharp as a cinema screen."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab produces real-time and projection-mapped work for agencies and venues on a white-label basis, so the landmark and the client logo stay yours while the technical lift sits with us. If a building is the brief, the first useful step is a survey of the surface and the sightlines, and that is the kind of groundwork we prefer to do before anyone talks about content."
+        }
+      ]
+    },
+    {
+      "slug": "nbc-sports-nba-comic-book-tip-off-ip-as-promo-signal",
+      "cat": "Experiential",
+      "tokens": "experiential",
+      "edition": 21,
+      "source_name": "NBC Sports",
+      "source_url": "https://www.nbcsports.com/pressbox/press-releases/slam-bam-jam-nbc-sports-unveils-comic-book-campaign-featuring-all-30-nba-teams-in-celebration-of-american-express-nba-tip-off-on-oct-20",
+      "date": "2026-09-30",
+      "image_url": "",
+      "headline": "NBC turning NBA stars into comic-book heroes signals IP as a season opener",
+      "dek": "A broadcaster launched its basketball season by casting players as comic-book superheroes. The signal is borrowed visual grammar used with enough craft to read as native to fans.",
+      "focus_keyword": "brand campaign",
+      "read_minutes": 3,
+      "meta_description": "NBC Sports opened its 2026-27 NBA coverage with a comic-book campaign across all 30 teams, illustrated by a veteran Marvel and DC artist. Why borrowed fan grammar is the real move.",
+      "why": "When a broadcaster frames live athletes as recurring comic-book characters and hires an artist with real Marvel and DC credits, it signals that the fastest route to fandom is an existing visual code used with enough craft to feel native.",
+      "takeaway": "To launch a season, product or roster, consider adopting a known visual language wholesale rather than inventing one: commit fully, cast every figure, spend where the audience can tell the difference, and build the system to scale across the full roster.",
+      "body": [
+        {
+          "type": "para",
+          "text": "NBC Sports unveiled a comic-book campaign titled Tip Off to mark the start of its NBA coverage, with the 2026-27 regular season opening on NBC and Peacock on Tuesday 20 October with the first-ever American Express NBA Tip-Off triple-header, according to NBC Sports and trade coverage. The campaign renders the league's biggest names, among them Jalen Brunson, Victor Wembanyama, Shai Gilgeous-Alexander, Jayson Tatum, Stephen Curry and LeBron James, as comic-book superheroes, with every one of the 30 NBA teams given its own spotlight. Mike Tirico narrates the comic, which was illustrated by veteran artist Ryan Benjamin, whose credits span Batman, X-Men, Iron Man, Captain America, Wonder Woman and Star Wars across Marvel, DC and WildStorm."
+        },
+        {
+          "type": "subhead",
+          "text": "The real signal is borrowed grammar, not nostalgia"
+        },
+        {
+          "type": "para",
+          "text": "A comic book for a sports season sounds like a nostalgia play, but the signal is sharper. A broadcaster is borrowing the visual grammar of a beloved medium to frame live athletes as recurring characters, which is the same move brands make when they turn a product line into a cast. Hiring an artist with real Marvel and DC credits rather than a generic illustrator is the tell: the campaign is buying authenticity in a fan language, not just decoration. The lesson is that the fastest route to fandom is often an existing visual code, used with enough craft that the audience reads it as native rather than borrowed."
+        },
+        {
+          "type": "subhead",
+          "text": "What a producer can do now"
+        },
+        {
+          "type": "para",
+          "text": "If you are briefed to launch a season, a product or a roster of talent, consider adopting a known visual language wholesale rather than inventing one. The discipline is to commit: cast every figure, give each a consistent treatment, and extend the system across formats so it can live on a broadcast open, a social cut and a printed object. Spend where the audience can tell the difference, which usually means the illustration or the build, not the media buy. And design the system to scale to the full roster, as NBC did across 30 teams, so no stakeholder feels left out of the universe you have created."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "A flat comic book is the static end of a spectrum that runs straight into real-time and immersive work. The same character treatments can become animated broadcast graphics, a photo moment at an arena, or an augmented-reality layer that drops a fan into the hero frame, which is where a [branding](/kits/branding) system earns its keep across live and digital touchpoints. The constraint is consistency: once a visual universe exists, every activation has to honor it, so the art direction set at launch becomes the specification that an experiential team builds against for the rest of the season."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab extends brand visual systems into real-time, spatial and on-site experiences as a white-label studio, so the campaign and the client stay front of house while the production sits with us. If a launch has a strong visual world and needs to live in a venue or a headset as well as on screen, the groundwork we like to start with is a quiet audit of how far that system can stretch."
+        }
+      ]
     }
   ]
 }

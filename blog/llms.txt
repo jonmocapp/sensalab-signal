@@ -462,6 +462,24 @@ Summary: Honda and Disneyland turned their two-decade alliance into an Encanto a
 Why it matters: When a long-time sponsor turns its expo presence into a themed experience built around a film rather than a vehicle stand, it signals that the effective move is to place the product inside a story the audience already loves, earning attention through participation instead of proximity.
 Takeaway: Put the product inside the experience, not next to it: give visitors a reason to engage with the story first and let the brand live inside that scene, so people remember taking part rather than passing a display.
 
+### Moreno Valley turning a shuttered Sears into an immersive museum signals civic reuse
+https://signal.sensalab.io/article-moreno-valley-museum-immersive-van-gogh-civic-reuse-signal.html
+Summary: The news is not another Van Gogh projection.
+Why it matters: When a municipal government re-tenants a dark big-box anchor with projection, spatial audio and retail rather than a seasonal pop-up, immersive content has crossed from novelty into durable, bookable infrastructure a producer can template.
+Takeaway: Treat immersive projection as a reusable venue format, not a one-off exhibition: read the room first, design the retail and food adjacencies into the show, and let a civic or real-estate partner share the risk.
+
+### A live-action film shot to wrap a museum facade signals architecture as the canvas
+https://signal.sensalab.io/article-texas-legacy-in-lights-architecture-as-canvas-signal.html
+Summary: A project billed as the first live-action projection-mapping film designed its capture around a building's geometry.
+Why it matters: When a production plans its cameras and resolution around a building's real geometry rather than fixing the image in software later, projection mapping shifts from a post-production rescue into a decision made on set, with resolution to spare.
+Takeaway: If a facade is your stage, resolve the geometry before the shoot: model the surface, let it drive lens choice and camera count, and storyboard to the building's windows and setbacks as a storytelling tool rather than an obstacle.
+
+### NBC turning NBA stars into comic-book heroes signals IP as a season opener
+https://signal.sensalab.io/article-nbc-sports-nba-comic-book-tip-off-ip-as-promo-signal.html
+Summary: A broadcaster launched its basketball season by casting players as comic-book superheroes.
+Why it matters: When a broadcaster frames live athletes as recurring comic-book characters and hires an artist with real Marvel and DC credits, it signals that the fastest route to fandom is an existing visual code used with enough craft to feel native.
+Takeaway: To launch a season, product or roster, consider adopting a known visual language wholesale rather than inventing one: commit fully, cast every figure, spend where the audience can tell the difference, and build the system to scale across the full roster.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
