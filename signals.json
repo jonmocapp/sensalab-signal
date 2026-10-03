@@ -1,7 +1,35 @@
 {
-  "generated": "2026-10-02T18:06:54.753268+00:00",
+  "generated": "2026-10-03T16:51:16.153769+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmi_afbvv95cuxonnntoutwaxhflxvwm3m1tnrubfnystmtav9msetiufboekcyetbnb1ptreteskfbbmi2m1pzruxdwdmzbuutmxpivwtmzezaqwf0mgfnovnhouzjs29kmhizyjm5ndjxn1jaoutls3hcddfncnmwlutwv1d6muz3m3dmds00betqze52n05lwgzjuelftlfnvelinnzxzeytneluz1i5dxbjmdnnbf9td2rnbf82owj3wfvvqlgxz1jydfr0ynrkulfdqkvxyzjqrhfqmk5jnw56cmmxnuhuotrlvedhyxdqehpzz3y5whhzu1fcnmznn2g0rg0",
+      "headline": "Enter the Video Crypt, an art installation that brings the video store back from the dead",
+      "source": "Denton Record-Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONnNtOUtwaXhFLXVwM3M1TnRUbFNySTMtaV9MSEtiUFBoekcyeTBnb1pTREtESkFBbmI2M1pzRUxDWDMzbUUtMXpIVWtmZEZaQWF0MGFNOVNHOUZjS29KMHIzYjM5NDJxN1JaOUtlS3hCdDFNcnMwLUtWV1d6MUZ3M3dmdS00bEtqZE52N05lWGZJUElFTlFnVElINnZxZEYtNElUZ1I5dXBjMDNnbF9Td2RNbF82OWJ3WFVVQlgxZ1JYdFR0YnRkUlFDQkVxYzJQRHFQMk5jNW56cmMxNUhUOTRlVEdHYXdqeHpzZ3Y5WHhzU1FCNmZNN2g0RG0?oc=5",
+      "take": "Enter the Video Crypt, an art installation that brings the video store back from the dead Denton Record-Chronicle",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.381,
+      "published": "2026-10-03T03:00:00+00:00",
+      "added": "2026-10-03T16:51:16.153769+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmitafbvv95cuxorhvyugfsuuk3bwvzznhsbg54z3dwq0jxb2g2etl1y24ytlvkbgvkedlrckzts1bgvja4a2zrcu15yth4vlgyzxvwoejna1h4tulxnkrnrug1b1nctfe4tm9oqvhjb1rsvugwmdm4wmrxzjbidlflcvzznktmzxfmbxnvr0z2ehprsdjnu2nsv184bgnwukvaevr4dzjqthpqv19iew5jtuvkt0tfz0n4tfjjuxq",
+      "headline": "Uniting LED Volumes and Live Visual Chaos: Cinematographer Bradford Lipson on 'Rolling Loud'",
+      "source": "No Film School",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHVyUGFsUUk3bWVzZnhSbG54Z3dWQ0JXb2g2eTl1Y24yTlVkbGVKeDlRckZtS1BGVjA4a2ZRcU15YTh4VlgyZXVWOEJna1h4TUlXNkRnRUg1b1NCTFE4Tm9OQVhjb1RSVUgwMDM4WmRxZjBidlFLcVZZNktMZXFmbXNVR0Z2eHprSDJnU2NSV184bGNWUkVaeVR4dzJqTHpQV19ieW5JTUVkT0tFZ0N4TFJJUXQ?oc=5",
+      "take": "Uniting LED Volumes and Live Visual Chaos: Cinematographer Bradford Lipson on 'Rolling Loud' No Film School",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.44,
+      "published": "2026-10-02T20:42:32+00:00",
+      "added": "2026-10-03T16:51:16.153769+00:00"
+    },
     {
       "key": "https://www.eventmarketer.com/article/experience-intelligence-3-insights-on-measuring-business-impact",
       "headline": "Experience Intelligence: 3 Insights on Measuring Business Impact",
@@ -15,6 +43,20 @@
       "score": 0.523,
       "published": "2026-10-02T17:46:40+00:00",
       "added": "2026-10-02T18:06:54.753268+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmipafbvv95cuxnv1lszkq2mwljas0tmhproggzaejodnoymgv1z3iyy3loqjliowpjzdj6n3i4ufbxynhfntvlqmthumpwvvp5t2zpyu92s01jytr1wlzqblvpwjc2rkfsyvvvwvbcyllim2rzul96bulhcgfoaxatce5ls2fttuszdf9iqnjpohzquxdnyktonezhbtv0bhjucmdnc19wtdjonupmra",
+      "headline": "Experience Intelligence: 3 Insights on Measuring Business Impact",
+      "source": "Event Marketer",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1lsZkQ2MWljaS0tMHprOGgzaEJOdnoyMGV1Z3IyY3lOQjlIOWpJZDJ6N3I4UFBxYnhfNTVlQmtHUmpWVVp5T2ZPYU92S01JYTR1WlZqblVPWjc2RkFsYVVvWVBCYllIM2RzUl96bUlHcGFoaXAtcE5LS2FtTUszdF9iQnJpOHZQUXdnYktONEZHbTV0bHJUcmdnc19WTDJoNUpMRA?oc=5",
+      "take": "Experience Intelligence: 3 Insights on Measuring Business Impact Event Marketer",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.327,
+      "published": "2026-10-02T17:46:40+00:00",
+      "added": "2026-10-03T16:51:16.153769+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmiogfbvv95cuxouexsvm9zv3kwr2r0uxjuylhyn2zuaxnqmuz4u2fnmw1zovp2out1qk42zs1zzky0mg5mclflukfheuzat05oywnlr0pnouiwa0rtcjqzzefywxrjemi2edqwoemtmg0xnzzoynqzwxzxs2dnr3y5clhdc2itqmfzulrpmlfiqvc2dxewzwvetg1hwdy1rllnzgrnvfy2twhfzmc",
@@ -59,6 +101,20 @@
       "added": "2026-10-02T18:06:54.753268+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmipgfbvv95cuxqyldsrtbsvknsoxzerjjqtljhdmncszi4djhvtfi5aurnvevst1pccfi4qwvhdvppv2lfejh2vlnlzujhdepjmedzevpazgmzlxq1tlffn2vlzgrkrfztrjzhogtssefjty0zrdhnqkgxuzbrrzfnwmztrvf6wjjsymhcdmd4b3z3odbma1ywbtnov0fimfhqexhrnjjbd2riddzlmef3",
+      "headline": "Havas Acquires Experiential Agency Archrival 06/11/2026",
+      "source": "MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYldSRTBsVkNSOXZERjJQTlJHdmNCSzI4djhVTFI5aURnVEVST1pCcFI4QWVhdVppV2lFejh2VlNLZUJHdEpJMEdZeVpaZGMzLXQ1TlFFN2VLZGRKRFZTRjZHOGtsSEFjTy0zRDhNQkgxUzBRRzFNWmZtRVF6WjJsYmhCdmd4b3Z3ODBMa1YwbTNoV0FiMFhQeXhRNjJBd2RidDZLMEF3?oc=5",
+      "take": "Havas Acquires Experiential Agency Archrival 06/11/2026 MediaPost",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.408,
+      "published": "2026-10-02T16:37:49+00:00",
+      "added": "2026-10-03T16:51:16.153769+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmijafbvv95cuxnt3fxedkxu2fxq21lzzcywnjjtwgxajjmu04tcfzbq0ppawrlck9wt0fgww1xujjlwwt3wvfpvkrtbkfzshz1mhlqohhownzdcmdsogrqsnhzzkgxu3dkafe5tnnmeju2nw9canp5twtvzfpcow00zna1slzpzddrmumybu1czdrkzmxdxw",
       "headline": "First Look: Metallica opens Sphere Las Vegas residency in epic fashion",
       "source": "The Mercury News",
@@ -87,6 +143,20 @@
       "added": "2026-10-02T18:06:54.753268+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmioafbvv95cuxprv9svzjsrnfgyzdqr0lgdvhfbndbvlvgow93vgn0avuxwu91ohdyawnqmnh0ykfpmwnvqndfsmlktlv6d2fdtvlxqxu2nnzmbg5wmjq5a2c2q0hqog5qv3o1tdjiadk5cgx3m2lbqs1iz0rzsetmtffoancxz1zmttdnn19kqlhjrnn5uxpvbjzwrnnynxfcs1novfhxtknq",
+      "headline": "Once Upon a Time Cinderella Castle Projection Show Magic Kingdom",
+      "source": "AllEars.Net",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRV9SVzJSRnFGYzdQR0lGdVhFbndBVlVGOW93VGN0aVUxWU91OHdYaWNQMnh0YkFpMWNVQndFSmlKTlV6d2FDTVlXQXU2NnZmbG5wMjQ5a2c2Q0hQOG5QV3o1TDJiaDk5cGx3M2lBQS1IZ0RzSEtMTFFOancxZ1ZMTTdnN19KQlhJRnN5UXpvbjZWRnNYNXFCS1NoVFhxTkNq?oc=5",
+      "take": "Once Upon a Time Cinderella Castle Projection Show Magic Kingdom AllEars.Net",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.331,
+      "published": "2026-10-02T15:30:52+00:00",
+      "added": "2026-10-03T16:51:16.153769+00:00"
+    },
+    {
       "key": "https://www.eventmarketer.com/article/pm-studios-gamescom-2026",
       "headline": "How PM Studios Balanced Engagement and Exhibit Rules at Gamescom 2026",
       "source": "Event Marketer",
@@ -99,6 +169,20 @@
       "score": 0.412,
       "published": "2026-10-02T15:07:42+00:00",
       "added": "2026-10-02T18:06:54.753268+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxnnvhsr2dmquljbmvhcwv5bgthyu5zeno2nhh2bfvimgzktxflzfqwbmy4efhpxzfoujrvrwnhbfmtvuvhvnbqcxc2ujb2ou5rrktqsg8zvkpnx3fjt0g2vdnxuzdneu4walrks2vpuwd6a2ncwjrpb2q0em1xsmxjc3byb01pwdf3cwjuoet1elbvvgfeehbisdrgandnt0q5y2ntngtlunpxsc1zsgzrce5r",
+      "headline": "Metallica's 'Master of Puppets' Crosses Came to Life -- Then Became Bigger Than Life -- at the Sphere",
+      "source": "Rolling Stone",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNVhsR2dMQUljbmVHcWV5bGtHYU5zeno2NHh2bFVIMGZkTXFlZFQwbmY4eFhPXzFoUjRvRWNhbFMtVUVHVnBQcXc2UjB2OU5rRktqSG8zVkpnX3FJT0g2VDNxUzdNeU4walRkS2VPUWd6a2NCWjRPb2Q0em1XSmxJc3Byb01pWDF3cWJuOEt1elBvVGFEeHBiSDRGandNT0Q5Y2NtNGtlUnpXSC1ZSGZrcE5R?oc=5",
+      "take": "Metallica's 'Master of Puppets' Crosses Came to Life -- Then Became Bigger Than Life -- at the Sphere Rolling Stone",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.524,
+      "published": "2026-10-02T13:16:49+00:00",
+      "added": "2026-10-03T16:51:16.153769+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmitwfbvv95cuxnwe01vfvmsdbusdnref9fxzfnv0zure4ylwtzohpmltc0tu5xzdbiek1vchvjb3biv1z1mkznas1iswy3njrztf9ja0m5vjhjmmc1uu5oofq2vmmyuke3ruf6ee81ctrdr2dqui1srzfxynmxmxr4y3rwchjld01lru5fem5rtk1hx1rua1jtvtl4d0vubk5wbw5jrvfszgldofppsnvjrglqsgtac2xktfnpumvzt28",
@@ -127,6 +211,34 @@
       "score": 0.375,
       "published": "2026-10-02T11:29:48+00:00",
       "added": "2026-10-02T18:06:54.753268+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmijwfbvv95cuxqdmfzwhk1sdv0oe83tzfzu3e0wni0zmduteztagrqvnhqsexorzdfs08tcuj4owswb29poeh6ahblt25mnvlwswd2sfdlvhpinnzlrudoztzuruxyohramnvtwvntql9sluh3dng1rkxtnvrkckfpv291atzermvwchvysndhsfo0enrfagxwyw",
+      "headline": "The first reactions to Metallica’s massive show at the Sphere are in: “Epic would be an understatement!”",
+      "source": "Louder",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmFZWHk1SDV0OE83TzFZU3E0WnI0ZmdUTEZtaGRqVnhqSExoRzdFS08tcUJ4OWswb29POEh6aHBlT25mNVlwSWd2SFdlVHpINnZLRUdoZTZuRUxYOHRaMnVtWVNTQl9SLUh3dng1RkxTNVRkckFpV291aTZERmVwcHVYSndhSFo0enRfaGxwYw?oc=5",
+      "take": "The first reactions to Metallica’s massive show at the Sphere are in: “Epic would be an understatement!” Louder",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.523,
+      "published": "2026-10-02T11:14:38+00:00",
+      "added": "2026-10-03T16:51:16.153769+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiggfbvv95cuxpu0ktm2nrcvzuwutpofp1s2sza2mxvm5jxy1evdbrcgzyeus5ze1vx01ky3bdufnfmkt0nhdtt1a1b3lsaxjomtitdta3slnzvvhtexpyeuv2wk5qzwnvwxptrldvzevayunpmzc5u0xyb3rkchu1t2l4aev0nvqxz2j3",
+      "headline": "teamLab’s Interactive Installations Illuminate Chicago’s Smart Museum of Art",
+      "source": "freeyork.org",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0ktM2NRcVZuWUtPOFp1S2sza2MxVm5jXy1EVDBrcGZyeUs5ZE1vX01kY3BDUFNfMkt0NHdtT1A1b3lSaXJOMTItdTA3SlNzVVhteXpYeUV2Wk5QZWNvWXpTRldVZEVaYUNPMzc5U0xYb3RKcHU1T2l4aEV0NVQxZ2J3?oc=5",
+      "take": "teamLab’s Interactive Installations Illuminate Chicago’s Smart Museum of Art freeyork.org",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.4,
+      "published": "2026-10-02T10:34:52+00:00",
+      "added": "2026-10-03T16:51:16.153769+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmiekfvx3lxte5cn3nqwvvreedzslfebnzcvk5jcwrnuw84netut1v3aw14vjb1akjiegzmenjyn0z0yji0njvub0pqswnub2t4d3nuwu5jze9su1jmoxbmutjhnu1femt6r2lbuna1r1jfd2zmwtnswkywrg16d3gta2zr",
@@ -267,6 +379,20 @@
       "score": 0.533,
       "published": "2026-10-01T09:01:40+00:00",
       "added": "2026-10-01T18:37:13.007976+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmirwfbvv95cuxqnersz1fucmdhctfuq2hfu1lvcwffaudjm0jaeevpsnjxbjrit2fqauzaq1p1repzsxnkn3g4x2h4qxjovle2r1ztejd5lu5mulltvwqxqlngcdlknmroclfdowxgejdwd0feags5rfz1sva0cnnrv0zcyjzcwnh5mzvgum9twmw3r1zweuzsuxe2tw5ov2pfsjjhbhzlu3ozxzjyahzbzwvdr0luytjj",
+      "headline": "Why experiential marketing is becoming the new sales engine for real estate",
+      "source": "Adgully.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNERSZ1FUcmdHcTFUQ2hfU1lVcWFFaUdJM0JaeEVPSnJxbjRIT2FqaUZaQ1p1REpZSXNkN3g4X2h4QXJOVlE2R1ZTejd5LU5MUlltVWQxQlNGcDlkNmRoclFDOWxGejdWd0FEaGs5RFZ1SVA0cnNRV0ZCYjZCWnh5MzVGUm9tWmw3R1ZWeUZsUXE2TW5OV2pfSjJHbHZlU3ozXzJYaHZBZWVDR0lUYTJj?oc=5",
+      "take": "Why experiential marketing is becoming the new sales engine for real estate Adgully.com",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.359,
+      "published": "2026-10-01T08:31:39+00:00",
+      "added": "2026-10-03T16:51:16.153769+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbminwfbvv95cuxomnplynhlalrysks4evbktk55zwllvu1mthfhqxz6v056ngp3wmq3dkuzrzn3nnl6d2ntyk5xvkd3q2ltzhbaeejaweltqzhubljhrvz4vjdhm2zobljwnulxnjc1b2s1tfo2rxlhs2exada0vdnaewh6ugtis05vb3zxm0d0rurlbu0wsfhzdkfsovftmjvsdvvkrk5zn3c",
@@ -715,132 +841,6 @@
       "score": 0.381,
       "published": "2026-09-29T07:00:00+00:00",
       "added": "2026-10-01T18:37:13.007976+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmivgfbvv95cuxpsnncskrbyuv3tutjclvnselfnmlsd0zzsffwsdk2r1jzsfzgmfa0wuz2rvpodvewuuhydvzqdui2uw5denn6aknlznhwcm03mc02avp2suzxb1fznmhpwmtosgd2shy5a0xmdvd5lu0tdzhdqm9memxkbetwlxg3ai1cd0voekrycvblmggtm2zsnmljb051dhrqtdjptnpysmpqnuduz3nunjuyr09wzefwvws0swnmwjfdns1b0ghgaufvx3lxtfbjdva1m2lvrtvwlvb4v2xymenvrwryounhd2znmnnsblvxcutzrdhsnzvpexhowtb0uvbux0y2ym9rb2d5wmj4qzlvrmlraenicu5vaf9zovjky1zmu0vzyklhvu1rddbyvfrjq0hwzdnvb3j0tkffm0dbbhpomhzjsgjozdfsovnwx2fhamg1wehyywtnztrcvwhqy2hjbkvimlzrwdv2ytnpek5rrfe5wvpimjzvqjnqoxaxm3vxm0nxeks2uq",
-      "headline": "John Mayer announces Las Vegas Sphere residency. Here's everything you need to know",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnNCSkRBYUV3TUtJclVnSElfNmlsd0ZZSFFwSDk2R1JzSFZGMFA0WUZ2RVpodVEwUUhYdVZqdUI2UW5DenN6akNlZnhWcm03MC02aVp2SUZxb1FZNmhPWmtOSGd2SHY5a0xMdVd5LU0tdzhDQm9MemxKbEtWLXg3ai1Cd0VoekRycVBlMGgtM2ZsNmljb051dHRQTDJPTnpYSmpQNUdUZ3NuNjUyR09wZEFwVWs0SWNMWjFDNS1B0gHGAUFVX3lxTFBJdVA1M2lVRTVWLVB4V2xYMENvRWRyOUNhd2ZnMnNSblVxcUtzRDhSNzVpeXhOWTB0UVBUX0Y2Ym9Rb2d5WmJ4QzlVRmlRaENIcU5VaF9ZOVJkY1ZMU0VzYklhVU1RdDByVFRjQ0hWZDNvb3J0TkFFM0dBbHpoMHZjSGJoZDFSOVNwX2Fhamg1WEhyYWtNZTRCVWhQY2hJbkVIMlZrWDV2YTNPek5RRFE5WVpiMjZvQjNQOXAxM3VXM0NXeks2UQ?oc=5",
-      "take": "",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.419,
-      "published": "2026-09-29T03:36:03+00:00",
-      "added": "2026-09-30T18:11:53.335101+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiy0fvx3lxtfbzutlwm1nyev9pswz6cu1nthzmmvdobkzmre5odhhuuhrdanrjq0lqulu1rjztrwe0muqxmgizznbtmk5bqmzhyxvsavbtvgj0aw83znb2yxu0s192yk9galbecw",
-      "headline": "Immersive Beauty Gifting Pop-Ups: LOOKFANTASTIC Turns Holiday Shopping into Beauty…",
-      "source": "Trend Hunter",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZUTlWM1NYeV9pSWZ6cU1NTHZMMVdobkZmRE5odHhuUHRDanRjQ0lqUlU1RjZtRWE0MUQxMGIzZnBtMk5BQmZhYXVSaVBtVGJ0aW83ZnB2YXU0S192Yk9GalBEcw?oc=5",
-      "take": "Immersive Beauty Gifting Pop-Ups: LOOKFANTASTIC Turns Holiday Shopping into Beauty… Trend Hunter",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.355,
-      "published": "2026-09-29T02:02:47+00:00",
-      "added": "2026-10-01T18:37:13.007976+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxqslzxsxjiaerfwwxnoud2lucta2rvx0dzlwfkulzhd0xtem4zdwe2zeziy0hzxzlfohhide8woum5odvxd1btsvg2a3zibzbmb0daatlxzkrqoxe4z3dfs0ppbmncujngql9nrgzoqmfxsuzubxzibk12adhyuklhntnlv2m4vlv2zfvlujjswhbsrmjiwu9j",
-      "headline": "Low Latency LED Display & NovaStar Control System 2026: Why",
-      "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlZXSXJiaERFWWxnOUd2LUcta2RVX0dZLWFKUlZhd0xtem4zdWE2ZEZIY0hzXzlFOHhIdE8wOUM5ODVXd1BTSVg2a3ZibzBMb0daaTlXZkRQOXE4Z3dFS0ppbmNCUjNGQl9nRGZoQmFXSUZubXZIbk12aDhyUklhNTNlV2M4VlV2ZFVlUjJSWHBsRmJiWU9J?oc=5",
-      "take": "Low Latency LED Display & NovaStar Control System 2026: Why openPR.com",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.441,
-      "published": "2026-09-29T00:16:06+00:00",
-      "added": "2026-09-29T18:22:18.669308+00:00"
-    },
-    {
-      "key": "https://www.eventmarketer.com/article/brief-voice-of-logan-pampered-with-love",
-      "headline": "The Brief: Airport Narrators and Community Baby Showers",
-      "source": "Event Marketer",
-      "link": "https://www.eventmarketer.com/article/brief-voice-of-logan-pampered-with-love/",
-      "take": "This week’s hot takes on hot topics in experiential marketing cover community baby showers, UV laundry and the Voice of Logan.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.444,
-      "published": "2026-09-28T23:26:00+00:00",
-      "added": "2026-09-29T18:22:18.669308+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilgfbvv95cuxqtvrkann1buxrnkdizmd6mkxfvk5nm1jebxuttxrszfhtrgxdnffictl4nkdhtux4u3jubs16vf9jeu05zddmanvpsethtezkrwpnoe43eldru2punkhadexiemr0dm5it19oenfomtlycglielbqz2eyts1ps1n4rzjvbnbntnvovurowgmtogtdvktdt2c",
-      "headline": "John Mayer announces a residency at the Sphere in Las Vegas",
-      "source": "The Needle Drop",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVRKanN1bUxRNkdiZmd6MkxFVk5nM1JEbXUtTXRsZFhtRGxDNFFIcTl4NkdhTUx4U3JUbS16VF9jeU05ZDdmanVpSEtHTEZKRWpNOE43eldRU2pUNkhadExiemR0dm5IT19OenFoMTlycGlIelBQZ2EyTS1pS1N4RzJVbnBNTnVoVURoWGMtOGtDVktDT2c?oc=5",
-      "take": "John Mayer announces a residency at the Sphere in Las Vegas The Needle Drop",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.515,
-      "published": "2026-09-28T20:03:30+00:00",
-      "added": "2026-09-30T18:11:53.335101+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilafbvv95cuxnotjsx1hdzxrfujvvmk5othzfztbty2hrc19snncycuvhd3dwc1bdsdjjr3vdr3dyn0h1tejfclj1vhbuevatytbtmktrvexgywtnx29ozge2n1narlvnsfv4s3vjng92z2tycffuqwvemevtqzatei0zqmdiuedmu0c2yu40b2rstgryvejpeuhjnw1q",
-      "headline": "John Mayer announces Las Vegas Sphere residency after Dead & Company exit",
-      "source": "San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTJSX1hDZXRFUjVvMk5OTHZFZTBTY2hrc19sNncycUVHd3dwc1BDSDJjR3VDR3dyN0h1TEJfclJ1VHBUeVAtYTBTMktrVExGYWtNX29OZGE2N1NaRlVNSFV4S3VjNG92Z2tYcFFUQWVEMEVTQzAtei0zQmdiUEdMU0c2YU40b2RSTGRyVEJPeUhjNW1q?oc=5",
-      "take": "John Mayer announces Las Vegas Sphere residency after Dead & Company exit San Francisco Chronicle",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.437,
-      "published": "2026-09-28T18:40:52+00:00",
-      "added": "2026-09-28T19:54:03.504236+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxqt0f2ulezqmk4d19pzf9tewjanxk1mzzwvtzwymffb3fxduntzddpzxvsav9jvw5qutnjrvzqb0xav2deszrsblvztnnzwvk5mnmzcehur2fbou9tcwdslthrm0habtnzedhnei1obwxxqlo3evfbdli3v1renmy3cu4zqxbvwtlrn2trz01bx0v4znq2wedkampjadi2bjrsz0jnb0pfbgvluek",
-      "headline": "John Mayer to Headline 6 Nights at the Las Vegas Sphere: ‘Meet Me Where the Light Is’",
-      "source": "Billboard",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0F2UlEzQmk4d19PZF9TeWJaNXk1MzZWVTZwYmFFb3FXdUNtZDdpZXVSaV9jVW5QUTNjRVZQb0xaV2dESzRSblVZTnNZWVk5MnMzcEhUR2FBOU9tcWdSLThrM0habTNZeDhnei1obWxxQlo3eVFBdlI3V1RENmY3cU4zQXBVWTlrN2tRZ01BX0V4ZnQ2WEdKampjaDI2bjRSZ0JNb0pFbGVlUEk?oc=5",
-      "take": "John Mayer to Headline 6 Nights at the Las Vegas Sphere: ‘Meet Me Where the Light Is’ Billboard",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.437,
-      "published": "2026-09-28T17:23:15+00:00",
-      "added": "2026-09-28T19:54:03.504236+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxpn1i2ynd1wulfcm1lrlrpu1rkrxp0swpvmghbcus4wta4uvdhuflunxdnlvq2wjvsdfy5dfa3rzlpqvvkbeqxdwdsrwfrnnkwqle5rxawn19ud0u0ltvtckzkmja2cwprtk51ylgyc29bdhu2ujnoqmk2z0dnm00tnwdsyjhzuvyxalj3qtz2d0ntq3lkvkhn",
-      "headline": "John Mayer Announces 6 Las Vegas Sphere Shows",
-      "source": "Just Jared",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1I2Ynd1WUlFcm1lRlRpU1RkRXp0SWpVMGhBcUs4WTA4UVdHUFluNXdnLVQ2WjVSdFY5dFA3RzlpQVVKbEQxdWdSRWFrNnkwQlE5RXAwN19ud0U0LTVtckZkMjA2cWpRTk51Ylgyc29BdHU2UjNOQmk2Z0dnM00tNWdsYjhzUVYxalJ3QTZ2d0NtQ3lkVkhn?oc=5",
-      "take": "John Mayer Announces 6 Las Vegas Sphere Shows - Dates, Ticket Prices & Presale Details!",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.436,
-      "published": "2026-09-28T16:46:37+00:00",
-      "added": "2026-09-28T19:54:03.504236+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmijwfbvv95cuxqm3k2odu0tjrisgfiq0kwnmdxac1srkfjbk42rkhncdfqls1otunvnuxxsmp3m2pdvw1takp1cghtyu9hakcxnvp2weh5nw9fzkxsa2fmrvdavmxkz2f0ekdbbe1pzs1jt2vrb1vxeddyrehtavncndlerjjhdunzumj3ewvhvgxunetwdg9la9ibowfbvv95cuxpnfbpzknwquc3yxr1zhlwzu8ychhsrmlulthtetfdtno4twmyaxprqlj2x0nndjjvd3cyv3k4a3lfytnuuuj5cmqzuuqtyndydhdhnmrxbxbstvmylwpfz0iwbwvtwnpfzghjt3npqjrmsmc5qju1zgr2zlutdm1snuzpdliwcgj3v0t3mzroq01xofa2mkw5vllxrlz0bnrhvu0w",
-      "headline": "John Mayer announces Sphere Las Vegas shows for 2027",
-      "source": "FOX5 Vegas",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3k2ODU0TjRiSGFiQ0kwNmdXaC1sRkFjbk42RkhncDFQLS1oTUNVNUxXSmp3M2pDVW1Takp1cGhtYU9HakcxNVp2WEh5NW9fZkxSa2FMRVdaVmxKZ2F0ekdBbE1pZS1jT2Vrb1VXeDdyREhTaVNCNDlERjJhdUNZUmJ3eWVhVGxuNEtWdG9la9IBowFBVV95cUxPNFBPZkNWQUc3YXR1ZHlwZU8ycHhsRmlULThteTFDTno4TWMyaXprQlJ2X0NNdjJVd3cyV3k4a3lfYTNuUUJ5cmQzUUQtYndYdHdHNmRXbXBsTVMyLWpfZ0IwbWVTWnpfZGhjT3NpQjRmSmc5QjU1ZGR2ZlUtdm1sNUZpdlIwcGJ3V0t3MzRoQ01xOFA2Mkw5VllXRlZ0bnRHVU0w?oc=5",
-      "take": "John Mayer announces Sphere Las Vegas shows for 2027 FOX5 Vegas",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.425,
-      "published": "2026-09-28T16:28:00+00:00",
-      "added": "2026-09-29T18:22:18.669308+00:00"
     }
   ]
 }
