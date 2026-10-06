@@ -3410,6 +3410,108 @@
           "text": "SensaLab extends brand visual systems into real-time, spatial and on-site experiences as a white-label studio, so the campaign and the client stay front of house while the production sits with us. If a launch has a strong visual world and needs to live in a venue or a headset as well as on screen, the groundwork we like to start with is a quiet audit of how far that system can stretch."
         }
       ]
+    },
+    {
+      "slug": "cathay-pacific-80th-popup-journey-signal",
+      "cat": "Experiential",
+      "tokens": "experiential",
+      "edition": 21,
+      "source_name": "BizBash",
+      "source_url": "https://www.bizbash.com/experiential-marketing/get-a-peek-inside-this-airline-s-immersive-80th-anniversary-pop-up-in-los-angeles",
+      "date": "2026-10-06",
+      "image_url": "",
+      "headline": "Cathay Pacific staging its 80th as a walkable trip signals the pop-up as journey",
+      "dek": "An airline marked eight decades with a three-day pop-up built to be walked like a flight. The signal is sequence, not spectacle, as the organizing idea for a brand space.",
+      "focus_keyword": "brand pop-up",
+      "read_minutes": 3,
+      "meta_description": "Cathay Pacific marked its 80th with a three-day pop-up at The Grove in Los Angeles, structured as a journey from check-in to prizes. Why sequence beats spectacle.",
+      "why": "When an airline builds its anniversary space as a sequenced trip rather than a memorabilia display, it signals that the organizing idea of a brand environment is becoming narrative order, not the density of things on show.",
+      "takeaway": "Structure a brand space as a route with a beginning and an end, give visitors a prop that moves them through it, and let heritage, product and reward sit in sequence rather than competing for attention in one room.",
+      "body": [
+        {
+          "type": "para",
+          "text": "Cathay Pacific marked its 80th anniversary with a three-day pop-up at The Grove in Los Angeles, opening with a VIP preview on 24 September for loyalty members, partners and media before opening to the public on 25 and 26 September, according to BizBash. Rather than lay out memorabilia, the airline built the space to unfold like a trip: visitors began at a check-in station where they received a boarding pass, moved past a departures-board-inspired display, and passed through the brand's heritage, its latest products, interactive games, personalization and prizes. Archival pieces included vintage flight-attendant uniforms, some produced with Hermes, Balmain and Nina Ricci, while the product section gave a first look at the airline's Aria Suite business class and premium economy seats. One prize on offer was a pair of business-class tickets."
+        },
+        {
+          "type": "subhead",
+          "text": "The real signal is sequence, not spectacle"
+        },
+        {
+          "type": "para",
+          "text": "A heritage pop-up usually risks becoming a vitrine: eighty years of artifacts crowded into a room and left to speak for themselves. The sharper move here is structural. By borrowing the shape of a flight, the brand gives every element a position in a sequence, so a vintage uniform and a 2026 seat are not competing for the same glance but arriving at different points in a story. The boarding pass is the tell. A single prop that travels with the visitor turns a floor plan into a route, which is what separates an exhibition you browse from an experience you move through. The organizing idea is order, not density."
+        },
+        {
+          "type": "subhead",
+          "text": "What a producer can do now"
+        },
+        {
+          "type": "para",
+          "text": "If you are briefed to turn a milestone into a space, resist the instinct to show everything at once. Pick a journey the brand already owns, a flight, a production line, a service call, and use its stages as the floor plan. Hand each visitor one object that carries them from room to room, and make sure it does something at more than one stop. Place heritage early, product in the middle, and a reason to act at the end, so the sequence does the persuading rather than any single hero moment. The discipline is restraint: a clear path a first-time guest can read beats a dense set that only a superfan decodes."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "A sequenced physical journey is the analog version of the interactive logic that drives real-time and immersive work, where a visitor's position in a story determines what they see and do next. The same check-in-to-reward spine can carry a projection-mapped heritage wall, a personalization station that prints a custom artifact, or an app that unlocks content as the boarding pass is scanned at each stage, which is where a [retail](/kits/retail) environment starts to behave like a guided experience rather than a showroom. The constraint is continuity: once the space is a route, every stop has to advance the story, because a dead end in a journey reads as a worse mistake than a gap on a wall."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab designs and builds sequenced brand environments as a white-label studio, so the airline, the agency and the client stay front of house while the production sits with us. If a milestone needs to live as a walkable journey with interactive and real-time stops, the groundwork we like to start with is mapping the route before anything gets fabricated."
+        }
+      ]
+    },
+    {
+      "slug": "dreamforce-2026-ai-event-infrastructure-signal",
+      "cat": "AI",
+      "tokens": "ai",
+      "edition": 21,
+      "source_name": "BizBash",
+      "source_url": "https://www.bizbash.com/meetings/dreamforce-2026-see-how-the-conference-made-ai-accessible-to-attendees",
+      "date": "2026-10-06",
+      "image_url": "",
+      "headline": "Dreamforce wiring AI into badge pickup and wayfinding signals the agent as event infrastructure",
+      "dek": "Salesforce's conference used its own AI for check-in, scheduling and navigation rather than only demoing it on stage. The signal is the agent moving from exhibit to infrastructure.",
+      "focus_keyword": "AI activation",
+      "read_minutes": 3,
+      "meta_description": "At Dreamforce 2026 at Moscone Center, Salesforce ran its own AI for badge pickup, scheduling and wayfinding, and staged brand AI use on the floor. Why that matters.",
+      "why": "When a technology conference runs its own AI agent for check-in, scheduling and navigation instead of only demonstrating it, it signals that the most convincing product proof is the event operating on the thing it is selling.",
+      "takeaway": "Prove a complex technology by running the event on it, not by explaining it: let it handle a friction point every attendee feels, show real customers using it on the floor, and send people home having built something with it the same day.",
+      "body": [
+        {
+          "type": "para",
+          "text": "Salesforce held Dreamforce at San Francisco's Moscone Center on 15 to 17 September, with a program built around agentic AI, according to BizBash. Instead of confining the technology to keynotes, the conference ran on it: express badge pickup used facial authentication to move attendees through in under two minutes, and an Agentforce agent embedded in the event app and website helped build schedules, find locations and navigate the week. On the expo floor, a Campground installation showed how brands including Southwest, Live Nation, Crocs and L'Oreal are using AI agents against real business problems, while expanded Learning Labs sent attendees home having built their own agents and tools they could use that day. The opening keynote introduced AIforce, described as a layer connecting Salesforce data, workflows and permissions to tools such as Claude and Slack."
+        },
+        {
+          "type": "subhead",
+          "text": "The real signal is operating on the product, not demoing it"
+        },
+        {
+          "type": "para",
+          "text": "Most conferences keep their flagship technology on stage and behind glass. The sharper move at Dreamforce was to let the AI run the event's own friction points, the queue, the schedule, the map, where every attendee feels whether it works. Demonstrating a capability asks people to imagine it; operating on it lets them judge it against their own morning. The Campground brand showcase extends the same logic outward: rather than Salesforce asserting the tool is useful, it stages named customers solving problems with it, turning the pitch into evidence. The proof is in the running, not the explaining."
+        },
+        {
+          "type": "subhead",
+          "text": "What a producer can do now"
+        },
+        {
+          "type": "para",
+          "text": "If you are briefed to make a complex or abstract product legible at an event, find the friction point every guest already feels and let the product solve it in public. A faster check-in, a schedule that assembles itself, a route that updates, these are more persuasive than any demo loop because the audience experiences the benefit before it is asked to believe in it. Pair that with real customers using the thing on the floor, not spokespeople describing it, and give people a way to leave having made something with it the same day. The discipline is to spend the technology on the attendee's experience, not only on the booth."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "An event that runs on its own product is an experiential system, not a trade-show stand: identity, wayfinding, scheduling and content all reading from the same live data. The same spine can drive a personalized room that reconfigures to a visitor's profile, a real-time visual that responds to what the crowd is doing, or an agent that briefs a guest as they move through a space, which is where conference [activations](/kits/activations) start to behave like software with a floor plan. The constraint is reliability: once the event depends on the tool for the basics, a failure is no longer a missed demo but a broken door, so the production standard rises to match the promise."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab builds data-driven, real-time brand environments as a white-label studio, so the platform, the agency and the client stay front of house while the production sits with us. If a launch needs its technology to run the experience rather than sit beside it, the groundwork we like to start with is deciding which attendee friction the product should quietly remove."
+        }
+      ]
     }
   ]
 }

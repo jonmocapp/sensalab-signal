@@ -480,6 +480,18 @@ Summary: A broadcaster launched its basketball season by casting players as comi
 Why it matters: When a broadcaster frames live athletes as recurring comic-book characters and hires an artist with real Marvel and DC credits, it signals that the fastest route to fandom is an existing visual code used with enough craft to feel native.
 Takeaway: To launch a season, product or roster, consider adopting a known visual language wholesale rather than inventing one: commit fully, cast every figure, spend where the audience can tell the difference, and build the system to scale across the full roster.
 
+### Cathay Pacific staging its 80th as a walkable trip signals the pop-up as journey
+https://signal.sensalab.io/article-cathay-pacific-80th-popup-journey-signal.html
+Summary: An airline marked eight decades with a three-day pop-up built to be walked like a flight.
+Why it matters: When an airline builds its anniversary space as a sequenced trip rather than a memorabilia display, it signals that the organizing idea of a brand environment is becoming narrative order, not the density of things on show.
+Takeaway: Structure a brand space as a route with a beginning and an end, give visitors a prop that moves them through it, and let heritage, product and reward sit in sequence rather than competing for attention in one room.
+
+### Dreamforce wiring AI into badge pickup and wayfinding signals the agent as event infrastructure
+https://signal.sensalab.io/article-dreamforce-2026-ai-event-infrastructure-signal.html
+Summary: Salesforce's conference used its own AI for check-in, scheduling and navigation rather than only demoing it on stage.
+Why it matters: When a technology conference runs its own AI agent for check-in, scheduling and navigation instead of only demonstrating it, it signals that the most convincing product proof is the event operating on the thing it is selling.
+Takeaway: Prove a complex technology by running the event on it, not by explaining it: let it handle a friction point every attendee feels, show real customers using it on the floor, and send people home having built something with it the same day.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
