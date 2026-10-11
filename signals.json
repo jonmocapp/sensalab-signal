@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-10T17:31:28.116920+00:00",
+  "generated": "2026-10-11T17:50:20.809341+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxqr2toul9azw9zylvflu1gehhtbjuzsevwlwrnmgnkteg5sxvwyuvmwdyzv1u0vgvuaevurjjtcgj2r3e2ne9gejv6v3ktcg5zde5fcnfwwufhz2xoekfedjlxmvfzvxpqxzjtqjhoaljsz19jmkpcudi2delrcjzgdnjvmznpm0o2nevzcdbbuexta21rouvbrwlbtup6otnpbnvmz2f4afvxwks4azfmm2rb",
+      "headline": "New Live Action Projection Mapping Film Captured with URSA Cine 12K LF",
+      "source": "FilmInk",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2toUl9aZW9ZYlVfLU1GeHhTbjUzSEVWLWRnMGNKTEg5SXVWYUVmWDYzV1U0VGVUaEVURjJtcGJ2R3E2NE9GejV6V3ktcG5zdE5FcnFWWUFHZ2xoekFEdjlxMVFZVXpqXzJTQjhOalJsZ19JMkpCUDI2dElrcjZGdnJvMzNpM0o2NEVzcDBBUExta21ROUVBRWlBTUp6OTNpbnVMZ2F4aFVXWks4azFMM2RB?oc=5",
+      "take": "New Live Action Projection Mapping Film Captured with URSA Cine 12K LF FilmInk",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.53,
+      "published": "2026-10-10T22:17:36+00:00",
+      "added": "2026-10-11T17:50:20.809341+00:00"
+    },
     {
       "key": "https://news.google.com/rss/articles/cbmie0fvx3lxte0ydzlbtvdkzehtawytag9otfqxwgk5z3put2dht1lsvlflu2n1d0v2c3vfmi1ictddukpwuxjuduywwmvnzhhbm1y2vhz5cxqxrkqyc2dsv2lxv1ngzgzqmuxkyuptas1psfhhytbdwno3zlh1b3q0ce5uyw",
       "headline": "This Week in Retail: Massimo Dutti Opens Rome Flagship, Louis Vuitton Rethinks Travel Dressing, NikeSKIMS Opens Popups, Bvlgari Creates a Unique Serpenti, Christian Louboutin Hosts Global Clients",
@@ -29,6 +43,20 @@
       "score": 0.439,
       "published": "2026-10-10T06:57:27+00:00",
       "added": "2026-10-10T17:31:28.116920+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmijwfbvv95cuxnmvvlsjh0buleltlfynvotei0cwvjswfetxlpmzjbtjbwc3a0yvpbdhfxv1zxm0ztrelpaenocmzxu2dkd1z0am1fy2rkuxbbuwrglwxmew9yvgffnzfgbllemmlnbfbwy3lgtwxxdfb0b1jgevv5cetav05yvlzpdv9lwuktzklwu2rjmvbhoa",
+      "headline": "Eagles Add Six Fall 2026 Sphere Shows in Las Vegas",
+      "source": "TicketNews",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVVlSjh0bUlELTlFYnVoTEI0cWVjSWFETXlpMzJBTjBwc3A0YVpBdHFxV1ZXM0ZTRElPaENOcmZXU2dKd1Z0am1FY2RKUXBBUWRGLWxmeW9yVGFFNzFGbllEMmlnbFBwY3lGTWxXdFB0b1JGeVV5cEtaV05YVlZpdV9LWUktZklwU2RJMVBhOA?oc=5",
+      "take": "Eagles Add Six Fall 2026 Sphere Shows in Las Vegas TicketNews",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.392,
+      "published": "2026-10-10T04:13:18+00:00",
+      "added": "2026-10-11T17:50:20.809341+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmix0fvx3lxte5ts28tymrjx191v0zrvgh4wdbts2y2txu0mc1qnk9dogs3zmr0wu5wdxbpy2nmdhjieef4a1axehdwwnljai13rwczwfqzmg55m1hpqznxwtrwq19ttnlj",
@@ -115,6 +143,20 @@
       "added": "2026-10-09T18:34:36.480230+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbminafbvv95cuxox1bhswdlcxbedm1qoc11wlfuyjrwyxndejjlz2lobza3te95m0hsnzvjzfo4rxvpdzn5evrlz3hwvno1x3hxwhyymvriewfvavbtbuvpr1h2mjh6aermc0i2wgryvkpxev9rujhvtdbrmupyzl9krkxrd05xluticgz4zwjtb3pznghuegrmnddzwddurfe5rge5mi0",
+      "headline": "Exhibit Design: 6 Experiential Ideas from Groceryshop 2026",
+      "source": "Event Marketer",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1BHSWdlcXBEdm1qOC11WlFuYjRwYXNDejJLZ2lObzA3TE95M0hSNzVJZFo4RXVPdzN5eVRLZ3hwVno1X3hXWHYyMVRIeWFVaVBTbUVPR1h2Mjh6aERMc0I2WGRYVkpxeV9rUjhvTDBRMUpyZl9KRkxrd05xLUtIcGZ4ZWJTb3pzNGhueGRMNDdzWDduRFE5RGE5Mi0?oc=5",
+      "take": "Exhibit Design: 6 Experiential Ideas from Groceryshop 2026 Event Marketer",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.523,
+      "published": "2026-10-09T17:00:28+00:00",
+      "added": "2026-10-11T17:50:20.809341+00:00"
+    },
+    {
       "key": "https://www.eventmarketer.com/article/4-experiential-trends-spotted-at-the-10th-annual-complexcon",
       "headline": "4 Experiential Trends Spotted at the 10th Annual ComplexCon",
       "source": "Event Marketer",
@@ -183,6 +225,34 @@
       "score": 0.472,
       "published": "2026-10-09T14:30:49+00:00",
       "added": "2026-10-09T18:34:36.480230+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmijafbvv95cuxpyxu2ck1nvlbqq0jmwv93twn5sg00cwx6d0p1clriwl9omurjv3lpsgg0dhn5rgmybzlsmtftsmtzmwt4rzvxnndamfnbsldbzdjjetvjmdm5z0pyae1svtnrqjywngpqugpqqwnva01nm3ledm9jn2frmmytm2f1dxhwstnxwezcwfhyoq",
+      "headline": "Halloween celebration planned for ‘The Wizard of Oz’ at Sphere",
+      "source": "FOX5 Vegas",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXU2ck1nVlBQQ0JmWV93TWN5SG00cWx6d0p1clRiWl9OMURJV3lPSGg0dHN5RGMybzlsMTFtSmtzMWt4RzVxNndaMFNBSldBZDJjeTVJMDM5Z0pYaE1SVTNRQjYwNGpQUGpQQWNVa01nM3lEdm9JN2FrMmYtM2F1dXhWSTNXWEZCWFhyOQ?oc=5",
+      "take": "Halloween celebration planned for ‘The Wizard of Oz’ at Sphere FOX5 Vegas",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.385,
+      "published": "2026-10-09T13:57:00+00:00",
+      "added": "2026-10-11T17:50:20.809341+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiigfbvv95cuxoztj6cgd3ywtsafhnntdivhbhn2zfclgyavhvzenlwmhvrxnxbw9yrnf3ndbpmlo5shfpujdruwjla2pld0jfandus0zua0rab0n3wfltx2zpcezhr2g5ewlyulo1mer2dwlysejvvwd5wenmrks2a2zvatdobhdqv01yx3fqx2daque",
+      "headline": "Watch Metallica Debut ‘Fade to Black’ at the Sphere",
+      "source": "Ultimate Classic Rock",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTJ6cGd3YWtSaFhnNTdIVHBhN2ZFclgyaVhvZENlWmhvRXNxbW9YRnF3NDBpMlo5SHFpUjdRUWJla2pld0JFanduS0Zua0Rab0N3WFlTX2ZpcEZhR2g5eWlYUlo1MER2dWlYSEJVVWd5WENMRks2a2ZvaTdObHdQV01yX3FQX2daQUE?oc=5",
+      "take": "Watch Metallica Debut ‘Fade to Black’ at the Sphere Ultimate Classic Rock",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.511,
+      "published": "2026-10-09T12:36:35+00:00",
+      "added": "2026-10-11T17:50:20.809341+00:00"
     },
     {
       "key": "https://www.theartnewspaper.com/2026/10/09/palestinian-artists-after-ceasefire-robert-ryman-katherine-hubbard-podcast",
@@ -267,6 +337,20 @@
       "score": 0.524,
       "published": "2026-10-09T04:00:00+00:00",
       "added": "2026-10-09T18:34:36.480230+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiogfbvv95cuxqrg1vcuj5ytfpwxzvsjzlc0trexnpelfuzlhlev85ovzbdvdnrk51bly2mzhgegxszhjsvwvdvkk1dmznde5cwwhcs3j3x09dvjloags3mly0ltvnbzjtuljouurxrc1scmjiovnwq2q5effcvtrdcjjhag9lbgvjewy0qwzkbg1lwk9otwj1a3q4ahzvng8zzk5ya2yzv1r1bhc",
+      "headline": "Metallica is releasing recordings of every Sphere concert",
+      "source": "San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRG1VcUJ5YTFpWXZvSjZLc0treXNPelFuZlhleV85OVZBdVdNRk51blY2MzhGeGxsZHJsVWVDVkk1dmZndE5CWWhCS3J3X09DVjloaGs3MlY0LTVnbzJtUlJoUURxRC1ScmJiOVNWQ2Q5eFFCVTRDcjJhaG9lbGVjeWY0QWZKbG1lWk9oTWJ1a3Q4aHZVNG8zZk5Ya2YzV1R1bHc?oc=5",
+      "take": "Metallica is releasing recordings of every Sphere concert San Francisco Chronicle",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.407,
+      "published": "2026-10-08T22:24:56+00:00",
+      "added": "2026-10-11T17:50:20.809341+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxou21trwl4mghkq2s0zux3nuvxzdnmqu9kundztxv5vwlsbnvzxzf2zetaqk1wv2tlumfowtdzz25ztutsskrortfqm0vkugnbegwxb3nfrgrztnbirdnkbghla1z3tw40ng9jc2rezgh6a0tbquxix1vhwdjxbkpssjn5a09ycxnlaxv1ywpzmwsyrmxou2r3x1v0exexz3rdsevjwtbzmw1uqke",
@@ -745,102 +829,18 @@
       "added": "2026-10-06T18:41:10.742264+00:00"
     },
     {
-      "key": "https://news.google.com/rss/articles/cbmiiafbvv95cuxqd2hevl85nzlsuxr3d2jidtfsy19hd1yxoehpb2tqcfzmvtlyemctatrhmtl3snbxwuq0uwvomlfou2ftnwpoc0lwdwpmtutsz2k2ywttennyyuner09sehj3akvutlcxeezjtl92rdfftxbklu8wuu5oahfvzln3vmhhz3fvbuzb",
-      "headline": "Dark Slope Acquires Pixomondo's Virtual Production Assets",
-      "source": "Animation World Network",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2hEVl85NzlsUXR3d2JidTFSY19hd1YxOEhpb2tqcFZmVTlyemctaTRhMTl3SnBxWUQ0UWVOMlFOU2FtNWpoc0lWdWpMTUtsZ2k2YWtTenNYYUNER09SeHJ3akVuTlcxeEZJTl92RDFfTXBkLU8wUU5oaHFvZlN3VmhHZ3FVbUZB?oc=5",
-      "take": "Dark Slope Acquires Pixomondo's Virtual Production Assets Animation World Network",
-      "cat": "CGI & VFX",
-      "token": "cgi",
-      "tier": "query",
-      "geo": false,
-      "score": 0.495,
-      "published": "2026-10-06T00:34:00+00:00",
-      "added": "2026-10-06T18:41:10.742264+00:00"
-    },
-    {
-      "key": "https://www.eventmarketer.com/article/the-brief-crypto-lakes-and-coffee-revolutions",
-      "headline": "The Brief: Crypto Lakes and Coffee Revolutions",
-      "source": "Event Marketer",
-      "link": "https://www.eventmarketer.com/article/the-brief-crypto-lakes-and-coffee-revolutions/",
-      "take": "This week’s hot takes on hot topics in experiential marketing cover crypto lakes, tech-inspired beauty launches and the Boston Coffee Party.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.434,
-      "published": "2026-10-05T23:38:07+00:00",
-      "added": "2026-10-06T18:41:10.742264+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiowfbvv95cuxoqkq4sfk5ngj1bunqvhddnulzrk1wxzlfzufqstn0dmvnbmrszzzvaehpzle1ym5tztlgahloafhzaudutjbqy0l1uunnzxjwttj1sdkwme1xrjjxrtj4el8zwenvd1p4t0zhvvutzv94vnjunhjkv254v0zgawm3cedfr1c4rfhkmw43y242bxhvnkxyx2c5m1c3tnrwewxpufbb",
-      "headline": "LensStory Opens Melbourne Virtual Production Studio",
-      "source": "Content + Technology",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkQ4SFk5NGJ1bUNqVHdDNUlZRk1wXzlFZUFQSTN0dmVnbmRsZzZVaEhpZlE1Ym5TZTlGaHloaFhZaUduTjBqY0l1UUNNZXJWTTJ1SDkwME1xRjJXRTJ4el8zWENvd1p4T0ZHVVUtZV94VnJuNHJKV254V0ZGaWM3cEdfR1c4RFhkMW43Y242bXhVNkxyX2c5M1c3TnRWeWxPUFBB?oc=5",
-      "take": "LensStory Opens Melbourne Virtual Production Studio Content + Technology",
-      "cat": "CGI & VFX",
-      "token": "cgi",
-      "tier": "query",
-      "geo": false,
-      "score": 0.516,
-      "published": "2026-10-05T22:48:24+00:00",
-      "added": "2026-10-06T18:41:10.742264+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxnsu1wvgtudmpcotlbqjjmynz6rexjdelhmvf3mgiymuzrcfjjwjdsakvqmhgxr2fjvvv5twv5zzawm1hhzelxc1buu1c4wm9hsvhzzxr5tk84tmlybw40dxrmzuptt2lrvtzxy2r2zfe4teh0ewpjvfy0s2rza3lrzl9fvxzvqjbtb2hvq1b3znnyuedgcf9b",
-      "headline": "Backstreet’s Back: Backstreet Boys Return to Las Vegas Sphere with Six New Shows in Summer 2026",
-      "source": "TicketNews",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSU1wVGtudmpCOTlBQjJmYnZ6RExJdElHMVF3MGIyMUZRcFJjWjdSakVqMHgxR2FJVVV5TWV5ZzAwM1hhZElxc1BuU1c4Wm9hSVhzZXR5Tk84TmlybW40dXRmZUpTT2lrVTZXY2R2ZFE4TEh0eWpJVFY0S2Rza3lrZl9fVXZVQjBTb2hVQ1B3ZnNyUEdGcF9B?oc=5",
-      "take": "Backstreet’s Back: Backstreet Boys Return to Las Vegas Sphere with Six New Shows in Summer 2026 TicketNews",
+      "key": "https://news.google.com/rss/articles/cbmirwfbvv95cuxnaddqvjh3v3e0ru00d0g2ewu3a01htgyyvmnzsmxdx3h6qxhssnjicu01ntg1aklaz0xwtjjeafbuvlnnvwdjungzyxnnumdamenur1rmruxpmxngdurlaldda1zmmjjcrxftzjzsmdlnq1dba1zjyvhhmnjnsnpju3utdlrtltj6qwfiuzfjywxivnjpyllpsvhqmwluu0t5bkeyms1br19texyyszbz",
+      "headline": "Five Takeaways from Metallica’s “No Repeat Weekend” Sphere Shows",
+      "source": "The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdqVjh3V3E0RU00d0g2eWU3a01hTGYyVmNZSmxDX3h6QXhsSnJicU01NTg1aklaZ0xwTjJEaFBuVlNNVWdJUngzYXNnUmdaMENUR1RmRUxpMXNGdURLaldDa1ZmMjJCRXFtZjZsMDlNQ1dBa1ZJYVhHMnJnSnpjU3UtdlRTLTJ6QWFIUzFJYWxIVnJPYllPSVhqMWluU0t5bkEyMS1BR19TeXYySzBZ?oc=5",
+      "take": "Five Takeaways from Metallica’s “No Repeat Weekend” Sphere Shows The Hollywood Reporter",
       "cat": "Concert visuals",
       "token": "concerts",
       "tier": "query",
       "geo": false,
-      "score": 0.427,
-      "published": "2026-10-05T21:15:37+00:00",
-      "added": "2026-10-06T18:41:10.742264+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/experiential-marketing/get-a-peek-inside-this-airline-s-immersive-80th-anniversary-pop-up-in-los-angeles",
-      "headline": "Get a Peek Inside This Airline's Immersive 80th Anniversary Pop-Up in Los Angeles",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/experiential-marketing/get-a-peek-inside-this-airline-s-immersive-80th-anniversary-pop-up-in-los-angeles",
-      "take": "Cathay Pacific turned its eight-decade history into an experiential journey at The Grove, using boarding passes, vintage uniforms, interactive games…",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": true,
-      "score": 0.696,
-      "published": "2026-10-05T19:02:38+00:00",
-      "added": "2026-10-05T21:02:22.564149+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmib0fvx3lxte1yuk5wt0hizdlzufnhow1pqwlex2fxzkruve10r1e2czrquddqrzrovehjtxl0c1bqrtlnnl83ylhzz3hmadduotdaq1zvuv9famy5tufvzkthunlidlpwyxe5uhzwbulktuhjtfzjuq",
-      "headline": "Every 2026-27 Las Vegas residency, including Eagles at Sphere for under $360",
-      "source": "Syracuse.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YUk5wT0hiZDlzUFNHOW1pQWlEX2FxZkRuVE10R1E2czRqUDdqRzROVEhjTXl0c1BQRTlNNl83YlhzZ3hMaDduOTdaQ1ZvUV9famY5TUFvZkthUnlIdlpWYXE5UHZWbUlkTUhjTFZjUQ?oc=5",
-      "take": "Every 2026-27 Las Vegas residency, including Eagles at Sphere for under $360 Syracuse.com",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.351,
-      "published": "2026-10-05T17:02:00+00:00",
-      "added": "2026-10-10T17:31:28.116920+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/event-design/see-how-the-event-design-of-varietys-power-of-women-let-the-honorees-shine",
-      "headline": "See How the Event Design of Variety’s Power of Women Let the Honorees Shine",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/event-design/see-how-the-event-design-of-varietys-power-of-women-let-the-honorees-shine",
-      "take": "The annual event featured an ever-changing LED stage backdrop inspired by movement.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.568,
-      "published": "2026-10-05T16:08:22+00:00",
-      "added": "2026-10-05T21:02:22.564149+00:00"
+      "score": 0.344,
+      "published": "2026-10-06T03:08:34+00:00",
+      "added": "2026-10-11T17:50:20.809341+00:00"
     }
   ]
 }
