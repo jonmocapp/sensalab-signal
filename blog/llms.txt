@@ -492,6 +492,18 @@ Summary: Salesforce's conference used its own AI for check-in, scheduling and na
 Why it matters: When a technology conference runs its own AI agent for check-in, scheduling and navigation instead of only demonstrating it, it signals that the most convincing product proof is the event operating on the thing it is selling.
 Takeaway: Prove a complex technology by running the event on it, not by explaining it: let it handle a friction point every attendee feels, show real customers using it on the floor, and send people home having built something with it the same day.
 
+### Osaka turning a landmark museum hall into a 360-degree screen signals projection as nightlife
+https://signal.sensalab.io/article-osaka-museum-360-projection-mapping-signal.html
+Summary: A registered-heritage hall is now a wraparound projection set running five shows a night.
+Why it matters: When a city wraps a protected museum hall in a repeatable projection show and schedules it across the evening to move spending into nearby businesses, it signals that projection mapping is being treated as programmable nightlife infrastructure rather than a festival set piece.
+Takeaway: Treat a projected show as a nightly operating asset, not an event: design it to run on a fixed cadence inside an existing room, keep the content short and repeatable, and tie the start times to the hours when you want people out and spending nearby.
+
+### Hyundai rehearsing a 2032 science museum as a free pop-up signals the preview as R&D
+https://signal.sensalab.io/article-hyundai-exploratorium-seoul-popup-signal.html
+Summary: A twelve-exhibit pop-up is gathering visitor feedback years before the permanent museum opens.
+Why it matters: When a company stages a free, hands-on pop-up years ahead of a permanent build and uses it explicitly to collect visitor responses that shape future content, it signals that the temporary experience is being run as research and development, not as marketing for a launch still half a decade away.
+Takeaway: Use a pop-up to de-risk a permanent experience: ship a small, hands-on version early, instrument it to learn what visitors actually do, and route those findings back into the content plan before the fixed install is committed.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html

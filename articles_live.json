@@ -3512,6 +3512,108 @@
           "text": "SensaLab builds data-driven, real-time brand environments as a white-label studio, so the platform, the agency and the client stay front of house while the production sits with us. If a launch needs its technology to run the experience rather than sit beside it, the groundwork we like to start with is deciding which attendee friction the product should quietly remove."
         }
       ]
+    },
+    {
+      "slug": "osaka-museum-360-projection-mapping-signal",
+      "cat": "Interactive",
+      "tokens": "interactive",
+      "edition": 21,
+      "source_name": "News On Japan",
+      "source_url": "https://newsonjapan.com/article/150998.php",
+      "date": "2026-10-10",
+      "image_url": "",
+      "headline": "Osaka turning a landmark museum hall into a 360-degree screen signals projection as nightlife",
+      "dek": "A registered-heritage hall is now a wraparound projection set running five shows a night. The signal is projection mapping programmed as evening economics, not a one-off spectacle.",
+      "focus_keyword": "360-degree projection mapping",
+      "read_minutes": 3,
+      "meta_description": "At the Osaka City Museum of Fine Arts, a 360-degree projection show wraps a heritage hall and runs nightly to grow the city's nighttime economy. Why it matters.",
+      "why": "When a city wraps a protected museum hall in a repeatable projection show and schedules it across the evening to move spending into nearby businesses, it signals that projection mapping is being treated as programmable nightlife infrastructure rather than a festival set piece.",
+      "takeaway": "Treat a projected show as a nightly operating asset, not an event: design it to run on a fixed cadence inside an existing room, keep the content short and repeatable, and tie the start times to the hours when you want people out and spending nearby.",
+      "body": [
+        {
+          "type": "para",
+          "text": "A 360-degree projection show opened on 10 October 2026 inside the first-floor Central Hall of the Osaka City Museum of Fine Arts, a space that News On Japan notes is a nationally registered Tangible Cultural Property. The production turns the hall's walls, ceilings and pillars into a single wraparound screen, running visuals of roughly 30 minutes set to Vivaldi's The Four Seasons. Five performances are staged each evening between 5:45 and 9:15 p.m., with visitors seated in chairs or on bean-bag cushions and photography and video permitted throughout. This first phase runs through 29 November 2026, and News On Japan reports the organisers frame the evening timing as a way to draw people to the museum and push spending toward nearby restaurants and businesses, part of a wider effort to grow Osaka's nighttime economy."
+        },
+        {
+          "type": "subhead",
+          "text": "The real signal is scheduling, not spectacle"
+        },
+        {
+          "type": "para",
+          "text": "It is tempting to read this as another immersive-art moment. The sharper detail is the operating model around it. The show is short, it repeats five times a night, it sits inside a room that already exists, and its start times are set to the hours a city wants foot traffic on the street. That is projection mapping behaving like a venue's evening programming rather than a festival headliner that lights up once and strikes. The spectacle is the draw; the cadence is the point. A thirty-minute loop that reliably fills a protected hall after dark is a different kind of asset from a bespoke one-night projection, because it can be measured, staffed and sold against a calendar."
+        },
+        {
+          "type": "subhead",
+          "text": "What a producer can do now"
+        },
+        {
+          "type": "para",
+          "text": "If a brief asks you to activate a heritage building or a flagship interior, resist the one-off. Design the content to run on a fixed nightly cadence, keep each cycle short enough to turn an audience several times an evening, and map the schedule to the outcome the client actually wants, whether that is dwell time, nearby spend or late footfall. Work the constraints of a protected space early: projector placement that touches nothing, rigging that reads as temporary, seating that is comfortable but clears fast. A show you can repeat cleanly five times a night is worth more to a venue than a spectacular that can only happen once, because it converts a cultural moment into a recurring line on the operating schedule."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "A room that becomes a wraparound screen on a timetable is experiential infrastructure, not decor. The same approach lets a producer turn an atrium, a concourse or a retail hall into a programmable surface that changes by season, by sponsor or by hour, with the content treated as a schedulable asset rather than a fixed install. That is where projected [shows](/kits/shows) start to resemble a standing format a venue can rebook, reskin and extend, rather than a budget line that disappears the morning after. The discipline is to build the first edition so the second and third are cheap to run, because the value compounds in the repeat, not the premiere."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab builds real-time and projected environments as a white-label studio, so the venue, the agency and the client stay front of house while the production sits with us. When a space needs a show it can run every night rather than once, the groundwork we like to start with is deciding the cadence first and designing the content to fit it."
+        }
+      ]
+    },
+    {
+      "slug": "hyundai-exploratorium-seoul-popup-signal",
+      "cat": "Experiential",
+      "tokens": "experiential",
+      "edition": 21,
+      "source_name": "The Korea Herald",
+      "source_url": "https://biz.heraldcorp.com/article/10893572",
+      "date": "2026-10-06",
+      "image_url": "",
+      "headline": "Hyundai rehearsing a 2032 science museum as a free pop-up signals the preview as R&D",
+      "dek": "A twelve-exhibit pop-up is gathering visitor feedback years before the permanent museum opens. The signal is the temporary experience used as a research instrument, not a teaser.",
+      "focus_keyword": "experiential science museum",
+      "read_minutes": 3,
+      "meta_description": "Hyundai and the Exploratorium opened a free, 12-exhibit pop-up in Seoul to test content for a permanent 2032 science museum. Why the preview-as-research model matters.",
+      "why": "When a company stages a free, hands-on pop-up years ahead of a permanent build and uses it explicitly to collect visitor responses that shape future content, it signals that the temporary experience is being run as research and development, not as marketing for a launch still half a decade away.",
+      "takeaway": "Use a pop-up to de-risk a permanent experience: ship a small, hands-on version early, instrument it to learn what visitors actually do, and route those findings back into the content plan before the fixed install is committed.",
+      "body": [
+        {
+          "type": "para",
+          "text": "Hyundai Motor Group and the Exploratorium have opened a free experiential exhibition called Have Fun with Science at Hyundai Motorstudio Seoul, with The Korea Herald reporting twelve interactive exhibits on display. It is the second edition of the format, following a pop-up science exhibition the group ran at Hyundai Motorstudio Goyang in 2024. The exhibition is a preview of a permanent experiential science museum the two partners plan to build inside Hyundai's Global Business Complex in Seoul, which is set to open in 2032, and it is designed to gather visitor feedback that will feed into the content developed for that museum. The partnership with the San Francisco institution, whose hands-on model underpins the project, was announced earlier in 2026, with the planned museum focused on emerging fields including mobility, robotics and artificial intelligence."
+        },
+        {
+          "type": "subhead",
+          "text": "The real signal is the preview as research"
+        },
+        {
+          "type": "para",
+          "text": "Most brand previews exist to build anticipation for something already designed. This one runs the other way. The pop-up is small, it is free, and its stated job is to collect how real visitors behave so the permanent museum can be shaped around the evidence rather than the renderings. That reframes a temporary space as an instrument: twelve exhibits become twelve experiments, and a six-year runway to 2032 becomes long enough to test, discard and rebuild content before any of it is poured into a fixed building. The interesting move is not that Hyundai is teasing a museum; it is that the company is treating the cheap, movable version as the place where the expensive, permanent version gets de-risked."
+        },
+        {
+          "type": "subhead",
+          "text": "What a producer can do now"
+        },
+        {
+          "type": "para",
+          "text": "If a client is committing to a flagship space, a permanent exhibit or a multi-year experience, propose a small live edition first and brief it as research, not promotion. Decide in advance what you need to learn, which exhibits earn their floor space, where people linger, what they skip, what they ask staff, then instrument the pop-up to answer those questions and hold a real channel for feedback. The point is to spend a modest budget to retire the risks in a large one, so the findings from the temporary room become the specification for the fixed one. A preview that teaches you what to build is worth more than a preview that only makes people wait."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "A pop-up used this way is a prototype with an audience, and that is a distinct discipline from a launch activation. The same logic scales across a brand's calendar: a touring edition that evolves city to city, a seasonal refresh that tests next year's content, a small install that proves a mechanic before it is built at scale. It is where a brand [activation](/kits/activations) stops being a single spend and becomes a research line that keeps paying into everything that follows it. The constraint is honesty about what you are measuring, because a prototype that is only dressed as one teaches you nothing you can build on."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab builds hands-on, real-time experiences as a white-label studio, so the brand, the agency and the institution stay front of house while the production sits with us. When a permanent experience is years out, the groundwork we like to start with is a small live edition designed to answer the questions the fixed build cannot afford to get wrong."
+        }
+      ]
     }
   ]
 }
