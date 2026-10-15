@@ -504,6 +504,24 @@ Summary: A twelve-exhibit pop-up is gathering visitor feedback years before the 
 Why it matters: When a company stages a free, hands-on pop-up years ahead of a permanent build and uses it explicitly to collect visitor responses that shape future content, it signals that the temporary experience is being run as research and development, not as marketing for a launch still half a decade away.
 Takeaway: Use a pop-up to de-risk a permanent experience: ship a small, hands-on version early, instrument it to learn what visitors actually do, and route those findings back into the content plan before the fixed install is committed.
 
+### e.l.f. dressing avatars on ZEPETO signals beauty moving from ads to wardrobe
+https://signal.sensalab.io/article-elf-zepeto-avatar-styling-wardrobe-signal.html
+Summary: The brand's first ZEPETO activation hands players makeup, hair and accessories to dress an avatar.
+Why it matters: When a beauty brand's first metaverse move is a styling tool people return to rather than a timed campaign, the format itself is the story: repeat use, not reach, is the metric.
+Takeaway: Brief virtual activations as products with a maintenance plan, with reasons to return, seasonal refreshes and items that pair, and keep the path from avatar look to shelf short.
+
+### The Times staging Antarctica at a climate summit signals the archive as venue
+https://signal.sensalab.io/article-nyt-climate-forward-antarctica-exhibit-signal.html
+Summary: For the fourth Climate Forward Summit, The New York Times and agency MKG built a walkable Antarctic exhibit from the paper's own expedition reporting.
+Why it matters: A newsroom's deepest asset is decades of reporting that lives as text; spatialising one expedition thread is a bet people spend more time in a story they can occupy than one they scroll.
+Takeaway: Audit the client's archive before designing the set: a single true story, surfaced and made walkable, outperforms a themed overview, and an expert audience will not forgive inaccuracy.
+
+### Thirty laser projectors inside a Sao Paulo cathedral signal the building as screen
+https://signal.sensalab.io/article-barco-luminiscence-sao-paulo-cathedral-signal.html
+Summary: Barco's account of Luminiscence at the Catedral da Se shows a 360-degree show running on thirty laser projectors.
+Why it matters: Staging a 360-degree show inside an active cathedral rather than a purpose-built box changes the brief: fixed, precious, irregular surfaces that the content must earn its place on.
+Takeaway: Treat the venue survey as the first creative act: in heritage interiors the building decides projector placement, brightness and blending long before the content does.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
