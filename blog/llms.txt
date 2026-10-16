@@ -504,6 +504,24 @@ Summary: A twelve-exhibit pop-up is gathering visitor feedback years before the 
 Why it matters: When a company stages a free, hands-on pop-up years ahead of a permanent build and uses it explicitly to collect visitor responses that shape future content, it signals that the temporary experience is being run as research and development, not as marketing for a launch still half a decade away.
 Takeaway: Use a pop-up to de-risk a permanent experience: ship a small, hands-on version early, instrument it to learn what visitors actually do, and route those findings back into the content plan before the fixed install is committed.
 
+### A projection show inside a protected heritage church signals mapping going conservation-grade
+https://signal.sensalab.io/article-afghan-church-projection-mapping-heritage-signal.html
+Summary: A projection-mapping show mapped onto an active Grade I heritage church in Mumbai.
+Why it matters: When a projection-mapping production is engineered around a protected, still-active heritage building, down to designing the stained glass into the content, it signals that the structure is now the brief and conservation-grade execution is the price of access to the best venues.
+Takeaway: Treat a protected venue as a survey problem first: map the surfaces, split the rig into focal and ambient roles, design existing materials into the content, and model crowds with short repeating sessions before you commit a rig.
+
+### A beauty brand styling avatars head to toe on Zepeto signals makeup as wardrobe
+https://signal.sensalab.io/article-elf-zepeto-virtual-styling-signal.html
+Summary: e.l.f.
+Why it matters: When a beauty brand drops a head-to-toe avatar wardrobe into a platform where users already restyle themselves more than a dozen times a week, it signals a move away from building branded destinations and toward supplying renewable, shareable content inside an audience's existing habit.
+Takeaway: Design for the platform's native loop, restyle, capture, post; tie virtual items to real products; and measure restyle frequency and feed shares rather than impressions, treating it as a channel to iterate, not a one-off launch.
+
+### Metallica tripling a Sphere run to 24 nights signals the residency replacing the tour
+https://signal.sensalab.io/article-metallica-sphere-residency-24-shows-signal.html
+Summary: Metallica grew its Sphere residency from eight shows to twenty-four, running into 2027.
+Why it matters: When an artist triples a run inside a single purpose-built media venue and programmes it with no-repeat weekends and two-night tickets, it signals that the fixed immersive room is taking over the role of the tour, and that content is now authored for one known environment rather than packed between buildings.
+Takeaway: When the canvas is fixed and the run is long, move budget from touring logistics into one deep, iterable media build, design variation in so the show rewards repeat visits, and author content for the specific display geometry rather than a generic stage.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
