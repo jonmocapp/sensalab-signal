@@ -540,6 +540,24 @@ Summary: A newsroom turned one of its own expeditions into a walkable space with
 Why it matters: When a brand builds an experience around genuine objects rather than a rendered recreation, the credibility of the story comes from the real material in the room.
 Takeaway: Find the genuine objects at the centre of a story and design the room to frame them, rather than papering over a thin idea with spectacle.
 
+### Wake The Tiger opening inside Westfield London signals immersive art as anchor retail
+https://signal.sensalab.io/article-wake-the-tiger-absurd-city-westfield-london-signal.html
+Summary: The team behind the Boomtown festival has opened an 80,000 square foot immersive attraction in a mall anchor unit, not a disused warehouse.
+Why it matters: When a shopping centre hands its anchor unit to a narrative world rather than a department store, immersive art stops being a pop-up and becomes permanent commercial infrastructure that has to earn repeat footfall every week.
+Takeaway: Treat a permanent immersive venue as a tenancy with running costs, not a launch, and design the districts so they reward a second and a third visit.
+
+### A marketing agency building its own LED volume signals in-house virtual production
+https://signal.sensalab.io/article-vg-media-germany-led-volume-virtual-production-signal.html
+Summary: A production agency near Stuttgart has built a 100 square metre LED volume with broadcast-grade processing, not a render farm.
+Why it matters: When a marketing agency, not a studio or a rental house, commissions its own LED volume, virtual production stops being a line item it outsources and becomes a standing capability it owns, schedules and resells.
+Takeaway: Treat a permanent LED volume as a utility the agency rents back to itself, and spec the processing and tracking for the most demanding job the room will ever take, not the opening brief.
+
+### Le Creuset reading a shopper's gaze to suggest a colour signals retail as diagnosis
+https://signal.sensalab.io/article-le-creuset-harrods-ai-colour-pop-up-signal.html
+Summary: A cookware brand is turning a Harrods takeover into a colour-matching experience that reads where shoppers look and suggests a shade.
+Why it matters: When a brand measures where a shopper looks and turns it into a product suggestion, a pop-up stops being a display and becomes a data-gathering recommendation engine dressed as theatre.
+Takeaway: Before adding a camera that reads customers, decide what the reading is for, and make the output a suggestion worth thanking you for rather than a gimmick that collects faces.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
