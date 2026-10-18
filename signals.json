@@ -1,7 +1,49 @@
 {
-  "generated": "2026-10-17T16:01:21.351954+00:00",
+  "generated": "2026-10-18T16:12:04.709511+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmigwjbvv95cuxpmectslitym11tmxvmxg4rvbsrjhksnfwq3gyvexvbhvzvtf0z2zmsxd2mdqzm0zvtelitgu1vkx3u1vbs1phvm5mtzjprmf6qwlvb1nwsfl1ujixam80rlfkedfwlxb3rtqzy0g4aells3lprxpib3d6duzdzzm4vduxtxdjn2rwcur4bjnumzdvswnubhhrsm1kbunsc2jyx1atugfovdrvckffn1nyehzhdfbxwwzjb2zgbwrfoeh6dfc0vhjnufnfmwdkbwppr0t1n0nfrevuc21vefncsugzndftmwneodjuweltuhbnbzldb2yxqndkszdqejrjwe9v",
+      "headline": "Immersive Art Installation Opens at Adams Square Mini Park Gas Station",
+      "source": "Outlook Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMEctSlItYm11TmxvMXg4RVBsRjhKSnFwQ3gyVExVbHVZVTF0Z2ZMSXd2MDQzM0ZvTElITGU1Vkx3U1VBS1pHVm5MTzJPRmF6QWlvb1NWSFl1UjIxam80RlFkeDFWLXB3RTQzY0g4aElLS3lpRXpib3d6dUZDZzM4VDUxTXdjN2RWcUR4bjNuMzdVSWNubHhrSm1KbUNsc2JyX1AtUGFoVDRvckFfN1NYeHZhdFBXWWZjb2ZGbWRfOEh6dFc0VHJnUFNfMWdkbWppR0t1N0NfREVUc21VeFNCSUgzNDFTMWNEODJuWElTUHBNbzlDb2YxQndkSzdQejRJWE9v?oc=5",
+      "take": "Immersive Art Installation Opens at Adams Square Mini Park Gas Station Outlook Newspapers",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.527,
+      "published": "2026-10-18T15:00:00+00:00",
+      "added": "2026-10-18T16:12:04.709511+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmioafbvv95cuxprv9svzjsrnfgyzdqr0lgdvhfbndbvlvgow93vgn0avuxwu91ohdyawnqmnh0ykfpmwnvqndfsmlktlv6d2fdtvlxqxu2nnzmbg5wmjq5a2c2q0hqog5qv3o1tdjiadk5cgx3m2lbqs1iz0rzsetmtffoancxz1zmttdnn19kqlhjrnn5uxpvbjzwrnnynxfcs1novfhxtknq",
+      "headline": "Once Upon a Time Cinderella Castle Projection Show Magic Kingdom",
+      "source": "AllEars.Net",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRV9SVzJSRnFGYzdQR0lGdVhFbndBVlVGOW93VGN0aVUxWU91OHdYaWNQMnh0YkFpMWNVQndFSmlKTlV6d2FDTVlXQXU2NnZmbG5wMjQ5a2c2Q0hQOG5QV3o1TDJiaDk5cGx3M2lBQS1IZ0RzSEtMTFFOancxZ1ZMTTdnN19KQlhJRnN5UXpvbjZWRnNYNXFCS1NoVFhxTkNq?oc=5",
+      "take": "Once Upon a Time Cinderella Castle Projection Show Magic Kingdom AllEars.Net",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.309,
+      "published": "2026-10-18T06:35:49+00:00",
+      "added": "2026-10-18T16:12:04.709511+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi_gfbvv95cuxnam9lb1zjadc3nv9ln0vkatzsc3zuvmvyvkrfmjhyd0eyehqzwvllaw53a1pvofljutludgxayupotkliwfpndewybvfzvxbtevnidvlyrv9oq0ruyu56zwpitxzpvxhmrxpjqwxcogdvsm05m2tnbhu1zdb4vefznehrvmlvavp3btlowwyxdux1bkz6uzlnvdlclwvwqm4tq1rqag1rdi00nfbxlvdkoe5avvazrg52yjywsg9da0ftyw9fenpqzznicwdntwfobe1fwkvztte0vu50lulhcna4m245mxrctfn6ru1xzwv5vumxytfhthdcchbbqq",
+      "headline": "Gotham Group Agency Showcases New York Pop-Up Production Capabilities Through Carolina Herrera’s Good Girl Lab",
+      "source": "markets.businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNam9lb1ZJaDc3NV9LN0VkaTZsc3ZUVmVyVkRfMjhyd0EyeHQzWVllaW53a1pvOFljUTlUdGxaYUpOTkliWFpndEwybVFzVXBteVNIdVlyRV9oQ0RUYU56ZWpiTXZpVXhmRXpJQWxCOGdvSm05M2tnbHU1ZDB4VEFzNEhRVmlvaVp3bTlOWWYxdUx1bkZ6UzlNVDlCLWVWQm4tQ1RqaG1Rdi00NFBxLVdkOE5aVVAzRG52YjYwSG9Da0FtYW9fenpqZzNicWdnTWFObE1fWkVZTTE0VU50LUlhcnA4M245MXRCTFN6RU1xZWV5VUMxYTFhTHdCcHBBQQ?oc=5",
+      "take": "Gotham Group Agency Showcases New York Pop-Up Production Capabilities Through Carolina Herrera’s Good Girl Lab markets.businessinsider.com",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.406,
+      "published": "2026-10-17T17:06:51+00:00",
+      "added": "2026-10-18T16:12:04.709511+00:00"
+    },
     {
       "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxqevpzvtc1uu9qxzhqegfwnxlhtlfjquxsn3zxdnvuvwhmykdzntzxmvczrdnbclzoshvecle5twm0efvwruvpdkw0mmzcsw1jzgn2uhr2mfzoa3rcug1teglqchg4tnytrnhlujbebnnnaxfhdhrmuxa2atcyqwqxq0vzwwvmdzzhdm1lqlnjsldkqwlxrw9satjsy3ryx3r1zkfvbflyn3fmazbbbew2txdb",
       "headline": "projection mapping and performances make the night come alive at signal festival",
@@ -29,6 +71,20 @@
       "score": 0.482,
       "published": "2026-10-17T04:32:04+00:00",
       "added": "2026-10-17T16:01:21.351954+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiakfvx3lxte01m0h1nhrgz3zhztz6ngzkrg9iz21pvg12rwtowtkytglvddzhn2k0vtgyutdadue1lxg5s3fpm25qzmzxs3dzunn5zxbutxdabtrmdtzieg8yqjzqylo5b0u4efvkafruegc",
+      "headline": "This Miami Beach landmark is hosting an immersive symphony",
+      "source": "Secret Miami",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01M0h1NHRGZ3ZhZTZ6NGZkRG9IZ21PVG12RWtOWTkyTGlvdDZhN2k0VTgyUTdadUE1LXg5S3FpM25QZmZXS3dZUnN5ZXBUTXdabTRMdTZIeG8yQjZqYlo5b0U4eFVkaFRueGc?oc=5",
+      "take": "This Miami Beach landmark is hosting an immersive symphony Secret Miami",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.37,
+      "published": "2026-10-17T04:17:33+00:00",
+      "added": "2026-10-18T16:12:04.709511+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmitafbvv95cuxoy0vgm2hlqvq2ymj4mxjjeethslzab0plujdqn20xwhjnmzhuvzlpzffrmvlfts1ocxvzznlhlwxfmmezceltzwzxqxbudjrdvzhdofh3m1bpy2tczvl4ddjvum1ssvzyb0dix0zxwejkb2gtzfzlblhscwfnyndidlbiwgnnzee2mnyxoxvkt3ctcgh5nhvewurntwdflufpyxi4tdvtd2wxvhc4c2z3t1bkb00",
@@ -71,6 +127,20 @@
       "score": 0.429,
       "published": "2026-10-16T22:25:16+00:00",
       "added": "2026-10-17T16:01:21.351954+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiqafbvv95cuxqb01rqnprcxron051lwneueututbawmzgm01utuvjmvdirvktnkc4cktkvjq3yzdxmk1ywvlrdnlkruw3zhd2zumwa1vwwwflmzm3vxh6vexyyw80t0fdb3pud09hvnfnukhivhvyqxriy3qydhhjchvwnvngsevpv1lkzkxzmkpkbvpkbgdvt3loogvuv2f0bektlwjtr1u3z0f4akrtt3e",
+      "headline": "ShimmerScreen(R) Custom Metal Chain Curtains Create Statement Chandelier and Doorway Feature at Vaseline's New York City Pop-Up",
+      "source": "Newswire.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb01rQnpRcXRON051LWNEUEUtUTBaWmZGM01uTUVJMVdIRVktNkc4cktKVjQ3YzdxMk1yWVlRdnlKRUw3ZHd2ZUMwa1VWWWFLMzM3VXh6VExyYW80T0FDb3pud09HVnFNUkhIVHVYQXRIY3QydHhJcHVwNVNGSEVpV1lKZkxZMkpkbVpkbGdvT3loOGVUV2F0bEktLWJtR1U3Z0F4akRtT3E?oc=5",
+      "take": "ShimmerScreen(R) Custom Metal Chain Curtains Create Statement Chandelier and Doorway Feature at Vaseline's New York City Pop-Up Newswire.com",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.367,
+      "published": "2026-10-16T22:25:00+00:00",
+      "added": "2026-10-18T16:12:04.709511+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmiwkfvx3lxte9svxg0z3p6clz1rzf2zhhjbwdacwjrny1fdug1qzvqtddbrwvruzhncm1qm2ptt21mdfu3dnqyaes3tvdbeezzdvbunndpztlca200ugzwx2frzw",
@@ -171,6 +241,20 @@
       "added": "2026-10-17T16:01:21.351954+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmiigfbvv95cuxnwwzqsghmt2jvrefgclhhtgkwmgrzaenac2jatvlbxzhjavdtadm2c1vvaklnognkttvkzvfka2xer0c3x01sdjzrahfnt1yxmvllnfn4lwo2whzprxl2vthutvpwmlpnqvfgtwm0oxbzre1squhnnee1tl90s3himlhncgy0v0n6dmc",
+      "headline": "Metallica Expands Sphere Residency to 24 Shows",
+      "source": "TicketNews",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWZqSGhmT2JvREFGclhhTGkwMGRzaENac2JaTVlBXzhJaVdTaDM2c1VVaklNOGNkTTVkZVFKa2xER0c3X01SdjZraHFNT1YxMVllNFN4LWo2WHZpRXl2VThUTVpWMlpnQVFGTWM0OXBzRE1sQUhNNEE1Tl90S3hIMlhncGY0V0N6dmc?oc=5",
+      "take": "Metallica Expands Sphere Residency to 24 Shows TicketNews",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.384,
+      "published": "2026-10-16T09:29:35+00:00",
+      "added": "2026-10-18T16:12:04.709511+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxqr2toul9azw9zylvflu1gehhtbjuzsevwlwrnmgnkteg5sxvwyuvmwdyzv1u0vgvuaevurjjtcgj2r3e2ne9gejv6v3ktcg5zde5fcnfwwufhz2xoekfedjlxmvfzvxpqxzjtqjhoaljsz19jmkpcudi2delrcjzgdnjvmznpm0o2nevzcdbbuexta21rouvbrwlbtup6otnpbnvmz2f4afvxwks4azfmm2rb",
       "headline": "New Live Action Projection Mapping Film Captured with URSA Cine 12K LF",
       "source": "FilmInk",
@@ -267,6 +351,20 @@
       "score": 0.526,
       "published": "2026-10-15T17:38:00+00:00",
       "added": "2026-10-16T17:03:04.667830+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi1gfbvv95cuxooehqlul0d0vmb0txcfd0dwp0chvoq2u0ekhpzgzvd1p0uuo2tw1arul6bupydux0yvbkuklwxzdxnhy5ak83r3z3nupjouh5ejbuukzfrhzvv1fszgfknupirwvxzzm5yvznvmvwzfd2eljksc1vceplbwjlyzheuglfshvrbe9ztvdkawnzrnrsqwvxytrwm0hwvefqam1owhpzr3fqy1fcwmm3rktfdu9ds045a1zrvkpsathqwxnlyzh3mm1dvhdmywloqznrzvdndjfb",
+      "headline": "Metallica has 8 shows left at The Sphere in 2026, ticket prices are finally dropping",
+      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOEhqLUl0d0VMb0tXcFd0dWp0cHVoQ2U0ekhPZGZvd1p0UUo2TW1aRUl6bUpYdUx0YVBKUklWXzdXNHY5ak83R3Z3NUpJOUh5ejBUUkZfRHZvV1FSZGFKNUpiRWVxZzM5YVZnVmVwZFd2elJkSC1VcEpLbWJlYzhEUGlfSHVRbE9zTVdKaWNzRnRSQWVXYTRWM0hWVEFQam1oWHpzR3FqY1FCWmM3RktfdU9DS045a1ZRVkpSaThqWXNLYzh3Mm1DVHdMYWlOQzNRZVdndjFB?oc=5",
+      "take": "Metallica has 8 shows left at The Sphere in 2026, ticket prices are finally dropping USA Today",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.503,
+      "published": "2026-10-15T17:38:00+00:00",
+      "added": "2026-10-18T16:12:04.709511+00:00"
     },
     {
       "key": "https://www.bizbash.com/industry-buzz/canada-event-industry-news-for-october-15-2026",
@@ -743,104 +841,6 @@
       "score": 0.332,
       "published": "2026-10-14T06:10:29+00:00",
       "added": "2026-10-14T17:40:46.521509+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmickfvx3lxte0youjgu1roy1e2ukg5ags1ckjpdwzyszrsn1uwt1rzvhi2bwt3qupnadvcwflqnglvzdbkmjh2whfuqlrfu0txr01fnunbqjfusetywvzgsxg0wdbdrwdfemlmz21fahnmdwtctwnlugngqq",
-      "headline": "Meow Wolf Denver: Shows At The Perplexiplex",
-      "source": "Ones To Watch",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yOUJGU1RoY1E2Ukg5aGs1ckJpdWZySzRsN1UwT1RZVHI2bWt3QUpNaDVCWFlqNGlvZDBKMjh2WHFuQlRfU0tXR01fNUNBQjFUSEtyWVZGSXg0WDBDRWdFemlMZ21FaHNMdWtCTWNlUGNGQQ?oc=5",
-      "take": "Meow Wolf Denver: Shows At The Perplexiplex Ones To Watch",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.315,
-      "published": "2026-10-14T05:08:23+00:00",
-      "added": "2026-10-14T17:40:46.521509+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmif0fvx3lxte5nahewwmzprtbfvujoyvctd2tbddk5sdq1x3kxr1j2c1hynzkxb09erwjtoezwml9nmetjtglictlodhu0tdzkq0hkn212mnrgufnjswvfti1beufzuwtnbgpivy1dc0p4v3gxt0r6q2tqqzztownwbutyb3azx0hsazmbqvvfexfmufz0wkrrslqtumnwt19iylfoqujuoudia0llz0h3t3znu0jws0fswxe0bfnkt1dgoxdfr21rwkluuvfqchm2tgxtdhl0otrcexnzohjcu0pbykpkznfiz2zbxzz4c2xfm0w0vkpnlvhldgvitjb1ohzha19qwtrymgyzsehaoujgbmpgdwfzdutnbjbr",
-      "headline": "AI and brand experience drive K-desserts global push from South Korea",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5naHEwWmZpRTBfVUJoYVctd2tBdDk5SDQ1X3kxR1J2c1hYNzkxb09ERWJtOEZWMl9NMEtjTGlicTlOdHU0TDZKQ0hKN212MnRGUFNjSWVfTi1BeUFZUWtnbGpIVy1Dc0p4V3gxT0R6Q2tQQzZtOWNWbUtyb3AzX0HSAZMBQVVfeXFMUFZ0WkRRSlQtUmNWT19IYlFOQUJUOUdIa0lLZ0h3T3ZNU0JWS0FsWXE0bFNKT1dGOXdFR21rWkluUVFQcHM2TGxtdHl0OTRCeXNZOHJCU0pBYkpkZnFIZ2ZBXzZ4c2xfM0w0VkpnLVhldGViTjB1OHZHa19qWTRYMGYzSEhaOUJGbmpGdWFZdUtNbjBr?oc=5",
-      "take": "AI and brand experience drive K-desserts global push from South Korea - CHOSUNBIZ Chosunbiz",
-      "cat": "AI",
-      "token": "ai",
-      "tier": "query",
-      "geo": false,
-      "score": 0.429,
-      "published": "2026-10-14T03:26:00+00:00",
-      "added": "2026-10-15T17:28:24.486506+00:00"
-    },
-    {
-      "key": "https://www.bizbash.comhttp://viewer.zmags.com/publication/4bf3abec",
-      "headline": "Fall 2026: The Analog Issue",
-      "source": "BizBash",
-      "link": "https://www.bizbash.comhttp://viewer.zmags.com/publication/4bf3abec#/4bf3abec/1",
-      "take": "In this issue, we're celebrating everything analog—and exploring how this era of screen fatigue is changing events and experiential marketing.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.443,
-      "published": "2026-10-13T21:03:58+00:00",
-      "added": "2026-10-14T17:40:46.521509+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiyafbvv95cuxoxzltvu44bzhtblj3rdm3qk15mf9meezmnhffdhrwzgzhy19hblfim0dbowlum1b6rdvkslbgbdiwykh2ngxmsexsexm3szmwuug5two2dhzltxuztdd3s1njmhffuk1zdfblsfllofzualfmrgtoa2hxwuvnmhjuvwoydlfmvxkyltvjvk9puvn5ugldoenld3nmzmxxuzvtz19yc0rhvzv5t1frtkzazenwofhkzdnzbtn3wko4rtdmwg5hmutjsa",
-      "headline": "Missed out on John Mayer 2027 Sphere tickets? Here’s how to still buy them",
-      "source": "MassLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzlTVU44bzhtblJ3RDM3Qk15MF9MeEZMNHFFdHRwZGZHY19hblFIM0dBOWlUM1B6RDVKSlBGbDIwYkh2NGxMSExseXM3SzMwUUg5TWo2dHZlTXUzTDd3S1NJMHFfUk1zdFBLSFlLOFZUalFmRGtoa2hXWUVnMHJuVWoydlFMVXkyLTVJVk9pUVN5UGlDOENld3NmZmxXUzVTZ19yc0RHVzV5T1FRTkZaZENWOFhKZDNzbTN3Wko4RTdmWG5hMUtJSA?oc=5",
-      "take": "",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.4,
-      "published": "2026-10-13T20:26:00+00:00",
-      "added": "2026-10-14T17:40:46.521509+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmifkfvx3lxtfa2ng90dhraz1nbz2f2m3zmmkrtqzryunjsm1l5dhfstugwwdbfvm9iskm2wetnzxjramfxymvwtevtsnroqmliefhidg5qotzhzevntus2tvf2qu9ryxnkm1n6vw40cwddrfpozg9yvthkaejhoufjmg1dzv9zdw",
-      "headline": "Meet the 2026 BeautyMatter Awards Best Pop-Up Finalists",
-      "source": "BeautyMatter",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2NG90dHRaZ1NBZ2F2M3ZMMkRtQzRyUnJsM1l5dHFsTUgwWDBFVm9ISkM2WEtnZXJRamFXYmVWTEVtSnRoQmlieFhidG5QOTZHZEVNTUs2TVF2QU9RYXNkM1N6VW40cWdDRFpoZG9YVThkaEJhOUFJMG1DZV9Zdw?oc=5",
-      "take": "Meet the 2026 BeautyMatter Awards Best Pop-Up Finalists BeautyMatter",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.377,
-      "published": "2026-10-13T19:56:09+00:00",
-      "added": "2026-10-14T17:40:46.521509+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiogfbvv95cuxob1nedjbruddunnvluvppcznfems1yvpoqjf2rwnsqlpuvjjgwlheogrkntf5wfrzlwy0eej2cwpwrw5swgnubzj0czbfofnrqzvftffuv05mtehfzmfunucyrddwywzac2mtdwtjywxqrzd5q1p3swnazupmbnhrzvc5n0trthzoclf0rxpvdfmxzvy5dmg3sg81akfjd29lcgc",
-      "headline": "Sphere Revenue Jumps as ‘Wizard of Oz’ Ticket Sales Near 3 Million",
-      "source": "TicketNews",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1NEdjBRUDdUNnVLUVpPczNFems1YVpOQjF2RWNsQlpUVjJGWlhEOGRkNTF5WFRzLWY0eEJ2cWpwRW5sWGNubzJ0czBFOFNrQzVFTFFuV05MTEhFZmFuNUcyRDdwYWZac2MtdWtjYWxQRzd5Q1p3SWNaZUpmbnhrZVc5N0trTHZOclF0RXpvdFMxZVY5dmg3SG81akFJd29lcGc?oc=5",
-      "take": "Sphere Revenue Jumps as ‘Wizard of Oz’ Ticket Sales Near 3 Million TicketNews",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.349,
-      "published": "2026-10-13T18:23:56+00:00",
-      "added": "2026-10-16T17:03:04.667830+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmijgfbvv95cuxodvjhnupmq3bsltfydmdzqxdla1nqrty4x21pne90mujkmvpin2zly3v6sgjsngu4bdl2wwu4bgltblmzuggzn0dlqtlmu0lwzuduy0tsb2gtxzh4z2ludgz4a0thzflatedmngl3cuyyowjorth3vgvvdwzmn2hattyyn3zlowxtzentdxbr",
-      "headline": "BalletX enters a new era with immersive Fall Series Nov. 4-15 at the Suzanne Roberts Theatre",
-      "source": "PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVJHNUpmQ3BsLTFydmdzQXdla1NQRTY4X21pNE90MUJKMVpIN2ZlY3V6SGJsNGU4bDl2WWU4bGlTblMzUGgzN0dLQTlMU0lwZUduY0tsb2gtXzh4Z2ludGZ4a0thZFlaTEdmNGl3cUYyOWJoRTh3VGVvdWZmN2haTTYyN3ZlOWxtZENTdXBR?oc=5",
-      "take": "",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.387,
-      "published": "2026-10-13T17:31:28+00:00",
-      "added": "2026-10-13T19:37:45.875590+00:00"
     }
   ]
 }
