@@ -576,6 +576,24 @@ Summary: The news is not that another Comic Con happened.
 Why it matters: When exhibitors rebuild booths as broadcast studios, the floor stops being a place to hand out samples and becomes a storefront selling to the room and the stream at once, which changes what a booth is for.
 Takeaway: If your audience will livestream from your space anyway, design the booth as a set: host position, lighting and sightlines first, product wall second. The camera's audience is usually larger than the room's.
 
+### Netflix and Walmart built a KPop Demon Hunters night market to sell a shelf
+https://signal.sensalab.io/article-kpop-demon-hunters-huntrx-night-market-retail-signal.html
+Summary: The news is not another fandom pop-up.
+Why it matters: A free, giftable fan build that routes straight to a retailer's shelf shows experiential working as the front end of a retail calendar, not a brand-awareness line item.
+Takeaway: If the activation exists to move product, design the exit as carefully as the entrance. Every station should hand the visitor a reason, and a route, to buy the collection that funds it.
+
+### A permanent immersive art venue opens on Avenida Paulista as fixed projection infrastructure
+https://signal.sensalab.io/article-nubank-arte-lab-permanent-immersive-art-space-signal.html
+Summary: The news is not another projection show.
+Why it matters: When a bank and a mall anchor a permanent immersive venue instead of a touring exhibition, immersion stops being an event you visit and becomes real estate that has to be programmed and booked.
+Takeaway: If you are briefing a permanent immersive room, specify for reconfiguration from day one. The projector count and LED surfaces matter less than whether the space can be reset for a new exhibition, a performance or a corporate night without a rebuild.
+
+### A German agency adds an LED volume, and virtual production stops being studio-only
+https://signal.sensalab.io/article-brompton-led-volume-vg-media-virtual-production-signal.html
+Summary: The news is not another LED wall.
+Why it matters: When a marketing and production agency, not a film studio, builds an LED volume and books real commercial jobs on it, virtual production shifts from a specialist facility to a tool agencies own and run themselves.
+Takeaway: If you are evaluating an LED volume, judge it by what it can shoot per week, not its spec sheet. Camera tracking, frame rate headroom and simple stage control decide whether a brand team can run it without a dedicated virtual production crew.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
