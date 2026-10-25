@@ -1,7 +1,35 @@
 {
-  "generated": "2026-10-24T16:20:04.555379+00:00",
+  "generated": "2026-10-25T16:54:06.992543+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmipgfbvv95cuxob3lxy3oyemnmy19fzv9jvetvrenzmupby01izktlvdjkb2nmum9jv1i3yni4ltv1ahvhylvqd2rycfprbxkxak12qjfcn19nsu1tnufodg5yngjzmtdddi1hdxhfn0q3qzlls1njatfhdzhhyl83c01jvzbqu1lsmgrhnmc2dhywawe1z284uensnepsrthcvtnuvkjpnhn5suhmt0pb",
+      "headline": "The guardians of the algorithm and immersive art born in the technological heart of Barcelona",
+      "source": "The New Barcelona Post",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3lXY3oyemNmY19FZV9JVEtVRENzMUpBY01IZktLVDJKb2NMUm9JV1I3YnI4LTV1aHVHYlVqd2RYcFpRbXkxak12QjFCN19NSU1tNUFodG5yNGJzMTdDdi1HdXhFN0Q3QzllS1NJaTFHdzhhYl83c01JVzBqU1lSMGRHNmc2dHYwaWE1Z284UENSNEpsRThCVTNUVkJPNHN5SUhMT0pB?oc=5",
+      "take": "The guardians of the algorithm and immersive art born in the technological heart of Barcelona The New Barcelona Post",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.381,
+      "published": "2026-10-25T04:30:00+00:00",
+      "added": "2026-10-25T16:54:06.992543+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmifkfvx3lxte1hx0hfdeowztnlqu95r1pstlrnbg1lq2vob3julunnq0tfznfpvw5hzw1pngrqzgm4dmtvbm9waufuove3nupyexp3mvvaq2nrbkzgue9wylbpotzqc3ktmjkxenjmnkxkugp2nlvfef93vg1ssfp2eunpzv9zdw",
+      "headline": "Leonardo Garza Transforms BYREDO Fragrances into Interactive Steel Sphere Art Installation",
+      "source": "freeyork",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hX0hfdEowZTNlQU95R1psTlRnbG1lQ2VOb3JULUNnQ0tFZnFpVW5HZW1PNGRQZGM4dmtvbm9waUFUOVE3NUpyeXp3MVVaQ2NrbkZGUE9wYlBpOTZQc3ktMjkxenJMNkxKUGp2NlVFeF93VG1sSFp2eUNpZV9Zdw?oc=5",
+      "take": "Leonardo Garza Transforms BYREDO Fragrances into Interactive Steel Sphere Art Installation freeyork",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.624,
+      "published": "2026-10-24T19:00:49+00:00",
+      "added": "2026-10-25T16:54:06.992543+00:00"
+    },
     {
       "key": "https://news.google.com/rss/articles/cbmiogfbvv95cuxqqvnvb0zozwdfce1iwxv6wfbltxg0q1vgvlzrejf5uy1wcu9lcfy2ovvjenhmzwpxzuh0y2zhq3rwzm5vzwj2rnlpdi0wc1lpzznzdldgwvgwnmp3oezjrjvys0tsvc1qmef3sjbmmkhgejzrqlbhsxpjtmjrrwtsyww2bjf6n05fm0qxrzlzegfvbklkdwzim0zvcw12rvplwxc",
       "headline": "Oxford museum to host immersive techno and mining experience",
@@ -15,6 +43,20 @@
       "score": 0.415,
       "published": "2026-10-24T11:30:00+00:00",
       "added": "2026-10-24T16:20:04.555379+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxpdwheukj1zvfhcehsrlvnnghrytj3mem1slbpdtnnalgyegnfmhhvr0nlykntywhjqlhcrevxwfdmslpkvkgxnxvtyufjev9ct2nobmq3me9pagdwxzdqnfdregtrdk84v0permvzufjft3d1awzpz1zbynzyotjiuf9kn2tnlu5trlbnegs0wentzhj4sgfmbllyukv1x2n3zmt2shlyvuq4dgc",
+      "headline": "Oxford museum to host immersive techno and mining experience",
+      "source": "This Is Oxfordshire",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWhEUkJ1ZVFhcEhsRlVnNGhrYTJ3MEM1SlBpdTNNalgyeGNfMHhvR0NlYkNTYWhjQlhCREVXWFdmSlpkVkgxNXVtYUFJeV9CT2NObmQ3ME9PaGdwXzdQNFdreGtrdk84V0pERmVZUFJfT3d1aWZPZ1ZBYnZYOTJiUF9kN2tNLU5TRlBNeGs0WENTZHJ4SGFMbllYUkV1X2N3Zmt2SHlyVUQ4dGc?oc=5",
+      "take": "Oxford museum to host immersive techno and mining experience This Is Oxfordshire",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.403,
+      "published": "2026-10-24T11:30:00+00:00",
+      "added": "2026-10-25T16:54:06.992543+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmiiwfbvv95cuxnwgkta3vwcvblqknomwlrym1kwnk2uwi0shg0ykftc1biutrpvzzyzvqybkjlbwq3s3c4z0von0nxsfvpmf9knkramuk3duznms1swgkwujq1chryyxotuxzlq2fxotm2ehjlwennzultyjrbmzran0o4s3zsckxkohk2qurnauditmzn0ggqaufvx3lxte9ccvnwlwetmwvswlhlz0flywzaumzrdy1ure15umhpaexkd0xmthy4tfpiy1hitjjuuljpz2qyvzd5mku0b1prs3a3nfm2rle3uujmmnpozg45nxbgdhctq1j2qlludehcdxhisnzzmvrmmmrorlg2y0tjqlffmnnvtwxtbelgqwlxnm81wfvowg",
@@ -113,6 +155,20 @@
       "score": 0.344,
       "published": "2026-10-23T18:13:36+00:00",
       "added": "2026-10-23T17:34:31.548941+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxndhrjz1nxm2tyci13ttq0a244rdnlnzhfnljkbmnvamvfqwzysdrudm4tre1ondzjshhws3f0swjxwlh5s1f4bhpkymx0vzlft1zcejhxyk5iyk1bahlmsdyxzehlwffeaefargpxswdenujuqi1otwo3vtbkuknxadhknw82rnnfbjnhvzvytfvqmjhvywgzbnbwofr2mfzwmgnorfj0sukyevzkx1axqkxn",
+      "headline": "Punjabi Saraf stages gesture-led fashionshow to amplify focus on hand jewellery",
+      "source": "The Retail Jeweller India",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHRjZ1NXM2tYci13TTQ0a244RDNLNzhfNlJKbmNvamVFQWZYSDRudm4tRE1oNDZjSHhwS3F0SWJXWlh5S1F4bHpKYmx0VzlfT1ZCejhxYk5IYk1BaHlMSDYxZEhLWFFEaEFaRGpXSWdENUJuQi1oTWo3VTBkUkNXaDhkNW82RnNfbjNhVzVYTFVQMjhvYWgzbnBwOFR2MFZwMGNORFJ0SUkyeVZKX1AxQkxn?oc=5",
+      "take": "Punjabi Saraf stages gesture-led fashionshow to amplify focus on hand jewellery The Retail Jeweller India",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.354,
+      "published": "2026-10-23T16:53:24+00:00",
+      "added": "2026-10-25T16:54:06.992543+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmi0wfbvv95cuxpog93r2vkcwsyrudzsvvxbu5vcg9kdvd2wlh1dxdpy3c3rfvvbnlyrhzjbjkzz3h1wv95lxh4bk1evwpkdvmwsml4cwdflvphwk4yzzr4wgjgwloysggxamv0btrlrglszgzvrxrczdhimtk0thrqcxk5shvyndh4zndremezsni5cjd1ddbrr1zlnfa4df84umfavi0tyv9jwvdemzbnc2xurm1br2znow9hc2lot0nqtvdqddbraf8yatfvrufjqxhjagf1r0fuadhb",
@@ -351,6 +407,20 @@
       "score": 0.4,
       "published": "2026-10-22T20:15:27+00:00",
       "added": "2026-10-23T17:34:31.548941+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiy0fvx3lxte9vwdjoajzas1o1ugvfuhntau5hluxrne81rxdiwkpyt1fnmgrrwuk2cgxrr284n2w3qvvnyjdbnhmwv0d1zy1sshq5sej5dxhrbzbfzfr2evpnazv3amfldwvta9ibaefvx3lxtfbuohldbezgwfzudvhhtdfjawxvwk55nhjasfpxvle0vf9leglzvvf1r05ry2zsve9bztrqyvlruxptvzzpr2riovdrv3vttlr0q1p3a0dtzuv4zvrbzktln0r5sjj6te1w",
+      "headline": "Explore Portland’s Immersive Art Experiences",
+      "source": "Travel Portland",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VWDJoajZaS1o1UGVfUHNtaU5hLUxRNE81RXdiWkpYT1FNMGRRWUk2cGxrR284N2w3QVVnYjdBNHMwV0d1Zy1sSHQ5SEJ5dXhrbzBFZFR2eVpnazV3amFLdWVta9IBaEFVX3lxTFBUOHlDbEZGWFZUdVhhTDFjaWxVWk55NHJaSFpXVlE0VF9LeGlZVVF1R05rY2ZSVE9BZTRqYVlrUXpTVzZPR2RIOVdRV3VTTlR0Q1p3a0dTZUV4ZVRBZktlN0R5SjJ6TE1W?oc=5",
+      "take": "Explore Portland’s Immersive Art Experiences Travel Portland",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.353,
+      "published": "2026-10-22T19:52:16+00:00",
+      "added": "2026-10-25T16:54:06.992543+00:00"
     },
     {
       "key": "https://www.bizbash.com/event-venues/new-venues-in-chicago-for-fall-2026-meetings-and-events",
@@ -661,6 +731,20 @@
       "added": "2026-10-21T17:45:11.828303+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxpvnnsoepcuhnubnl0tmrzbkdjt1nwevpqtgxtbelwmm5vvzb4qufox3dulvd2dmtfcv9lu0dycjzcawp6qxvwt20ttlfcy1zxcda2vwfrd1zjsnrjd2jxm213uhzuof9prmlxcjnomnjhti00zvpcn2zzqki5rdbntkw2ae00bevwbvnnqm9bykjsx1m5egjwbhhumkxdrkjtzmhft3fxmm9uewl6rjzqztvn",
+      "headline": "Help Heal Veterans’ Art Installation The Healing Journey™ Named F",
+      "source": "The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnNsOEpCUHNUbnl0TmRZbkdJT1NweVpQTGxTbElWMm5VVzB4QUFoX3duLVd2dmtFcV9LU0dYcjZCaWp6QXVwT20tTlFCY1ZXcDA2VWFrd1ZjSnRJd2JxM213UHZuOF9pRmlxcjNOMnJhTi00ZVpCN2ZzQkI5RDBNTkw2aE00bEVWbVNNQm9BYkJsX1M5eGJwbHhuMkxDRkJTZmhFT3FXMm9UeWl6RjZqZTVn?oc=5",
+      "take": "Help Heal Veterans’ Art Installation The Healing Journey™ Named F The National Law Review",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.329,
+      "published": "2026-10-20T19:20:51+00:00",
+      "added": "2026-10-25T16:54:06.992543+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmihwjbvv95cuxobvvxr2yymgluedbnrve4oes1alphshe1cgndewg5eefeaknvbwhizhrjdujyvk9bbg1rule2uv9doevjdf9txzhlexrrtdnptw1fqjc0qnpdegz0a2ozogp5z2t4x202cmvxrdhwmwzntudwquv5n3netwyzq0c3reo3b1homjnlddc4eflatuq5ew91etdfmxowotbvqjzyznk3mzhka1c5wmjwt19ilulwumo5r1d4bvjrdf9eaja5rvk2zfpxsey5svnvamnmanlwzkrdemvnrkdkys1qtehsce5panfowmltlul3mw9mzy1hz1dynhrhczrodmlrrtrsamz2vq",
       "headline": "Help Heal Veterans’ Art Installation The Healing Journey™ Named Finalist in Two Categories of the 2026 Anthem Awards",
       "source": "The Des Moines Register",
@@ -717,6 +801,20 @@
       "added": "2026-10-20T17:37:03.890880+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmijwjbvv95cuxpmznkqnleuufiy0nnbnn3yjlfdejqugnsq1rxmg45r3r2tjzgnzhou0ppbjzldvfoeldisktibldqmelltfzwvefmnhg0z2q3wmdxngfyyth4sndzztnudknfbzbdrvkzewt3uupvsnu0xzdqbe1neg9nszzfqvrzai1nbhpzodrauzvfvwvkbm1pa2vdsmjycmxsewuwvfdoahluymo1rmdua0txefezcvnrqjjess1pmeh4bdq4ywtddmtblu52sxj0a2o0cvd4etbvclvlb2tad0zzqvh0dfzum05ewxfmnlhamgtxawwydefrlvitrwjmyjbwmnrjmzlwn0lhnghuwkn0ofc4",
+      "headline": "Las Vegas Sphere concerts: All the acts that are playing and how to get tickets | Entertainment",
+      "source": "Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMzNKQnlEUUFIY0NnbnN3YjlfdEJqUGNSQ1RxMG45R3R2TjZGNzhOU0pPbjZldVFOeldISktIbldQMElLTFZwVEFmNHg0Z2Q3WmdXNGFYYTh4SndzZTNUdkNfbzBDRVkzeWt3UUpvSnU0XzdQbE1NeG9nSzZfQVRzai1NbHpzODRaUzVfVWVKbm1pa2VDSmJYcmxseWUwVFdOaHlUYmo1Rmdua0txeFEzcVNRQjJESS1PMEh4bDQ4YWtDdmtBLU52SXJ0a2o0cVd4eTBVclVLb2tad0ZZQVh0dFZuM05EWXFmNlhaMGtXaWwydEFrLVItRWJmYjBwMnRJMzlwN0lHNGhUWkN0OFc4?oc=5",
+      "take": "Las Vegas Sphere concerts: All the acts that are playing and how to get tickets | Entertainment Central Oregon Daily",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.378,
+      "published": "2026-10-20T17:05:48+00:00",
+      "added": "2026-10-25T16:54:06.992543+00:00"
+    },
+    {
       "key": "https://www.bizbash.com/event-venues/new-venues-in-boston-for-fall-2026-meetings-and-events",
       "headline": "10 New Venues in Boston for Fall 2026 Meetings and Events",
       "source": "BizBash",
@@ -743,104 +841,6 @@
       "score": 0.416,
       "published": "2026-10-20T15:00:46+00:00",
       "added": "2026-10-20T17:37:03.890880+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxpoedfuhdoddvpby1ju3dln0rvr3vxauo5awhuehfatwnobwrubc12q1e4wxuwujrfazfzru9scxbqnldiy1rkvvjjzlzwakhbwkravm5rrnhsby1mnlhqodfmyvhza3l4ufdey1q5d2utanled3dpbthhmzhkcfzrtenou1h4dulhanpiz2l5mv9av01vvjjwn1izy0htuzj6mlvwyvjswgp6tvqwbvdruvlwtnnamwl0rzu4c0hbqmtvuq",
-      "headline": "The Beatles Story: Apple Corps announce huge new immersive fan experience in Liverpool",
-      "source": "NME",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEdfUHdodDVpby1jU3dlN0RVR3VXaUo5aWhUeHFaTWNObWRubC12Q1E4WXUwUjRfazFZRU9scXBQNldiY1RKVVJJZlZWakhBWkRaVm5rRnhsby1MNlhQODFMYVhza3l4UFdEY1Q5d2UtanlEd3dpbThHMzhKcFZrTENoU1h4dUlHanpIZ2l5MV9aV01VVjJWN1IzY0hTUzJ6MlVwYVJsWGp6TVQwbVdrUVlWTnNaMWl0RzU4c0hBQmtvUQ?oc=5",
-      "take": "The Beatles Story: Apple Corps announce huge new immersive fan experience in Liverpool NME",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.557,
-      "published": "2026-10-20T15:00:06+00:00",
-      "added": "2026-10-22T17:43:56.709038+00:00"
-    },
-    {
-      "key": "https://www.adweek.com/brand-marketing/robert-downey-jr-trades-tony-starks-aviators-for-snaps-ar-specs",
-      "headline": "Robert Downey Jr. Trades Tony Stark’s Aviators for Snap’s AR Specs",
-      "source": "Adweek",
-      "link": "https://www.adweek.com/brand-marketing/robert-downey-jr-trades-tony-starks-aviators-for-snaps-ar-specs/",
-      "take": "The Iron Man star has joined Specs brand as chief customer experience officer, as the smart glasses wars ramp up.",
-      "cat": "Spatial & AR",
-      "token": "spatial",
-      "tier": "rotate",
-      "geo": false,
-      "score": 0.494,
-      "published": "2026-10-20T10:57:28+00:00",
-      "added": "2026-10-20T17:37:03.890880+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmivgfbvv95cuxqx1njmwy1mmlta0f0dfvqytlpuwg5nxf1mhh2udbnquvla0znu2jyawhqvjc5odi4zex0q1etutdhaxjkzhbds1dmd1dycmxmvwf5nk1yedjictfuyxrubku4akhjd3p0ce5kdmkyute2dv9szem2zmlbaw53y0oxbzzxumr3exhoqxpjm3fwtmxhaddsmdduneznttm2wvnsnnlimmyzd2p1z040rvpcd3vqajrarhbhtgnqnfd3",
-      "headline": "From first click to final impression: rethinking where the brand experience begins",
-      "source": "Conference News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1NjMWY1Mmlta0F0dFVqYTlPUWg5NXF1MHh2UDBnQUVLa0ZNU2JyaWhQVjc5ODI4ZEx0Q1EtUTdHaXJkZHBDS1dMd1dYcmxMVWF5Nk1YeDJicTFUYXRubkU4akhJd3p0cE5kdmkyUTE2dV9sZEM2ZmlBaW53Y0oxbzZXUmR3eXhoQXpjM3FWTmxhaDdSMDdUNEZnTTM2WVNSNnlIMmYzd2p1Z040RVpCd3VQajRaRHBHTGNQNFd3?oc=5",
-      "take": "From first click to final impression: rethinking where the brand experience begins Conference News",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.473,
-      "published": "2026-10-20T08:52:26+00:00",
-      "added": "2026-10-20T17:37:03.890880+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmi5afbvv95cuxpuddvtzjotc1fynnmq0zpamncrljjx2rcbupuqmf1svlque1onddsbzvkuudlyljlvkpia05lrgpzame0bjnqahcza1znehbprwlwwwnnm0gzx19qt1mywe5js1e4rvl4u3b1twdfwnhmcwjpqkv6a3vst0x3yunozhzymkhqqwrmqkdkmehyukdvxznkcexmd2xmngzsenhsmnvsovk5cxrerk5fdfnnz3jsag1ryvvztjiwrjbfa3lfu0lfyjdwyzlruw92wenomvjpcu9hwhdpudhpu2hvem5ntki",
-      "headline": "Industry Innovators 2026: 10 Brands That Propelled the Experiential Marketing Industry Forward This Year",
-      "source": "BizBash",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUDdvTzJOTC1FYnNmQ0ZPamNCRlJjX2RCbUpUQmF1SVlqUE1ONDdSbzVKUUdlYlJlVkpia05LRGpZamE0bjNQaHcza1ZNeHBPRWlWWWNnM0gzX19qT1MyWE5jS1E4RVl4U3B1TWdFWnhMcWJPQkV6a3VST0x3YUNOZHZYMkhqQWRMQkdkMEhYUkdvXzNKcExMd2xMNGZSenhsMnVSOVk5cXRERk5FdFNnZ3JsaG1rYVVZTjIwRjBFa3lFU0lFYjdwYzlRUW92WENOMVJpcU9HWHdPUDhpU2hvem5NTkI?oc=5",
-      "take": "Industry Innovators 2026: 10 Brands That Propelled the Experiential Marketing Industry Forward This Year BizBash",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.358,
-      "published": "2026-10-20T07:00:00+00:00",
-      "added": "2026-10-22T17:43:56.709038+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxpukjgs0hvskdzwjhttjkyyjr6v3nowem0nhphwlznngvjympoce5vvu1gamkzexhjm0rbm1kyd20tmgvgrfruy2zmmxi3twzksldsuvdzvlo5tldvmzzsm3viz0twbznpdjhibxhumhz2ow9cqldorwziuxdnme1btereexhkunctmi1qr0zgvgpou19nodbz",
-      "headline": "When did ‘best practice’ become ‘bad practice’ in experiential marketing?",
-      "source": "Campaign Middle East",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkJGS0hVSkdzWjhTTjkyYjR6V3NoWEM0NHphWlZnNGVjYmpocE5vVU1GamkzeXhjM0RBM1kyd20tMGVGRFRuY2ZmMXI3TWZkSldSUVdZVlo5TldVMzZsM3VIZ0twbzNPdjhIbXhuMHZ2OW9CQldoRWZiUXdNME1BTEREeXhkUnctMi1QR0ZGVGpOU19nODBz?oc=5",
-      "take": "",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.411,
-      "published": "2026-10-20T05:13:20+00:00",
-      "added": "2026-10-20T17:37:03.890880+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/experiential-marketing/how-netflix-and-walmart-teamed-up-to-host-a-kpop-demon-hunters-immersive-fan-experience",
-      "headline": "How Netflix and Walmart Teamed Up to Host a 'KPop Demon Hunters' Night Market",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/experiential-marketing/how-netflix-and-walmart-teamed-up-to-host-a-kpop-demon-hunters-immersive-fan-experience",
-      "take": "The immersive experience played off the popularity and fandom of the streamer’s hit film, while incorporating brand partners.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.599,
-      "published": "2026-10-20T01:29:58+00:00",
-      "added": "2026-10-19T18:53:25.705320+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmirafbvv95cuxoyzrzbw53m2ltstbuqtvonnheyzbjsdjnudf6ejdotk0ycgtvmnp2y2tsx21wrutenw1rzkzrqxdlafbotkjeavzryupkbdl5c05ulxzicjezcglwuehsbgo5skl2umkxnjrhuepctfd2eutbb0l6shntvww3dlnnzf95q3zztxcwavk0albnowfctkdyaf84m0swzdfxc3u4wi1jwktamklvnmx5",
-      "headline": "Metallica Vegas Sphere ticket price hits new low. Get last-minute seats now",
-      "source": "New York Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzRzbW53M2ltSTBuQTVONnhEYzBJSDJnUDF6ejdOTk0ycGtVMnp2Y2tSX21wRUtENW1rZkZRQXdlaFBOTkJEaVZrYUpKbDl5c05uLXZicjEzcGlwUEhsbGo5Skl2UmkxNjRhUEpCTFd2eUtBb0l6SHNTVWw3dlNNZF95Q3ZzTXcwaVk0alBNOWFCTkdYaF84M0swZDFXc3U4Wi1jWktaMklvNmx5?oc=5",
-      "take": "",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.377,
-      "published": "2026-10-19T21:42:00+00:00",
-      "added": "2026-10-22T17:43:56.709038+00:00"
     }
   ]
 }
