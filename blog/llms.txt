@@ -594,6 +594,24 @@ Summary: The news is not another LED wall.
 Why it matters: When a marketing and production agency, not a film studio, builds an LED volume and books real commercial jobs on it, virtual production shifts from a specialist facility to a tool agencies own and run themselves.
 Takeaway: If you are evaluating an LED volume, judge it by what it can shoot per week, not its spec sheet. Camera tracking, frame rate headroom and simple stage control decide whether a brand team can run it without a dedicated virtual production crew.
 
+### A Beatles attraction built from the biopics' film sets signals IP opening as place
+https://signal.sensalab.io/article-beatles-attraction-liverpool-biopic-sets-signal.html
+Summary: The news is not a museum refresh.
+Why it matters: When a rights holder expands a museum by folding in the physical sets from an upcoming film franchise, the attraction stops being a retrospective and becomes the next release in the same IP, scheduled to the films.
+Takeaway: If you hold or represent IP with a film or music tie-in, treat the physical experience as part of the release window, not a licensing afterthought. The sets a production already built are the most authentic scenography a brand destination will ever source, at a fraction of building them new.
+
+### Sensoji mapping its main hall for the first time signals heritage as civic canvas
+https://signal.sensalab.io/article-sensoji-main-hall-projection-mapping-signal.html
+Summary: The story is not a light show at a landmark.
+Why it matters: When one of Tokyo's most-visited sacred sites adds free, timed projection on its main hall and alternates it with a second site, projection stops being a one-off spectacle and becomes repeatable civic programming with visitor flow built in.
+Takeaway: If you are activating a protected or sacred site, design the loop and the dwell before the content. Free admission, fixed hours and alternating short shows across two surfaces are a crowd-management system first and a spectacle second.
+
+### A Prado VR tour sending visitors inside five paintings signals the museum as free-roam
+https://signal.sensalab.io/article-prado-art-masters-free-roam-vr-signal.html
+Summary: The story is not another headset demo.
+Why it matters: When a national museum licenses five works into a free-roam, multi-user VR tour that travels to other cities, the collection becomes a format the institution can monetise without building, housing or insuring a physical show.
+Takeaway: If you are weighing VR for an activation, judge it on throughput and whether people move together. Free-roam, multi-user VR behaves like a group outing; a seated, single-headset demo behaves like a queue. The difference decides whether it works as an experience or a bottleneck.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
