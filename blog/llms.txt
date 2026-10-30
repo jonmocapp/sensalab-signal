@@ -624,6 +624,18 @@ Summary: The story is not a lobby installation.
 Why it matters: When a hotel group commissions a curated, multisensory installation for a contemporary art fair instead of buying a banner at one, it is claiming the role of cultural producer rather than advertiser.
 Takeaway: If you are planning a brand presence at a cultural event, the question is whether you are commissioning work or renting attention. A curated installation with named artists earns a place in the program; a logo on a wall does not.
 
+### A 41-metre Tokyo LED volume signals virtual production built as standing infrastructure
+https://signal.sensalab.io/article-digit-cast-haneda-tokyo-vp-volume-signal.html
+Summary: The story is not another big wall.
+Why it matters: When a studio builds a 41.5-metre LED wall, movable side walls and a reconfigurable ceiling into a permanent facility that also holds motion capture and volumetric capture, the virtual production volume stops being a rented stage and becomes standing infrastructure a production plans around.
+Takeaway: If you are scoping virtual production, read the whole facility, not the wall size. A ceiling that splits into independently height-adjustable sections, movable side walls and capture stages on the same site decide how many setups you can run in a day far more than peak pixel pitch does.
+
+### Factory International picking projection per artist signals the display medium as an editorial choice
+https://signal.sensalab.io/article-factory-international-projection-immersive-art-signal.html
+Summary: The story is not a projector purchase.
+Why it matters: When a major arts institution standardises on a projection inventory yet keeps choosing between projection and LED commission by commission, the display medium stops being a default and becomes an editorial decision made for each piece.
+Takeaway: If you are planning an immersive show, decide the surface after the work, not before. Projection and LED are not rivals to settle once; they are a per-project choice driven by the room, the artist and how close the audience stands.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
