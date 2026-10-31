@@ -1,7 +1,49 @@
 {
-  "generated": "2026-10-30T18:18:55.544962+00:00",
+  "generated": "2026-10-31T17:25:35.628096+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmi0afbvv95cuxqcedmvmzbzkdou2nttfpyodd0vgvhvfv6wxhsyku3rjhwnkribmzybgzocgjqwktkzk1eugzmmu5reuzmm0jta3feuxhjymdfz2pmvklzt2nvejdvrkvmovncvef0atlzykuzzjf5m0g2rxrptzfjb29fufptejkymznycenonuk5yvdrng1omfnkowjcym9yclvysu9fnjlzuedrxze4v29rsjqyowp4vtvimkvcslpvatvfos1vdmhmykg1vy1zrnqtqmdpnvfy0ghqaufvx3lxtfbwr2zwzkfmr2hty21mwni4n3ruzwfuvxpzegxirtdgoha2rgjuznjszmhwympas0pmturqzmyxtmt5rmyzqm1rcurregniz19namzwsxnpy1v6n29gruw5u0juqxrpovlirtnmmxkzsdzfdglpmulvb0vqwm16otizm3jwq041stlhv2s0bu4wu0o5ykjib1hyvxjjt0u2oxnqr1ffmthxb1fkndi5anhvnwiyrujkwm9pnv85lw92aexisdvxlvlgdc1cz2k1uvg",
+      "headline": "Nécessaire Turns Body Care Into Art With An Immersive New York Experience",
+      "source": "Outlook Luxe",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcEdmVmZBZkdoU2NtTFpyODd0VGVhVFV6WXhsYkU3RjhwNkRibmZybGZocGJqWktKZk1EUGZmMU5reUZmM0Jta3FEUXhjYmdfZ2pmVklzT2NVejdvRkVMOVNCVEF0aTlZYkUzZjF5M0g2RXRpTzFJb29FUFptejkyMzNycENONUk5YVdrNG1OMFNKOWJCYm9YclVySU9FNjlzUEdRXzE4V29RSjQyOWp4VTViMkVCSlpvaTVfOS1vdmhMYkg1Vy1ZRnQtQmdpNVFY0gHQAUFVX3lxTFBwR2ZWZkFmR2hTY21MWnI4N3RUZWFUVXpZeGxiRTdGOHA2RGJuZnJsZmhwYmpaS0pmTURQZmYxTmt5RmYzQm1rcURReGNiZ19namZWSXNPY1V6N29GRUw5U0JUQXRpOVliRTNmMXkzSDZFdGlPMUlvb0VQWm16OTIzM3JwQ041STlhV2s0bU4wU0o5YkJib1hyVXJJT0U2OXNQR1FfMThXb1FKNDI5anhVNWIyRUJKWm9pNV85LW92aExiSDVXLVlGdC1CZ2k1UVg?oc=5",
+      "take": "Nécessaire Turns Body Care Into Art With An Immersive New York Experience Outlook Luxe",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.415,
+      "published": "2026-10-31T11:58:00+00:00",
+      "added": "2026-10-31T17:25:35.628096+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiuwfbvv95cuxoednkbwzizwnxav9vednhqnmxdzz4es1lx1uwcddbb2vjwnixc2raamrhng9pofd5a2jmv3zqmzbpahbqdjffvthltkc1b3n1uupclwrbz05vbzzcqjbmbnrlvdnwc3zub3zeyu5lmzrudg5fcy02sdl1sgfsb05aqwfaynndmvvzyvpmmfrneerpallavha4edztwmtsselyuxe4eepqcxplbfnwwwnnvy1fvk9twk5bs0lv",
+      "headline": "Aldi Turns Store Parking Space Into A Halloween-themed OOH Activation",
+      "source": "Everything Experiential",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDNkbWZiZWNXaV9VeDNHQnMxdzZ4eS1LX1UwcDdBb2VjWnIxc2RaamRhNG9pOFd5a2JMV3ZQMzBPaHBQdjFFVThLTkc1b3N1UUpCLWRBZ05VbzZCQjBMbnRLVDNWc3Zub3ZEYU5LMzRUdG5fcy02SDl1SGFsb05aQWFaYnNDMVVZYVpmMFRneERpallaVHA4eDZTWmtSSElYUXE4eEpQcXpLbFNwWWNNVy1fVk9tWk5BS0lV?oc=5",
+      "take": "Aldi Turns Store Parking Space Into A Halloween-themed OOH Activation Everything Experiential",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.522,
+      "published": "2026-10-31T07:17:31+00:00",
+      "added": "2026-10-31T17:25:35.628096+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiekfvx3lxte5nbmrqcwq3wxnwrtzybudocxvztlpvnndnb0v5qtu3enlwwvvbx2vwueptvehyrxf5t2xzukzja2fyx3dlrhdfbu1awgfemm5htwjbwen0wjjpuwkzd1fitthwykfxcxdjz0zjadjsse9hx25xety0wgnn",
+      "headline": "Ukiyo-e Painting Lights Up Sensoji Temple During Projection Mapping Display",
+      "source": "The Japan News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nbmRqcWQ3WXNWRTZYbUdocXVZTlpvNndnb0V5QTU3enlWWVVBX2VWUEptVEhyRXF5T2xZUkZja2FYX3dLRHdfbU1aWGFEMm5hTWJBWEN0WjJPUWkzd1FITThWYkFxcXdJZ0ZJaDJSSE9HX25xeTY0WGNn?oc=5",
+      "take": "Ukiyo-e Painting Lights Up Sensoji Temple During Projection Mapping Display The Japan News",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.533,
+      "published": "2026-10-31T03:46:00+00:00",
+      "added": "2026-10-31T17:25:35.628096+00:00"
+    },
     {
       "key": "https://www.bizbash.com/event-production-planning/inside-the-last-minute-pivot-that-saved-cedars-sinai-s-3-1-million-gala",
       "headline": "Inside the Last-Minute Pivot That Saved Cedars-Sinai's $3.1 Million Gala",
@@ -171,6 +213,34 @@
       "added": "2026-10-30T18:18:55.544962+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmiekfvx3lxte5jaw10b3vzx29iwxhzwjlrmlficl9nn0ralvy1wxnnvzbsm1pcn1diawn2uzvhckvlnknirw9yxzblsxfox3hhwlnnew8tbks3akzjx05tsuf2ujfoawlrbgfjdjrymncxu3vnszrosvnbyng0y3i2aurb",
+      "headline": "In experiential, creativity has to survive reality",
+      "source": "Campaign Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JaW10b3VZX29iWXhZWjlrMlFIcl9nN0RaLVY1WXNnVzBSM1pCN1dIaWN2UzVhckVlNkNIRW9YXzBLSXFOX3hhWlNneW8tbks3akZJX05tSUF2UjFoaWlRbGFJdjRYMncxU3VnSzROSVNBYng0Y3I2aURB?oc=5",
+      "take": "In experiential, creativity has to survive reality Campaign Middle East",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.401,
+      "published": "2026-10-30T07:57:39+00:00",
+      "added": "2026-10-31T17:25:35.628096+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmieefvx3lxte1gwjvtbc1vvvh0evjgb3cxtu04mvjnm2phbnprd1norge0suxva3birvdwn3zkdvn2m0diaklsvkk5ejjhzgxeemriz1n4vldgmxnwmtzswhhdyzd6cjkyynjjdvpmotnncktmmi1jakrwwenynkptonibeefvx3lxte1gwjvtbc1vvvh0evjgb3cxtu04mvjnm2phbnprd1norge0suxva3birvdwn3zkdvn2m0diaklsvkk5ejjhzgxeemriz1n4vldgmxnwmtzswhhdyzd6cjkyynjjdvpmotnncktmmi1jakrwwenynkptoa",
+      "headline": "First permanent U.S. teamLab museum to be located in Southern California’s OCVIBE",
+      "source": "InPark Magazine",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GWjVTbC1VVVh0eVJGb3cxTU04MVJNM2phbnpRd1NoRGE0SUxva3BiRVdwN3ZKdVN2M0dIaklsVkk5ejJHZGxEemRIZ1N4VldGMXNwMTZSWHhDYzd6cjkyYnJJdVpmOTNncktmMi1JakRwWENYNkpTONIBeEFVX3lxTE1GWjVTbC1VVVh0eVJGb3cxTU04MVJNM2phbnpRd1NoRGE0SUxva3BiRVdwN3ZKdVN2M0dIaklsVkk5ejJHZGxEemRIZ1N4VldGMXNwMTZSWHhDYzd6cjkyYnJJdVpmOTNncktmMi1JakRwWENYNkpTOA?oc=5",
+      "take": "First permanent U.S. teamLab museum to be located in Southern California’s OCVIBE InPark Magazine",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.331,
+      "published": "2026-10-30T01:19:02+00:00",
+      "added": "2026-10-31T17:25:35.628096+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmijwjbvv95cuxpmznkqnleuufiy0nnbnn3yjlfdejqugnsq1rxmg45r3r2tjzgnzhou0ppbjzldvfoeldisktibldqmelltfzwvefmnhg0z2q3wmdxngfyyth4sndzztnudknfbzbdrvkzewt3uupvsnu0xzdqbe1neg9nszzfqvrzai1nbhpzodrauzvfvwvkbm1pa2vdsmjycmxsewuwvfdoahluymo1rmdua0txefezcvnrqjjess1pmeh4bdq4ywtddmtblu52sxj0a2o0cvd4etbvclvlb2tad0zzqvh0dfzum05ewxfmnlhamgtxawwydefrlvitrwjmyjbwmnrjmzlwn0lhnghuwkn0ofc4",
       "headline": "Las Vegas Sphere concerts: All the acts that are playing and how to get tickets | Entertainment",
       "source": "Central Oregon Daily",
@@ -199,6 +269,20 @@
       "added": "2026-10-30T18:18:55.544962+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmirafbvv95cuxosehlrzhidfn4czc3bzbschhlzvhlos1xqlhylv9kc3owyzy2zg1lt0z6cgxqx3zbatfgnvbitw5tnnhhclzjq0nbawyya1jzx0x1bgwttv9bzey3y0ltyk82n2rjcjrsttf2dlfmu2lrchrvduvqewz2m2txtdfxnm8yufi4b0xlt2x6bnmwnmnwafrus2v6cuzcd3bmudllwgvimvpnvuxfowvk",
+      "headline": "OCVibe, TeamLab to bring immersive, otherworldly museum to Anaheim",
+      "source": "Orange County Register",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEhlRzhidFN4czc3bzBscHhlZVhlOS1xQlhyLV9Kc3owYzY2ZG1LT0Z6cGxqX3ZBaTFGNVBITW5tNnhhclZJQ0NBaWYya1JZX0x1bGwtTV9BZEY3Y0lTYk82N2RjcjRsTTF2dlFMU2lrcHRVdUVQeWZ2M2tXTDFxNm8yUFI4b0xLT2x6bnMwNmNWaFRUS2V6cUZCd3BmUDllWGViMVpNVUxfOWVK?oc=5",
+      "take": "OCVibe, TeamLab to bring immersive, otherworldly museum to Anaheim Orange County Register",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.469,
+      "published": "2026-10-29T22:00:10+00:00",
+      "added": "2026-10-31T17:25:35.628096+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmi7wfbvv95cuxpvmu0ltvounlswxppr1ftm0lobzzsnurqduzuutiwbxrom2xulu5kdhrlekh5zs1zt2hralrbmkruyjhjyufyy2zjtedjeez4whzrc2pxbdvbmw9psv9kqmhgenphblfmdtdhrdn2bl80swhrsvj4tjhpmjezcw5gluo4wetctzltodn6cuptvmtvmffnylpodfrwemljqjlrx3r1lwdcnhezbvd1vmx5nwvlvnnarhnzb3y5z1czr0ttvloyn2dtnlvfm053eurztc1jemfueuvvdzzmztjunjbez2c3rerrt3i4x2rqna",
       "headline": "The Eagles extend Vegas residency at The Sphere into 2027, shop tickets",
       "source": "USA Today",
@@ -225,6 +309,20 @@
       "score": 0.363,
       "published": "2026-10-29T20:59:12+00:00",
       "added": "2026-10-30T18:18:55.544962+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi6wfbvv95cuxovklmd09sa3u2qzg3ngfwb1vvb1jnzgh2wvz6bxdiy0ptujy0qupuakxnvmo2m1dqbnher2pbmki0bvz2c1vlltnisupzawrtr3rlr0hwm0l3a2fqwgt3cumxne13yu9zrne1wfzmwgg5zhfaaxltovjrylppsxgtclhtaejrehbqq3dpmwdkcgpkv3bmnguxrwzrsxk4mu82rhd0oudhm0neltzrqjzsa3rrrhf5vffnzwxvslzjbutrsge4qmvxbhhwrzdpz0rmmi12dhaxnlhxdnbsuuf4zddxm1pou19uczm0",
+      "headline": "The Eagles extend Vegas residency at The Sphere into 2027, shop tickets",
+      "source": "Lohud",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVklMd09sa3U2Qzg3NGFwb1VVb1JNZGh2WVZ6bXdIY0pTUjY0QUpUakxNVmo2M1dqbnhER2pBMkI0bVZ2c1VLLTNiSUpZaWRTR3RlR0hWM0l3a2FQWGt3cUMxNE13YU9zRnE1WFZmWGg5ZHFaaXlTOVJRYlppSXgtclhtaEJreHBqQ3dpMWdKcGpKV3BmNGUxRWZrSXk4MU82RHd0OUdhM0NELTZrQjZSa3RrRHF5VFFnZWxvSlZjbUtRSGE4QmVXbHhWRzdPZ0RmMi12dHAxNlhXdnBSUUF4ZDdXM1pOU19UczM0?oc=5",
+      "take": "The Eagles extend Vegas residency at The Sphere into 2027, shop tickets Lohud",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.515,
+      "published": "2026-10-29T20:31:00+00:00",
+      "added": "2026-10-31T17:25:35.628096+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxndhrjz1nxm2tyci13ttq0a244rdnlnzhfnljkbmnvamvfqwzysdrudm4tre1ondzjshhws3f0swjxwlh5s1f4bhpkymx0vzlft1zcejhxyk5iyk1bahlmsdyxzehlwffeaefargpxswdenujuqi1otwo3vtbkuknxadhknw82rnnfbjnhvzvytfvqmjhvywgzbnbwofr2mfzwmgnorfj0sukyevzkx1axqkxn",
@@ -311,6 +409,20 @@
       "added": "2026-10-29T18:42:41.863365+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmi6gfbvv95cuxpbwv6u2zisziyq0llde0xm2vznxjpafdlzzi4wmz5dk1vdxhmlxf3vtrxazk0vepxzg5zu09wwhvqmznrrmzqlvnhzkdmbvdsx29ncgvqthrqstzttew5afpwdhrdbk8ym0rbz3dhslzbtfrfdmcwewhyajl0zkl5rmxrundisl9nnfbwr2g5a0h0amzax09fwuitc2xdc25qwgzkaec5sgrzn0rvrgtnautnrlfsmfvdetrjogjuwmp6lvhrx1p2evrmowrqmul1mmpldetznux3q3n0cuszzzlpn1hhrvvjb0e",
+      "headline": "John Mayer expands Las Vegas residency, see all Sphere dates & shop tickets",
+      "source": "The Columbus Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbWV6U2ZiSzIyQ0lLdE0xM2VZNXJPaFdlZzI4WmZ5dk1vdXhMLXF3VTRxazk0VEpxZG5zU09WWHVQMzNrRmZQLVNHZkdmbVdSX29NcGVQTHRQSTZTTEw5aFpwdHRDbk8yM0RBZ3dhSlZBTFRFdmcweWhYajl0Zkl5RmxRUndISl9NNFBwR2g5a0h0amZaX09FWUItc2xDc25qWGZkaEc5SGRzN0RVRGtNaUtnRlFSMFVDeTRJOGJUWmp6LVhrX1p2eVRmOWRqMUl1MmpldEtZNUx3Q3N0cUszZzlpN1hHRVVJb0E?oc=5",
+      "take": "John Mayer expands Las Vegas residency, see all Sphere dates & shop tickets The Columbus Dispatch",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.386,
+      "published": "2026-10-29T15:22:39+00:00",
+      "added": "2026-10-31T17:25:35.628096+00:00"
+    },
+    {
       "key": "https://www.bizbash.com/sporting-events/f1-austin-2026-see-the-races-newest-activations-by-delta-air-lines-google-red-bull-and-more",
       "headline": "F1 Austin 2026: See the Race’s Newest Activations by Delta Air Lines, Google, Red Bull, and More",
       "source": "BizBash",
@@ -381,6 +493,20 @@
       "added": "2026-10-29T18:42:41.863365+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmiz0fvx3lxtfbvc1rfs2nisllymvlgazlrzlbrsghwqzjpxzlgq1jim2ozsxvtutbizvg5dhrktvppnm5oogrvbumwrg8waxzjzjc3bfvvztjwzhhfrhl3wm9xu20tz1rwcwvxnfdzove",
+      "headline": "Seattle's 'Inconvenience Store' embraces the absurd with immersive art",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVc1RfS2NiSllyMVlGazlrZlBrSGhwQzJPXzlGQ1JiM2ozSXVTUTBiZVg5dHRkTVppNm5oOGRVbUMwRG8waXZjZjc3bFVVZTJwZHhfRHl3Wm9XU20tZ1RWcWVxNFdZOVE?oc=5",
+      "take": "Seattle's 'Inconvenience Store' embraces the absurd with immersive art Reuters",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.358,
+      "published": "2026-10-29T07:00:00+00:00",
+      "added": "2026-10-31T17:25:35.628096+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmid0fvx3lxte9qvmv3a3z2vm5wuxnwa2lsntzdufctczvqegnwn29xblhta3pvuzjatlrjql9jbehuoujicmdunmp0ekhkmg1gylk5evdhy2hunjhnrznrvkdyanlhbxdmsfyynzj1ani0zvz3qtzdoezit3bkufjv",
       "headline": "Maryland Is Getting Its Own (Mini) Sphere",
       "source": "Pitchfork",
@@ -393,6 +519,20 @@
       "score": 0.389,
       "published": "2026-10-28T22:41:52+00:00",
       "added": "2026-10-30T18:18:55.544962+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi3gfbvv95cuxowmfqmvfjd1bzvk9wt20yrmhlexbyrvfrd3v6vxvkxzhouxnqogi1tnfmngnha2xot3pksk5wuwvurgxfy042x1dqrfc1sy1kmvdvytvnmjlptexrbvfiu2ottmttowfkeeryamdoclf5nzzmc3etm3zyykutt2twtzlrwvz6ved6wdvprnmxseq5d2vsyjz3ce1iterhvjzqd0rpwfmwzfgwtwh5d3exbvg3quhkaw9cofvjdnbpoxjvzndds0huvkppa2jvb0diqldor0hgzgvwcwl4eve",
+      "headline": "Industry Innovators 2026: Experiential Producers & Marketers",
+      "source": "BizBash",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWmFQMVFJd1BzVk9wT20yRmhLeXBYRVFRd3V6VXVKXzhoUXNqOGI1TnFMNGNha2xOT3pkSk5WUWVURGxfY042X1dQRFc1Sy1kMVdvYTVnMjlPTExRbVFIU2otTmttOWFKeERYamdOclF5NzZMc3EtM3ZYYkUtT2twTzlRWVZ6VEd6WDVPRnMxSEQ5d2VSYjZ3cE1iTERHVjZqd0RpWFMwZFgwTWh5d3ExbVg3QUhKaW9COFVjdnBPOXJvZndDS0huVkpPa2JVb0dIQldoR0hGZGVwcWl4eVE?oc=5",
+      "take": "Industry Innovators 2026: Experiential Producers & Marketers BizBash",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.354,
+      "published": "2026-10-28T22:08:13+00:00",
+      "added": "2026-10-31T17:25:35.628096+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmi3afbvv95cuxoohzouhe3v3m1nmlduti1zemyykx3ttboewnjav95rwl5deh2whrgekh0xzjidwxxlwzfctboavd5tnjntu1pbtvot2xmmefuuc1zahrqr1ritxphrmhhrmgtytl6chu2wu02u005cvrjyji0bk9fb3phzfcwtdbmrxfqnmljeezlnmxtrxyxq3zvztzqdmn3n0zowxqzodzdsmxjsjlod2o4dzzhnk1ky0y0sho0oudeynkzyvdyexrbchhny1httdzivfzsttfjatbub3bsvwrtvm5y",
@@ -701,146 +841,6 @@
       "score": 0.467,
       "published": "2026-10-27T08:49:42+00:00",
       "added": "2026-10-27T18:28:09.521016+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmivwfbvv95cuxox3hwv3r2ewnjq3lhtzc0r1vhrhdgsc1oumjeovo5zupvqtdewmdhrnfwwgl1ce1hnnrwbtjzrgliqkt1mfpttezqufkxqxfyv2lkzfnqzwjfrfvswulsb1nhoglim0ltshlocuutohy5rjrcdhbqczlwrmntrnrzau9gb29xsv9fcuxsrlddrhi0ukpfrnjvcffts0otbe9lnhflc2kweukxrlpydetza3bma2panfrrc3v3vf9jcw",
-      "headline": "Virtual Production: Brompton Powers Massive LED Volume At Tokyo Virtual Production Studio",
-      "source": "Sixteen:Nine",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3hWV3R2eWNjQ3lHTzc0R1VHRHdGSC1OUmJEOVo5ZUpVQTdEWmdhRnFwWGl1cE1HNnRWbTJZRGliQkt1MFptTEZqUFkxQXFYV2lKZFNQZWJFRFVSWUlSb1NhOGliM0ltSHlocUUtOHY5RjRCdHBqczlWRmNtRnRzaU9Gb29XSV9FcUxSRldDRHI0UkpFRnJvcFFTS0otbE9LNHFlc2kweUkxRlpydEtza3Bma2paNFRrc3V3VF9Jcw?oc=5",
-      "take": "Virtual Production: Brompton Powers Massive LED Volume At Tokyo Virtual Production Studio Sixteen:Nine",
-      "cat": "CGI & VFX",
-      "token": "cgi",
-      "tier": "query",
-      "geo": false,
-      "score": 0.536,
-      "published": "2026-10-27T06:57:00+00:00",
-      "added": "2026-10-27T18:28:09.521016+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmitwfbvv95cuxpnk5dakposuq1adfpsw1une1ka3i5b05bs2towwp2bufhrmzir0f1zxfweu83qljevhoxy3pad1babktivmvodelrbwews3h5dfhnnzfmvdn0ahbkb3e3vlruogv4czrqylz1sw13sgnlcvraakxzuk1rmc12wfjvste2x2tsz2y2mda3ewvsvdhjaej1emtloudiywl2eexkznvsve9otncxrzbzqxkytlz3ahjoazg",
-      "headline": "Blackmagic Design Details Mobile Virtual Production Teaching Setup at Rowan University",
-      "source": "Digital Studio India",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNk5DakpoSUQ1aDFPSW1UNE1ka3I5b05BS2toWWp2bUFhRmZIR0F1ZXFWeU83QlJEVHoxY3pad1BabktiVmVOdElRbWEwS3h5dFhNNzFmVDN0aHBkb3E3VlRuOGV4czRQYlZ1SW13SGNlcVRaakxzUk1RMC12WFJvSTE2X2tSZ2Y2MDA3eWVsVDhJaEJ1emtlOUdIYWl2eExkZnVSVE9OTncxRzBzQXkyTlZ3aHJOazg?oc=5",
-      "take": "Blackmagic Design Details Mobile Virtual Production Teaching Setup at Rowan University Digital Studio India",
-      "cat": "CGI & VFX",
-      "token": "cgi",
-      "tier": "query",
-      "geo": false,
-      "score": 0.498,
-      "published": "2026-10-27T05:43:31+00:00",
-      "added": "2026-10-27T18:28:09.521016+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/event-venues/unconventional-venue-options-for-corporate-holiday-parties",
-      "headline": "9 Unconventional Venue Options for Corporate Holiday Parties",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/event-venues/unconventional-venue-options-for-corporate-holiday-parties",
-      "take": "From projection-mapped spaces to unique interactive experiences, this collection of venues offers a cool, cutting-edge take on year-end celebrations.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.506,
-      "published": "2026-10-26T22:54:40+00:00",
-      "added": "2026-10-26T18:55:26.233272+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmib0fvx3lxte1yuk5wt0hizdlzufnhow1pqwlex2fxzkruve10r1e2czrquddqrzrovehjtxl0c1bqrtlnnl83ylhzz3hmadduotdaq1zvuv9famy5tufvzkthunlidlpwyxe5uhzwbulktuhjtfzjuq",
-      "headline": "Every 2026-27 Las Vegas residency, including Eagles at Sphere for under $360",
-      "source": "Syracuse.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YUk5wT0hiZDlzUFNHOW1pQWlEX2FxZkRuVE10R1E2czRqUDdqRzROVEhjTXl0c1BQRTlNNl83YlhzZ3hMaDduOTdaQ1ZvUV9famY5TUFvZkthUnlIdlpWYXE5UHZWbUlkTUhjTFZjUQ?oc=5",
-      "take": "Every 2026-27 Las Vegas residency, including Eagles at Sphere for under $360 Syracuse.com",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.376,
-      "published": "2026-10-26T20:45:00+00:00",
-      "added": "2026-10-29T18:42:41.863365+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmijwfbvv95cuxnmvvlsjh0buleltlfynvotei0cwvjswfetxlpmzjbtjbwc3a0yvpbdhfxv1zxm0ztrelpaenocmzxu2dkd1z0am1fy2rkuxbbuwrglwxmew9yvgffnzfgbllemmlnbfbwy3lgtwxxdfb0b1jgevv5cetav05yvlzpdv9lwuktzklwu2rjmvbhoa",
-      "headline": "Eagles Add Six Fall 2026 Sphere Shows in Las Vegas",
-      "source": "TicketNews",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVVlSjh0bUlELTlFYnVoTEI0cWVjSWFETXlpMzJBTjBwc3A0YVpBdHFxV1ZXM0ZTRElPaENOcmZXU2dKd1Z0am1FY2RKUXBBUWRGLWxmeW9yVGFFNzFGbllEMmlnbFBwY3lGTWxXdFB0b1JGeVV5cEtaV05YVlZpdV9LWUktZklwU2RJMVBhOA?oc=5",
-      "take": "Eagles Add Six Fall 2026 Sphere Shows in Las Vegas TicketNews",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.4,
-      "published": "2026-10-26T20:27:48+00:00",
-      "added": "2026-10-27T18:28:09.521016+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmihajbvv95cuxot1npyvldt2pmdhpmyjvkbwjzene4vefxehbdyvmzsuvltux0ctnyrmvfwhltym9rdlfzsvqtngtxslrkee05nknfx2jvumq0ylj5uzfgv0kta0d6texhr0fyv1llwtlpwk9jnl8wr0tmq1vwykfonkjualnswjawr1czlw9fwjz4cgp4sxa4q201rm9vs2zfm1iymejsslvesnpyemphdunkmhpkz25kzlfdrup0dfpawtleclv2rf9nslh6y2tfoes1ckfqwxbmcxduykj5qunpblhxczvotgfrdev3vly5aklmd2mwznlaympmrw40ynuztg5nlxdsehlhdg",
-      "headline": "LuminoCity Expands Its B2B Entertainment Business, Showcasing Immersive Experience Solutions at IAAPA Expo 2026",
-      "source": "Chinook Observer",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOT1NPYVlDT2pMdHpmYjVkbWJZenE4VEFXeHBDYVMzSUVLTUx0cTNYRmVfWHltYm9rdlFZSVQtNGtxSlRkeE05NkNfX2JvUmQ0YlJ5UzFGV0kta0d6TExHR0FyV1llWTlPWk9jNl8wR0tmQ1VwYkFONkJualNSWjAwR1czLW9FWjZ4cGp4SXA4Q201Rm9vS2ZFM1IyMEJsSlVESnpyempHdUNkMHpkZ25KZlFDRUp0dFpaWTlEclV2RF9nSlh6Y2tFOEs1ckFQWXBMcXdUYkJ5QUNpblhxczVOTGFRdEV3VlY5aklMd2MwZnlaYmpmRW40YnUzTG5nLXdseHlhdg?oc=5",
-      "take": "LuminoCity Expands Its B2B Entertainment Business, Showcasing Immersive Experience Solutions at IAAPA Expo 2026 Chinook Observer",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.436,
-      "published": "2026-10-26T19:43:43+00:00",
-      "added": "2026-10-27T18:28:09.521016+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmicefvx3lxte9moelfohhrcudcvgi5a3n1rkrkmkfiwthkaxd1swltzunjrfjyrgd1ykvyy2hzannxvvfjaznomdjlotfasm5ddhpwnvfsvehlzuh3zupxqwwwx1nwclkwsmdsv3darloxec1xntg4q24",
-      "headline": "Four Seasons Greek Collection Presents Elemental Essence, an Immersive Art Experience at Art Athina 2026",
-      "source": "Four Seasons Press Room",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MOElfOHhRcUdCVGI5a3N1RkRKMkFiWThkaXd1SWlTZUNJRFJYRGd1YkVYY2hzanNxVVFJazNOMDJlOTFaSm5DdHpWNVFSVEhlZUh3ZUpxQWwwX1NWclkwSmdSV3daRloxeC1XNTg4Q24?oc=5",
-      "take": "Four Seasons Greek Collection Presents Elemental Essence, an Immersive Art Experience at Art Athina 2026 Four Seasons Press Room",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.406,
-      "published": "2026-10-26T19:37:38+00:00",
-      "added": "2026-10-27T18:28:09.521016+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmigajbvv95cuxommnivfpszknsntdilwlywfhbqxo4nw5jqmv3rdlhndbvrjbjq19uu09jb091vvy3dgdoaepst00wzja4z3risvy2elrptvpteeg0suy2cxj6tvlpmevyu3e3s3bgzehkc1gtcllfb2z5u0g3q2c1ufgxrfj0cdcwoxixsktkbem1bwk0wvfuavvxy2jjmuzer3mwdtznrhlucs1ozty4n3fgdzbuu2v1tuhewvbustvunufqckm2rwo5vjn6znhozm94ne1hskrncepsyut1a01hbgvmm2ixzmnhruo1djzlz0ppytdwdnk3ai05y09smvnvztbea2pq",
-      "headline": "LuminoCity Expands Its B2B Entertainment Business, Showcasing Immersive Experience Solutions at IAAPA Expo 2026",
-      "source": "Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMmNIVFpsZkNsNTdiLWlyWFhBQXo4NW5jQmV3RDlHNDBvRjBjQ19uU09jb091VVY3dGdOaEpST00wZjA4Z3RISVY2elRPTVpTeEg0SUY2cXJ6TVlpMEVyU3E3S3BGZEhkc1gtcllFb2Z5U0g3Q2c1UFgxRFJ0cDcwOXIxSktKbEM1bWk0WVFuaVVxY2JJMUZER3MwdTZNRHlUcS1oZTY4N3FGdzBUU2V1TUhEWVBUSTVuNUFqckM2RWo5VjN6ZnhoZm94NE1HSkRNcEpsYUt1a01hbGVMM2IxZmNHRUo1djZLZ0ppYTdWdnk3ai05Y09SMVNVZTBEa2pq?oc=5",
-      "take": "LuminoCity Expands Its B2B Entertainment Business, Showcasing Immersive Experience Solutions at IAAPA Expo 2026 Morningstar",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.412,
-      "published": "2026-10-26T19:27:00+00:00",
-      "added": "2026-10-29T18:42:41.863365+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/event-venues/corporate-holiday-party-venue-ideas-for-2026",
-      "headline": "Corporate Holiday Party Venue Ideas for 2026",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/event-venues/corporate-holiday-party-venue-ideas-for-2026",
-      "take": "This year, we rounded up some top-notch venues—big and small—where companies can host their annual gathering.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.38,
-      "published": "2026-10-26T18:19:42+00:00",
-      "added": "2026-10-26T18:55:26.233272+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmi2afbvv95cuxpwgvdsjvszk9ywnvemmjiovvybuzmse5cewzjcukwrjj0yjfcsknpeu9jmennv1h2zgf1uglwmdbitvjrqkdqq0nyem92r3hjqvhjbdl5oexsyk85tmvvnmrmueetsg9wd05xn1vtahm2tfnvv3ppefpdcurjltduqmy3rfpmngjndvhotkoxm09kswdfqi1hzhrjc1lxv0hlltdfcxbwbellstbcou9gz09dqzdxt3j6ngtqsgl6sjvibxn2wgdqa2x5vvhkswgzm1i1wvzlnnq",
-      "headline": "Premiere Experiential Agency Promobile Marketing Welcomes New Clients Including ARIH, Momofuku and Others",
-      "source": "BevNET.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWGVDSjVSZk9YWnVEMmJiOVVybUZMSE5CeWZjcUkwRjJ0YjFCSkNPeU9jMENNV1h2ZGF1UGlwMDBITVJrQkdqQ0NYem92R3hjQVhjbDl5OExsYk85TmVvNmRmUEEtSG9wd05xN1VTaHM2TFNvV3ppeFpDcURjLTduQmY3RFpmNGJNdVhoTkoxM09kSWdFQi1HZHRjc1lxV0hlLTdfcXBWbElLSTBCOU9GZ09DQzdXT3J6NGtQSGl6SjVIbXN2WGdqa2x5VVhkSWgzM1I1WVZLNnQ?oc=5",
-      "take": "Premiere Experiential Agency Promobile Marketing Welcomes New Clients Including ARIH, Momofuku and Others BevNET.com",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.489,
-      "published": "2026-10-26T18:15:07+00:00",
-      "added": "2026-10-26T18:55:26.233272+00:00"
     }
   ]
 }
