@@ -636,6 +636,24 @@ Summary: The story is not a projector purchase.
 Why it matters: When a major arts institution standardises on a projection inventory yet keeps choosing between projection and LED commission by commission, the display medium stops being a default and becomes an editorial decision made for each piece.
 Takeaway: If you are planning an immersive show, decide the surface after the work, not before. Projection and LED are not rivals to settle once; they are a per-project choice driven by the room, the artist and how close the audience stands.
 
+### Lego pairing a musical with a pop-up cafe signals content as a venue
+https://signal.sensalab.io/article-lego-musical-pop-up-cafe-content-as-venue-signal.html
+Summary: A toy brand released a streamed musical and a walk-in cafe on the same calendar, treating physical space as another release window.
+Why it matters: When a brand ships a musical and a walk-in environment on one timeline across eight markets, it is treating experiential space as distribution, not promotion.
+Takeaway: Plan the physical build as a release window with its own content, not a photo backdrop, and tie it to what the audience is already watching.
+
+### Toei building Japan's largest LED volume in-house signals studios owning virtual production
+https://signal.sensalab.io/article-toei-tokyo-led-volume-owned-virtual-production-signal.html
+Summary: A legacy film studio has put a 30-metre LED wall and a full virtual-production pipeline under its own roof rather than renting one.
+Why it matters: When a film studio stops renting LED volumes and builds the largest one in its market in-house, virtual production is becoming owned infrastructure, not a per-project rental.
+Takeaway: Treat an LED volume as a standing capability with a defined pipeline, not a line item you re-source every shoot. The pipeline choices matter as much as the wall.
+
+### Eagles extending a Sphere run toward 74 shows signals residency as a format
+https://signal.sensalab.io/article-eagles-sphere-residency-74-shows-run-as-format-signal.html
+Summary: Two more January 2027 dates push one Sphere residency past 70 shows, turning a venue booking into a long-run product.
+Why it matters: A band treating one screen-rich venue as a run it keeps extending in small increments is managing a show like a product, not booking a tour.
+Takeaway: Design fixed-venue shows to be restockable: build visuals that survive dozens of nights and instrument demand so you add dates instead of guessing.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
