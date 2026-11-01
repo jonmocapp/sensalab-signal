@@ -636,6 +636,18 @@ Summary: The story is not a projector purchase.
 Why it matters: When a major arts institution standardises on a projection inventory yet keeps choosing between projection and LED commission by commission, the display medium stops being a default and becomes an editorial decision made for each piece.
 Takeaway: If you are planning an immersive show, decide the surface after the work, not before. Projection and LED are not rivals to settle once; they are a per-project choice driven by the room, the artist and how close the audience stands.
 
+### A Candy Land store built as a board game signals retail as a route to walk
+https://signal.sensalab.io/article-candy-land-immersive-retail-route-signal.html
+Summary: The story is not the sweets.
+Why it matters: When a store is laid out as a board game that visitors complete as game pieces, and the checkout is the final scene rather than a counter, retail stops being a room to browse and becomes a route to walk.
+Takeaway: Design the visitor's path first and the set dressing second. Put the purchase inside the story as a beat on the route, not a transaction bolted on at the exit.
+
+### A film school picking a green-screen cart over an LED volume signals portable virtual production
+https://signal.sensalab.io/article-rowan-green-screen-cart-portable-virtual-production-signal.html
+Summary: The story is not another LED volume.
+Why it matters: When a film school can teach the full virtual production workflow, camera tracking and real-time compositing, on a green screen and a tracked camera, the LED volume is revealed as an optional finish rather than the prerequisite it is usually treated as.
+Takeaway: Separate the virtual production skill from the LED hardware. Prototype camera moves and real-time backgrounds on a green screen first; book the volume only once the shots are designed.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html

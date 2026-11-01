@@ -4788,6 +4788,108 @@
      "text": "SensaLab produces projection and real-time shows white-label, under an agency or venue's own name, across both projection and LED. We take the brief first and the surface second: the room, the work and the audience decide which technology earns its place, and the answer is allowed to change from one commission to the next."
     }
    ]
+  },
+  {
+   "slug": "candy-land-immersive-retail-route-signal",
+   "cat": "Experiential",
+   "tokens": "experiential",
+   "edition": 21,
+   "source_name": "License Global",
+   "source_url": "https://www.licenseglobal.com/location-based-entertainment/first-u-s-candy-land-immersive-retail-experience-to-open-in-new-york-city-this-november",
+   "date": "2026-10-30",
+   "image_url": "",
+   "headline": "A Candy Land store built as a board game signals retail as a route to walk",
+   "dek": "The story is not the sweets. It is a store organised as a board-game route, with the checkout staged as the final scene rather than a counter.",
+   "focus_keyword": "candy land immersive retail new york",
+   "read_minutes": 3,
+   "meta_description": "Event Network opens the first U.S. Candy Land immersive retail experience in New York this November, staging the store as a walkable board game that ends at a castle checkout. The signal: retail designed as a route.",
+   "why": "When a store is laid out as a board game that visitors complete as game pieces, and the checkout is the final scene rather than a counter, retail stops being a room to browse and becomes a route to walk.",
+   "takeaway": "Design the visitor's path first and the set dressing second. Put the purchase inside the story as a beat on the route, not a transaction bolted on at the exit.",
+   "body": [
+    {
+     "type": "para",
+     "text": "Event Network is opening the first U.S. Candy Land immersive retail experience in New York this November, next to the New York Hilton Midtown on Sixth Avenue at 54th Street, under license from Hasbro, according to License Global. The format turns the store into the board game. Visitors move through themed zones as if they were game pieces, passing a Candied Apple Orchard, Gummy Mountains, Chocolate Caves, a Lollipop Forest and an Ice Cream Beach before arriving at a castle that doubles as the checkout. Along the way the space sells candy, drinks, toys, souvenirs, collectibles and apparel tied to each zone."
+    },
+    {
+     "type": "subhead",
+     "text": "The real signal is the route, not the candy"
+    },
+    {
+     "type": "para",
+     "text": "It is easy to file this as another sugar-themed photo trap, and that reading misses the move. The decision that matters is structural: the store is organised as a path with a beginning, a sequence and an end, and the point of sale is the final scene rather than a counter bolted to one wall. Retail here is not a room you browse; it is a route you complete. The merchandise is distributed along that route so buying happens in character, inside the fiction, rather than as a transaction appended afterwards."
+    },
+    {
+     "type": "para",
+     "text": "That inverts the usual order of experiential retail, where a brand builds a backdrop and hopes visitors buy on the way out. Mapping the game board onto the floor plan means the narrative path and the commercial path are the same path. Every zone is both a scene and a shelf, and the castle checkout turns the moment of payment into the end of the game rather than an interruption of it."
+    },
+    {
+     "type": "subhead",
+     "text": "What a producer can do now"
+    },
+    {
+     "type": "para",
+     "text": "If you are briefing a branded space, start from the visitor's route before the set dressing. Decide the sequence of rooms, where the story turns, and where the transaction sits inside that sequence, then theme on top of that spine. A licensed world like Candy Land makes the route legible because the audience already knows the board, but the principle holds for any brand with a universe to draw on. Give people a path to walk, not a set to stand in, and let the purchase land as a beat in the story. The same logic underwrites a durable [retail activation kit](/kits/retail): sequence first, surfaces second."
+    },
+    {
+     "type": "para",
+     "text": "Why it belongs in an experiential toolkit: a route-based store is reusable intelligence. Once you have designed one as a sequence of scenes with a built-in commercial endpoint, the structure travels to pop-ups, flagships and touring builds regardless of the IP sitting on top. The zones change; the grammar of path, scene and checkout does not. That portability is what separates a one-off spectacle from a method you can run again."
+    },
+    {
+     "type": "para",
+     "text": "SensaLab builds this kind of route-based, real-time environment for agencies and brands to run under their own name, from the spatial narrative down to the surfaces that carry it. The work ships as the client's; the method is what we bring."
+    }
+   ]
+  },
+  {
+   "slug": "rowan-green-screen-cart-portable-virtual-production-signal",
+   "cat": "CGI & VFX",
+   "tokens": "cgi",
+   "edition": 21,
+   "source_name": "ProVideo Coalition",
+   "source_url": "https://www.provideocoalition.com/rowan-university-explores-virtual-production-workflows-with-blackmagic/",
+   "date": "2026-10-30",
+   "image_url": "",
+   "headline": "A film school picking a green-screen cart over an LED volume signals portable virtual production",
+   "dek": "The story is not another LED volume. It is a film school proving the virtual production pipeline runs on a green screen and a tracked camera, and fits on a cart.",
+   "focus_keyword": "rowan university virtual production blackmagic",
+   "read_minutes": 3,
+   "meta_description": "Rowan University's film department built a mobile virtual production cart with a Blackmagic URSA Mini Pro 12K, Ultimatte 12 4K and VIVE Mars tracking instead of waiting for an LED volume. The signal: the pipeline, not the wall, is the teachable core.",
+   "why": "When a film school can teach the full virtual production workflow, camera tracking and real-time compositing, on a green screen and a tracked camera, the LED volume is revealed as an optional finish rather than the prerequisite it is usually treated as.",
+   "takeaway": "Separate the virtual production skill from the LED hardware. Prototype camera moves and real-time backgrounds on a green screen first; book the volume only once the shots are designed.",
+   "body": [
+    {
+     "type": "para",
+     "text": "Rowan University's Radio, Television and Film department has built a mobile virtual production setup rather than wait for a permanent LED volume, according to a Blackmagic Design write-up reported by ProVideo Coalition. The portable cart is assembled around a Blackmagic URSA Mini Pro 12K OLPF camera, an Ultimatte 12 4K compositing processor, a DeckLink 8K Pro capture and playback card and DaVinci Resolve Studio, paired with a VIVE Mars CamTrack tracking system, a green screen, Unreal Engine and a workstation running an AMD Ryzen Threadripper 7970X and an NVIDIA GeForce RTX 4080. Professor Jonathan Mason says the aim was to let students begin experimenting with virtual production and in-camera VFX immediately rather than wait for a large permanent installation. Current workshops cover camera tracking and green-screen compositing."
+    },
+    {
+     "type": "subhead",
+     "text": "The real signal is access, not the LED wall"
+    },
+    {
+     "type": "para",
+     "text": "The instinct in virtual production has been to equate the discipline with the volume: a ring of LED panels, a tracked camera and a budget most rooms do not have. Rowan's choice says the opposite. The teachable core of virtual production is the workflow, camera tracking, real-time compositing and an engine driving a background that reacts to the lens, and none of that requires an LED wall. A green screen and a tracked camera reproduce the pipeline at a fraction of the cost, and a cart means the pipeline can move to wherever the class is."
+    },
+    {
+     "type": "para",
+     "text": "That reframes the LED volume from prerequisite to optional output stage. The hard part was never the panels; it was teaching people to think in real time, to light for a composite and to trust a camera move against a virtual background. Strip the volume away and the skill is still there, which is the part that transfers to any stage the student later walks onto."
+    },
+    {
+     "type": "subhead",
+     "text": "What a producer can do now"
+    },
+    {
+     "type": "para",
+     "text": "If you are scoping a virtual production test, separate the learning from the hardware. You can prototype a sequence, rehearse camera moves and prove a real-time background on a green screen and a tracked camera before anyone rents a volume. Treat the LED wall as the final finish, booked once the shots are designed, not as the thing you need in order to start. A portable rig also lets you take the test to the client or the location instead of booking studio time to discover the idea does not hold, which is the same discipline behind a well-scoped [live show kit](/kits/shows)."
+    },
+    {
+     "type": "para",
+     "text": "Why it belongs in an experiential toolkit: the same portable pipeline that teaches students is the one that de-risks a pitch. Being able to stand up camera tracking and a real-time composite on a cart means you can show a stakeholder the mechanism working, on location, days before committing to a volume booking. The capability becomes a sales instrument, not only a production one."
+    },
+    {
+     "type": "para",
+     "text": "SensaLab runs real-time and in-camera VFX pipelines for agencies and studios to deliver under their own name, scaled to the brief, from a green-screen prototype to a full volume. The output carries the client's label; the workflow is ours."
+    }
+   ]
   }
  ]
 }
