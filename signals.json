@@ -1,7 +1,63 @@
 {
-  "generated": "2026-10-31T17:25:35.628096+00:00",
+  "generated": "2026-11-01T18:10:56.603345+00:00",
   "count": 60,
   "signals": [
+    {
+      "key": "https://news.google.com/rss/articles/cbmickfvx3lxte1xqw1uqmv0x2vjnezry29ux2dyc3k5tureefvfdvzrehd5mgxrvi1qa3didxdfzxhcvxpzq08tavp5tzfnd2foywy2bthrsws1thd2b2wymdezbxhrtus1dgpkekrndu1zbm5fewfize1tqq",
+      "headline": "Immersive Digital Art Museums: teamLab Plans Its First Permanent U.S.",
+      "source": "Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XQW1UQmV0X2VJNEZRY29UX2dYc3k5TUREeFVfdVZReHd5MGxrVi1Qa3dIdXdfZXhCVXpZQ08taVp5TzFnd2FOYWY2bThRSWs1THd2b2wyMDEzbXhRTUs1dGpKekRndU1zbm5feWFIZE1tQQ?oc=5",
+      "take": "",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.559,
+      "published": "2026-11-01T14:36:51+00:00",
+      "added": "2026-11-01T18:10:56.603345+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmitafbvv95cuxqmjdou1znejzjmxblv0o3rnu1uehonjdpluvfaunyofywuu03mhhmehaws2jatgn4ykdrc0s3zm9sotlvvndumdywanbitxpoc0jzdg5jy1bsz1rpz3rnalrht003aglzztdqdjvivefjcfbpwvo3ntqzzktswnzcb1k2nflwejljajuts3jwytvsufq5wnn6rvayuwfuaha5udfurw81btdumdzftkzcz1kzmvo",
+      "headline": "Halloween house uses projection mapping to create dazzling display",
+      "source": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjdoU1ZnejZjMXBLV0o3RnU1UEhoNjdPLUVFaUNyOFYwUU03MHhMeHAwS2JaTGN4YkdRc0s3Zm9SOTlVVndUMDYwanBiTXpoc0JzdG5JY1BsZ1RpZ3RNalRhT003aGlzZTdQdjVIVEFJcFBpWVo3NTQzZktSWnZCb1k2NFlWejljajUtS3JwYTVsUFQ5WnN6RVAyUWFUaHA5UDFuRW81bTduMDZFTkZCZ1kzMVo?oc=5",
+      "take": "Halloween house uses projection mapping to create dazzling display CTV News",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.56,
+      "published": "2026-10-31T22:21:13+00:00",
+      "added": "2026-11-01T18:10:56.603345+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi4afbvv95cuxorkjoclv3z09jxzzgagpnazfwm2psouxhahvfotdqdeswyks2nnbvoe1xtgpbzzcxckewzldlww9ktgzymknhn0vkskt5dlazu19qrtlyy0hmtvjqukhvwdvhvwlotl8xbjfkotznnmw2bzzudlplafgybhvkzdjjs2rjywe1rwfkt19urk50uvrlrhz2rm50ugleaxvjwljgclbjrxpjc21otdf6cwg0qtric182otbpzflea1jtds0tblzlz3bjnvq2wjbau0h4nddwa1peemfkd1powelysw",
+      "headline": "OKC artist Chad Mount's colorful free immersive installation closes soon",
+      "source": "The Oklahoman",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkJoclV3Z09JXzZGaGpNazFwM2pSOUxHaHVFOTdqdEswYks2NnBVOE1xTGpBZzcxckEwZldLWW9KTGZYMkNhN0VkSkt5dlAzU19QRTlyY0hMTVJQUkhvWDVHVWloTl8xbjFKOTZnNmw2bzZUdlplaFgybHVkZDJJS2RJYWE1RWFKT19URk50UVRLRHZ2Rm50UGlEaXVjWlJGclBjRXpJc21oTDF6cWg0QTRIc182OTBpZFlEa1JTdS0tblZlZ3BjNVQ2WjBaU0h4NDdWa1pEemFKd1pOWElYSw?oc=5",
+      "take": "OKC artist Chad Mount's colorful free immersive installation closes soon The Oklahoman",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.514,
+      "published": "2026-10-31T15:40:52+00:00",
+      "added": "2026-11-01T18:10:56.603345+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmimwfbvv95cuxpmw9bsme0vflvmdzzcgvywwpcnnrka1rjqjnnnffltfltmgnhyjbxd05hcc1pmzhbreu3zwpfuwzhti1influlvotn2g2vnnsr1cynedxtxddtkq5axvoa3dovwlleelwbm5sqvrswvjla1uzcjjhmek3bhjnsxdcuwfzuez3wvnmwf95bed1lwrjbwe4wmlomwz0vq",
+      "headline": "‘Shrek’ immersive experience coming to Cosm for 25th anniversary",
+      "source": "Attractions Magazine",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMW9BSmE0VFlVMDZzcGVYWWpCNnRka1RJQjNnNFFLTFltMGNHYjBxd05hcC1pMzhBREU3ZWpFUWZhTi1iNFluLVotN2g2VnNSR1cyNEdxTXdDTkQ5aXVoa3doVWlleElWbm5sQVRSWVJla1UzcjJHMEk3bHJNSXdCUWFZUEZ3WVNMWF95bEd1LWRJbWE4WmloMWZ0VQ?oc=5",
+      "take": "‘Shrek’ immersive experience coming to Cosm for 25th anniversary Attractions Magazine",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.457,
+      "published": "2026-10-31T13:55:00+00:00",
+      "added": "2026-11-01T18:10:56.603345+00:00"
+    },
     {
       "key": "https://news.google.com/rss/articles/cbmi0afbvv95cuxqcedmvmzbzkdou2nttfpyodd0vgvhvfv6wxhsyku3rjhwnkribmzybgzocgjqwktkzk1eugzmmu5reuzmm0jta3feuxhjymdfz2pmvklzt2nvejdvrkvmovncvef0atlzykuzzjf5m0g2rxrptzfjb29fufptejkymznycenonuk5yvdrng1omfnkowjcym9yclvysu9fnjlzuedrxze4v29rsjqyowp4vtvimkvcslpvatvfos1vdmhmykg1vy1zrnqtqmdpnvfy0ghqaufvx3lxtfbwr2zwzkfmr2hty21mwni4n3ruzwfuvxpzegxirtdgoha2rgjuznjszmhwympas0pmturqzmyxtmt5rmyzqm1rcurregniz19namzwsxnpy1v6n29gruw5u0juqxrpovlirtnmmxkzsdzfdglpmulvb0vqwm16otizm3jwq041stlhv2s0bu4wu0o5ykjib1hyvxjjt0u2oxnqr1ffmthxb1fkndi5anhvnwiyrujkwm9pnv85lw92aexisdvxlvlgdc1cz2k1uvg",
       "headline": "Nécessaire Turns Body Care Into Art With An Immersive New York Experience",
@@ -325,6 +381,20 @@
       "added": "2026-10-31T17:25:35.628096+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmipafbvv95cuxnuxrnagdibgzvcnf1ctvmc3ltbglwm3hymvnlamhibtznytrawdfuajvix0vnuxkxs0fuvgfhbmwyynu5zdnyofp5z0fht2vdwtlmoc1pwnm2lxrhmdrsrkljsmloendtveeyouhjawnlntg0cur0rxlfqtjfb0ficjfhogqxrdz4ny1szufhzmfos3hfsjezbkf4dljwsgl2q1d5zq",
+      "headline": "The Eagles extend Vegas residency at The Sphere into 2027, shop tickets",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXRnaGdIbGZvcnF1cTVMc3ltbGlwM3hyMVNLamhIbTZNYTRaWDFuajViX0VNUXkxS0FuVGFHbmwyYnU5ZDNYOFp5Z0FhT2VDWTlMOC1PWnM2LXRhMDRsRkljSmlOendtVEEyOUhJaWNLNTg0cUR0RXlfQTJfb0FIcjFHOGQxRDZ4Ny1sZUFHZmFoS3hfSjEzbkF4dlJWSGl2Q1d5ZQ?oc=5",
+      "take": "The Eagles extend Vegas residency at The Sphere into 2027, shop tickets Yahoo",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.503,
+      "published": "2026-10-29T20:25:19+00:00",
+      "added": "2026-11-01T18:10:56.603345+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxndhrjz1nxm2tyci13ttq0a244rdnlnzhfnljkbmnvamvfqwzysdrudm4tre1ondzjshhws3f0swjxwlh5s1f4bhpkymx0vzlft1zcejhxyk5iyk1bahlmsdyxzehlwffeaefargpxswdenujuqi1otwo3vtbkuknxadhknw82rnnfbjnhvzvytfvqmjhvywgzbnbwofr2mfzwmgnorfj0sukyevzkx1axqkxn",
       "headline": "Punjabi Saraf stages gesture-led fashionshow to amplify focus on hand jewellery",
       "source": "The Retail Jeweller India",
@@ -479,6 +549,20 @@
       "added": "2026-10-29T18:42:41.863365+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmixefvx3lxte82uzlps0utqxdtm21brelvdnmtthuwmkjpu21qwm80mwjhagztam5fbznpu1hmrdhung1ir1btsurjuxhvz2dobmm2tgn6sdhbak9zzujceuxmwmzz",
+      "headline": "Projection Mapping Klang@FWSBP",
+      "source": "YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82UzlPS0UtQXdtM21BRElVdnMtTHUwMkJPU21qWm80MWJHaGZTam5FbzNPU1hMRDhUNG1IR1BtSURJUXhvZ2dobmM2TGN6SDhBak9zZUJCeUxMWmZZ?oc=5",
+      "take": "Projection Mapping Klang@FWSBP YouTube",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.447,
+      "published": "2026-10-29T09:22:12+00:00",
+      "added": "2026-11-01T18:10:56.603345+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmiwafbvv95cuxnmfd2b2jlcknvytznmhz0tfd4u05ratcwnfzwqlb6mw1kbmzhntblenlgsflqa3h1b2m5bkrbzjfldwdrwnzxs2i1bkjlluddamjlu3vfsv9bwjrsres2q01vyuk4cvlfqkhpai0xm3vcluflcgzbbwtfslzim3j0rtdpagsxwf84d2fxzuzleudur25ytxgwnvo1vhgtylzfqmhyr0hnnhvau0jfv0mwz0jfrk5iujvtsl9rdxvoali",
       "headline": "Can Experiential Marketing Turn Airport Footfall Into Luxury Brand Desire?",
       "source": "Everything Experiential",
@@ -505,6 +589,20 @@
       "score": 0.358,
       "published": "2026-10-29T07:00:00+00:00",
       "added": "2026-10-31T17:25:35.628096+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmif0fvx3lxte5lvgncbnbynuv3rhpyz0hsznvrrldnbfvsnxhcowc2txzqzhg5eek0oe5iltzwuli2dhbmyxhiqzdnwjnink90u2w0zlr0cmrxz3hurezloxbsz0fdq1c3ykfqrm9nnznxvvq0rw5ou2ndyja2oeloael1zdjrcms",
+      "headline": "The 8 Best Immersive Exhibitions In London",
+      "source": "The Glossary",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVGNCbnBYNUV3RHpyZ0hSZnVRRldNbFVsNXhCOWc2TXZQZHg5eEk0OE5ILTZwUlI2dHBMYXhiQzdnWjNINk90U2w0ZlR0cmRXZ3huREZlOXBSZ0FDQ1c3YkFqRm9NNzNxVVQ0RW5OU2NDYjA2OElOaEl1ZDJRcms?oc=5",
+      "take": "The 8 Best Immersive Exhibitions In London - Autumn 2026 The Glossary",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.346,
+      "published": "2026-10-29T07:00:00+00:00",
+      "added": "2026-11-01T18:10:56.603345+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmid0fvx3lxte9qvmv3a3z2vm5wuxnwa2lsntzdufctczvqegnwn29xblhta3pvuzjatlrjql9jbehuoujicmdunmp0ekhkmg1gylk5evdhy2hunjhnrznrvkdyanlhbxdmsfyynzj1ani0zvz3qtzdoezit3bkufjv",
@@ -547,6 +645,20 @@
       "score": 0.447,
       "published": "2026-10-28T21:21:24+00:00",
       "added": "2026-10-29T18:42:41.863365+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi5afbvv95cuxoeg9kr2p0atdusndqnlrss1e1tmtvqnzqawzzeexhmdh3cnjmttjqvmnnavvjzejdczrtmvbayxpddjherzftbzfnc2f0cepdy2c2twhfx2hjevrxy2zmy0pwx2nbq2exoelhd1nmq3gzadb2c3djmfpywxdsumptc1dnu3njudfhrdrksgmwcxl2mjm4ag96vnnzt0y5zmvimddycwl2v2wwvezengfctldbz1rrbu90tmn3qxczazfpnvl3yjlhtvfpc0pvmhllmfc1q2n4c0tldjrrnesxczjirdc",
+      "headline": "More than 70 artists transform hospital into immersive art exhibition",
+      "source": "Victorville Daily Press",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeG9KR2p0aTdUSndqNlRsS1E1TmtvQnZQaWZZeExHMDh3cnJmTTJQVmNnaVVjZEJDczRTMVBaYXpDdjhERzFtbzFnc2F0cEpDY2c2TWhFX2hjeVRxY2ZMY0pWX2NBQ2ExOElHd1NmQ3gzaDB2c3djMFpYWXdsUmptc1dNU3NJUDFhRDRKSGMwcXl2MjM4aG96VnNZT0Y5ZmVIMDdYcWl2V2wwVEZENGFCTldBZ1RRbU90TmN3QXczazFPNVl3YjlHTVFpc0pvMHlLMFc1Q2N4c0tLdjRRNEsxczJiRDc?oc=5",
+      "take": "More than 70 artists transform hospital into immersive art exhibition Victorville Daily Press",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.411,
+      "published": "2026-10-28T21:21:10+00:00",
+      "added": "2026-11-01T18:10:56.603345+00:00"
     },
     {
       "key": "https://www.bizbash.com/experiential-marketing/see-how-cava-brought-a-giant-greek-goddess-to-nyc",
@@ -617,6 +729,20 @@
       "score": 0.326,
       "published": "2026-10-28T10:52:51+00:00",
       "added": "2026-10-28T18:33:39.678537+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiaefvx3lxte1xrhl3q2c0ahhkwnczavdwrs0wb0dbeleyzdbvzwu1qwftv1jtowhjwgvvauhzx2rlmnm3umnmylzkve5dsglznhlmu1zkn09vdnpirunhtkfzuuljynm5aehaztlimedo",
+      "headline": "Is the Vegas Sphere Heading to Maryland?",
+      "source": "AVNetwork",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XRHl3Q2c0aHhkWnczaVdWRS0wb0dBelEyZDBVZWU1QWFtV1JtOWhjWGVVaUhZX2RlMnM3UmNmYlZkVE5DSGlZNHlmU1ZKN09VdnpiRUNHTkFzUUlJYnM5aEhaZTlIMEdo?oc=5",
+      "take": "",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.359,
+      "published": "2026-10-28T10:47:19+00:00",
+      "added": "2026-11-01T18:10:56.603345+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmi6afbvv95cuxore1rtjllnfetzk40znleq21vqmk2m2dlowvurk12mlrtlu9innjyc0rdcvpvdno4bhncevnxqzhkbglrohjuzudfzlzrnvfmsu1oceptutrtwelnwghdcl9eswlwttjvzk9slxfuv0tfr05athnzsnpjdl9fx2nvsmdztzq1zwtiewpsyunwnjhowm9lby1xbu5un1hbddlcqzn5c2vlmw56vvlesmy2r1dhb25ydnf4tnzts0joogpvajnmnwn2nxzhdzfhqklzmvu0qwfuufnzsmplbddpnnbxlw0xr0df",
@@ -715,132 +841,6 @@
       "score": 0.377,
       "published": "2026-10-27T21:41:14+00:00",
       "added": "2026-10-30T18:18:55.544962+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmi3gfbvv95cuxqueotc3lungpzykz3tf82uezws080cxrxbha5owhfbvzstvfzcwhjulhnd0d5wm5ynw9xawdzu1dxek5tyvr2yupzlun6tvv3m1jkqzu3rjlkbzi3uvnsdxp3rdzpwwf1ntg2djlsnexpexdhcgd0wg1vq0jatdn1sjdvymrlrgrncexfv09tzgtpmmximxdubfhsr25teuswtkpgy0cxakl4cu56rfjsd1d0mxk3c29sqxfndhnrbjzvrxa0b2hvskplvve3elf0ctjudgdzdgzibzrxdue",
-      "headline": "Norwich Cathedral hosts dazzling art installation",
-      "source": "Network Norwich and Norfolk",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUEotc3luNGpzYkZ3TF82UEZWS080cXRXbHA5OWhfbVZSTVFZcWhjUlhNd0d5Wm5yNW9xaWdZU1dxek5tYVR2YUpzLUN6TVV3M1JKQzU3RjlkbzI3UVNsdXp3RDZPWWF1NTg2djlsNExPeXdhcGd0WG1vQ0JaTDN1SjdvYmRlRGRncExFV09tZGtPMmxiMXdUbFhsR25TeUswTkpGY0cxakl4cU56RFJSd1d0MXk3c29sQXFNdHNRbjZVRXA0b2hVSkpLVVE3elF0cTJUdGdZdGZIbzRXdUE?oc=5",
-      "take": "Norwich Cathedral hosts dazzling art installation Network Norwich and Norfolk",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.377,
-      "published": "2026-10-27T21:25:43+00:00",
-      "added": "2026-10-28T18:33:39.678537+00:00"
-    },
-    {
-      "key": "https://www.eventmarketer.com/article/brief-nikes-airport-race-intimissimi-cashmere-cabin",
-      "headline": "The Brief: Airport Races and Cashmere Cabins",
-      "source": "Event Marketer",
-      "link": "https://www.eventmarketer.com/article/brief-nikes-airport-race-intimissimi-cashmere-cabin/",
-      "take": "This week’s hot takes on hot topics in experiential marketing cover after-dark airport races, Cashmere Cabins and NFL events impacted by the protests in Paris.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.472,
-      "published": "2026-10-27T19:58:53+00:00",
-      "added": "2026-10-28T18:33:39.678537+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmirafbvv95cuxnd3jjts1tc1ytckttqtv3clhjvldtufcxbzrtymf2t0xlvk9xs1rbxzhxv3zlntnzndfqdjr4cxjxy1zpq09mr3qzmxrpz3oxdmqxogtxy0tpueoxyultx2ntn0huehdtwk43evotngpqsfzhwu5wtvitrtrmq3vntdrzdwrhatdmavnhowvmmjitvwllzujdul9bctbzsmfvlwzisgfpvuvnbnh2",
-      "headline": "Prince George’s County gets the ball rolling on Sphere with final vote to approve concert venue",
-      "source": "WTOP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3JjTS1Tc1YtckttQTV3clhJVldTUFcxbzRTYmF2T0xLVk9xS1RBXzhXV3ZlNTNzNDFqdjR4cXJXY1ZPQ09MR3QzMXRpZ3oxdmQxOGtXY0tPUEoxYUltX2NtN0hUeHdtWk43eVotNGpQSFZhWU5wTVItRTRMQ3VNTDRzdWRhaTdMaVNHOWVmMjItVWllZUJDUl9BcTBzSmFVLWZiSGFpVUVNbnh2?oc=5",
-      "take": "Prince George’s County gets the ball rolling on Sphere with final vote to approve concert venue WTOP News",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.447,
-      "published": "2026-10-27T19:15:21+00:00",
-      "added": "2026-10-29T18:42:41.863365+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/event-venues/new-venues-in-nashville-for-fall-2026-meetings-and-events",
-      "headline": "7 New Venues in Nashville for Fall 2026 Meetings and Events",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/event-venues/new-venues-in-nashville-for-fall-2026-meetings-and-events",
-      "take": "Take a peek at these trending restaurants, resorts, meeting and event spaces, and more recently opened in Nashville, Tenn.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.344,
-      "published": "2026-10-27T17:45:45+00:00",
-      "added": "2026-10-27T18:28:09.521016+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiiafbvv95cuxqa0zwmjr6s3d5wxuyv2pmu0dzoufqwwrfcgdlehlqrndjbghemtfuuthuwwg5zxi5dml0n0vfuxdnzdq1r1vzz21zavfot3b4bmxmc3lvavm4y3dtze4yrfj1envqqkzlstl3nznmvjlub2n1snu1egfpwg5mwmsybe9znelod1hk",
-      "headline": "Electric Garden Launches First Open-Air Integrated Experiential and OOH Venue in London — LBB",
-      "source": "LBB - Little Black Book",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa0ZwMjR6S3d5WXUyV2pmU0dzOUFqWWRfcGdleHlQRndjbGhEMTFUUThuWWg5ZXI5dml0N0VfUXdNZDQ1R1VZZ21ZaVFoT3B4bmxMc3lVaVM4Y3dtZE4yRFJ1enVqQkZLSTl3NzNMVjlUb2N1SnU1eGFpWG5MWmsybE9ZNElOd1hk?oc=5",
-      "take": "Electric Garden Launches First Open-Air Integrated Experiential and OOH Venue in London — LBB LBB - Little Black Book",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.405,
-      "published": "2026-10-27T17:31:07+00:00",
-      "added": "2026-10-28T18:33:39.678537+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmikwfbvv95cuxomxu2v2jjvkdiy0vovu40tdfhvzlosc0wbkq1mmjrwtzhcf9tzwpwqwpaodduv0jvrjjpzni3cm9rdm44dwx5t3reqmu3rxv4djzpsfrtrhhjm01xrljoq1rmejrhzwtdclbonhjwtzv6tljkzmy1b0jdrfp6mwdxc056nvu5cld3oef0uwptrzjim3m",
-      "headline": "Michael Olunga Honoured With Iconic Tower Projection in Qatar",
-      "source": "Uzalendo News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXU2V2JJVkdiY0VoVU40TDFhVzloSC0wbkQ1MmJRWTZhcF9TZWpwQWpaODdUV0JVRjJPZnI3cm9rdm44dWx5T3REQmU3RXV4djZpSFRTRHhjM01XRlJOQ1RMejRHZWtDclBONHJWTzV6TlJKZmY1b0JDRFp6MWdxc056NVU5cld3OEF0UWpTRzJiM3M?oc=5",
-      "take": "Michael Olunga Honoured With Iconic Tower Projection in Qatar Uzalendo News",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.361,
-      "published": "2026-10-27T16:47:25+00:00",
-      "added": "2026-10-28T18:33:39.678537+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmipwfbvv95cuxptfjbtghmctvdqmffuwvqb0n3twnwzlfjnk00q2xhtvpvqmnwv2zerxfjdvpfotf4x0jrclrqs0o5qtjgakrxnwp3edvtnmdhzndvzkf6dddrnnzkblv3x1z4sepzeehonlqxsjzraeryymmxog1pshgxr2vvt3rsuwh3wlhwset1cc1sumtfrkrsuguzanlxstf3vutksviyyva0cfjmvq",
-      "headline": "Wonder Porcelain Hosts Immersive Experience Event",
-      "source": "Floor Covering Weekly",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTFJBTGhmcTVDQmFFUWVQb0N3TWNWZlFJNk00Q2xhTVpVQmNwV2ZERXFjdVpFOTF4X0JRclRqS0o5QTJGakRXNWp3eDVtNmdHZndVZkF6dDdRNnZkblV3X1Z4SEpZeEhONlQxSjZRaERYYmMxOG1pSHgxR2VvT3RSUWh3WlhwSEt1cC1SUmtfRkRsUGUzanlxSTF3VUtkSVIyYVA0cFJmVQ?oc=5",
-      "take": "Wonder Porcelain Hosts Immersive Experience Event Floor Covering Weekly",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.446,
-      "published": "2026-10-27T14:27:55+00:00",
-      "added": "2026-10-27T18:28:09.521016+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmirwfbvv95cuxobwv0avf1rvjacu0zc25ubw11ejlyvurxtkzqmtvxt2xntepcqlrhd2pwuuhfulz2v0q4dxvibwhjaeljwjfvavnox2vucnrclxncq0vkoul1bujru21ox2xev0nlce9uwunetlb5elnyefnhq1jbdnpxtddtbm03mkvtmxburzfwywfvrefcennzaw85x2pvzge2v2dgrvljulr3aggzx2jhrjbpc2fr",
-      "headline": "Brompton and AUO equip Tokyo virtual production studio",
-      "source": "Installation-international",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObWV0aVF1RVJacU0zc25ubW11ejlYVURXTkZqMTVXT2xnTEpCQlRHd2pWUUhFUlZ2V0Q4dXVibWhJaEljWjFVaVNoX2VucnRCLXNCQ0VKOUl1bUJrU21oX2xEV0NLcE9UWUNETlB5elNyeFNHQ1JBdnpxTDdTbm03MkVtMXBURzFwYWFvREFCenNZaW85X2pVZGE2V2dGRVlJUlR3aGgzX2JHRjBPc2FR?oc=5",
-      "take": "Brompton and AUO equip Tokyo virtual production studio Installation-international",
-      "cat": "CGI & VFX",
-      "token": "cgi",
-      "tier": "query",
-      "geo": false,
-      "score": 0.619,
-      "published": "2026-10-27T09:43:24+00:00",
-      "added": "2026-10-27T18:28:09.521016+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmitgfbvv95cuxnzerucy1nqs1pcdzayknzqmlkahlquc0ttvetlxdxelrvdgjrowv1cuhbmgvhau1eenzwv0o1s2fhn0o3yve5amtqqtkts2jdz2rgqw8xzvjtak4ywe5hdvrux2uwcmt2ohgzb2nvdzdrdtzhrex2n3jkt01dnvdgagu4bml5u2fjdnu2wf9jmuznsgzos3hntzdslxzzohrqalj6s0d4tuvzngzbmknnx0rpwu5ozw",
-      "headline": "Beyond advertising: How Adbrownies Group creates impactful experiential spaces",
-      "source": "Marketing-Interactive",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZERucy1NQS1pcDZaYkNzQmlKaHlqUC0tTVEtLXdXelRVdGJrOWV1cUhBMGVHaU1EenZWV0o1S2FhN0o3YVE5amtqQTktS2JDZ2RGQW8xZVJTak4yWE5HdVRuX2Uwcmt2OHgzb2NvdzdrdTZhREx2N3JKT01DNVdGaGU4bml5U2FjdnU2WF9jMUZnSGZOS3hNTzdsLXZzOHRqalJ6S0d4TUVzNGZBMkNNX0RpWU5oZw?oc=5",
-      "take": "Beyond advertising: How Adbrownies Group creates impactful experiential spaces Marketing-Interactive",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.467,
-      "published": "2026-10-27T08:49:42+00:00",
-      "added": "2026-10-27T18:28:09.521016+00:00"
     }
   ]
 }
