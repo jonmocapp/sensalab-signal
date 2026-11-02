@@ -648,6 +648,24 @@ Summary: The story is not another LED volume.
 Why it matters: When a film school can teach the full virtual production workflow, camera tracking and real-time compositing, on a green screen and a tracked camera, the LED volume is revealed as an optional finish rather than the prerequisite it is usually treated as.
 Takeaway: Separate the virtual production skill from the LED hardware. Prototype camera moves and real-time backgrounds on a green screen first; book the volume only once the shots are designed.
 
+### teamLab's first permanent US museum signals immersive art as anchor real estate
+https://signal.sensalab.io/article-teamlab-first-permanent-us-museum-ocvibe-anaheim-signal.html
+Summary: The story is not another touring art show.
+Why it matters: A developer is committing a purpose-built immersive museum as the permanent anchor of a billion-dollar district, not booking a limited-run show.
+Takeaway: Pitch immersive work as infrastructure with a multi-year life, not a one-off activation, and scope durability, maintenance and content refresh from day one.
+
+### Lego's life-sized cafe pop-up signals the product launch staged as a walk-in set
+https://signal.sensalab.io/article-lego-friends-cafe-popup-heartlake-musical-signal.html
+Summary: The story is not a cute cafe.
+Why it matters: A brand turned a fictional location from its own musical into a buildable physical room and used it to reveal product, collapsing story and launch into one space.
+Takeaway: When the IP already contains a location, build that room rather than a generic branded lounge, and decide before you open which few numbers prove it worked.
+
+### A second Sphere clears public financing, signaling immersive venues as civic infrastructure
+https://signal.sensalab.io/article-second-sphere-national-harbor-financing-immersive-venue-signal.html
+Summary: The story is not another concert room.
+Why it matters: A local government is underwriting a wraparound-LED immersive venue with public bonds and tax-increment financing, treating the format as civic infrastructure rather than a private gamble.
+Takeaway: Read the financing, not the renders: a venue funded on long public debt is a decade-long content client, and the smaller 6,000-seat format is the more repeatable one to design for.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
