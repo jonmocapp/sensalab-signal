@@ -666,6 +666,24 @@ Summary: The story is not another concert room.
 Why it matters: A local government is underwriting a wraparound-LED immersive venue with public bonds and tax-increment financing, treating the format as civic infrastructure rather than a private gamble.
 Takeaway: Read the financing, not the renders: a venue funded on long public debt is a decade-long content client, and the smaller 6,000-seat format is the more repeatable one to design for.
 
+### A gala moving indoors days out signals the weather plan as the real design
+https://signal.sensalab.io/article-cedars-sinai-gala-indoor-pivot-weather-plan-signal.html
+Summary: The story is not a near-miss.
+Why it matters: A 750-guest gala moved entirely indoors days before the date, raised more than $3.1 million anyway, and leadership judged the backup version the better show, proving the contingency was a designed asset, not a fallback.
+Takeaway: Build the alternate version as a first-class deliverable, not a disclaimer: the second, fully produced plan is what lets a pivot read as a choice rather than a save.
+
+### A sponsor's beehive booth outside the museum signals the activation as exhibition extension
+https://signal.sensalab.io/article-rom-gentilhomme-desjardins-beehive-booth-activation-signal.html
+Summary: The interesting move is not the projection.
+Why it matters: A sponsor-funded interactive booth sat outside the museum as an extension of the exhibition rather than a branded interruption, using a camera and projection to make visitors part of the content.
+Takeaway: Design sponsor activations to continue the exhibition's world, not sit beside it: a camera-driven room that responds to the visitor reads as programming the brand paid for, not advertising the visitor endured.
+
+### A million-dollar court projection rig signals the arena floor becoming a programmable screen
+https://signal.sensalab.io/article-creighton-chi-health-court-projection-programmable-screen-signal.html
+Summary: The news is not a light show at tip-off.
+Why it matters: An arena installed a permanent, overhead projection system costing more than $1 million that turns the playing floor into a large programmable video surface shared across basketball and volleyball, not a one-off pre-game effect.
+Takeaway: Design for the floor as standing infrastructure, not a stunt: a venue-owned, programmable surface shared across tenants needs a content pipeline and a refresh cadence, which is the work that outlives opening night.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
