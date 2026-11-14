@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T20:09:16.442608+00:00",
+  "generated": "2026-11-14T18:35:12.638221+00:00",
   "count": 60,
   "signals": [
     {
@@ -31,6 +31,48 @@
       "added": "2026-11-12T20:32:06.756610+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmizwfbvv95cuxncecwb3d1rxotslppbnzgvvzdvtc5mddlnnl4skfzbjnzlwvvsgrnqs1hvk0trwo3dkkyvjkwuexxmmfytjvcvktfu3nxufvotzg5nfy5tnfxt3ywvkpsoge5ru1kx0dxmfrzmgtnudvrovpbdfo5lurnutzoexj4b21nahhhzjjrte4wugy0czvjt3rowdztwkjyatg4yk9jb2nqae9jvjzlymytsxpvczr6szrysfdhuehychuxqzlhq0dvs0pvuzuzaznhauu",
+      "headline": "Macy’s Takes Santaland To New York Streets With Festive Double-decker Bus Activation",
+      "source": "Everything Experiential",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcEcwb3d1RXotSlpPbnZGVVZDVTc5MDdlNnl4SkFZbjNzLWVvSGRNQS1hVk0tRWo3dkkyVjkwUExxMmFyTjVCVktFU3NXUFVOTzg5NFY5TnFxT3YwVkpsOGE5RU1kX0dXMFRzMGtnUDVROVpBdFo5LURnUTZOeXJ4b21NaHhhZjJrTE4wUGY0czVjT3ROWDZTWkJYaTg4Yk9jb2NQaE9JVjZlYmYtSXpvczR6SzRYSFdhUEhYcHUxQzlHQ0dvS0pvUzUzazNhaUU?oc=5",
+      "take": "Macy’s Takes Santaland To New York Streets With Festive Double-decker Bus Activation Everything Experiential",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.522,
+      "published": "2026-11-14T07:25:45+00:00",
+      "added": "2026-11-14T18:35:12.638221+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmivgfbvv95cuxoddy1bvl1dlnnamzdrutxwxbxclo2mvjgal9yyulpdwyxdhbqbdrfaxh6ujfnohp4rgnus2ryauo0ywnfbflyng1pdu9jrg1kx3pjefe0s3jhqkqwa2owyjjxreo3rldlznlfdwnftg94b2rmdxvtrhlyuu53ctjmnu00ngnkdldszlhmz0zobddmae15vmlrd2k2vjzkos0tadrwte9hnurxv0ntbk40vvnjvezaadduouc1ajb3",
+      "headline": "PharmEasy Connects Experiential Marketing with Diabetes Awareness Through ‘Walking Sugar Cube’",
+      "source": "MediaNews4U",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDY1bVl1dlNNamZDRUtxWXBXclo2MVJGal9yYUlpdWYxdHBQbDRfaXh6UjFNOHp4RGNuS2RYaUo0YWNfbFlyNG1pdU9JRG1kX3pjeFE0S3JhQkQwa2owYjJxREo3RldlZnlFdWNfTG94b2RmdXVTRHlYUU53cTJmNU00NGNkdldSZlhMZ0ZObDdmaE15Vmlrd2k2VjZkOS0taDRwTE9hNURxV0NTbk40VVNjVEZaaDdUOUc1ajB3?oc=5",
+      "take": "PharmEasy Connects Experiential Marketing with Diabetes Awareness Through ‘Walking Sugar Cube’ MediaNews4U",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.381,
+      "published": "2026-11-14T05:08:49+00:00",
+      "added": "2026-11-14T18:35:12.638221+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiigfbvv95cuxnwwzqsghmt2jvrefgclhhtgkwmgrzaenac2jatvlbxzhjavdtadm2c1vvaklnognkttvkzvfka2xer0c3x01sdjzrahfnt1yxmvllnfn4lwo2whzprxl2vthutvpwmlpnqvfgtwm0oxbzre1squhnnee1tl90s3himlhncgy0v0n6dmc",
+      "headline": "Metallica Expands Sphere Residency to 24 Shows",
+      "source": "TicketNews",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWZqSGhmT2JvREFGclhhTGkwMGRzaENac2JaTVlBXzhJaVdTaDM2c1VVaklNOGNkTTVkZVFKa2xER0c3X01SdjZraHFNT1YxMVllNFN4LWo2WHZpRXl2VThUTVpWMlpnQVFGTWM0OXBzRE1sQUhNNEE1Tl90S3hIMlhncGY0V0N6dmc?oc=5",
+      "take": "Metallica Expands Sphere Residency to 24 Shows TicketNews",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.403,
+      "published": "2026-11-14T02:38:04+00:00",
+      "added": "2026-11-14T18:35:12.638221+00:00"
+    },
+    {
       "key": "https://www.bizbash.com/experiential-marketing/southwest-airlines-took-guests-on-an-immersive-journey-through-its-new-rewards-program",
       "headline": "Southwest Airlines Took Guests on an Immersive Journey Through Its New Rewards Program",
       "source": "BizBash",
@@ -43,6 +85,20 @@
       "score": 0.653,
       "published": "2026-11-14T00:34:33+00:00",
       "added": "2026-11-13T20:09:16.442608+00:00"
+    },
+    {
+      "key": "https://www.theartnewspaper.com/2026/11/13/paris-photo-art-fair-digital-art-sector",
+      "headline": "Paris Photo’s digital sector offers ‘soft photography’ and vital context",
+      "source": "The Art Newspaper",
+      "link": "https://www.theartnewspaper.com/2026/11/13/paris-photo-art-fair-digital-art-sector",
+      "take": "The digital presentations at the heart of the Grand Palais continue this year’s trend of situating digital art in art historical lineage",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "rotate",
+      "geo": false,
+      "score": 0.353,
+      "published": "2026-11-13T20:23:46+00:00",
+      "added": "2026-11-14T18:35:12.638221+00:00"
     },
     {
       "key": "https://www.eventmarketer.com/article/build-a-bear-orlando-immersive-workshop",
@@ -85,6 +141,20 @@
       "score": 0.499,
       "published": "2026-11-13T12:34:50+00:00",
       "added": "2026-11-13T20:09:16.442608+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiswfbvv95cuxomdznbegtnwnzwne5sgnsunpoc0vhwdzroww3cwdubm56rnnormd0rvd3yv9xvhllvwe1qwkxcdfmuufubw9fu3nhngutwldbvurybljvzc1xng05tghaee14dedqullud01wmklmnxcwohvjwvjwehbhrgrxeldot25umvczuw5xuhlsr0f4cmqyd0hyslbmzererfbnx0vxeu50nxfyeloyvzvtenfwd0lvd9ibuafbvv95cuxpcmntserqznznnhn2a0hjtui5r0t6rhd3z05mdwjncwj3yunbs25xnufymdzham5jyv85ykuycky4u09kb21ss2rhal9nlwrbs01bb0jieuqxemzeuuzjeuh0mvrwwjhmn2zstwruuvnmdmqwzzz1cwzcwuxgnm9iq1jjyljzcjfvqupix09relotdelyd19wrxrxved1r3jswdfydexmrde0bm0yzeljsm5lv3npvjht",
+      "headline": "Projection Mapping Could Be The Future Of Heritage Storytelling In India",
+      "source": "ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDZNbEgtNWNZWnE5SGNsUnpoc0VhWDZROWw3cWdUbm56RnNoRmd0RVd3YV9xVHllVWE1QWkxcDFMUUFubW9fU3NhNGUtWldBVURyblJVZC1xNG05TGhaeE14dEdQUllUd01WMklmNXcwOHVjWVJweHBhRGRXeldOT25UMVczUW5xUHlSR0F4cmQyd0hySlBmZERERFBnX0VxeU50NXFYeloyVzVtenFWd0lvd9IBuAFBVV95cUxPcmNTSERQZnZNNHN2a0hjTUI5R0t6RHd3Z05mdWJncWJ3YUNBS25XNUFyMDZHam5jYV85YkUyckY4U09Kb21SS2Rhal9nLWRBS01Bb0JieUQxemZEUUZjeUh0MVRwWjhmN2ZSTWRUUVNmdmQwZzZ1cWZCWUxGNm9iQ1JjYlJZcjFvQUpiX09RelotdElYd19wRXRxVEd1R3JSWDFydExMRDE0bm0yZElJSm5LV3NpVjhT?oc=5",
+      "take": "Projection Mapping Could Be The Future Of Heritage Storytelling In India ETV Bharat",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.495,
+      "published": "2026-11-13T11:45:59+00:00",
+      "added": "2026-11-14T18:35:12.638221+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmikgfbvv95cuxosmlgz05mnm94ekv6zkd0cm5xowtlwhlsoudwuluxznp0offqz0d2wgtros1yzwh5wllqcnhrqmy0tzvkbwfxujlbzjhpwexsejlfbuyws0zoenj3tuhfbedznzrrci1kwjhalup3s0s0mnvowwfdreptcmhubkh3v2fwrm8xc0k1yld6mtrxau0wqq",
@@ -239,6 +309,20 @@
       "score": 0.422,
       "published": "2026-11-12T17:32:31+00:00",
       "added": "2026-11-12T20:32:06.756610+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmixgfbvv95cuxpuuzwdezhwvd6dflgamw3ys01ykvxei1ktdazz1zldmzpbwdastzonumwyw44zegxde5aszhteetqy05pau9vtfl0dlrttkxytjgztmeycefjnkoxmwfvc19fae45tge5dtfuq201zjnndezuednhzmp0mzfgtvlkzvrxavjhru0wm3vfnuh6wghfa0ezzw9tddd2a2nvtmtrutl4bldltljirm9hc1zaazdazhe0bvd3n3u3sde4mmrlsutht1e",
+      "headline": "‘The Gruffalo’ author to help celebrate SEND charity art installation in Brighton",
+      "source": "Learning Disability Today",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUUZwdEZHWVd6dFlGamw3YS01YkVxei1KTDAzZ1ZldmZPbWdaSTZoNUMwYW44ZEgxdE5aSzhteEtqY05PaU9vTFl0dlRtTkxYTjgzTmEycEFJNkoxMWFvc19faE45TGE5dTFuQ201ZjNndEZueDNhZmp0MzFGTVlKZVRxaVJHRU0wM3VFNUh6WGhfa0EzZW9tdDd2a2NVTmtRUTl4bldlTlJIRm9hc1ZaazdaZHE0bVd3N3U3SDE4MmRlSUtHT1E?oc=5",
+      "take": "‘The Gruffalo’ author to help celebrate SEND charity art installation in Brighton Learning Disability Today",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.363,
+      "published": "2026-11-12T16:41:26+00:00",
+      "added": "2026-11-14T18:35:12.638221+00:00"
     },
     {
       "key": "https://www.bizbash.com/industry-buzz/canada-event-industry-news-for-november-12-2026",
@@ -563,6 +647,20 @@
       "added": "2026-11-13T20:09:16.442608+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmikafbvv95cuxqefbpd2zdrjzhudflzm1cowj6zki5txzfvdlyale2y1zqzjlywgneegrdouxyrxradhnpvejxbfruee0ymthyowwyt0uwahiwwux1df91vvi0d3rtd3zftzllwkpncdjym1juzlp5bzznqzrhz0dlzlnvchh4adu3njvkvhm3s0nyzk02bgxwmng",
+      "headline": "Immersive tree-inspired art installation opens at Rooted Studio in Hamilton",
+      "source": "Journal-News.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeFBpd2ZDRjZHUDFLZm1COWJ6ZkI5TXZFVDlYalE2Y1ZqZjlYWGNEeGRDOUxyRXRadHNPVEJxbFRueE0yMThYOWwyT0UwaHIwWUx1dF91VVI0d3RTd3ZfTzlLWkpncDJyM1JuZlp5bzZNQzRhZ0dlZlNVcHh4aDU3NjVKVHM3S0NYZk02bGxWMng?oc=5",
+      "take": "Immersive tree-inspired art installation opens at Rooted Studio in Hamilton Journal-News.com",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.479,
+      "published": "2026-11-10T18:18:15+00:00",
+      "added": "2026-11-14T18:35:12.638221+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmiugfbvv95cuxpttzmsvr3m0djv0lqanpnlxbzx2lqejbxyk1xzevxrg5wyzvjthr6tkh1cdfivvhnb2ppz1bvdk9oqwhydl9rag42mtvnb0thafzgazjxmvlvzc1yuwdqbgz4b25nsgxdwmvmakx3rk5xdmreauvowhfoegcwufbpmwlxluruqlbbz1bjn1dctenkv3hleensmk1zbzexdfzquzfpmwvlctbiclnvy3lod1zcnhdon3btewc",
       "headline": "How Denver Immersive Repertory Theater unraveled before it ever opened",
       "source": "Westword",
@@ -743,104 +841,6 @@
       "score": 0.333,
       "published": "2026-11-09T21:08:55+00:00",
       "added": "2026-11-10T20:05:27.594983+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmijafbvv95cuxoeljpsxrqzkpqcte4unnizmhtwupsb0iwbw1ingjiugfra3nsujl5udhvb3pvrfhfy1biy1g4mdnnaldiavdsukvicgj0sji3odexbhvluevioglbms1ywtc2og82tgzrv0hwelruaxqxs2zszwdpeddjynrwatvbdfoyuudmzk16bjnbda",
-      "headline": "Pink Becomes First Solo Female Pop Artist to Headline the Sphere",
-      "source": "Rolling Stone",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOelJpSXRqZkpqcTE4UnNiZmhtWUpSb0IwbW1INGJIUGFRa3NsUjl5UDhVb3pvRFhFY1BiY1g4MDNnaldiaVdSUkVIcGJ0SjI3ODExbHVlUEVIOGlBMS1yWTc2OG82TGZrV0hWelRUaXQxS2ZSZWdPeDdJYnRwaTVBdFoyUUdMZk16bjNBdA?oc=5",
-      "take": "Pink Becomes First Solo Female Pop Artist to Headline the Sphere Rolling Stone",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.526,
-      "published": "2026-11-09T19:49:55+00:00",
-      "added": "2026-11-10T20:05:27.594983+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiqgfbvv95cuxnyvh3s3zms2v2zdnccvpvuu45rldpntznnu9ssjl4vwi3rwfdtdbqqzf0netydhdvrkvutvlon2rjlxd2wxpqufpsqxlvuzvxsji3uepiourgtnlhdvg2rmvkwnporxf5deo3zulst3jpdllrqwllwxdzx2u0aek4q3atmjdsqmnjtwpfvhjruvlev0lulug4nm56oujaemntnw83rty1mzdedw",
-      "headline": "Pink is heading to Las Vegas for a history-making Sphere residency",
-      "source": "USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVh3S3ZMS2V2ZDNCcVpvUU45RldPNTZnNU9sSjl4VWI3RWFDTDBQQzF0NEtYdHdvRkVUTVlON2RjLXd2WXpqUFpSQXlVUzVXSjI3UEpIOURGTnlhdVg2RmVKWnpORXF5dEo3ZUlST3JpdllrQWlLWXdZX2U0aEk4Q3AtMjdsQmNJTWpFVHJRUVlEV0luLUg4Nm56OUJaemNTNW83RTY1MzdEdw?oc=5",
-      "take": "Pink is heading to Las Vegas for a history-making Sphere residency USA Today",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.374,
-      "published": "2026-11-09T19:04:00+00:00",
-      "added": "2026-11-12T20:32:06.756610+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmijwjbvv95cuxpmznkqnleuufiy0nnbnn3yjlfdejqugnsq1rxmg45r3r2tjzgnzhou0ppbjzldvfoeldisktibldqmelltfzwvefmnhg0z2q3wmdxngfyyth4sndzztnudknfbzbdrvkzewt3uupvsnu0xzdqbe1neg9nszzfqvrzai1nbhpzodrauzvfvwvkbm1pa2vdsmjycmxsewuwvfdoahluymo1rmdua0txefezcvnrqjjess1pmeh4bdq4ywtddmtblu52sxj0a2o0cvd4etbvclvlb2tad0zzqvh0dfzum05ewxfmnlhamgtxawwydefrlvitrwjmyjbwmnrjmzlwn0lhnghuwkn0ofc4",
-      "headline": "Las Vegas Sphere concerts: All the acts that are playing and how to get tickets | Entertainment",
-      "source": "Central Oregon Daily",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMzNKQnlEUUFIY0NnbnN3YjlfdEJqUGNSQ1RxMG45R3R2TjZGNzhOU0pPbjZldVFOeldISktIbldQMElLTFZwVEFmNHg0Z2Q3WmdXNGFYYTh4SndzZTNUdkNfbzBDRVkzeWt3UUpvSnU0XzdQbE1NeG9nSzZfQVRzai1NbHpzODRaUzVfVWVKbm1pa2VDSmJYcmxseWUwVFdOaHlUYmo1Rmdua0txeFEzcVNRQjJESS1PMEh4bDQ4YWtDdmtBLU52SXJ0a2o0cVd4eTBVclVLb2tad0ZZQVh0dFZuM05EWXFmNlhaMGtXaWwydEFrLVItRWJmYjBwMnRJMzlwN0lHNGhUWkN0OFc4?oc=5",
-      "take": "Las Vegas Sphere concerts: All the acts that are playing and how to get tickets | Entertainment Central Oregon Daily",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.436,
-      "published": "2026-11-09T18:41:31+00:00",
-      "added": "2026-11-09T22:46:32.512230+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiuwfbvv95cuxovdrds0treghvm1htovdkbtrxufluu3rgykxer205edb6qxvnu2t6nfzgaxh4albluwlhckdoyw9rvnvpyl84wvdkdzzreu90v2len1jpalr3v3bqz0fnzjatbjlibxf5sepkazezdvptz3lqbglsy3frafhkbtlkefbrqutjq2eyvjbtx3blt0lwdfq0cuo2z2z0b05rvi04uktjsnbusnototm0yljlahbzb01qc3zdwfrn",
-      "headline": "P!NK announces 2027 Las Vegas Sphere residency as venue’s first solo female pop headliner",
-      "source": "KSNV",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDRDS0tReGhVM1hTOVdkbTRxUFlUU3RGYkxER205eDB6QXVNU2t6NFZGaXh4alBlUWlHckdoYW9RVnVPYl84WVdkdzZReU90V2lEN1JPalR3V3BQZ0FNZjAtbjlibXF5SEpkazEzdVpTZ3lqbGlsY3FRaFhkbTlkeFBRQUtjQ2EyVjBtX3BLT0lWdFQ0cUo2Z2Z0b05rVi04UktJSnBuSnotOTM0YlJlaHBZb01qc3ZDWFRN?oc=5",
-      "take": "P!NK announces 2027 Las Vegas Sphere residency as venue’s first solo female pop headliner KSNV",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.455,
-      "published": "2026-11-09T18:11:20+00:00",
-      "added": "2026-11-10T20:05:27.594983+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmi0wfbvv95cuxpmfo1njyxy3d2tk1jqnrlntn6cgzkamk5v1z4chq4re9lovvsdgh0sfdwufhivgtimjfmqnrrdunfvmw4bnr5u2iwndltdmdiwwzsd25uzfdurex4snnxujrerkjarw9qohltbmffevjcb3pzdxk0rgdkqm5nwdhwzdrfdfzprhvubtzjehdrc1jhazvyww9mvglfvxpvmljjctduywkzcmfxtgz2ngntt0vmmnnhnhhpemt3sdddmmrwnnhqouxtqwnithpkm2nhcvgw",
-      "headline": "P!NK To Make History As First Solo Female Pop Artist To Headline Sphere Las Vegas: See Full List Of Dates",
-      "source": "Music Mayhem",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFo1NjYxY3d2Tk1jQnRLNTN6cGZkamk5V1Z4cHQ4RE9lOVVSdGh0SFdWUFhIVGtiMjFMQnRrdUNFVmw4bnR5U2IwNDltdmdiWWZsd25uZFdUREx4SnNXUjRERkJaRW9qOHltbmFfeVJCb3pzdXk0RGdkQm5nWDhwZDRfdFZpRHVUbTZjeHdRc1JHazVYWW9mVGlFVXpvMlJJcTduYWkzcmFXTGZ2NGNTT0VMMnNhNHhpemt3SDdDMmRWNnhQOUxTQWNiTHpKM2NhcVgw?oc=5",
-      "take": "P!NK To Make History As First Solo Female Pop Artist To Headline Sphere Las Vegas: See Full List Of Dates Music Mayhem",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.436,
-      "published": "2026-11-09T18:00:57+00:00",
-      "added": "2026-11-09T22:46:32.512230+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmikgfbvv95cuxozg02wgpqu1g3q1d6rud6a2dtbejrdi11ntvhn20xt0zirwlxadltwmnyrxpnqxjtltv6n2c0tzrkvjfsq1fyte80buxrci0tvnnfsdnns29qsgk4rmdtze1cv2jlmhlredjwd3l0mmn6u0ctcdz0szf3t2dhmghymjrfykdmutg0ueo4ufa4atjmqq",
-      "headline": "P!nk Will Soar Into Sphere Residency in 2027: ‘I Can’t Wait to Have You Over’",
-      "source": "Billboard",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZG02WGpqU1g3Q1d6RUd6a2dtbEJrdi11NTVHN20xT0ZIRWlXaDltWmNYRXpNQXJTLTV6N2c0TzRkVjFsQ1FYTE80bUxRci0tVnNFSDNNS29qSGk4RmdTZE1CV2JLMHlReDJWd3l0MmN6U0ctcDZ0SzF3T2dHMGhYMjRFYkdMUTg0UEo4UFA4aTJMQQ?oc=5",
-      "take": "P!nk Will Soar Into Sphere Residency in 2027: ‘I Can’t Wait to Have You Over’ Billboard",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.386,
-      "published": "2026-11-09T17:59:24+00:00",
-      "added": "2026-11-11T19:55:07.395613+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmimgfbvv95cuxqsllpdgvucv9sdfnwc1lzznytckznwdjsmjvnchu2z2vkwmzkmwu4v3o0mxh2mgrpogx0qklydjjfqkt3vvlzwglazwu5exhyd1fnm3h2t0fvwexrynlywxjsexz1c2fieevmsfazy1puzlkyset6auzkrwdbngvacjzvtmfsodrfek9squ8xy2ppq01dwvl6zgln",
-      "headline": "Pink Announces Sphere Residency, Becomes First Female Solo Headliner at Venue",
-      "source": "The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSllpdGVucV9SdFNwc1lZZnYtckZNWDJsMjVncHU2Z2VKWmZkMWU4V3o0MXh2MGRpOGx0QklydjJfQkt3VVlzWGlaZWU5eXhyd1FNM3h2T0FvWExrYnlYWXJseXZ1c2FieEVMSFAzY1puZlkySEt6aUZkRWdBNGVacjZvTmFsODRfek9sQU8xY2pPQ01DWVl6ZGln?oc=5",
-      "take": "Pink Announces Sphere Residency, Becomes First Female Solo Headliner at Venue The Hollywood Reporter",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.439,
-      "published": "2026-11-09T17:42:28+00:00",
-      "added": "2026-11-09T22:46:32.512230+00:00"
     }
   ]
 }
