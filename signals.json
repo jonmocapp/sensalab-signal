@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T18:35:12.638221+00:00",
+  "generated": "2026-11-15T19:10:28.161260+00:00",
   "count": 60,
   "signals": [
     {
@@ -29,6 +29,76 @@
       "score": 0.484,
       "published": "2026-12-03T18:00:00+00:00",
       "added": "2026-11-12T20:32:06.756610+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi7gfbvv95cuxpbuwxy2zattdwcdvlq0hzluzebne5zzvudmr2z2jtv0rrwnjux2jjrvzltvqxn2fidxmydfdrx3jwdk8xstlcyvg3bxjtmtlbuwran2xbyu5rq2piwvr1ty1idwxreme0enjdv1f0szzkylbrvzhrr1jsrk9vtvfyvhitmjd0nwrzwe45zjbvq09slxnfbtrmqwtilvvjdkwtvfd5udfoqniwmw9jawhvteq1lulubfhpetjqnhzpvxnnvjjidk1srghvqxlwyvhxbvf1d1nozl9zyxbgwdhavmsyetfxnxpqddeyt0nr",
+      "headline": "Alpha Prime Racing announces 2027 fan development and experiential marketing relationship with Illuminate Experience Group",
+      "source": "Jayski",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbUwxY2ZaTTdWcDVlQ0hzLUZEbnE5ZzVUdmR2Z2JtV0RRWnJuX2JJRVZLTVQxN2FIdXMydFdRX3Jwdk8xSTlCYVg3bXJtMTlBUWRaN2xBYU5RQ2pIWVR1Ty1IdWxremE0enJDV1F0SzZKYlBrVzhRR1JsRk9VTVFyVHItMjd0NWRZWE45ZjBVQ09SLXNfbTRMQWtILVVJdkwtVFd5UDFOQnIwMW9JaWhvTEQ1LUlUbFhpeTJqNHZPVXNnVjJidk1sRGhVQXlWYVhxbVF1d1NOZl9ZYXBGWDhaVmsyeTFXNXpQdDEyT0NR?oc=5",
+      "take": "Alpha Prime Racing announces 2027 fan development and experiential marketing relationship with Illuminate Experience Group Jayski",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.414,
+      "published": "2026-11-15T11:31:24+00:00",
+      "added": "2026-11-15T19:10:28.161260+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmirgfbvv95cuxocev5nlz5vfv2tlb3wmhtov95ogxzbupmclrfovq2qufkbnjgwjzhrfb3bnjknvv3ukpxqw45yjnebxjtmxg5mlfnzefethlrn2jqyunnvefdyuxwn2x5t3ritdn0xzy3t2xeum5zt2d0v2hfuwc4nvnuau5vmlhobldoym1cajnst1foegdjctlorwvxdmpszurlrmlysuvhzfa3d0hkovn3efpsmmfsabmbqvvfexfmufpysi1xy3plcwhybtl0uuvdogtpuxdad0plclnxwl9pqzdqwhrlng5qy0dhbfi1yvg1tzbnndzzbhjkmetsmzlmr213nndwrdnid1lut1h5uddxyko4ndhjb2xoaexlqvpkqkhkmfz0egfas2y0wexdcenxb1i2zexzbepzuu12avhkww5vn2tyognkbdu4vdf4a0ddb2pss05iwmoyovrzdhbubwvnamzkzja",
+      "headline": "Try, Test, Discover: How Beauty Stores Are Making Shopping Interactive",
+      "source": "Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcEV5NlZ5VFV2TlB3WmhTOV95OGxzbUpMclRFOVQ2QUFkbnJGWjZhRFB3bnJKNVV3UkpXQW45YjNEbXJtMXg5MlFnZEFETHlRN2JqYUNNVEFDYUxwN2x5T3RITDN0XzY3T2xEUm5zT2d0V2hfUWc4NVNuaU5vMlhobldoYm1CajNST1FOeGdJcTlORWVxdmpsZURLRmlYSUVHZFA3d0hKOVN3eFpSMmfSAbMBQVVfeXFMUFpySi1xY3pLcWhYbTl0UUVDOGtPUXdad0pLclNxWl9PQzdQWHRLNG5QY0dHbFI1YVg1TzBnNDZzbHJKMEtsMzlmR213NndWRDNId1luT1h5UDdxYko4NDhjb2xoaExLQVpkQkhKMFZ0eGFaS2Y0WExDcENxb1I2ZExZbEpzUU12aVhKWW5vN2tYOGNKbDU4VDF4a0dDb2pSS05iWmoyOVRZdHBubWVNamZkZjA?oc=5",
+      "take": "Try, Test, Discover: How Beauty Stores Are Making Shopping Interactive Free Press Journal",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.305,
+      "published": "2026-11-15T01:55:00+00:00",
+      "added": "2026-11-15T19:10:28.161260+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmioafbvv95cuxprv9svzjsrnfgyzdqr0lgdvhfbndbvlvgow93vgn0avuxwu91ohdyawnqmnh0ykfpmwnvqndfsmlktlv6d2fdtvlxqxu2nnzmbg5wmjq5a2c2q0hqog5qv3o1tdjiadk5cgx3m2lbqs1iz0rzsetmtffoancxz1zmttdnn19kqlhjrnn5uxpvbjzwrnnynxfcs1novfhxtknq",
+      "headline": "Once Upon a Time Cinderella Castle Projection Show Magic Kingdom",
+      "source": "AllEars.Net",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRV9SVzJSRnFGYzdQR0lGdVhFbndBVlVGOW93VGN0aVUxWU91OHdYaWNQMnh0YkFpMWNVQndFSmlKTlV6d2FDTVlXQXU2NnZmbG5wMjQ5a2c2Q0hQOG5QV3o1TDJiaDk5cGx3M2lBQS1IZ0RzSEtMTFFOancxZ1ZMTTdnN19KQlhJRnN5UXpvbjZWRnNYNXFCS1NoVFhxTkNq?oc=5",
+      "take": "Once Upon a Time Cinderella Castle Projection Show Magic Kingdom AllEars.Net",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.305,
+      "published": "2026-11-15T00:44:08+00:00",
+      "added": "2026-11-15T19:10:28.161260+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmivwfbvv95cuxovlgxss15v1hfy0jrdgjczvhuenplv19gmkjomkqxu21gaf9ru1yyaexlvdjjm3bruufoyl9jsg8yvwkzatbnelrfwwtzadflt1u2a1piexfoufptt3a5vvpzd2y1bdnvquv3tkpkmffvbzrrcvlxavlsadatsjdwdzhiofhtdehauhy4depkzgzlslnuynu4d3dyzwdcdnl5rxbuukgtwxzvrfl6n0z6tfu5ws10tefvww1nnlzxcw",
+      "headline": "In Camera Visual Effects Icvfx Market To 2035: Virtual Production Demand Accelerates Growth",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlgxSS15V1hFY0JrdGJCZVhUenpLV19GMkJoMkQxU21GaF9rU1YyaExLVDJjM3BRUUFoYl9JSG8yVWkzaTBNelRfWWtZaDFLT1U2a1pieXFoUFpTT3A5VVpZd2Y1bDNvQUV3TkpKMFFVbzRRcVlxaVlsaDAtSjdwdzhiOFhtdEhaUHY4dEpKZGZLSlNuYnU4d3dyZWdCdnl5RXBUUkgtWXZvRFl6N0Z6TFU5WS10TEFVWW1nNlZXcw?oc=5",
+      "take": "In Camera Visual Effects Icvfx Market To 2035: Virtual Production Demand Accelerates Growth - News and Statistics IndexBox",
+      "cat": "CGI & VFX",
+      "token": "cgi",
+      "tier": "query",
+      "geo": false,
+      "score": 0.493,
+      "published": "2026-11-14T21:11:04+00:00",
+      "added": "2026-11-15T19:10:28.161260+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmisgfbvv95cuxqr2toul9azw9zylvflu1gehhtbjuzsevwlwrnmgnkteg5sxvwyuvmwdyzv1u0vgvuaevurjjtcgj2r3e2ne9gejv6v3ktcg5zde5fcnfwwufhz2xoekfedjlxmvfzvxpqxzjtqjhoaljsz19jmkpcudi2delrcjzgdnjvmznpm0o2nevzcdbbuexta21rouvbrwlbtup6otnpbnvmz2f4afvxwks4azfmm2rb",
+      "headline": "New Live Action Projection Mapping Film Captured with URSA Cine 12K LF",
+      "source": "FilmInk",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2toUl9aZW9ZYlVfLU1GeHhTbjUzSEVWLWRnMGNKTEg5SXVWYUVmWDYzV1U0VGVUaEVURjJtcGJ2R3E2NE9GejV6V3ktcG5zdE5FcnFWWUFHZ2xoekFEdjlxMVFZVXpqXzJTQjhOalJsZ19JMkpCUDI2dElrcjZGdnJvMzNpM0o2NEVzcDBBUExta21ROUVBRWlBTUp6OTNpbnVMZ2F4aFVXWks4azFMM2RB?oc=5",
+      "take": "New Live Action Projection Mapping Film Captured with URSA Cine 12K LF FilmInk",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.493,
+      "published": "2026-11-14T09:26:10+00:00",
+      "added": "2026-11-15T19:10:28.161260+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmizwfbvv95cuxncecwb3d1rxotslppbnzgvvzdvtc5mddlnnl4skfzbjnzlwvvsgrnqs1hvk0trwo3dkkyvjkwuexxmmfytjvcvktfu3nxufvotzg5nfy5tnfxt3ywvkpsoge5ru1kx0dxmfrzmgtnudvrovpbdfo5lurnutzoexj4b21nahhhzjjrte4wugy0czvjt3rowdztwkjyatg4yk9jb2nqae9jvjzlymytsxpvczr6szrysfdhuehychuxqzlhq0dvs0pvuzuzaznhauu",
@@ -267,6 +337,20 @@
       "score": 0.492,
       "published": "2026-11-12T21:49:45+00:00",
       "added": "2026-11-13T20:09:16.442608+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi5afbvv95cuxqrjfwmgzvqwv3qnrvvhlfwmhuvgc4tnk1qthfavnludruyunjsxdywulptwnidzrfqja2t05xcznla0xkv2j2zfzxsnzoam93evpvqjzvnlvrmkn5ngw5bdhrvepkrnjpavu1mnctdu0youpmrlnadmeyazzoqkzdcglvmnb5tzznvc1yawnzwujxcwdktkftrmq4sdlzr2n3qzbwmktfeexumdq0vv9qrl90renrzmc0uulpwkdpd0lnoujzluh1b19hahdjduhuymezsc1sd2nsovo0vw5dugd2tzi",
+      "headline": "Star Wars Turns 50 in 2027, Disney Is Taking the Galaxy Beyond Movie Theaters With 12K Immersive Experiences, Concerts and More",
+      "source": "Revista Merca2.0",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRjFWMGZVQWV3QnRVVHlFWmhuVGc4Tnk1QThFaVNlUDRuYUNjSXdyWUlPTWNidzRFQjA2T05XczNla0xKV2J2ZFZxSnZOam93eVpvQjZvNlVrMkN5NGw5bDhrVEpkRnJPaVU1MnctdU0yOUpmRlNadmEyazZOQkZDcGlVMnB5TzZNVC1yaWNZWUJxcWdKTkFtRmQ4SDlzR2N3QzBwMktFeExuMDQ0VV9qRl90RENRZmc0UUlpWkdPd0lNOUJzLUh1b19HaHdJdUhuYmEzSC1sd2NSOVo0VW5DUGd2TzI?oc=5",
+      "take": "Star Wars Turns 50 in 2027, Disney Is Taking the Galaxy Beyond Movie Theaters With 12K Immersive Experiences, Concerts and More Revista Merca2.0",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.419,
+      "published": "2026-11-12T21:43:29+00:00",
+      "added": "2026-11-15T19:10:28.161260+00:00"
     },
     {
       "key": "https://www.adweek.com/tvnewser/week-of-nov-2-2026-cable-news-ratings-midterm-elections-bring-in-viewers",
@@ -757,90 +841,6 @@
       "score": 0.37,
       "published": "2026-11-10T08:00:00+00:00",
       "added": "2026-11-11T19:55:07.395613+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmie0fvx3lxte1tq1pzc2xncvjpamlhmhhnuuznqnrwzmlfudb4bxzlvhnmutrkzk83tg1jv0pjs2h2tvbkotjkwlhxs1rcndzoeeu2av9hm041x0fwb3l1ywncntftn1pjwmq0ynhgau5cztblovfncy1utjmxc3j0ymtdyw",
-      "headline": "Lyora Pissarro Brings Her Immersive Art to Dallas Through J Williams Fine Art",
-      "source": "PaperCity Magazine",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tQ1pzc2xNcVJpamlhMHhnUUZNQnRwZmlfUDB4bXZlVHNMUTRKZk83TG1JV0pJS2h2TVBKOTJKWlhxS1RCNDZOeEU2aV9HM041X0FWb3l1YWNCNTFtN1pjWmQ0YnhGaU5CZTBlOVFncy1UTjMxc3J0YmtDYw?oc=5",
-      "take": "Lyora Pissarro Brings Her Immersive Art to Dallas Through J Williams Fine Art PaperCity Magazine",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.367,
-      "published": "2026-11-10T01:55:00+00:00",
-      "added": "2026-11-11T19:55:07.395613+00:00"
-    },
-    {
-      "key": "https://www.eventmarketer.com/article/brief-hulu-divorce-trucks-knorr-cupping-therapy",
-      "headline": "The Brief: Divorce Trucks and Cupping Therapy",
-      "source": "Event Marketer",
-      "link": "https://www.eventmarketer.com/article/brief-hulu-divorce-trucks-knorr-cupping-therapy/",
-      "take": "This week’s hot takes on hot topics in experiential marketing cover divorce trucks, the House of Icons and cupping therapy.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.444,
-      "published": "2026-11-10T01:29:58+00:00",
-      "added": "2026-11-10T20:05:27.594983+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmidkfvx3lxte1xwxjus1p1nkvotmzvrxftofn4bkp0umvxadhyyujubmxmckpwvxrusklwvndxnxfhueh6ls1vudz5ymxwbhphsfvlu3bvawncwej2sjc3q1vdslznrlm0eehvb2vwa0swzjjjz0rddvjqvdu5zue",
-      "headline": "Lyora Pissarro Brings Her Immersive Art to Dallas Through J Williams Fine Art",
-      "source": "PaperCity Magazine",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XWXJUS1p1NkVoTmZVRXFTOFN4bkp0UmVXaDhyYUJubmxMckpWVXRuSklWVndxNXFhUEh6LS1vUDZ5YmxWbHpHSFVLU3BVaWNCWEJ2Sjc3Q1VDSlZNRlM0eEhvb2VWa0swZjJjZ0RDdVJqVDU5ZUE?oc=5",
-      "take": "Lyora Pissarro Brings Her Immersive Art to Dallas Through J Williams Fine Art PaperCity Magazine",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.377,
-      "published": "2026-11-09T22:23:57+00:00",
-      "added": "2026-11-10T20:05:27.594983+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbminafbvv95cuxpmf9wn2pnsmniswswunf1dwfiy0t5enbqdfrny0nddze1am9lbudxue10vjvwzfo1rkpwnfbvmdm0whm2sxfhm2kwd3e1rjjbslo5r2tvyvbjrvqzu0d1v0fxsg9sbgfrd0vtt25fa2qyumhiwvpbmdjjmlflemtcy1g0wkhjtfowq2pytfvirkjzslpwdfdxrvmtuxu",
-      "headline": "Pink is headed to the Sphere in Las Vegas for 1st ever residency",
-      "source": "KTLA",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMF9WN2pNSmNiSWswUnF1dWFiY0t5enBqdFRnY0NDdzE1am9LbUdxUE10VjVwZFo1RkpwNFBVMDM0WHM2SXFhM2kwd3E1RjJBSlo5R2tVYVBjRVQzU0d1V0FXSG9SbGFrd0VtT25fa2QyUmhiWVpBMDJjMlFlemtCY1g0WkhjTFowQ2pyTFViRkJzSlpwdFdXRVMtUXU?oc=5",
-      "take": "Pink is headed to the Sphere in Las Vegas for 1st ever residency KTLA",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.538,
-      "published": "2026-11-09T22:03:57+00:00",
-      "added": "2026-11-09T22:46:32.512230+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbminafbvv95cuxpmf9wn2pnsmniswswunf1dwfiy0t5enbqdfrny0nddze1am9lbudxue10vjvwzfo1rkpwnfbvmdm0whm2sxfhm2kwd3e1rjjbslo5r2tvyvbjrvqzu0d1v0fxsg9sbgfrd0vtt25fa2qyumhiwvpbmdjjmlflemtcy1g0wkhjtfowq2pytfvirkjzslpwdfdxrvmtuxxsaaibqvvfexfmtjzxyjbqefv6uwpmze1pemhhtex0m1dzatfyrl9tawzhulo1y2dhwk1selfptxl3odvju1lnrc1lz2rrsnyxwvk4bdqtsdr5vgvob24wotlpvelscm5fnmm5n0u0rfzlrtvibkjbyu5st1m1uzeytdziodlms21pa18tddzxnhbpsdrnrdhhc25ry3lsbklkshnrtgnhcnvmsnnn",
-      "headline": "Pink is headed to the Sphere in Las Vegas for 1st ever residency",
-      "source": "KTLA",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMF9WN2pNSmNiSWswUnF1dWFiY0t5enBqdFRnY0NDdzE1am9LbUdxUE10VjVwZFo1RkpwNFBVMDM0WHM2SXFhM2kwd3E1RjJBSlo5R2tVYVBjRVQzU0d1V0FXSG9SbGFrd0VtT25fa2QyUmhiWVpBMDJjMlFlemtCY1g0WkhjTFowQ2pyTFViRkJzSlpwdFdXRVMtUXXSAaIBQVVfeXFMTjZXYjBQeFV6UWpmZE1PemhhTEx0M1dzaTFYRl9TaWZhUlo1Y2dHWk1SelFPTXl3ODVjU1lnRC1lZ2RRSnYxWVk4bDQtSDR5VGVOb24wOTlPVElscm5fNmM5N0U0RFZLRTVibkJBYU5ST1M1UzEyTDZiODlmS21Pa18tdDZXNHBPSDRNRDhhc25rY3lSbklkSHNrTGNHcnVmSnNn?oc=5",
-      "take": "Pink is headed to the Sphere in Las Vegas for 1st ever residency KTLA",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.527,
-      "published": "2026-11-09T22:03:57+00:00",
-      "added": "2026-11-10T20:05:27.594983+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/event-venues/new-venues-in-phoenix-scottsdale-for-fall-2026-meetings-and-events",
-      "headline": "11 New Venues in Phoenix/Scottsdale for Fall 2026 Meetings and Events",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/event-venues/new-venues-in-phoenix-scottsdale-for-fall-2026-meetings-and-events",
-      "take": "Take a peek at these buzzworthy restaurants, hotels, meeting and event spaces, and more recently opened in Phoenix/Scottsdale.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.333,
-      "published": "2026-11-09T21:08:55+00:00",
-      "added": "2026-11-10T20:05:27.594983+00:00"
     }
   ]
 }
