@@ -702,6 +702,18 @@ Summary: The story is not a bigger store.
 Why it matters: Build-A-Bear is opening a multi-story flagship at Orlando's ICON Park with a first-ever Design Studio and interactive Bakeshop, a sign maker-retail is being built as a destination attraction rather than a transactional store.
 Takeaway: Design a flagship around a sequence of made moments, not a sales floor: when the store is paced like an attraction with booked, one-to-one and interactive stations, dwell time and reason-to-travel become the metrics, so plan the journey before the fixtures.
 
+### Coach's cherry truck in Mumbai signals fragrance retail moving onto wheels
+https://signal.sensalab.io/article-coach-cherry-truck-mumbai-signals-fragrance-retail-on-wheels.html
+Summary: A luxury house chose a mobile, set-dressed truck over a department-store counter to launch a fragrance in India.
+Why it matters: Coach introduced Cherry Parfum in India through a seven-day branded pop-up truck at Mumbai's Phoenix Palladium Mall, a sign that fragrance launches are moving off the department-store counter and onto mobile, set-dressed formats that behave like events.
+Takeaway: Design a launch around the discovery sequence, not the vehicle: decide what a visitor samples, keeps and buys in the first minutes, and build the physical asset as a frame for those moments so it can travel from city to city.
+
+### A projection-mapped animatronic signals tracking moving into the figure itself
+https://signal.sensalab.io/article-projection-mapped-animatronic-signals-tracking-inside-the-figure.html
+Summary: Positional data now comes from the animatronic's own control system, not external cameras, removing a layer of calibration.
+Why it matters: A supplier group pulled projection-mapping tracking data straight from an animatronic's control system instead of external cameras, a sign the discipline is moving toward simpler, more scalable setups for character-led attractions.
+Takeaway: Ask whether a moving figure's own motion data can drive its projected content before specifying a camera-based tracking rig; sourcing position from the animation platform cuts calibration, sightline and latency problems and shrinks the backstage footprint a scene needs.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html

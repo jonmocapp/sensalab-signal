@@ -5349,6 +5349,108 @@
           "text": "SensaLab builds real-time and interactive content for retail and brand spaces, working behind brands, agencies and venues under their name rather than ours. If a flagship needs its interactive moments authored to hold a visitor rather than decorate a floor, we are glad to be the quiet half of the team."
         }
       ]
+    },
+    {
+      "slug": "coach-cherry-truck-mumbai-signals-fragrance-retail-on-wheels",
+      "cat": "Experiential",
+      "tokens": "experiential",
+      "edition": 21,
+      "source_name": "Media4Growth",
+      "source_url": "https://www.media4growth.com/showcase/creative-concepts/coach-brings-cherry-parfum-to-life-with-an-experiential-pop-up-truck-in-mumbai-87441",
+      "date": "2026-11-17",
+      "image_url": "",
+      "headline": "Coach's cherry truck in Mumbai signals fragrance retail moving onto wheels",
+      "dek": "A luxury house chose a mobile, set-dressed truck over a department-store counter to launch a fragrance in India.",
+      "focus_keyword": "coach cherry parfum pop-up truck mumbai",
+      "read_minutes": 3,
+      "meta_description": "Coach launched Cherry Parfum in India with a deep-red pop-up truck at Mumbai's Phoenix Palladium Mall, a mobile activation that reads as an event, not a counter.",
+      "why": "Coach introduced Cherry Parfum in India through a seven-day branded pop-up truck at Mumbai's Phoenix Palladium Mall, a sign that fragrance launches are moving off the department-store counter and onto mobile, set-dressed formats that behave like events.",
+      "takeaway": "Design a launch around the discovery sequence, not the vehicle: decide what a visitor samples, keeps and buys in the first minutes, and build the physical asset as a frame for those moments so it can travel from city to city.",
+      "body": [
+        {
+          "type": "para",
+          "text": "Coach has parked a deep-red branded truck in the courtyard of Phoenix Palladium Mall in Lower Parel, Mumbai, for a seven-day pop-up running 9 to 15 November 2026 to launch Coach Cherry Parfum in India. Oversized cherries sit mounted above the vehicle, and a dedicated fragrance discovery area lets visitors sample the scent, a fruity-floral opening of dark cherry, Italian mandarin and pink pepper built around the brand's signature cherry bag charm. Cherry-themed treats, cold drinks, Coach Cherry stickers and gifts with purchase round out the stop. Global SS Beauty Brands, the distribution arm of Shoppers Stop, is bringing the fragrance to the Indian market."
+        },
+        {
+          "type": "subhead",
+          "text": "The signal is the format, not the fragrance"
+        },
+        {
+          "type": "para",
+          "text": "The real signal here is not another scent launch. It is a luxury house choosing a mobile, set-dressed vehicle over a counter in a department store to introduce a product. A truck is a deliberately small footprint that reads as an event, parks inside the highest-traffic mall courtyard, and turns a fragrance line into a reason to stop walking. The cherries, the colour and the discovery area do the work a glass cabinet cannot: they make the product legible from across the floor and give a shopper a sequence to move through rather than a transaction to complete. There is a pattern behind the choice, too. A comparable Coach Cherry truck ran earlier in New York City, so Mumbai is a second deployment of a format the brand has already tested rather than a one-off, which means the asset is designed to travel and hold its look under different lighting, crowds and climates."
+        },
+        {
+          "type": "subhead",
+          "text": "What a producer can do now"
+        },
+        {
+          "type": "para",
+          "text": "If you are briefing a launch like this, the lever is not the vehicle; it is the discovery sequence around it. Decide what a visitor does in the first ten seconds, what rewards a second minute, and what they leave holding. Coach's answer, a tidy escalation from sample to treat to sticker to gift-with-purchase, moves a visitor from scent to keepsake to purchase without a hard sell. Map that escalation before you fabricate anything, and the physical build becomes a frame for the moments rather than the point of them."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "As more fragrance and fashion launches move off the counter and onto a cart, a truck or a short-run room, the discipline shifts from store design to show design. A mobile activation has to be modular, quick to stand up and strike, and consistent across stops, the same problems a touring set solves. That is where a real-time content layer earns its place: screens, lighting cues and interactive sampling stations that can be reskinned per market without rebuilding the shell. Teams planning that kind of travelling build can borrow from an [activations kit](/kits/activations) rather than starting each city from zero. The quieter lesson is about measurement, since a truck in a bounded courtyard with one obvious entry produces a clean read on dwell and footfall that carries to the next market as evidence rather than instinct."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab builds the real-time and interactive layer for activations like these, working behind brands, agencies and venues under their own name rather than ours. If a launch needs to travel and still feel built for each city, that is the kind of problem we are glad to be the quiet half of the team on."
+        }
+      ]
+    },
+    {
+      "slug": "projection-mapped-animatronic-signals-tracking-inside-the-figure",
+      "cat": "Interactive",
+      "tokens": "interactive",
+      "edition": 21,
+      "source_name": "blooloop",
+      "source_url": "https://blooloop.com/news/dynamic-projection-mapping-on-moving-animatronic-figures",
+      "date": "2026-11-16",
+      "image_url": "",
+      "headline": "A projection-mapped animatronic signals tracking moving into the figure itself",
+      "dek": "Positional data now comes from the animatronic's own control system, not external cameras, removing a layer of calibration.",
+      "focus_keyword": "dynamic projection mapping animatronic figures",
+      "read_minutes": 3,
+      "meta_description": "P&P Projects, ThemedMotion, 7thSense and CurtainUp showed projection mapping that tracks a moving animatronic from its own control system, not external cameras.",
+      "why": "A supplier group pulled projection-mapping tracking data straight from an animatronic's control system instead of external cameras, a sign the discipline is moving toward simpler, more scalable setups for character-led attractions.",
+      "takeaway": "Ask whether a moving figure's own motion data can drive its projected content before specifying a camera-based tracking rig; sourcing position from the animation platform cuts calibration, sightline and latency problems and shrinks the backstage footprint a scene needs.",
+      "body": [
+        {
+          "type": "para",
+          "text": "A group of attractions suppliers, P&P Projects, its new ThemedMotion branch, 7thSense and 7thSense's sister company CurtainUp, has shown a way to keep projected imagery locked onto a moving animatronic without the external tracking rigs the effect usually demands. Instead of high-speed cameras watching the figure, positional data comes straight from ThemedMotion's CritterControl animatronic control system, while the 7thSense Performer system reads how the character moves and continuously adapts the projection to match. P&P Projects and ThemedMotion built the physical character, the animatronic hardware, the animation platform and the media. The project is listed in the Creative Technology category of the blooloop Innovation Awards 2026."
+        },
+        {
+          "type": "subhead",
+          "text": "The signal is where the tracking lives"
+        },
+        {
+          "type": "para",
+          "text": "The real signal is not that projection mapping can follow a moving object, which has been done. It is where the tracking data now comes from. Pulling position from the control system that already drives the animatronic, rather than from cameras bolted around the scene, removes a whole layer of calibration, line-of-sight and latency problems. The figure effectively tells the projector where it is. For anyone who has fought to keep media registered on a moving surface, that is a meaningful simplification, and the stated aim is to make the technique workable for attractions of every scale rather than only flagship parks."
+        },
+        {
+          "type": "subhead",
+          "text": "What a producer can do now"
+        },
+        {
+          "type": "para",
+          "text": "If you are scoping a character moment for a show or attraction, this reframes a build decision. The question stops being how many tracking cameras and where, and becomes whether the figure's own motion data can drive the content. That changes budget, sightlines and the amount of backstage infrastructure a room needs. A producer can ask a supplier early whether positional data can be taken from the animation platform itself, and design the scene around a tighter, more forgiving setup instead of a camera cage. ThemedMotion is set up as a turnkey branch for the development of animatronics and animated figures, so a single supplier can carry the figure, its control system and the matched media together. That consolidation is part of what makes the simpler tracking realistic to specify rather than treat as a bespoke, high-risk integration."
+        },
+        {
+          "type": "subhead",
+          "text": "Why it belongs in an experiential toolkit"
+        },
+        {
+          "type": "para",
+          "text": "The broader move is projection mapping leaving the fixed facade and attaching to things that move: performers, props, animatronics. That pushes real-time rendering and show control to the centre of the toolkit, because content has to be generated and corrected live rather than played back as a fixed file. Teams building character-led rooms can treat this as a [shows kit](/kits/shows) problem, where tracking, real-time media and show control are designed together, so the figure and its projected skin are one system rather than two that have to be reconciled on site."
+        },
+        {
+          "type": "para",
+          "text": "SensaLab works in exactly this seam, building real-time content and interactive show elements behind studios, agencies and venues under their own name. When a brief calls for media that has to stay married to something moving, that is the kind of quiet technical problem we are built to take on."
+        }
+      ]
     }
   ]
 }
