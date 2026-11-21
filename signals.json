@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T20:50:49.939437+00:00",
+  "generated": "2026-11-21T19:52:42.328253+00:00",
   "count": 60,
   "signals": [
     {
@@ -29,6 +29,34 @@
       "score": 0.484,
       "published": "2026-12-03T18:00:00+00:00",
       "added": "2026-11-12T20:32:06.756610+00:00"
+    },
+    {
+      "key": "https://www.eventmarketer.com/article/meter-circuit-roadshow-inform-flagship",
+      "headline": "3 Ways Meter’s 13-City Roadshow Will Inform its Flagship Conference",
+      "source": "Event Marketer",
+      "link": "https://www.eventmarketer.com/article/meter-circuit-roadshow-inform-flagship/",
+      "take": "Most user conferences take place annually, but Meter’s flagship show, MeterUp, “only happens when we have something worth saying.” The event was last hosted in…",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "core",
+      "geo": false,
+      "score": 0.373,
+      "published": "2026-11-20T21:48:45+00:00",
+      "added": "2026-11-21T19:52:42.328253+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmixafbvv95cuxpdwxgaejic2dylxnltwm4cmjft2nrew1lck5utvzfuhb3nknruudrztjfegmxvy1qrnfkdznysktntjzxt2psczgwelrjrhnwr3llel9ewglsyk16q2c3dzlmvjdnttzmzmhov18wyzhsru1vuxn3qnrkeeeysfk1mtc1ym9jnlj0a1g3z054bmtvnvlqwtznrgexqy1ssddizhfkbw1ab29fsk1kmknbuuz1ylvushpwzwfyegc0svn2tmlc",
+      "headline": "P!nk Live at Sphere 2027-2028: Here’s Where to Shop Affordable Tickets Online",
+      "source": "Billboard",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWxGaEJIc2dYLXNlTWM4cmJFT2NreW1Lck5uTVZFUHB3NkNrUUdrZTJfeGMxVy1QRnFKdzNYSktNTjZxT2pSczgwelRJRHNwR3lLel9EWGlsYk16Q2c3dzlmVjdNTTZmZmhOV18wYzhsRU1VUXN3QnRKeEEySFk1MTc1Ym9JNlJ0a1g3Z054bmtVNVlqWTZnRGExQy1sSDdIZHFKbW1ab29fSk1KMkNBUUZ1YlVuSHpwZWFYeGc0SVN2TmlC?oc=5",
+      "take": "P!nk Live at Sphere 2027-2028: Here’s Where to Shop Affordable Tickets Online Billboard",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.399,
+      "published": "2026-11-20T20:42:46+00:00",
+      "added": "2026-11-21T19:52:42.328253+00:00"
     },
     {
       "key": "https://www.bizbash.com/experiential-marketing/how-sephora-turned-a-hollywood-backlot-into-an-immersive-beauty-metropolis",
@@ -157,6 +185,20 @@
       "added": "2026-11-20T20:50:49.939437+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmitgfbvv95cuxqqjlxz19pvxexq0vxmhnqtkvjylpmmnvtlujszwl0cetumgf0tm04wddxwgrjqxzqz2vtvlrzoghyyjzwakdloxbbu1bkvtbhnuvoagdvnlppbnm3vvhrbwlvoxniuzrrrmxtouc2rc16sdrxdun5cwczx29zagheby1rc0nwx00zdwvar3plexv2d3zvz3bjvkvragxwcjrvbelonjg1snb2lw1mcetqsthvdwzmuq",
+      "headline": "Pink Extends Las Vegas Sphere Residency After Three Million People go Online to Buy Tickets",
+      "source": "Parade Magazine",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQjlXZ19PVXExQ0VxMHNqTkVJYlpMMnVtLUJsZWl0cEtUMGF0Tm04WDdxWGRjQXZqZ2VtVlRZOGhyYjZwakdlOXBBU1BkVTBHNUVOaGdVNlppbnM3VVhRbWlvOXNIUzRRRmxTOUc2RC16SDRXdUN5cWczX29ZaGhEby1rc0NwX00zdWVaR3pleXV2d3ZVZ3BjVkVraGxwcjRvbEloNjg1SnB2LW1McEtQSThVdWZmUQ?oc=5",
+      "take": "Pink Extends Las Vegas Sphere Residency After Three Million People go Online to Buy Tickets Parade Magazine",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.414,
+      "published": "2026-11-19T20:54:51+00:00",
+      "added": "2026-11-21T19:52:42.328253+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmimwfbvv95cuxnwdzsy04yndmwmwvecjdwc2dnrmxgbgluz0didlpqsursekrktfm5vgjiyzm1twitoxrct0dzv2pabvvjv2voehpfuvrjb0ffrw1rnmjkay1kte42bdg3vfuzuf8zaw5bvfhotwd0nk4xrmdctnu2x2vkys1retzmr1nfui16ujlrce5ymjjewhnzus1im2pkserkdw",
       "headline": "Hershey reports 8% sales uplift from Kuala Lumpur airport activation",
       "source": "Global Travel Retail Magazine",
@@ -211,6 +253,20 @@
       "score": 0.491,
       "published": "2026-11-19T17:23:14+00:00",
       "added": "2026-11-19T21:03:53.143594+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmi1gfbvv95cuxpdf9jqkexsxrsn3dbt1zpm1zmzfzvvvlmmhi5cjvqeheywnfxlwzeqwradmhfdlk3vg5zc0hln1k1zvctvxjzytexq3ppzxhryuj6d25vcc11mwf2efpythhsuwhwujm5ylfnbw1nsgfedwm5rwmzt0n6b3zoznngvy1fqzjvq1b3sedda1bpx0v5sfdlsmtmmhjosuc0vwlwemdkstjvvko4zgeztk1joudtsultvvbjci1ir0rkckvyvzu3eeexs2rkdg1ys0jsefjvsglb",
+      "headline": "The Experiential Report Card 2026: What Worked, What Failed & What Brands Must Rethink",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdF9JQkExSXRSN3dBT1ZPM1ZMZFZVVVlmMHI5cjVQeHEyWnFXLWZEQWRadmhfdlk3VG5Zc0hLN1k1ZVctVXJzYTExQ3ppZXhrYUJ6d25VcC11MWF2eFpyTHhsUWhwUjM5YlFNbW1NSGFEdWM5RWMzT0N6b3ZoZnNGVy1FQzJvQ1B3SEdDa1BpX0V5SFdLSmtMMHJOSUc0VWlWemdKSTJVVko4ZGEzTk1jOUdtSUlTVVBjci1iR0RKckVyVzU3eEExS2RKdG1YS0JSeFJvSGlB?oc=5",
+      "take": "The Experiential Report Card 2026: What Worked, What Failed & What Brands Must Rethink TradingView",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.422,
+      "published": "2026-11-19T16:15:17+00:00",
+      "added": "2026-11-21T19:52:42.328253+00:00"
     },
     {
       "key": "https://www.bizbash.com/event-venues/new-venues-in-austin-for-fall-2026-meetings-and-events",
@@ -351,6 +407,20 @@
       "score": 0.376,
       "published": "2026-11-18T22:36:48+00:00",
       "added": "2026-11-19T21:03:53.143594+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmia0fvx3lxte1uqjzls0xnr1fxbdzueg1nyutfchr6nfiyymp6ujrdt283cm1fcg9oalvnsjhyunntwjfxrus3sejhtkdiotbirmdpell5mgq0cev2wkvtewnozkjzmwv2c0v6tjjaaw5lve5n",
+      "headline": "P!NK Announces 2027 Sphere Residency [Updated]",
+      "source": "Consequence of Sound",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UQjZLS0xnR1FxbDZueG1NYUtFcHR6NFIyYmp6UjRDT283cm1fcG9oalVnSjhyUnNTWjFxRUs3SEJhTkdiOTBIRmdpell5MGQ0cEV2WkVteWNoZkJZMWV2c0V6TjJaaW5LVE5n?oc=5",
+      "take": "P!NK Announces 2027 Sphere Residency [Updated] Consequence of Sound",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.376,
+      "published": "2026-11-18T22:29:00+00:00",
+      "added": "2026-11-21T19:52:42.328253+00:00"
     },
     {
       "key": "https://www.eventmarketer.com/article/meet-my-agent-how-event-profs-put-personal-ai-agents-to-work",
@@ -689,6 +759,20 @@
       "added": "2026-11-20T20:50:49.939437+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmi4afbvv95cuxpnmhqv3e1qmp5zdk4bvbntunvd0zlvffozxvld3jzouiyevhyx1rta3jxcmj4ds1fallabjbrrvrscwrvbxdgmwvtsjrbrm5wsujnv0rmqup2wfnovwfmtfjizgdwm3p6dvv5tfdnq1jpltdimzu4bwxsq0npmutqvflxu3loavzscmfln1psa2pkedm0vudyytyxnho1wmcznuthvkjmdkmtclkxnvfdzut2wkt4b1fyzjdzb0hobkrlsl9irelewkvybnbvwmhkdexozehon3z4ay1wqjl1mw",
+      "headline": "Eagles ticket prices at The Sphere are dropping ahead of Vegas shows",
+      "source": "Seacoastonline.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmhqV3E1Qmp5ZDk4bVBnTUNvd0ZlVFFOZXVld3JzOUIyeVhYX1Rta3JxcmJ4dS1FallabjBrRVRscWRvbXdGMWVTSjRBRm5wSUJNV0RmQUp2WFNoVWFmTFJIZGdwM3p6dVV5TFdNQ1JpLTdIMzU4bWxSQ0NPMUtqVFlXU3loaVZscmFLN1pSa2pkeDM0VUdyYTYxNHo1WmczNUthVkJmdkMtclkxNVFDZUt2Wkt4b1FYZjdZb0hObkRlSl9IRElEWkVybnBVWmhKdExoZEhoN3Z4ay1WQjl1Mw?oc=5",
+      "take": "Eagles ticket prices at The Sphere are dropping ahead of Vegas shows Seacoastonline.com",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.486,
+      "published": "2026-11-17T12:46:00+00:00",
+      "added": "2026-11-21T19:52:42.328253+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmiugfbvv95cuxpmwzrb0mxt0nszg1bvfbjohf1cgpswedizu5dyjffdmsxuunlbmfzefhoujroz0i3m0dxudvrv0fkmvnlsne3dxewauftdfz3auvzdhzbqzvbemh5szbzb3fwegtfx3nxbmryyzrintnwall0lud4ctfjwkiyzw9vamzntu9gau5ymwlorwd6bngwtxqychzoqjbsx1zydjnxckpwnzr2cfvduk50mmzkv2fodf9tee5yb2c",
       "headline": "A picture-postcard light projection and an illuminated Plaça de Catalunya: what’s new for Christmas in Barcelona",
       "source": "The New Barcelona Post",
@@ -757,90 +841,6 @@
       "score": 0.521,
       "published": "2026-11-17T10:02:56+00:00",
       "added": "2026-11-17T21:26:21.270661+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbminwfbvv95cuxoqmh1wgvovln4ofhpeuvbcvpbrtzsmgrvx05rsjhlbgrgn3rzakhfymjiuc1kekfytjzrrkphwku3yw1kru1gr0pwbgngutlmx1r0sm1paupgd2htbfrtcg4zzun3xzbdzw9wvvjlwfpvrvvlrudzd3v2u1jbahnheufjog1uykdfz2phq0phzevhuguzyxvlq1jxv3j5dza",
-      "headline": "Casemates Christmas Show To Feature Immersive 360° Experience",
-      "source": "Your Gibraltar TV",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmh1WGVoVlN4OFhpeUVBcVpBRTZSMGRvX05RSjhlbGRGN3RzakhfYmJIUC1kekFyTjZRRkpHWkU3YW1kRU1GR0pwbGNGUTlmX1R0Sm1PaUpGd2htbFRtcG4zZUN3XzBDZW9wVVJlWFpvRVVlRUdZd3V2U1JBaHNheUFjOG1uYkdfZ2pHQ0phZEVHUGUzYXVLQ1JXV3J5dzA?oc=5",
-      "take": "Casemates Christmas Show To Feature Immersive 360° Experience Your Gibraltar TV",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.412,
-      "published": "2026-11-17T09:22:37+00:00",
-      "added": "2026-11-17T21:26:21.270661+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmijafbvv95cuxqqkn1zkxwc05xb1dqavl5awlibmrit3q1mkfmv2ztwmnizlbibu9rwfjhchpxohh1rvzrrfituda0vhhfelctcuhotxvud1dmbnkzntldbdjtwnfwnlzzb3bfrdfirknsnkvut3bbr0xoc0nzqzu0slfdd1y0cmdmoc1ntetinu9ft1e5lq",
-      "headline": "IRL Creators: Meetups, pop-ups and live events as the next brand stage",
-      "source": "Agency Reporter",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkN1ZkxWc05Xb1dqaVl5aWlibmRIT3Q1MkFmV2ZtWmNIZlBibU9RWFJhcHpXOHh1RVZrRFItUDA0VHhfelctcUhoTXVud1dMbnkzNTlDbDJTWnFwNlZzb3BfRDFIRkNSNkVUT3BBR0xoc0NzQzU0SlFDd1Y0cmdmOC1nTEtiNU9fT1E5LQ?oc=5",
-      "take": "IRL Creators: Meetups, pop-ups and live events as the next brand stage Agency Reporter",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.319,
-      "published": "2026-11-17T06:21:40+00:00",
-      "added": "2026-11-18T20:58:31.741628+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiwafbvv95cuxnxzfdnuxmbw5fdmxrvlj2dmpibe9nu1e4wjbsswfndtbvvxzzt3vxb29deni1skt2skrpa1jpcvn2y21unuvlmetbnmg4smdcevgxm1gtenf5oddjqxhslvpuzgs3zktvbvpomhbynlvnnmzilxrvofl1dzhgy3pdbnvueghzszffturgwjbqdgzfzhjunzhautfsrfmwm2ntajbauhhrofjqzutnsfjzaw1ibwjnuejjsgntee93wng",
-      "headline": "Palmonas looking for experiential marketing partners",
-      "source": "Exchange4Media",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNXzFDNUxMbW5fdmxrVlJ2dmpibE9nU1E4WjBsSWFndTBvVXZzT3VXb29DenI1Skt2SkRPa1JPcVN2Y21UNUVLMEtBNmg4SmdCeVgxM1gtenF5ODdJQXhSLVpUZGs3ZktvbVpoMHBYNlVnNmZiLXRVOFl1dzhGY3pDbnVUeGhzSzFFTURGWjBqdGZfZHJUNzhaUTFsRFMwM2NTajBaUHhrOFJqZUtnSFJzaW1IbWJNUEJjSGNTeE93Wng?oc=5",
-      "take": "Palmonas looking for experiential marketing partners Exchange4Media",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.367,
-      "published": "2026-11-17T03:52:21+00:00",
-      "added": "2026-11-18T20:58:31.741628+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiuefvx3lxte11y0nirdlmbtk3ujzmql9vuvhzr25hcuxhdllcmi1scw1zntbdqmxeb1zlyzrhauv6zvdhannid3pcmdztnxvcefyzrm1oejbx",
-      "headline": "Netflix House",
-      "source": "blooloop",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11Y0NiRDlmbTk3UjZMQl9vUVhZR25hcUxhdllCMi1ScW1zNTBDQmxEb1ZLYzRhaUV6ZVdHanNId3pCMDZtNXVCeFYzRm1OejBx?oc=5",
-      "take": "",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.353,
-      "published": "2026-11-17T00:37:55+00:00",
-      "added": "2026-11-18T20:58:31.741628+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/meetings/10-most-innovative-meetings-of-2026",
-      "headline": "10 Most Innovative Meetings of 2026",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/meetings/10-most-innovative-meetings-of-2026",
-      "take": "From interactive AI experiences and larger-than-life installations to unconventional networking formats and citywide takeovers, these 10 gatherings are…",
-      "cat": "AI",
-      "token": "ai",
-      "tier": "core",
-      "geo": false,
-      "score": 0.438,
-      "published": "2026-11-16T23:28:15+00:00",
-      "added": "2026-11-16T22:37:23.074417+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/meetings/most-innovative-meetings-2026-hubspot-unbound",
-      "headline": "Most Innovative Meetings 2026: HubSpot UNBOUND",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/meetings/most-innovative-meetings-2026-hubspot-unbound",
-      "take": "With device-free think tanks, sensory play, and curated networking spaces, HubSpot reimagined its flagship conference around human connection in an…",
-      "cat": "AI",
-      "token": "ai",
-      "tier": "core",
-      "geo": false,
-      "score": 0.574,
-      "published": "2026-11-16T23:11:14+00:00",
-      "added": "2026-11-16T22:37:23.074417+00:00"
     }
   ]
 }
