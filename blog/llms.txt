@@ -714,6 +714,24 @@ Summary: Positional data now comes from the animatronic's own control system, no
 Why it matters: A supplier group pulled projection-mapping tracking data straight from an animatronic's control system instead of external cameras, a sign the discipline is moving toward simpler, more scalable setups for character-led attractions.
 Takeaway: Ask whether a moving figure's own motion data can drive its projected content before specifying a camera-based tracking rig; sourcing position from the animation platform cuts calibration, sightline and latency problems and shrinks the backstage footprint a scene needs.
 
+### The Sphere turned its exterior into the Las Vegas Grand Prix's main stage
+https://signal.sensalab.io/article-sphere-exterior-las-vegas-grand-prix-main-stage.html
+Summary: The story is not a screen on a building.
+Why it matters: Sphere and the Formula 1 Heineken Silver Las Vegas Grand Prix extended their partnership through 2030, with the Exosphere's exterior LED screen programmed as race-week content and folded into the official broadcast, a sign architectural media is being treated as broadcast inventory rather than on-site spectacle alone.
+Takeaway: Treat a large architectural LED surface as a broadcast asset from the first brief: decide what it says to the camera, to the live crowd and to a phone screen separately, because the same canvas now has to read in all three places at once.
+
+### Cadbury's Heathrow pop-up signals confectionery claiming its own airport room
+https://signal.sensalab.io/article-cadbury-heathrow-immersive-pop-up-travel-retail.html
+Summary: The story is not a bigger chocolate shelf.
+Why it matters: Mondelez World Travel Retail, Avolta and Heathrow opened a dedicated Cadbury pop-up at Terminal 3 built around product personalisation, interactive games, tastings and brand ambassadors, a sign that a mass confectionery brand is buying a dedicated experiential destination rather than counter space.
+Takeaway: Design a product-led pop-up around a short discovery sequence, not a fixture list: decide what a traveller samples, personalises and carries onto the plane in the first two minutes, then build the stations and staffing around that path so the format can be rebooked and moved.
+
+### Yokohama wraps a heritage tall ship in projection mapping to anchor a winter light route
+https://signal.sensalab.io/article-yorunoyo-2026-yokohama-nippon-maru-projection-mapping.html
+Summary: The story is not another illumination.
+Why it matters: YORUNOYO 2026 maps the heritage tall ship Nippon Maru in 360-degree projection for the first time while spreading a record 50 facilities across Yokohama's waterfront, a sign city-scale light routes are being anchored on single protected landmarks rather than diffuse decoration.
+Takeaway: When a light programme has to cover a whole district, give it one hero surface to anchor on: pick a landmark people already navigate by, design its projection as the fixed point, and let the lighter installations route traffic toward and away from it.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
