@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T19:52:42.328253+00:00",
+  "generated": "2026-11-22T20:02:15.658905+00:00",
   "count": 60,
   "signals": [
     {
@@ -29,6 +29,34 @@
       "score": 0.484,
       "published": "2026-12-03T18:00:00+00:00",
       "added": "2026-11-12T20:32:06.756610+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmimafbvv95cuxoveluoxduq21kq2j3lxi4chhvzkxvtko0vensbxe2ltbtd0rqtnbioxp1s3lvrlzwsjlurnfdbzvbcg0zu1m3vffwz0rrqvmxoedpx0lzywr4dmdotvjnsunsdfa2tgpirwzov0jmdzdvaehmtny3zfk1oelks3ezuuzaltrfeef5uwvfuhj4nxpgvvgwb1dfyw",
+      "headline": "Amazing Wonders: the Immersive Art Exhibition at Rome’s Forte Trionfale",
+      "source": "Romeing",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVElUOXduQ21KQ2J3LXI4cHhvZkxVTko0VENsbXE2LTBTd0RQTnBiOXp1S3lVRlZWSjlURnFDbzVBcG0zU1M3VFFWZ0RRQVMxOEdpX0lzYWR4dmdOTVJnSUNsdFA2TGpIRWZOV0JmdzdVaEhMTnY3ZFk1OElkS3EzUUZaLTRfeEF5UWVFUHJ4NXpGVVgwb1dfYw?oc=5",
+      "take": "Amazing Wonders: the Immersive Art Exhibition at Rome’s Forte Trionfale Romeing",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.486,
+      "published": "2026-11-22T17:34:58+00:00",
+      "added": "2026-11-22T20:02:15.658905+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxny2lktzbxyjhuq001t2v0oujjdlcwt0jvvexreu1lqxjxt3fzcgjpwgg0bexaow5mnhh6mtn4r29od05ctkxdmlbzrwe0zl83ykxcvkningnwd1r4uw9lnnprvhp5dutzxzjaemd3vvzrb0tmvdjavgprbwxhugxucvrpcxhrwl92vjbnyvhettj1awf1anm2xzffsfrtc1rsz1vyb2p1wljmq0lstl9tx0fxam9sudjfuzdhywexmehtqq",
+      "headline": "Central Coast Studios Reveals $260M Real-Time Screen, Motion Capture and Esports Hub",
+      "source": "FilmInk",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2lkTzBxYjhuQ001T2V0OUJJdlcwT0JvVExReU1LQXJxT3FZcGJpWGg0bExaOW5mNHh6MTN4R29Od05CTkxDMlBZRWE0Zl83YkxCVkNINGNWd1R4UW9lNnpRVHp5dUtZXzJaemd3VVZRb0tmVDJaVGprbWxhUGxucVRPcXhRWl92VjBnYVhETTJ1aWF1anM2XzFFSFRTc1RsZ1Vyb2p1WlJmQ0lSTl9TX0FXam9SUDJFUzdhYWExMEhtQQ?oc=5",
+      "take": "Central Coast Studios Reveals $260M Real-Time Screen, Motion Capture and Esports Hub FilmInk",
+      "cat": "Gaming",
+      "token": "gaming",
+      "tier": "query",
+      "geo": false,
+      "score": 0.331,
+      "published": "2026-11-21T06:09:59+00:00",
+      "added": "2026-11-22T20:02:15.658905+00:00"
     },
     {
       "key": "https://www.eventmarketer.com/article/meter-circuit-roadshow-inform-flagship",
@@ -85,6 +113,20 @@
       "score": 0.532,
       "published": "2026-11-20T17:59:38+00:00",
       "added": "2026-11-20T20:50:49.939437+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmijwfbvv95cuxnmvvlsjh0buleltlfynvotei0cwvjswfetxlpmzjbtjbwc3a0yvpbdhfxv1zxm0ztrelpaenocmzxu2dkd1z0am1fy2rkuxbbuwrglwxmew9yvgffnzfgbllemmlnbfbwy3lgtwxxdfb0b1jgevv5cetav05yvlzpdv9lwuktzklwu2rjmvbhoa",
+      "headline": "Eagles Add Six Fall 2026 Sphere Shows in Las Vegas",
+      "source": "TicketNews",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVVlSjh0bUlELTlFYnVoTEI0cWVjSWFETXlpMzJBTjBwc3A0YVpBdHFxV1ZXM0ZTRElPaENOcmZXU2dKd1Z0am1FY2RKUXBBUWRGLWxmeW9yVGFFNzFGbllEMmlnbFBwY3lGTWxXdFB0b1JGeVV5cEtaV05YVlZpdV9LWUktZklwU2RJMVBhOA?oc=5",
+      "take": "Eagles Add Six Fall 2026 Sphere Shows in Las Vegas TicketNews",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.385,
+      "published": "2026-11-20T15:42:58+00:00",
+      "added": "2026-11-22T20:02:15.658905+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmilgfbvv95cuxqvfnocwfoc2vrsmfsyvy2ewx1repmclrozkjysgjbnmdtx0jfd2pkrudrdnzhbzvfweezq29unjhec0hjbthptzzucui5d3zkmjfqceixouluwnrtbvzjexiwqxnqr1u1r1zdbxpvmtnqttiwdxdlqvk2ytjkmxnmbjnqy3hey3bpqle4uwfvduxccwg0t1e",
@@ -507,6 +549,20 @@
       "added": "2026-11-19T21:03:53.143594+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmixwfbvv95cuxqvha1t2hfludyexlmqu9rtkvid3q4mdmyuwy1netlv25cmfvfre04uvpzawl6x0jhvnd0q1cxu1ppoe0xodjvmhd2udv3z1jzn2dyt0hyx0zveme0t01ibjgxdkl0zutwmvbnt1ztztqxnvpdoerkrwpxxze5egvwm29xtedyzelboghkve02y05sqndfv0duykkzvghmrvjhngxtbuxelwjcuwjwutvzohr2welsd0tzvuj2a0xrmujhbdrtd0l3",
+      "headline": "Coach Takes Cherry Parfum Experience To Mumbai With Themed Pop-up Truck",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHA1T2hFLUdyeXlmQU9rTkVid3Q4MDMyUWY1NEtlV25CMFVfRE04UVpZaWl6X0JHVnd0Q1cxU1pPOE0xODJVMHd2UDV3Z1JzN2dYT0hYX0ZvemE0T01ibjgxdkl0ZUtWMVBnT1ZtZTQxNVpDOERkRWpxXzE5eGVwM29xTEdyZElBOGhkVE02Y05SQndFV0dUYkkzVGhmRVJHNGxTbUxELWJCUWJWUTVzOHR2WElsd0tZVUJ2a0xrMUJHbDRtd0l3?oc=5",
+      "take": "Coach Takes Cherry Parfum Experience To Mumbai With Themed Pop-up Truck TradingView",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.365,
+      "published": "2026-11-18T11:01:12+00:00",
+      "added": "2026-11-22T20:02:15.658905+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmivwfbvv95cuxqunc0tupusgstcmzxtc1jm2nrmfuyngfqu3fmown3nwiytzlrudgxnjhbuhdjc2daow45evdrdtfqujvrcdlwlwjowuzfwwrqmmvdzuhwlw1wszjork9ldwnfvfvvwdm0ovl1aklwsfp6dhddb3fnvxdqzjbxews1x3b3qmrpx2pmdmhgalbwog9mee1utjftegx2a25hyktvztn1dvz6skpfoxi3tfo5c0n2ehdhzwkym01jmdjlrq",
       "headline": "La Redoute takes brand experience offline with Portuguese pop-up activation",
       "source": "InteriorDaily",
@@ -785,62 +841,6 @@
       "score": 0.304,
       "published": "2026-11-17T12:35:00+00:00",
       "added": "2026-11-20T20:50:49.939437+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiywfbvv95cuxpy2x2wdbnyktjwulhzmhzodzfwjhxehmtb0nqn2jvdelhwfbmqs0yt1nfafoyu1a0unnxckxzwwjhvhfvaewxouhwm2nkdnzltm5pqmrguxowai1xd0ktwnfatdf5vtnaa0q1rhe3yzqyytftb2h4bthuy3lfeknewetvv0hosfbkefbpvudivgxkstvoatg0tfvsvkjlafz3y19hdvntt09hckdymtdmcvlqtfpibfduel8togzirefhafjvxzzycersuq",
-      "headline": "Inside Meow Wolf: The Immersive Art World Elite Collectors Are Beginning to Notice",
-      "source": "readelysian.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2x2WDBnYktjWUlhZmhZODZfWjhxeHMtb0NQN2JvdElHWFBmQS0yT1NfaFoyU1A0UnNxckxzWWJHVHFVaEwxOUhwM2NKdnZlTm5pQmRGUXowai1Xd0ktWnFaTDF5VTNaa0Q1RHE3YzQyYTFTb2h4bThUY3lfekNEWEtVV0hoSFBkeFBpVUdIVGxkSTVoaTg0TFVsVkJLaFZ3Y19HdVNtT09hckdYMTdMcVlQTFpibFduel8tOGZIREFhaFJVXzZYcERSUQ?oc=5",
-      "take": "Inside Meow Wolf: The Immersive Art World Elite Collectors Are Beginning to Notice readelysian.com",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.425,
-      "published": "2026-11-17T11:20:27+00:00",
-      "added": "2026-11-17T21:26:21.270661+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmipwfbvv95cuxobtvfr1d6etf6rzywwkzad3o1cglqz0uxzevylu1ytzfurnuwd3p5bhzqbgw3oegwse9os2uta09pdxvfrgjxuzlxaxdreue3qwd4d3hou2xbcuzkswzqtg9xbwrom3lxtfjkaem4me90utjfajg4dxjytkjkt3nmzmnldv9tog9cajzyb0resexkaxf3mwpvadz3s2xlodnnv2oxsmfksq",
-      "headline": "Immersive art experience Hopscotch is ready to awaken San Pedro’s waterfront",
-      "source": "Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTVFR1d6eTF6RzYwWkZad3o1cGlQZ0UxZEVYLU1yTzFuRnUwd3p5bHZQbGw3OEgwSE9oS2Uta09PdXVfRGJXUzlxaXdreUE3QWd4d3hoU2xBcUZkSWZqTG9XbWROM3lXTFJKaEM4ME90UTJfajg4dXJyTkJKT3NmZmNldV9TOG9CajZYb0RESExKaXF3MWpVaDZ3S2xLODNnV2oxSmFKSQ?oc=5",
-      "take": "Immersive art experience Hopscotch is ready to awaken San Pedro’s waterfront Los Angeles Times",
-      "cat": "Interactive",
-      "token": "interactive",
-      "tier": "query",
-      "geo": false,
-      "score": 0.412,
-      "published": "2026-11-17T11:00:00+00:00",
-      "added": "2026-11-17T21:26:21.270661+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxqqlhfsmxnbhnya0zauhvztwhsnuphvujbehlptuhvbhk5x1kxunfkamf0awrkzzdzcnzdohzsddhoy1puuu42rulqz0fnulu5uxftdwjncefwunngqxjdb0zzyxhnwmlwmlbqc3jyyuvywgr4m01qzgffzgnncu4tz3fjytbrze1pr1e0nvh2rhjvawpxwk9n",
-      "headline": "MARS Academy and CAERUS Academy offer virtual production and accessible camera training",
-      "source": "British Cinematographer",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlhfSmxNbHNYa0ZaUHVzTWhsNUpHVUJBeHlPTUhVbHk5X1kxUnFKamF0aWRKZzdZcnZDOHZSdDhoY1pUUU42RUlQZ0FNUlU5UXFtdWJNcEFwUnNGQXJDb0ZZYXhNWmlwMlBqc3JyYUVyWGR4M01qZGFFZGNNcU4tZ3FjYTBrZE1PR1E0NVh2RHJVaWpXWk9n?oc=5",
-      "take": "MARS Academy and CAERUS Academy offer virtual production and accessible camera training British Cinematographer",
-      "cat": "CGI & VFX",
-      "token": "cgi",
-      "tier": "query",
-      "geo": false,
-      "score": 0.498,
-      "published": "2026-11-17T10:18:30+00:00",
-      "added": "2026-11-17T21:26:21.270661+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmi3wfbvv95cuxqbhcym05cu3l5de44dmrnvuh5oezkagetnjv0mwkxqng4nnzoz2h3rutqaefuzwnax0u5m0jdd0rsbehvz2hidnjrwwdwmkfwveqtofhlbzdscfjkzviyuurbbzvkuwvim2vjsnf6dxy5dze5mxnfadldmhlowl9kd2k1rep0rndpmgdxvjzyrldkbhzzctlobkl1swx5wxzczeftzjfwzhr5aejhsutwoghqbepvnfdwyjfkdwldexdrtl9bowh1uk9prfbftedfshhjsfz2xy11t2fmrwzz0ghfaufvx3lxtfbsdziztkjtexl0tjh2zgdvshk4rkpoys02nxqxatfcedg2dk5nahdfs1boqw5ly1pfrtkzqkn3rgxssg9naeh2cmtzz3ayqxburc04wgvvn1jwukplujjrrefvnuprzwizzwnkcxp1djl3mtkxc19ooumwewhax2r3atvesnrgd08wz3fwnlhgv0psdllxowhusxvjbhlzdkjkqvnmmxbkdhloqkdjs1y4agpssm80v1zimwr1aun5d2tox0e5ahvst2leuevmr0vieelivnzflxvpyuxfznm",
-      "headline": "Coach brings Cherry Parfum to life with an experiential pop-up truck in Mumbai",
-      "source": "Media4Growth",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHcyM05CU3l5dE44dmRnVUh5OEZKaGEtNjV0MWkxQng4NnZOZ2h3RUtQaEFuZWNaX0U5M0JDd0RsbEhvZ2hIdnJrWWdwMkFwVEQtOFhlbzdScFJKZVIyUURBbzVKUWViM2VjSnF6dXY5dzE5MXNfaDlDMHloWl9kd2k1REp0RndPMGdxVjZYRldKbHZZcTlobkl1SWx5WXZCZEFTZjFwZHR5aEJHSUtWOGhqbEpvNFdWYjFkdWlDeXdrTl9BOWh1Uk9pRFBFTEdFSHhJSFZ2Xy11T2FMRWZz0gHfAUFVX3lxTFBsdzIzTkJTeXl0Tjh2ZGdVSHk4RkpoYS02NXQxaTFCeDg2dk5naHdFS1BoQW5lY1pfRTkzQkN3RGxsSG9naEh2cmtZZ3AyQXBURC04WGVvN1JwUkplUjJRREFvNUpRZWIzZWNKcXp1djl3MTkxc19oOUMweWhaX2R3aTVESnRGd08wZ3FWNlhGV0psdllxOWhuSXVJbHlZdkJkQVNmMXBkdHloQkdJS1Y4aGpsSm80V1ZiMWR1aUN5d2tOX0E5aHVST2lEUEVMR0VIeElIVnZfLXVPYUxFZnM?oc=5",
-      "take": "Coach brings Cherry Parfum to life with an experiential pop-up truck in Mumbai | Media4Growth Media4Growth",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.521,
-      "published": "2026-11-17T10:02:56+00:00",
-      "added": "2026-11-17T21:26:21.270661+00:00"
     }
   ]
 }
