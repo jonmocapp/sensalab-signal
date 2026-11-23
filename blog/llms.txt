@@ -732,6 +732,24 @@ Summary: The story is not another illumination.
 Why it matters: YORUNOYO 2026 maps the heritage tall ship Nippon Maru in 360-degree projection for the first time while spreading a record 50 facilities across Yokohama's waterfront, a sign city-scale light routes are being anchored on single protected landmarks rather than diffuse decoration.
 Takeaway: When a light programme has to cover a whole district, give it one hero surface to anchor on: pick a landmark people already navigate by, design its projection as the fixed point, and let the lighter installations route traffic toward and away from it.
 
+### teamLab rebuilds its Fukuoka forest around a catch, study and release loop
+https://signal.sensalab.io/article-teamlab-fukuoka-dinosaur-forest-catch-study-release-signal.html
+Summary: The draw is not the dinosaurs.
+Why it matters: teamLab has rebuilt an existing immersive room around a stated catch, study and release loop rather than a fixed picture, signalling that durable interactive spaces are being designed as repeatable actions with reset states, not one-way walkthroughs.
+Takeaway: Design the interaction before the asset: write one clear capture gesture, a short study beat that rewards attention, and a release step that resets the room so the same space keeps its replay value and its throughput.
+
+### Hershey credits a three-month selfie activation with an 8% duty-free sales lift
+https://signal.sensalab.io/article-hershey-klia-first-class-selfie-duty-free-lift-signal.html
+Summary: The number is self-reported and narrow.
+Why it matters: Hershey is attributing a hard, if self-reported, 8% sales number to a photo-and-gift activation rather than treating experiential as a soft awareness play, a signal that brands increasingly instrument activations as measurable sales drivers sitting on top of a packaging refresh.
+Takeaway: Borrow the structure, not the selfie: anchor an activation to a product you can ring up at the same fixture, use a personalised artifact to earn the gift, and agree the measurement window and baseline with the retailer before you build.
+
+### La Redoute moves a digital-first brand offline with a four-room house in Lisbon
+https://signal.sensalab.io/article-la-redoute-lisbon-colombo-four-room-popup-signal.html
+Summary: A pure-play retailer did not build a flagship.
+Why it matters: A digital-first retailer staged a short physical pop-up explicitly instrumented to drive online conversion, a signal that pure-play brands are treating temporary physical space as a measurable channel back to the site rather than a step toward permanent retail.
+Takeaway: Build a vignette set that photographs well, attach one game with a clear payoff that lives in the brand's own app, and set the redemption window to the sales period you actually care about so the physical visit is measured against online orders.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
