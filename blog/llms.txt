@@ -732,6 +732,24 @@ Summary: The story is not another illumination.
 Why it matters: YORUNOYO 2026 maps the heritage tall ship Nippon Maru in 360-degree projection for the first time while spreading a record 50 facilities across Yokohama's waterfront, a sign city-scale light routes are being anchored on single protected landmarks rather than diffuse decoration.
 Takeaway: When a light programme has to cover a whole district, give it one hero surface to anchor on: pick a landmark people already navigate by, design its projection as the fixed point, and let the lighter installations route traffic toward and away from it.
 
+### Osaka centres its winter light festival on one hall with a two-week projection run
+https://signal.sensalab.io/article-osaka-hikari-renaissance-2026-central-public-hall-projection-run.html
+Summary: The signal is not another seasonal illumination.
+Why it matters: OSAKA Hikari Renaissance 2026 concentrates a city-wide festival of lights onto a single building, the Osaka City Central Public Hall, with a bounded fifteen-night projection run and evening-only slots, a sign large light programmes are being scheduled as repeatable civic fixtures rather than always-on decoration.
+Takeaway: Treat a projection as a programmed run, not a permanent install: fix a short window, give it defined nightly slots with a named last show, and let the limited dates do the work of concentrating demand instead of spreading it thin.
+
+### LEGO lets Miami Art Week visitors assemble a nine-foot unicorn as the installation
+https://signal.sensalab.io/article-lego-derrick-adams-pool-party-miami-art-week-community-build.html
+Summary: The signal is a brand handing its centrepiece to the crowd.
+Why it matters: Derrick Adams and the LEGO Group are building a nine-foot unicorn float as a two-day public assembly rather than a finished display during Miami Art Week, a sign brands are staging product as a participatory, co-created act instead of a polished object to photograph.
+Takeaway: When the product can be assembled, make the assembly the event: let visitors build a hero object in public over a fixed window, keep entry low-friction with walk-ins, and let the act of making it carry the brand rather than a finished reveal.
+
+### Rome reopens a derelict fort with a temporary immersive show, not a renovation
+https://signal.sensalab.io/article-amazing-wonders-forte-trionfale-rome-immersive-regeneration.html
+Summary: The signal is the venue, not the medium.
+Why it matters: Amazing Wonders uses 30 immersive installations across 21,000 square metres to temporarily reopen a disused military fort in Rome, a sign immersive content is being used as a tool to reactivate dead civic real estate on a time-boxed, ticketed basis rather than to fill a purpose-built venue.
+Takeaway: Treat immersive content as a way to unlock a venue, not just fill one: take a space that is otherwise unusable, run a time-boxed ticketed programme inside it, and curate for newcomers so accessibility drives the footfall that justifies the reactivation.
+
 ## Free idea kits
 
 - 10 ideas for retail: Turn a store into a reason to visit, not just a place to buy.. https://signal.sensalab.io/kit-retail.html
