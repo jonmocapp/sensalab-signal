@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T22:02:46.162758+00:00",
+  "generated": "2026-11-26T22:00:56.238866+00:00",
   "count": 60,
   "signals": [
     {
@@ -29,6 +29,48 @@
       "score": 0.484,
       "published": "2026-12-03T18:00:00+00:00",
       "added": "2026-11-12T20:32:06.756610+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmizafbvv95cuxox05zv3a5wgrsyjvju2dfd25ytettttv0aklxeey3q1ytwf9ttgpis2p0bgtpykzjrc11qjy3alnzafvytjbsd3d3q0t6eefbzlvgbzjrmveytdzkzmd6rkvhvfpzlu1nwvrzbfpwedmxuhhmdko5cjmxunj6z3bbt05lzvv1cktubzruwvd5mkjrwnvua2etcw04zjzleklzzu5nm08wymtpshbzc05jaf9ncjdgov8ymwhgnzk0r0w1bvntwwfqsmjjody",
+      "headline": "Theater/Arts: Ball pits aren’t just for kids at Hopscotch, San Pedro’s new immersive art gallery",
+      "source": "Daily Breeze",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX05zV3A5WGRsYjVjU2dFd25YTEtTTTV0aklXeEY3Q1YtWF9TTGpiS2p0bGtPYkZjRC11QjY3alNZaFVYTjBSd3d3Q0t6eEFBZlVGbzJRMVEyTDZkZmd6RkVhVFpzLU1nWVRZbFpweDMxUHhmdko5cjMxUnJ6Z3BBT05lZVV1cktubzRuWVd5MkJRWnVUa2EtcW04ZjZLeklZZU5NM08wYmtPSHBzc05JaF9NcjdGOV8yMWhGNzk0R0w1bVNTWWFqSmJJODY?oc=5",
+      "take": "Theater/Arts: Ball pits aren’t just for kids at Hopscotch, San Pedro’s new immersive art gallery Daily Breeze",
+      "cat": "Interactive",
+      "token": "interactive",
+      "tier": "query",
+      "geo": false,
+      "score": 0.384,
+      "published": "2026-11-26T14:30:38+00:00",
+      "added": "2026-11-26T22:00:56.238866+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmipgfbvv95cuxos3phoxbynxdrmejnotzequhfuerjlveyovb0bumzqko0cvczzhftcjbkckl1rzhtxzdis2fywevtekteb2dtnnnfcwfmyzbvqwxqvvnhyunta3pptzjjagvbstjyoghkyvf1q1nunkwxqzrctl9brdzrqvlwd0ptnkxrvurqrmc5x2howldfwffjngrlnnbontrlmvlwaxhwujhqywr3",
+      "headline": "Supreeth T Takes Over As Head Of Marketing At OnePlus",
+      "source": "Everything Experiential",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3pHOXByNXdRMEJNOTZEQUhfUERjLVEyOVB0bUMzQko0cVczZHFTcjBKckl1RzhTXzdIS2FyWEVtektEb2dTNnNfcWFMYzBvQWxqVVNHYUNta3pPTzJjaGVBSTJYOGhKYVF1Q1NUNkwxQzRCTl9BRDZrQVlWd0ptNkxrVURQRmc5X2hoWldfWFFjNGRlNnBONTRLMVlWaXhWUjhQYWR3?oc=5",
+      "take": "Supreeth T Takes Over As Head Of Marketing At OnePlus Everything Experiential",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.382,
+      "published": "2026-11-26T10:10:24+00:00",
+      "added": "2026-11-26T22:00:56.238866+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiukfvx3lxte45nnrwbwvqts02rgh1ov9xb3vya1rfrwnjefdqs0tnn3hvbzkwwenyzmddzgxxefoym1vmew83rvu5uunncs1nwmhtbfmxvgpmqve",
+      "headline": "Sphere Entertainment Co. (SPHR) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45NnRwbWVqTS02RGh1OV9Xb3VYa1RFRWNJeFdqS0tNN3hvbzkwWENYZmdDZGxXeFoyM1VmeW83RVU5UUNNcS1NWmhTbFMxVGpMQVE?oc=5",
+      "take": "Sphere Entertainment Co. (SPHR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.371,
+      "published": "2026-11-25T19:47:04+00:00",
+      "added": "2026-11-26T22:00:56.238866+00:00"
     },
     {
       "key": "https://www.eventmarketer.com/article/iaapa-expo-2026-biggest-show-floor-ever",
@@ -101,6 +143,20 @@
       "added": "2026-11-25T22:02:46.162758+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmiuefvx3lxte1nvy0xaulytvdjwvnvlwnfsk5naw9pbk1uqtrgsfnycup5nlp5q1hqwflprelbwmrprhdpczljn0xswvditi1ut0late93sllr",
+      "headline": "Private exhibitions blossom during Miami Art Week",
+      "source": "Miami Today",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nVy0xaUlyTVdjWVNvLWNFSk5naW9pbk1uQTRGSFNycUp5Nlp5Q1hqWFlpRElBWmRPRHdpczljN0xSWVdiTi1UT0laTE93Sllr?oc=5",
+      "take": "Private exhibitions blossom during Miami Art Week Miami Today",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.308,
+      "published": "2026-11-25T08:06:00+00:00",
+      "added": "2026-11-26T22:00:56.238866+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmilwfbvv95cuxns2neejzvzljeckf3qmg5cjhyvtnjm21zuvlldm9srxdenzvjcmpmr1vyenh1qkdcc3ppc3lkv1rzs3vinmdac1bjehd6swdladfzszfym0xtq2xnuvhsmzfsu2r6dtdnqmx4d0u1q3z1d3npaxm1a3fovvpinudqwvptcmdinnhlvnzubwptyk5sykvfa0dz",
       "headline": "Private exhibitions blossom during Miami Art Week",
       "source": "Miami Today",
@@ -113,6 +169,20 @@
       "score": 0.308,
       "published": "2026-11-25T08:06:00+00:00",
       "added": "2026-11-25T22:02:46.162758+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiggfbvv95cuxqbmn6sks0wnflrhf6c09jq0d5relwu09erlbrvjdlmhbgzi1srfdmswfmytjryzjsbk5bmkvfdkznzdrauhdoevzqm1pxmxrxohk2ugtfqujjmlq0lxpsx1dzwjbhakd0oxbxcufst05mr1nvdvfsr1a0ywp5dwq3rkz3",
+      "headline": "designboom’s guide to miami art week 2026: what to see in and out of the fairs",
+      "source": "Designboom",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbmN6Sks0WnFlRHF6c09jQ0d5RElwU09ERlBrVjdlMHBGZi1SRFdmSWFMYTJRYzJsbk5BMkVfdkZNZDRaUHdOeVZqM1pXMXRxOHk2UGtFQUJJMlQ0LXpSX1dZWjBHakd0OXBxcUFsT05mR1NVdVFsR1A0YWp5dWQ3RkZ3?oc=5",
+      "take": "designboom’s guide to miami art week 2026: what to see in and out of the fairs Designboom",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.308,
+      "published": "2026-11-25T07:18:08+00:00",
+      "added": "2026-11-26T22:00:56.238866+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmivgfbvv95cuxnr0pytktvstbnwmczrmtedvzmnwjmmnv0t2vzevlkcutusvbfzu1rt1psykdwr0lncna1n2zozxhamja1wekyrzvvbxhqq0tnz0zmumd2alzvzkfozeu0ums0bwpic1e3otv6n2xeq2q2t2rrrnu0vjhstjd2alrkx1yxdvppb25wtnpkbzzduvdhewu2u2htwmlvdna2mlbwqva2exzzsedqnfjnbglqohfwd3c0wtvxclbremrr",
@@ -141,6 +211,20 @@
       "score": 0.427,
       "published": "2026-11-25T00:17:00+00:00",
       "added": "2026-11-25T22:02:46.162758+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmib0fvx3lxte1yuk5wt0hizdlzufnhow1pqwlex2fxzkruve10r1e2czrquddqrzrovehjtxl0c1bqrtlnnl83ylhzz3hmadduotdaq1zvuv9famy5tufvzkthunlidlpwyxe5uhzwbulktuhjtfzjuq",
+      "headline": "Every 2026-27 Las Vegas residency, including Metallica at Sphere for under $500",
+      "source": "Syracuse.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YUk5wT0hiZDlzUFNHOW1pQWlEX2FxZkRuVE10R1E2czRqUDdqRzROVEhjTXl0c1BQRTlNNl83YlhzZ3hMaDduOTdaQ1ZvUV9famY5TUFvZkthUnlIdlpWYXE5UHZWbUlkTUhjTFZjUQ?oc=5",
+      "take": "Every 2026-27 Las Vegas residency, including Metallica at Sphere for under $500 Syracuse.com",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.388,
+      "published": "2026-11-24T23:37:00+00:00",
+      "added": "2026-11-26T22:00:56.238866+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmiowfbvv95cuxqs3itynj5xzlkrxnps1razkhfekrylutimfrjse1ot25dnhjtbu5xmevib1e4wgt1c2vqx2dvrdnvtudtseo0y2jtqmj2cdzuatnpumr6lvvsswvyegzrunnvwkztztvrmgvab2xqqniwmurra2fkdwppy0m3qu1umupnouy4v05wqju3ekrxdgvlsdlrrxzgzgnkx0lqb1lxddbj",
@@ -197,6 +281,20 @@
       "score": 0.456,
       "published": "2026-11-24T20:30:00+00:00",
       "added": "2026-11-24T22:50:02.315251+00:00"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/cbmiogfbvv95cuxob1nedjbruddunnvluvppcznfems1yvpoqjf2rwnsqlpuvjjgwlheogrkntf5wfrzlwy0eej2cwpwrw5swgnubzj0czbfofnrqzvftffuv05mtehfzmfunucyrddwywzac2mtdwtjywxqrzd5q1p3swnazupmbnhrzvc5n0trthzoclf0rxpvdfmxzvy5dmg3sg81akfjd29lcgc",
+      "headline": "Sphere Revenue Jumps as ‘Wizard of Oz’ Ticket Sales Near 3 Million",
+      "source": "TicketNews",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1NEdjBRUDdUNnVLUVpPczNFems1YVpOQjF2RWNsQlpUVjJGWlhEOGRkNTF5WFRzLWY0eEJ2cWpwRW5sWGNubzJ0czBFOFNrQzVFTFFuV05MTEhFZmFuNUcyRDdwYWZac2MtdWtjYWxQRzd5Q1p3SWNaZUpmbnhrZVc5N0trTHZOclF0RXpvdFMxZVY5dmg3SG81akFJd29lcGc?oc=5",
+      "take": "Sphere Revenue Jumps as ‘Wizard of Oz’ Ticket Sales Near 3 Million TicketNews",
+      "cat": "Concert visuals",
+      "token": "concerts",
+      "tier": "query",
+      "geo": false,
+      "score": 0.359,
+      "published": "2026-11-24T20:24:50+00:00",
+      "added": "2026-11-26T22:00:56.238866+00:00"
     },
     {
       "key": "https://news.google.com/rss/articles/cbmi7gfbvv95cuxob2s0yjnletznv1pomxu1d3hryw9zbgzgvlexzefswjuwrxutq2runti0rhnsr3povuxvneeydgdsrwpmshg5tkfmvhyyx2pbtepfa1jyava5ckjuzhi3yup5y2nlvuj4uxnzt1ppohdwdvf4x0futzfta3lsmednngj0agncvutswfdjekray1bwx0vnng9ia0x2ykuwvtlubujxq0zubnvrb19xltzdr2hmqk1pduvjnkzcqvdmqw83awx5swvubjf5whdtohvtqlvyqwm5y0hfmljea1iyt1dfdi1vmkfhwgfnbm9r",
@@ -619,6 +717,20 @@
       "added": "2026-11-20T20:50:49.939437+00:00"
     },
     {
+      "key": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxonfhuzzhwvzjxehhrennlqxdgwgdiu2rkadzvymxlb2l5mk5myw9oz0pjdwnwdjvpb3l6teiwymc5s2i5ttrcvxfouzvodg9fuu5ym1lhcguyc0zteu9gn1zhyw9rn2xwnvoxtnhqehfyauy4rhfmmhnkejdrcezltkpzrnlaszgyoetlrhfjt2zim2prchdrtw9eytdjyuxanjezyw03t2xpz1c3v3vycwppnfzrrlfpci1osnjyvtfszw",
+      "headline": "Julie’s taps daytime rave culture to introduce new ‘Salty Crackers’ through experiential activation",
+      "source": "marketech apac",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONFhuZzhWVzJXeHhrenNlQXdGWGdIU2RKaDZvYmxlb2l5Mk5MYW9OZ0pjdWNWdjVPb3l6TEIwYmc5S2I5TTRCVXFoUzVodG9FUU5yM1lHcGUyc0ZTeU9GN1ZHYW9RN2xwNVoxTnhQeHFyaUY4RHFmMHNkejdRcEZLTkpZRnlaSzgyOEtlRHFJT2ZIM2prcHdrTW9EYTdJYUxaNjEzYW03T2xpZ1c3V3VycWppNFZrRlFPci1oSnJYVTFSZw?oc=5",
+      "take": "Julie’s taps daytime rave culture to introduce new ‘Salty Crackers’ through experiential activation marketech apac",
+      "cat": "Experiential",
+      "token": "experiential",
+      "tier": "query",
+      "geo": false,
+      "score": 0.448,
+      "published": "2026-11-20T07:29:57+00:00",
+      "added": "2026-11-26T22:00:56.238866+00:00"
+    },
+    {
       "key": "https://news.google.com/rss/articles/cbmib0fvx3lxte1nzu9nnupxbfl4awnpztnlvupztdeta242dvpcts1kywjpyzlcamxomdfqluddqvpbedv0yw8xqvzts0fzx0dbbmluoflnwl83m0h0nes2wjfpceetvldls1hrdec0eex4dmzva2lhdw",
       "headline": "Press invitation to the exhibition opening: “World’s Best Communication Design” on 10 December",
       "source": "WebWire",
@@ -729,118 +841,6 @@
       "score": 0.417,
       "published": "2026-11-19T19:46:10+00:00",
       "added": "2026-11-19T21:03:53.143594+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbminwfbvv95cuxocgnvznhru19ooefaww9fvwqxv2l5nwhwt3zqvxphothxqxd2lu94blvjr2txr242zgf1d3bzwfdpcww5s0rxb2gysly0mva2cvdvowtoc2ywtla5odzxtlett2ngmtjkz1mxa29rmgfywjnotemxu3zhnmlodxo5ymjkamhvudzwrhb4uknwvg44vlhhx1hrsjrnttljbda",
-      "headline": "‘You had to be there’: The case for smaller, smarter experiential marketing",
-      "source": "Campaign US",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGNVZnhRU19oOEFaWW9FVWQxV2l5NWhwT3ZqVXpHOThxQXd2LU94blVJR2tXR242ZGF1d3BzWFdPcWw5S0RXb2gySlY0MVA2cVdVOWtOc2YwTlA5ODZxTlEtT2NGMTJkZ1Mxa29rMGFyWjNOTEMxU3ZhNmlOdXo5YmJkamhvUDZwRHB4UkNwVG44VlhhX1hrSjRNTTljbDA?oc=5",
-      "take": "‘You had to be there’: The case for smaller, smarter experiential marketing Campaign US",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.404,
-      "published": "2026-11-19T17:26:58+00:00",
-      "added": "2026-11-20T20:50:49.939437+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxpc2jerenzyljcruz1otn3d3vhq0hhyng1cwhubnrsb3q4r1uwdnhkt3awbzhjttk5nujot3dsdtexzmtptu9pv0rex0c4smxyrxjklxb4q3vwn1plqud0zgf5cw5quhftsegxdzzptktfzg9duu5nz3vpudzxbfkxnlz1wfdntll6nelmbjbvak8xv2hlcljsbwfcrnpywhpic3huqxvtdhpgbxuybfpbshrjoxhtt01da3hnt1rqqmhwzw",
-      "headline": "‘You had to be there’: The case for smaller, smarter experiential marketing",
-      "source": "Campaign US",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2JERENzYlJCRUZ1OTN3d3VhQ0hHYng1cWhUbnRSb3Q4R1UwdnhKT3AwbzhjTTk5NUJOT3dSdTExZmtpTU9pV0REX0c4SmxyRXJkLXB4Q3VWN1pLQUd0ZGF5cW5qUHFtSEgxdzZpTktfZG9DUU5nZ3VPUDZXbFkxNlZ1WFdnTll6NElMbjBvak8xV2hLclJSbWFCRnpyWHpic3huQXVTdHpGbXUybFpBSHRjOXhtT01Da3hNT1RqQmhwZw?oc=5",
-      "take": "‘You had to be there’: The case for smaller, smarter experiential marketing Campaign US",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.416,
-      "published": "2026-11-19T17:26:40+00:00",
-      "added": "2026-11-19T21:03:53.143594+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/event-production-planning/github-universe-2026-served-up-pancakes-experiential-programming-and-plenty-of-nostalgia",
-      "headline": "GitHub's Flagship Conference Served Up Pancakes, Experiential Programming, and Plenty of Nostalgia",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/event-production-planning/github-universe-2026-served-up-pancakes-experiential-programming-and-plenty-of-nostalgia",
-      "take": "GitHub Universe 2026 traded traditional conference trappings for retro diners, secret speakeasies, and more.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.491,
-      "published": "2026-11-19T17:23:14+00:00",
-      "added": "2026-11-19T21:03:53.143594+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmi1gfbvv95cuxpdf9jqkexsxrsn3dbt1zpm1zmzfzvvvlmmhi5cjvqeheywnfxlwzeqwradmhfdlk3vg5zc0hln1k1zvctvxjzytexq3ppzxhryuj6d25vcc11mwf2efpythhsuwhwujm5ylfnbw1nsgfedwm5rwmzt0n6b3zoznngvy1fqzjvq1b3sedda1bpx0v5sfdlsmtmmhjosuc0vwlwemdkstjvvko4zgeztk1joudtsultvvbjci1ir0rkckvyvzu3eeexs2rkdg1ys0jsefjvsglb",
-      "headline": "The Experiential Report Card 2026: What Worked, What Failed & What Brands Must Rethink",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdF9JQkExSXRSN3dBT1ZPM1ZMZFZVVVlmMHI5cjVQeHEyWnFXLWZEQWRadmhfdlk3VG5Zc0hLN1k1ZVctVXJzYTExQ3ppZXhrYUJ6d25VcC11MWF2eFpyTHhsUWhwUjM5YlFNbW1NSGFEdWM5RWMzT0N6b3ZoZnNGVy1FQzJvQ1B3SEdDa1BpX0V5SFdLSmtMMHJOSUc0VWlWemdKSTJVVko4ZGEzTk1jOUdtSUlTVVBjci1iR0RKckVyVzU3eEExS2RKdG1YS0JSeFJvSGlB?oc=5",
-      "take": "The Experiential Report Card 2026: What Worked, What Failed & What Brands Must Rethink TradingView",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "query",
-      "geo": false,
-      "score": 0.422,
-      "published": "2026-11-19T16:15:17+00:00",
-      "added": "2026-11-21T19:52:42.328253+00:00"
-    },
-    {
-      "key": "https://www.bizbash.com/event-venues/new-venues-in-austin-for-fall-2026-meetings-and-events",
-      "headline": "7 New Venues in Austin for Fall 2026 Meetings and Events",
-      "source": "BizBash",
-      "link": "https://www.bizbash.com/event-venues/new-venues-in-austin-for-fall-2026-meetings-and-events",
-      "take": "Take a peek at these buzzworthy restaurants, hotels, meeting and event spaces, and more recently opened in Austin, Texas.",
-      "cat": "Experiential",
-      "token": "experiential",
-      "tier": "core",
-      "geo": false,
-      "score": 0.341,
-      "published": "2026-11-19T14:54:37+00:00",
-      "added": "2026-11-19T21:03:53.143594+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmimwfbvv95cuxndgn2s2s4dmttmv82qnnksgg1rkxvavmxwxnmq3m5s044c0tkqtdusetpynhwyjm2nedxv1lwmxfjofbwdvv2vgzjcuf6x2zxx1hznvfsrwdpujfzzutnsmvxc1byrhfsywzpd2fqmg1mzmpnu3ncn0rtzlnptdncwwljsdbyadvidksyc3cybezmt0nktmhpq2j6dw",
-      "headline": "John Mayer Las Vegas tickets on sale for 12 Sphere concerts",
-      "source": "TicketNews",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGN2S2s4dmtTMV82QnNkSGg1RkxVaVMxWXNMQ3M5S044c0tkQTduSEtPYnhwYjM2NEdXV1lwMXFJOFBwdVV2VGZjcUF6X2ZXX1hzNVFSRWdpUjFZZUtnSmVXc1BYRHFSYWZpd2FQMG1mZmpnU3NCN0RtZlNpTDNCWWlJSDByaDVIdksyc3cybEZmT0NkTmhPQ2J6dw?oc=5",
-      "take": "John Mayer Las Vegas tickets on sale for 12 Sphere concerts TicketNews",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.408,
-      "published": "2026-11-19T14:50:26+00:00",
-      "added": "2026-11-19T21:03:53.143594+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmixafbvv95cuxntfn1s2ozcv9fuudwr0vzrkplmhlkzerirxeywhg4u0zlsvlwcgnvvufimno0cwzqu3v6ak5pmnbicjbzsjbidenqywtkyl8tm1let1jsefp3nxviy3zpwdjsr25fufricgh6q1frmzdlahzenkrqt3hqofr2dlmtakxyugnuwfjptkjjslyxr3zpeetkltfbt1zvzvy5qwxmahh2stc5ouvfdk85lxfka3npzldrblvlng9ulwjwrzv5d2jj",
-      "headline": "Sean Paul Brings Dancehall to the Sphere During Las Vegas Grand Prix Weekend",
-      "source": "DancehallMag",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTFN1S2ozcV9fUUdWR0VZRkpLMHlkZERIRXEyWHg4U0ZlSVlwcGNVVUFIMno0cWZQU3V6ak5PMnBIcjBzSjBidENQYWtkYl8tM1lET1JSeFp3NXViY3ZPWDJsR25fUFRIcGh6Q1FRMzdlaHZENkRQT3hQOFR2dlMtakxYUGNUWFJPTkJJSlYxR3ZPeEtkLTFBT1ZvZVY5QWxMaHh2STc5OUVfdk85LXFka3NpZldrblVLNG9ULWJwRzV5d2JJ?oc=5",
-      "take": "Sean Paul Brings Dancehall to the Sphere During Las Vegas Grand Prix Weekend DancehallMag",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.484,
-      "published": "2026-11-19T13:59:13+00:00",
-      "added": "2026-11-25T22:02:46.162758+00:00"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/cbmilafbvv95cuxom2lpc0hsnnjtqjizwms2dlnjcejuaggyr0x2mgvgtgthvmt5q2n1ywz3v0hnwvban1luavv6elzlsfctutjfmwzrzkzhzhdiavroenfirerbmjr2akv0cdblugjwzwz2x3fss0n1zeq0qjzomdexwmp0u3jlx3lfuxpiaww1wwdnbc1bmjhpqvzynelv",
-      "headline": "P!nk Adds 2028 Dates to Sphere Residency Due to Huge Demand: ‘This Is Crazy’",
-      "source": "Billboard",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2lPc0hSNnJtQjIzWms2dlNJcEJUaGgyR0x2MGVGTGthVmt5Q2N1YWZ3V0hNWVBaN1luaVV6elZLSFctUTJFMWZrZkZHZHdiaVROenFiRERBMjR2akV0cDBLUGJWZWZ2X3FSS0N1ZEQ0QjZoMDExWmp0U3JLX3lFUXpIaWw1WWdNbC1BMjhPQVZYNElV?oc=5",
-      "take": "P!nk Adds 2028 Dates to Sphere Residency Due to Huge Demand: ‘This Is Crazy’ Billboard",
-      "cat": "Concert visuals",
-      "token": "concerts",
-      "tier": "query",
-      "geo": false,
-      "score": 0.395,
-      "published": "2026-11-19T12:40:29+00:00",
-      "added": "2026-11-20T20:50:49.939437+00:00"
     }
   ]
 }
